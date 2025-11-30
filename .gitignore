@@ -8,6 +8,6 @@ venv/
 # Project specific
 keys/
 *.json
-*.mp3
+
 episode_script*.txt
 episode_sources*.md
