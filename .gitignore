@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Project specific
+keys/
+*.json
+*.mp3
+episode_script*.txt
+episode_sources*.md
