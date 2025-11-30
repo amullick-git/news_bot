@@ -97,7 +97,12 @@ To make this podcast available on apps like Apple Podcasts, Spotify, or Pocket C
     ```bash
     python podcast_bot.py
     ```
-4.  Commit and push the updated `feed.xml`.
+4.  Commit and push the updated `feed.xml`:
+    ```bash
+    git add feed.xml
+    git commit -m "Update RSS feed"
+    git push
+    ```
 
 ### Step 3: Subscribe
 

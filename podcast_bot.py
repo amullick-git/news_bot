@@ -47,9 +47,9 @@ MAX_FINAL_ARTICLES = 20 # How many articles to include in the final script
 BASE_URL = "https://amullick-git.github.io/news_bot"
 
 PODCAST_METADATA = {
-    "title": "Daily News Briefing",
+    "title": "Amarnath's Daily News Briefing",
     "description": "A daily AI-generated news podcast covering world events, technology, and more.",
-    "author": "AI News Bot",
+    "author": "Amarnath Mullick",
     "image": "https://placehold.co/1400x1400/png?text=News+Podcast", # Replace with a real URL
     "language": "en"
 }
