@@ -231,7 +231,7 @@ def filter_by_semantics(items, topics, limit=10):
 # GEMINI SUMMARIZATION → FULL PODCAST SCRIPT
 ###########################################
 
-def summarize_with_gemini(articles):
+def summarize_with_gemini(articles, target_words):
     # genai.configure is now called in main()
 
 
@@ -259,7 +259,7 @@ Source: {a['link']}
     - End with the HOST signing off.
 
     **Constraints:**
-    - Total length: ~{TARGET_WORDS} words.
+    - Total length: ~{target_words} words.
     - Do NOT use markdown formatting (bold, italics) in the spoken text.
     - Do NOT include sound effects or music cues.
     - Ensure smooth transitions between stories.
