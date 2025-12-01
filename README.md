@@ -109,3 +109,33 @@ To make this podcast available on apps like Apple Podcasts, Spotify, or Pocket C
 
 - **Direct URL**: You can now paste your feed URL (e.g., `https://amullick-git.github.io/news_bot/feed.xml`) directly into most podcast apps.
 - **Submit to Directories**: You can submit this RSS feed URL to Apple Podcasts Connect, Spotify for Podcasters, etc.
+
+## Automation (GitHub Actions)
+
+This repository includes a GitHub Actions workflow (`.github/workflows/daily_podcast.yml`) to generate the podcast automatically every day at 12:00 UTC.
+
+### Setup Secrets
+
+For the automation to work, you must add your API keys to the GitHub Repository Secrets:
+
+1.  **Get your Service Account Key (Base64)**:
+    - Locate your Google Cloud Service Account JSON key file on your computer.
+    - Convert it to a base64 string.
+    - **Mac/Linux**: Run `base64 -i path/to/your/key.json | pbcopy` (this copies it to clipboard).
+    - **Windows**: Use PowerShell: `[Convert]::ToBase64String([IO.File]::ReadAllBytes("path\to\key.json"))`
+
+2.  **Add Secrets to GitHub**:
+    - Go to your repository on GitHub.
+    - Navigate to **Settings** > **Secrets and variables** > **Actions**.
+    - Click **New repository secret**.
+    - Add the following two secrets:
+        - `GOOGLE_API_KEY`: Your Gemini API key.
+        - `GCP_SA_KEY`: The **Base64 encoded string** you generated in step 1.
+
+### Manual Trigger
+
+You can also run the bot manually from GitHub:
+1.  Go to the **Actions** tab.
+2.  Select **Daily Podcast Generation**.
+3.  Click **Run workflow**.
+
