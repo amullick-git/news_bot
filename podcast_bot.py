@@ -409,72 +409,7 @@ def postprocess_for_tts_plain(raw_script: str) -> str:
 
     return text
 
-def chunk_text_for_tts(text, max_bytes=4500):
-    """
-    Split text into chunks so that each chunk is under max_bytes when UTF-8 encoded.
-    We try to split on paragraph boundaries, then sentences if needed.
-    """
-    import re
 
-    paragraphs = [p.strip() for p in text.split("\n") if p.strip()]
-    chunks = []
-    current = ""
-
-    def byte_len(s):
-        return len(s.encode("utf-8"))
-
-    for para in paragraphs:
-        if not current:
-            # start a new chunk
-            if byte_len(para) <= max_bytes:
-                current = para
-            else:
-                # paragraph itself too big – split by sentences
-                sentences = re.split(r'(?<=[.!?]) +', para)
-                temp = ""
-                for s in sentences:
-                    if not s:
-                        continue
-                    candidate = (temp + " " + s).strip() if temp else s
-                    if byte_len(candidate) > max_bytes:
-                        if temp:
-                            chunks.append(temp)
-                        temp = s
-                    else:
-                        temp = candidate
-                if temp:
-                    chunks.append(temp)
-                current = ""
-        else:
-            candidate = current + "\n\n" + para
-            if byte_len(candidate) <= max_bytes:
-                current = candidate
-            else:
-                chunks.append(current)
-                # start new chunk with this paragraph (may need further split)
-                if byte_len(para) <= max_bytes:
-                    current = para
-                else:
-                    # again split long paragraph into sentences
-                    sentences = re.split(r'(?<=[.!?]) +', para)
-                    temp = ""
-                    for s in sentences:
-                        if not s:
-                            continue
-                        c2 = (temp + " " + s).strip() if temp else s
-                        if byte_len(c2) > max_bytes:
-                            if temp:
-                                chunks.append(temp)
-                            temp = s
-                        else:
-                            temp = c2
-                    if temp:
-                        chunks.append(temp)
-                    current = ""
-    if current:
-        chunks.append(current)
-
-    return chunks
 
 def classify_paragraph(p: str) -> str:
     """Classify the paragraph type for pacing heuristics."""
@@ -515,42 +450,87 @@ def pacing_for_type(kind: str):
     return "medium", 600
 
 
-def build_ssml_from_chunk(chunk: str) -> str:
+def make_ssml_paragraph(text: str) -> str:
     """
-    Turn a cleaned text chunk into SSML with dynamic pacing:
-    - classify each paragraph
-    - wrap in <prosody rate="...">
-    - add <break> with different times between paragraphs
+    Convert a single paragraph text into its SSML representation
+    with appropriate prosody and break.
     """
-    # treat double newlines as paragraph breaks
-    paragraphs = [p.strip() for p in re.split(r'\n\s*\n', chunk) if p.strip()]
+    kind = classify_paragraph(text)
+    rate, break_ms = pacing_for_type(kind)
+    escaped = html.escape(text)
+    # We add the break at the end of every paragraph to ensure pacing 
+    # is preserved even across chunk boundaries.
+    return f'<p><prosody rate="{rate}">{escaped}</prosody></p><break time="{break_ms}ms"/>'
 
-    ssml_parts = []
-
-    for idx, p in enumerate(paragraphs):
-        kind = classify_paragraph(p)
-        rate, break_ms = pacing_for_type(kind)
-
-        escaped = html.escape(p)
-        ssml_parts.append(f'<p><prosody rate="{rate}">{escaped}</prosody></p>')
-
-        # add a pause after every paragraph except the last one
-        if idx != len(paragraphs) - 1:
-            ssml_parts.append(f'<break time="{break_ms}ms"/>')
-
-    ssml_body = "\n".join(ssml_parts)
-    return f"<speak>\n{ssml_body}\n</speak>"
+def generate_ssml_chunks(text: str, max_bytes=5000) -> list[str]:
+    """
+    Convert text to SSML chunks that strictly respect the byte limit.
+    1. Split into paragraphs.
+    2. Convert each paragraph to SSML.
+    3. Accumulate into chunks.
+    """
+    # 1. Split into paragraphs and handle huge ones
+    raw_paragraphs = [p.strip() for p in text.split("\n") if p.strip()]
+    
+    # Flatten huge paragraphs if needed
+    flat_paragraphs = []
+    for p in raw_paragraphs:
+        # If a single paragraph is crazy long (unlikely in news, but possible),
+        # split it by sentences to be safe.
+        if len(p) > 2000: 
+             sentences = re.split(r'(?<=[.!?]) +', p)
+             flat_paragraphs.extend([s for s in sentences if s])
+        else:
+            flat_paragraphs.append(p)
+            
+    chunks = []
+    
+    # Overhead for <speak>...</speak>
+    wrapper_overhead = len("<speak>\n\n</speak>")
+    
+    current_chunk_ssml = ""
+    current_size = wrapper_overhead
+    
+    for p in flat_paragraphs:
+        ssml_part = make_ssml_paragraph(p)
+        part_len = len(ssml_part.encode("utf-8"))
+        
+        # If this single part is too big, we have a problem. 
+        # (Should be handled by the splitting above, but safety check)
+        if part_len + wrapper_overhead > max_bytes:
+            print(f"Warning: Dropping a paragraph that exceeds {max_bytes} bytes even alone.")
+            continue
+            
+        if current_size + part_len > max_bytes:
+            # Finish current chunk
+            chunks.append(f"<speak>\n{current_chunk_ssml}\n</speak>")
+            # Start new chunk
+            current_chunk_ssml = ssml_part
+            current_size = wrapper_overhead + part_len
+        else:
+            # Add to current
+            if current_chunk_ssml:
+                current_chunk_ssml += "\n"
+            current_chunk_ssml += ssml_part
+            current_size += part_len + 1 # +1 for newline
+            
+    # Add last chunk
+    if current_chunk_ssml:
+        chunks.append(f"<speak>\n{current_chunk_ssml}\n</speak>")
+        
+    return chunks
 
 from google.cloud import texttospeech
 
 def text_to_speech(clean_script, output_file="episode.mp3"):
-    print("\n=== Converting to speech using Google TTS (dynamic SSML + chunked)… ===")
+    print("\n=== Converting to speech using Google TTS (Smart SSML Chunking)... ===")
 
     client = texttospeech.TextToSpeechClient()
 
-    # Split cleaned plain text into safe chunks
-    chunks = chunk_text_for_tts(clean_script, max_bytes=3000)
-    print(f"Total chunks: {len(chunks)}")
+    # Generate safe SSML chunks directly
+    # Using 4800 to be safe (limit is 5000)
+    ssml_chunks = generate_ssml_chunks(clean_script, max_bytes=4800)
+    print(f"Total chunks: {len(ssml_chunks)}")
 
     audio_contents = []
 
@@ -568,10 +548,9 @@ def text_to_speech(clean_script, output_file="episode.mp3"):
         volume_gain_db=0.0,
     )
 
-    for idx, chunk in enumerate(chunks, 1):
-        print(f"  Synthesizing chunk {idx}/{len(chunks)}…")
+    for idx, ssml in enumerate(ssml_chunks, 1):
+        print(f"  Synthesizing chunk {idx}/{len(ssml_chunks)}…")
 
-        ssml = build_ssml_from_chunk(chunk)
         synthesis_input = texttospeech.SynthesisInput(ssml=ssml)
 
         response = client.synthesize_speech(
