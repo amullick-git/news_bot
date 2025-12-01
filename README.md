@@ -4,7 +4,7 @@ This project is an automated tool that fetches news from various RSS feeds, filt
 
 ## Features
 
-- **RSS Feed Fetching**: Pulls news from BBC, NYT, NDTV, Hacker News, and more.
+- **RSS Feed Fetching**: Pulls news from BBC, NYT, NDTV, Hacker News, The Verge, CNBC, NPR, and more.
 - **Smart Filtering**:
     - Filters articles from the last 24 hours.
     - Keyword matching.
@@ -24,7 +24,7 @@ This project is an automated tool that fetches news from various RSS feeds, filt
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/amullick-git/news_bot.git
     cd news_podcast
     ```
 
@@ -87,20 +87,21 @@ To make this podcast available on apps like Apple Podcasts, Spotify, or Pocket C
 2.  Push all files (including `feed.xml` and `episode_*.mp3`) to the repository.
 3.  Go to **Settings** > **Pages**.
 4.  Under **Source**, select `main` branch (or `master`) and `/ (root)` folder.
-5.  Click **Save**. GitHub will provide you a URL like `https://<username>.github.io/news_podcast/`.
+5.  Click **Save**. GitHub will provide you a URL like `https://amullick-git.github.io/news_bot/`.
+6.  **Important**: Ensure a `.nojekyll` file exists in your repo to allow serving of all files.
 
 ### Step 2: Update Configuration
 
 1.  Open `podcast_bot.py`.
-2.  Update `BASE_URL` with your GitHub Pages URL (e.g., `https://amullick.github.io/news_podcast`).
+2.  Update `BASE_URL` with your GitHub Pages URL (e.g., `https://amullick-git.github.io/news_bot`).
 3.  Run the bot again to regenerate `feed.xml` with the correct URLs:
     ```bash
     python podcast_bot.py
     ```
 4.  Commit and push the updated `feed.xml`:
     ```bash
-    git add feed.xml
-    git commit -m "Update RSS feed"
+    git add feed.xml episode_*.mp3
+    git commit -m "Update RSS feed and add new episode"
     git push
     ```
 
