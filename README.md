@@ -163,3 +163,7 @@ To run the unit test suite:
 ./venv/bin/pytest tests/
 ```
 
+### Continuous Integration
+
+A CI pipeline (`.github/workflows/ci.yml`) is configured to run these tests automatically on every push and pull request to the `main` branch. This ensures that new changes do not break existing functionality.
+
