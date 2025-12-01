@@ -72,6 +72,10 @@ python podcast_bot.py
 # Custom duration (e.g., 5 minutes)
 python podcast_bot.py --duration 5
 
+# Test mode (saves to test_episodes/, no RSS update)
+python podcast_bot.py --test
+
+
 ```
 
 The script will:

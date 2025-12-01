@@ -729,7 +729,14 @@ def main():
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument("--duration", type=int, default=15, help="Target duration in minutes")
+    parser.add_argument("--test", action="store_true", help="Run in test mode (save to test_episodes/, no RSS update)")
     args = parser.parse_args()
+
+    if args.test:
+        print("TEST MODE ENABLED")
+        global EPISODES_DIR
+        EPISODES_DIR = "test_episodes"
+        print(f"Output directory set to: {EPISODES_DIR}")
 
     duration_minutes = args.duration
     print(f"Target duration: {duration_minutes} minutes")
@@ -765,8 +772,11 @@ def main():
     out_file = os.path.join(EPISODES_DIR, f"episode_{timestamp}.mp3")
     text_to_speech(clean_script, out_file)
     
-    # 6) Generate RSS feed
-    generate_rss_feed()
+    # 6) Generate RSS feed (SKIP if in test mode)
+    if not args.test:
+        generate_rss_feed()
+    else:
+        print("Test mode: Skipping RSS feed generation.")
 
     print("\n=== Done! ===")
 
