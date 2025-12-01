@@ -566,11 +566,11 @@ def text_to_speech(clean_script, output_file="episode.mp3"):
     # Voice configurations
     voice_host = texttospeech.VoiceSelectionParams(
         language_code="en-US",
-        name="en-US-Neural2-D", # Male voice for Host
+        name="en-US-Wavenet-D", # Male voice for Host
     )
     voice_reporter = texttospeech.VoiceSelectionParams(
         language_code="en-US",
-        name="en-US-Neural2-F", # Female voice for Reporter
+        name="en-US-Wavenet-F", # Female voice for Reporter
     )
 
     # Let SSML handle local pacing; keep global rate at 1.2
