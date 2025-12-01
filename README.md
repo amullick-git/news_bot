@@ -66,14 +66,14 @@ python podcast_bot.py
 
 The script will:
 1.  Fetch and filter news.
-2.  Generate a source list (`episode_sources_YYYY-MM-DD_HH.md`).
-3.  Generate a raw and cleaned script (`episode_script_raw.txt`, `episode_script_clean.txt`).
-4.  Produce the final audio file (`episode_YYYY-MM-DD_HH.mp3`).
+2.  Generate a source list (`episodes/episode_sources_YYYY-MM-DD_HH.md`).
+3.  Generate a raw and cleaned script (`episodes/episode_script_raw.txt`, `episodes/episode_script_clean.txt`).
+4.  Produce the final audio file (`episodes/episode_YYYY-MM-DD_HH.mp3`).
 
 ## Output
 
-- **Audio**: `episode_YYYY-MM-DD_HH.mp3` - The final podcast episode.
-- **Sources**: `episode_sources_YYYY-MM-DD_HH.md` - List of articles used.
+- **Audio**: `episodes/episode_YYYY-MM-DD_HH.mp3` - The final podcast episode.
+- **Sources**: `episodes/episode_sources_YYYY-MM-DD_HH.md` - List of articles used.
 - **Scripts**: Text files containing the generated script.
 - **RSS Feed**: `feed.xml` - The podcast feed file.
 

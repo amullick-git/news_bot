@@ -57,6 +57,8 @@ PODCAST_METADATA = {
     "language": "en"
 }
 
+EPISODES_DIR = "episodes"
+
 
 ###########################################
 # NEWS FETCHING
@@ -589,14 +591,15 @@ def generate_rss_feed():
     fg.podcast.itunes_category('News')
     
     # Find all generated MP3 episodes
-    # Assuming format: episode_YYYY-MM-DD.mp3
-    episode_files = sorted(glob.glob("episode_*.mp3"), reverse=True)
+    # Assuming format: episodes/episode_YYYY-MM-DD_HH.mp3
+    episode_files = sorted(glob.glob(os.path.join(EPISODES_DIR, "episode_*.mp3")), reverse=True)
     
-    for mp3_file in episode_files:
+    for mp3_path in episode_files:
+        mp3_filename = os.path.basename(mp3_path)
         # Parse date from filename
         try:
             # filename example: episode_2025-11-30_15.mp3 or episode_2025-11-30.mp3
-            date_str = mp3_file.replace("episode_", "").replace(".mp3", "")
+            date_str = mp3_filename.replace("episode_", "").replace(".mp3", "")
             
             # Try parsing with hour first
             try:
@@ -610,11 +613,12 @@ def generate_rss_feed():
             # Make it timezone aware (UTC) for the feed
             dt = dt.replace(tzinfo=datetime.now().astimezone().tzinfo)
         except ValueError:
-            print(f"Skipping file with unexpected name format: {mp3_file}")
+            print(f"Skipping file with unexpected name format: {mp3_filename}")
             continue
             
-        file_size = os.path.getsize(mp3_file)
-        file_url = f"{BASE_URL}/{mp3_file}"
+        file_size = os.path.getsize(mp3_path)
+        # URL needs to point to the episodes directory
+        file_url = f"{BASE_URL}/{EPISODES_DIR}/{mp3_filename}"
         
         fe = fg.add_entry()
         fe.id(file_url)
@@ -663,31 +667,36 @@ def main():
         return
 
     print(f"Using {len(items)} stories")
+    
+    # Ensure episodes directory exists
+    os.makedirs(EPISODES_DIR, exist_ok=True)
 
     # write a file listing the chosen stories for this episode
     # Include hour in timestamp to allow multiple runs per day
     timestamp = datetime.now().strftime("%Y-%m-%d_%H")
-    sources_file = f"episode_sources_{timestamp}.md"
+    sources_file = os.path.join(EPISODES_DIR, f"episode_sources_{timestamp}.md")
     write_episode_sources(items, sources_file)
 
     # 1) produce the raw script from Gemini
     script = summarize_with_gemini(items)
 
     # 2) save raw script for debugging / inspection
-    with open("episode_script_raw.txt", "w") as f:
+    raw_script_path = os.path.join(EPISODES_DIR, "episode_script_raw.txt")
+    with open(raw_script_path, "w") as f:
         f.write(script)
-    print("Raw script saved to episode_script_raw.txt")
+    print(f"Raw script saved to {raw_script_path}")
 
     # 3) advanced postprocessing for TTS
     clean_script = postprocess_for_tts_plain(script)
 
     # 4) save cleaned script too
-    with open("episode_script_clean.txt", "w") as f:
+    clean_script_path = os.path.join(EPISODES_DIR, "episode_script_clean.txt")
+    with open(clean_script_path, "w") as f:
         f.write(clean_script)
-    print("Cleaned script saved to episode_script_clean.txt")
+    print(f"Cleaned script saved to {clean_script_path}")
 
     # 5) convert cleaned script to audio
-    out_file = f"episode_{timestamp}.mp3"
+    out_file = os.path.join(EPISODES_DIR, f"episode_{timestamp}.mp3")
     text_to_speech(clean_script, out_file)
     
     # 6) Generate RSS feed
