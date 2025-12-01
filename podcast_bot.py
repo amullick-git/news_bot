@@ -34,7 +34,7 @@ RSS_SOURCES = [
 ]
 
 # keywords to filter (optional)
-KEYWORDS = ["world", "ai", "technology", "market", "election", "india", "economy", "business", "sports", "health"]
+KEYWORDS = ["USA", "world", "ai", "technology", "market", "election", "india", "economy", "business", "sports", "health"]
 
 # duration target
 DURATION_MINUTES = 15
@@ -616,9 +616,18 @@ def generate_rss_feed():
     for mp3_file in episode_files:
         # Parse date from filename
         try:
-            # filename example: episode_2025-11-30.mp3
+            # filename example: episode_2025-11-30_15.mp3 or episode_2025-11-30.mp3
             date_str = mp3_file.replace("episode_", "").replace(".mp3", "")
-            dt = datetime.strptime(date_str, "%Y-%m-%d")
+            
+            # Try parsing with hour first
+            try:
+                dt = datetime.strptime(date_str, "%Y-%m-%d_%H")
+                display_title = dt.strftime("%Y-%m-%d %H:00")
+            except ValueError:
+                # Fallback to day only
+                dt = datetime.strptime(date_str, "%Y-%m-%d")
+                display_title = date_str
+                
             # Make it timezone aware (UTC) for the feed
             dt = dt.replace(tzinfo=datetime.now().astimezone().tzinfo)
         except ValueError:
@@ -630,8 +639,8 @@ def generate_rss_feed():
         
         fe = fg.add_entry()
         fe.id(file_url)
-        fe.title(f"News Briefing: {date_str}")
-        fe.description(f"Daily news summary for {date_str}.")
+        fe.title(f"News Briefing: {display_title}")
+        fe.description(f"Daily news summary for {display_title}.")
         fe.enclosure(file_url, str(file_size), 'audio/mpeg')
         fe.published(dt)
         
@@ -677,8 +686,9 @@ def main():
     print(f"Using {len(items)} stories")
 
     # write a file listing the chosen stories for this episode
-    today = datetime.now().strftime("%Y-%m-%d")
-    sources_file = f"episode_sources_{today}.md"
+    # Include hour in timestamp to allow multiple runs per day
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H")
+    sources_file = f"episode_sources_{timestamp}.md"
     write_episode_sources(items, sources_file)
 
     # 1) produce the raw script from Gemini
@@ -698,7 +708,7 @@ def main():
     print("Cleaned script saved to episode_script_clean.txt")
 
     # 5) convert cleaned script to audio
-    out_file = f"episode_{today}.mp3"
+    out_file = f"episode_{timestamp}.mp3"
     text_to_speech(clean_script, out_file)
     
     # 6) Generate RSS feed
