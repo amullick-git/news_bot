@@ -85,6 +85,15 @@ HOST: Thanks. Goodbye.
     # Check for script
     assert os.path.exists("test_episodes/episode_script_clean.txt")
     
+    # Check for metadata
+    import json
+    json_files = [f for f in files if f.startswith("episode_metadata_") and f.endswith(".json")]
+    assert len(json_files) > 0, "No metadata file created"
+    
+    with open(os.path.join("test_episodes", json_files[0]), "r") as f:
+        meta = json.load(f)
+        assert meta["duration_minutes"] == 5
+    
     # Verify mocks were called
     mock_fetch.assert_called_once()
     mock_model_instance.generate_content.assert_called()
