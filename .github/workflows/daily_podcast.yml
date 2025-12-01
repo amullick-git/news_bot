@@ -2,8 +2,10 @@ name: Daily Podcast Generation
 
 on:
   schedule:
-    # Run every day at 15:00 UTC (7:00 AM PST / 10:00 AM EST)
-    - cron: '0 15 * * *'
+    # Run twice daily:
+    # 15:00 UTC (7:00 AM PST) -> Morning Briefing
+    # 03:00 UTC (7:00 PM PST) -> Evening Update
+    - cron: '0 15,3 * * *'
   workflow_dispatch: # Allow manual triggering
     inputs:
       duration:
