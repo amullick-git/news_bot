@@ -160,6 +160,23 @@ You can also run the bot manually from GitHub:
 2.  Select **Daily Podcast Generation**.
 3.  Click **Run workflow**.
 
+### Manual Trigger (Remote)
+You can trigger the workflow remotely using the GitHub API or CLI.
+
+**Using GitHub CLI:**
+```bash
+gh workflow run daily_podcast.yml -f duration=5
+```
+
+**Using cURL:**
+```bash
+curl -X POST \
+  -H "Accept: application/vnd.github.v3+json" \
+  -H "Authorization: token YOUR_GITHUB_TOKEN" \
+  https://api.github.com/repos/amullick-git/news_bot/actions/workflows/daily_podcast.yml/dispatches \
+  -d '{"ref":"main", "inputs": {"duration": "5"}}'
+```
+
 ## Testing
 
 To run the unit test suite:

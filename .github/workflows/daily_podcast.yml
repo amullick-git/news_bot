@@ -5,6 +5,11 @@ on:
     # Run every day at 15:00 UTC (7:00 AM PST / 10:00 AM EST)
     - cron: '0 15 * * *'
   workflow_dispatch: # Allow manual triggering
+    inputs:
+      duration:
+        description: 'Duration in minutes (or "auto")'
+        required: false
+        default: 'auto'
 
 jobs:
   build:
@@ -14,6 +19,7 @@ jobs:
     
     env:
       TZ: 'America/Los_Angeles'
+      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
 
     steps:
       - name: Checkout code
@@ -39,15 +45,22 @@ jobs:
 
       - name: Run podcast bot
         run: |
-          # Determine duration based on time (UTC)
-          # 15:00 UTC = 7 AM PST -> 15 mins
-          # 03:00 UTC = 7 PM PST -> 5 mins
-          HOUR=$(date -u +%H)
-          if [ "$HOUR" = "03" ]; then
-            DURATION=5
+          INPUT_DURATION="${{ github.event.inputs.duration }}"
+          
+          if [ "$INPUT_DURATION" != "auto" ] && [ -n "$INPUT_DURATION" ]; then
+            DURATION=$INPUT_DURATION
           else
-            DURATION=15
+            # Determine duration based on time (UTC)
+            # 15:00 UTC = 7 AM PST -> 15 mins
+            # 03:00 UTC = 7 PM PST -> 5 mins
+            HOUR=$(date -u +%H)
+            if [ "$HOUR" = "03" ]; then
+              DURATION=5
+            else
+              DURATION=15
+            fi
           fi
+          
           echo "Running for $DURATION minutes"
           python src/podcast_bot.py --duration $DURATION
 
