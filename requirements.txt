@@ -2,3 +2,4 @@ feedparser
 google-generativeai
 google-cloud-texttospeech
 feedgen
+pytest

@@ -160,6 +160,6 @@ You can also run the bot manually from GitHub:
 To run the unit test suite:
 
 ```bash
-./venv/bin/python -m unittest tests/test_podcast_bot.py
+./venv/bin/pytest tests/
 ```
 
