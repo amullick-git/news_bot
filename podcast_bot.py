@@ -61,7 +61,7 @@ PODCAST_METADATA = {
     "title": "Amarnath's Daily News Briefing",
     "description": "A daily AI-generated news podcast covering world events, technology, and more.",
     "author": "Amarnath Mullick",
-    "image": f"{BASE_URL}/cover.png",
+    "image": f"{BASE_URL}/podcast_cover.png",
     "language": "en"
 }
 
