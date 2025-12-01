@@ -247,19 +247,31 @@ Source: {a['link']}
 """
 
     prompt = f"""
-  - Follow with the essential facts only.
-- No stage directions or sound cues.
-- No URLs.
-- No mention of being an AI.
+    You are writing a script for a professional news podcast featuring two speakers: a HOST and a REPORTER.
 
-**Length Target:**
-About {TARGET_WORDS} words.
+    **Format:**
+    - Use "HOST:" for lines spoken by the main host (Peter).
+    - Use "REPORTER:" for lines spoken by the field reporter (Sarah).
+    - Write in a conversational, engaging, yet professional tone.
+    - The HOST introduces the show, transitions between topics, and asks the REPORTER for details.
+    - The REPORTER provides the in-depth news summaries and analysis.
+    - End with the HOST signing off.
 
-**Stories:**
-{articles_block}
+    **Constraints:**
+    - Total length: ~{TARGET_WORDS} words.
+    - Do NOT use markdown formatting (bold, italics) in the spoken text.
+    - Do NOT include sound effects or music cues.
+    - Ensure smooth transitions between stories.
+    - Do NOT add any opinionated or editorialized language.
 
-Now produce the script.
-"""
+    **Source Material:**
+    {articles_block}
+
+    **Structure:**
+    1. HOST: Intro (Welcome to Peter's Daily News Briefing...)
+    2. HOST & REPORTER: Dialogue covering the top stories. Group related stories together.
+    3. HOST: Outro.
+    """
 
     response = model.generate_content(prompt)
     return response.text
