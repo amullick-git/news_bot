@@ -247,25 +247,6 @@ Source: {a['link']}
 """
 
     prompt = f"""
-You are writing a script for a professional news anchor.
-
-Produce a single monologue for a news update broadcast.
-
-**Tone & Style Requirements:**
-- Strictly factual, concise, and neutral.
-- No opinions, no moralizing, no motivational language.
-- No commentary such as “this is important” or “let’s dive in.”
-- No rhetorical questions.
-- No transitions like “meanwhile,” “in other news,” “let’s turn to.”
-- Just clean, newsroom-style delivery.
-- Prioritize clarity over charm.
-- Use short sentences. Keep paragraphs tight.
-- Use neutral broadcast phrasing like: “According to X”, “The company said”, "Officials reported".
-
-**Structure Requirements:**
-- Short, clean introduction (1–2 sentences): identify that this is a news update.
-- For each story:
-  - Start with the headline distilled into one short sentence.
   - Follow with the essential facts only.
 - No stage directions or sound cues.
 - No URLs.
@@ -538,38 +519,88 @@ def text_to_speech(clean_script, output_file="episode.mp3"):
     client = texttospeech.TextToSpeechClient()
 
     # Generate safe SSML chunks directly
-    # Using 4800 to be safe (limit is 5000)
-    ssml_chunks = generate_ssml_chunks(clean_script, max_bytes=4800)
-    print(f"Total chunks: {len(ssml_chunks)}")
+    # We need to handle speaker switching now
+    
+    # 1. Parse the script into segments (speaker, text)
+    segments = []
+    current_speaker = "HOST" # Default
+    current_text = []
+    
+    lines = clean_script.split('\n')
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+            
+        if line.startswith("HOST:"):
+            # If we were collecting text for REPORTER, save it
+            if current_speaker == "REPORTER" and current_text:
+                segments.append(("REPORTER", "\n".join(current_text)))
+                current_text = []
+            current_speaker = "HOST"
+            content = line.replace("HOST:", "").strip()
+            if content:
+                current_text.append(content)
+                
+        elif line.startswith("REPORTER:"):
+            # If we were collecting text for HOST, save it
+            if current_speaker == "HOST" and current_text:
+                segments.append(("HOST", "\n".join(current_text)))
+                current_text = []
+            current_speaker = "REPORTER"
+            content = line.replace("REPORTER:", "").strip()
+            if content:
+                current_text.append(content)
+        else:
+            # Continuation of current speaker
+            current_text.append(line)
+            
+    # Add final segment
+    if current_text:
+        segments.append((current_speaker, "\n".join(current_text)))
+
+    print(f"Parsed {len(segments)} dialogue segments.")
 
     audio_contents = []
 
-    voice = texttospeech.VoiceSelectionParams(
+    # Voice configurations
+    voice_host = texttospeech.VoiceSelectionParams(
         language_code="en-US",
-        # you can switch to Neural2 or another voice here
-        name="en-US-Neural2-F",
+        name="en-US-Neural2-D", # Male voice for Host
+    )
+    voice_reporter = texttospeech.VoiceSelectionParams(
+        language_code="en-US",
+        name="en-US-Neural2-F", # Female voice for Reporter
     )
 
     # Let SSML handle local pacing; keep global rate at 1.2
     audio_config = texttospeech.AudioConfig(
         audio_encoding=texttospeech.AudioEncoding.MP3,
-        speaking_rate=1.3,   # base rate; SSML <prosody rate="..."> adjusts per paragraph
+        speaking_rate=1.2,
         pitch=0.0,
         volume_gain_db=0.0,
     )
 
-    for idx, ssml in enumerate(ssml_chunks, 1):
-        print(f"  Synthesizing chunk {idx}/{len(ssml_chunks)}…")
-
-        synthesis_input = texttospeech.SynthesisInput(ssml=ssml)
-
-        response = client.synthesize_speech(
-            input=synthesis_input,
-            voice=voice,
-            audio_config=audio_config,
-        )
-
-        audio_contents.append(response.audio_content)
+    for idx, (speaker, text) in enumerate(segments, 1):
+        print(f"  Synthesizing segment {idx}/{len(segments)} ({speaker})...")
+        
+        # Use existing SSML chunking logic for each segment
+        # This handles long monologues by a single speaker
+        ssml_chunks = generate_ssml_chunks(text, max_bytes=4800)
+        
+        voice = voice_host if speaker == "HOST" else voice_reporter
+        
+        for ssml in ssml_chunks:
+            synthesis_input = texttospeech.SynthesisInput(ssml=ssml)
+            try:
+                response = client.synthesize_speech(
+                    input=synthesis_input,
+                    voice=voice,
+                    audio_config=audio_config,
+                )
+                audio_contents.append(response.audio_content)
+            except Exception as e:
+                print(f"Error synthesizing chunk: {e}")
 
     # Concatenate all MP3 chunks
     with open(output_file, "wb") as out:
