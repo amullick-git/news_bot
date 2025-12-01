@@ -1,77 +1,81 @@
 # Episode Sources
 
-1. **Rajasthan Police Arrest Punjab Man In Rajasthan For Spying For Pak's ISI**  
+1. **"Open Challenge": Trinamool MP To Administration Over Babri Masjid Plan**  
    _www.ndtv.com_  
-   https://www.ndtv.com/india-news/youth-in-rajasthans-sri-ganganagar-held-spying-for-isi-9733219#publisher=newsstand
+   https://www.ndtv.com/india-news/open-challenge-trinamool-mp-to-administration-over-babri-masjid-plan-9733564#publisher=newsstand
 
-2. **In Delhi Blast Probe, Anti-Terror Agency NIA's Raids In J&K, UP**  
+2. **Record 24,000 Runners Participate In 9th Adani Ahmedabad Marathon**  
    _www.ndtv.com_  
-   https://www.ndtv.com/india-news/in-delhi-blast-probe-anti-terror-agency-nias-raids-in-j-k-up-9733192#publisher=newsstand
+   https://www.ndtv.com/india-news/adani-ahmedabad-marathon-record-24-000-runners-participate-in-9th-adani-ahmedabad-marathon-9727953#publisher=newsstand
 
-3. **Shopify outage: Shopping platform goes down for some users during Cyber Monday**  
-   _www.cnbc.com_  
-   https://www.cnbc.com/2025/12/01/shopify-outage-cyber-monday-shopping.html
+3. **'Will Be Good If India Designates Hamas Terror Group,' Says Israeli Army**  
+   _www.ndtv.com_  
+   https://www.ndtv.com/world-news/will-be-good-if-india-designates-hamas-terror-group-says-israeli-army-9732188#publisher=newsstand
 
-4. **Intel could return to Apple computers in 2027**  
-   _www.theverge.com_  
-   https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor
+4. **Madhya Pradesh Farmers' Day-Long Protest At Highway Over MSP Suspended**  
+   _www.ndtv.com_  
+   https://www.ndtv.com/india-news/madhya-pradesh-farmers-day-long-protest-at-highway-over-msp-suspended-9733490#publisher=newsstand
 
 5. **As regime change looms at the Fed, one candidate emerges as frontrunner for chair**  
    _www.cnbc.com_  
    https://www.cnbc.com/2025/12/01/as-regime-change-looms-at-the-fed-one-candidate-emerges-as-frontrunner-for-chair.html
 
-6. **Johnson and Trump Try to Avoid an Upset House Loss in Tennessee**  
+6. **Shopify outage: Shopping platform goes down for some users during Cyber Monday**  
+   _www.cnbc.com_  
+   https://www.cnbc.com/2025/12/01/shopify-outage-cyber-monday-shopping.html
+
+7. **Intel could return to Apple computers in 2027**  
+   _www.theverge.com_  
+   https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor
+
+8. **College Students Choosing A.I. Majors Over Computer Science**  
+   _www.nytimes.com_  
+   https://www.nytimes.com/2025/12/01/technology/college-computer-science-ai-boom.html
+
+9. **High-income job losses are cooling housing demand**  
+   _jbrec.com_  
+   https://jbrec.com/insights/job-growth-housing-demand-metro-analysis-2026/
+
+10. **Johnson and Trump Try to Avoid an Upset House Loss in Tennessee**  
    _www.nytimes.com_  
    https://www.nytimes.com/2025/12/01/us/politics/trump-tennessee-election.html
 
-7. **Honduras election on a knife edge as Trump-backed man slightly ahead**  
+11. **Honduras election on a knife edge as Trump-backed man slightly ahead**  
    _www.bbc.com_  
    https://www.bbc.com/news/articles/cx2dgp8mvmno?at_medium=RSS&at_campaign=rss
 
-8. **Appeals court disqualifies Trump's N.J. prosecutor pick Alina Habba, rejecting DOJ challenge**  
+12. **A Surprise When Your Package Arrives: You Have to Pay the Tariff**  
+   _www.nytimes.com_  
+   https://www.nytimes.com/2025/12/01/business/tariffs-customs-retail-shopping.html
+
+13. **Appeals court disqualifies Trump's N.J. prosecutor pick Alina Habba, rejecting DOJ challenge**  
    _www.cnbc.com_  
    https://www.cnbc.com/2025/12/01/trump-alina-habba-disqualified-appeals-court.html
 
-9. **Bitcoin, ether fall sharply as crypto sell-off resumes**  
+14. **Bitcoin, ether fall sharply as crypto sell-off resumes**  
    _www.cnbc.com_  
    https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html
 
-10. **Trump releases fraudster executive days into prison sentence**  
-   _www.bbc.com_  
-   https://www.bbc.com/news/articles/c7vmn61l75ro?at_medium=RSS&at_campaign=rss
-
-11. **Hong Kong Contractors Used Unsafe Netting at Fire Site, Officials Say**  
-   _www.nytimes.com_  
-   https://www.nytimes.com/2025/12/01/world/asia/hong-kong-fire.html
-
-12. **DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]**  
-   _huggingface.co_  
-   https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf
-
-13. **Nvidia takes $2 billion stake in Synopsys with expanded computing power partnership**  
+15. **Nvidia takes $2 billion stake in Synopsys with expanded computing power partnership**  
    _www.cnbc.com_  
    https://www.cnbc.com/2025/12/01/nvidia-takes-2-billion-stake-in-synopsys.html
 
-14. **People Are Ordering Smaller Pizzas and Fewer Toppings. What Does That Tell Us?**  
-   _www.nytimes.com_  
-   https://www.nytimes.com/2025/12/01/business/consumers-pizza-sales.html
+16. **Eli Lilly cuts cash prices of Zepbound weight loss drug vials on direct-to-consumer site**  
+   _www.cnbc.com_  
+   https://www.cnbc.com/2025/12/01/eli-lilly-prices-zepbound-weight-loss-drug-vials.html
 
-15. **Goldman Sachs acquires ETF firm for $2 billion in latest deal to bolster asset management division**  
+17. **Goldman Sachs acquires ETF firm for $2 billion in latest deal to bolster asset management division**  
    _www.cnbc.com_  
    https://www.cnbc.com/2025/12/01/goldman-sachs-acquires-innovator-capital-management.html
 
-16. **Death toll in Indonesia floods passes 500 with hundreds more missing**  
+18. **Death toll in Indonesia floods passes 500 with hundreds more missing**  
    _www.bbc.com_  
    https://www.bbc.com/news/articles/c4g4enlp6kzo?at_medium=RSS&at_campaign=rss
 
-17. **Four dead in Russian attack as diplomatic efforts to end Ukraine war continue**  
+19. **Four dead in Russian attack as diplomatic efforts to end Ukraine war continue**  
    _www.bbc.com_  
    https://www.bbc.com/news/articles/c1m8nmx75evo?at_medium=RSS&at_campaign=rss
 
-18. **U.S. tightens immigration after National Guard shooting. And, latest on Ukraine talks**  
+20. **Fired worker sues government in a case that could upend civil rights laws**  
    _www.npr.org_  
-   https://www.npr.org/2025/12/01/g-s1-99886/up-first-newsletter-national-guard-immigration-venezuela-drug-boats-ukraine-negotiations
-
-19. **WW1 toxic compound sprayed on Georgian protesters, BBC evidence suggests**  
-   _www.bbc.com_  
-   https://www.bbc.com/news/articles/czrk7g50e1po?at_medium=RSS&at_campaign=rss
+   https://www.npr.org/2025/12/01/g-s1-99279/fired-worker-sues-government
