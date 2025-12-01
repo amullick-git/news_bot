@@ -693,6 +693,18 @@ def generate_rss_feed():
 ###########################################
 
 def main():
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--duration", type=int, default=15, help="Target duration in minutes")
+    parser.add_argument("--test", action="store_true", help="Run in test mode (save to test_episodes/, no RSS update)")
+    args = parser.parse_args()
+
+    if args.test:
+        print("TEST MODE ENABLED")
+        global EPISODES_DIR
+        EPISODES_DIR = "test_episodes"
+        print(f"Output directory set to: {EPISODES_DIR}")
+
     print("\n=== Fetching news… ===")
     items = fetch_all()
 
@@ -725,18 +737,6 @@ def main():
     
     # Ensure episodes directory exists
     os.makedirs(EPISODES_DIR, exist_ok=True)
-
-    import argparse
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--duration", type=int, default=15, help="Target duration in minutes")
-    parser.add_argument("--test", action="store_true", help="Run in test mode (save to test_episodes/, no RSS update)")
-    args = parser.parse_args()
-
-    if args.test:
-        print("TEST MODE ENABLED")
-        global EPISODES_DIR
-        EPISODES_DIR = "test_episodes"
-        print(f"Output directory set to: {EPISODES_DIR}")
 
     duration_minutes = args.duration
     print(f"Target duration: {duration_minutes} minutes")
