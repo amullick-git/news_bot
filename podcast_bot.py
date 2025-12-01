@@ -27,7 +27,10 @@ RSS_SOURCES = [
     "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
     "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
     "https://feeds.feedburner.com/ndtvnews-india-news",
-    "https://hnrss.org/frontpage"
+    "https://hnrss.org/frontpage",
+    "https://www.theverge.com/rss/index.xml", # Tech
+    "https://www.cnbc.com/id/100003114/device/rss/rss.html", # Business
+    "https://feeds.npr.org/1001/rss.xml" # General
 ]
 
 # keywords to filter (optional)
