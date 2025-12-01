@@ -458,6 +458,11 @@ def make_ssml_paragraph(text: str) -> str:
     kind = classify_paragraph(text)
     rate, break_ms = pacing_for_type(kind)
     escaped = html.escape(text)
+    
+    # Reduce pause duration for commas (default is too long)
+    # Replace ", " with a weak break to tighten the flow
+    escaped = escaped.replace(", ", '<break strength="weak"/> ')
+    
     # We add the break at the end of every paragraph to ensure pacing 
     # is preserved even across chunk boundaries.
     return f'<p><prosody rate="{rate}">{escaped}</prosody></p><break time="{break_ms}ms"/>'
