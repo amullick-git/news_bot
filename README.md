@@ -15,7 +15,7 @@ This project is an automated tool that fetches news from various RSS feeds, filt
     - **Multi-Voice**: Uses distinct WaveNet voices for the Host and Reporter.
 - **Dual Schedule**: Automatically runs twice daily:
     - **Morning Briefing (7 AM PST)**: 15-minute deep dive.
-    - **Evening Update (7 PM PST)**: 5-minute quick summary.
+    - **Evening Update (7 PM PST)**: 5-minute quick summary (labeled as "Quick News Briefing").
 - **Auto-Cleanup**: Episodes older than 7 days are automatically deleted to keep the feed fresh.
 
 ## Prerequisites
@@ -67,7 +67,6 @@ This project is an automated tool that fetches news from various RSS feeds, filt
 Run the bot:
 
 ```bash
-# Default (15 minutes)
 # Default (15 minutes)
 python src/podcast_bot.py
 
@@ -125,6 +124,10 @@ To make this podcast available on apps like Apple Podcasts, Spotify, or Pocket C
 
 - **Direct URL**: You can now paste your feed URL (e.g., `https://amullick-git.github.io/news_bot/feed.xml`) directly into most podcast apps.
 - **Submit to Directories**: You can submit this RSS feed URL to Apple Podcasts Connect, Spotify for Podcasters, etc.
+
+### Styled RSS Feed
+
+The RSS feed includes an XSLT stylesheet (`rss_style.xsl`) that renders the XML as a user-friendly webpage when viewed in a browser. This allows you to listen to episodes directly from the feed URL.
 
 ## Automation (GitHub Actions)
 
