@@ -250,9 +250,10 @@ Source: {a['link']}
     You are writing a script for a professional news podcast featuring two speakers: a HOST and a REPORTER.
 
     **Format:**
-    - Use "HOST:" for lines spoken by the main host (Peter).
-    - Use "REPORTER:" for lines spoken by the field reporter (Sarah).
+    - Use "HOST:" for lines spoken by the host (Rob).
+    - Use "REPORTER:" for lines spoken by the reporter (Sarah).
     - Write in a conversational, engaging, yet professional tone.
+    - Don't keep repeating the name of the reporter or host in the conversation.
     - The HOST introduces the show, transitions between topics, and asks the REPORTER for details.
     - The REPORTER provides the in-depth news summaries and analysis.
     - End with the HOST signing off.
@@ -268,7 +269,7 @@ Source: {a['link']}
     {articles_block}
 
     **Structure:**
-    1. HOST: Intro (Welcome to Peter's Daily News Briefing...)
+    1. HOST: Intro (Welcome to Rob's Daily News Briefing...)
     2. HOST & REPORTER: Dialogue covering the top stories. Group related stories together.
     3. HOST: Outro.
     """
@@ -442,13 +443,13 @@ def pacing_for_type(kind: str):
     prosody_rate is SSML rate: 'slow', 'medium', 'fast', 'x-fast', or percentage like '110%'.
     """
     if kind == "intro":
-        return "medium", 900   # steady, slightly longer pause
+        return "fast", 900   # steady, slightly longer pause
     if kind == "outro":
-        return "slow", 1000    # calmer ending
+        return "medium", # calmer ending
     if kind == "short":
         return "fast", 500     # quick little lines
     if kind == "long":
-        return "medium", 800   # don't rush long paragraphs
+        return "fast", 800   
     # normal
     return "medium", 600
 
