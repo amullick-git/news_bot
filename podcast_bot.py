@@ -66,6 +66,7 @@ PODCAST_METADATA = {
 }
 
 EPISODES_DIR = "episodes"
+RETENTION_DAYS = 7 # Keep episodes for 7 days
 
 
 ###########################################
@@ -686,6 +687,40 @@ def generate_rss_feed():
     print("Generated feed.xml")
 
 
+def cleanup_old_episodes():
+    """
+    Delete episodes and related files older than RETENTION_DAYS.
+    """
+    print(f"\n=== Cleaning up old episodes (TTL: {RETENTION_DAYS} days) ===")
+    cutoff_date = datetime.now() - timedelta(days=RETENTION_DAYS)
+    
+    # Find all episode files
+    files = glob.glob(os.path.join(EPISODES_DIR, "episode_*"))
+    
+    deleted_count = 0
+    for file_path in files:
+        filename = os.path.basename(file_path)
+        
+        # Extract date from filename: episode_YYYY-MM-DD...
+        # Matches episode_2025-12-01.mp3, episode_sources_2025-12-01.md, etc.
+        match = re.search(r"(\d{4}-\d{2}-\d{2})", filename)
+        if match:
+            date_str = match.group(1)
+            try:
+                file_date = datetime.strptime(date_str, "%Y-%m-%d")
+                if file_date < cutoff_date:
+                    os.remove(file_path)
+                    print(f"Deleted old file: {filename}")
+                    deleted_count += 1
+            except ValueError:
+                continue
+                
+    if deleted_count == 0:
+        print("No old files to delete.")
+    else:
+        print(f"Deleted {deleted_count} old files.")
+
+
 
 
 ###########################################
@@ -774,6 +809,7 @@ def main():
     
     # 6) Generate RSS feed (SKIP if in test mode)
     if not args.test:
+        cleanup_old_episodes()
         generate_rss_feed()
     else:
         print("Test mode: Skipping RSS feed generation.")

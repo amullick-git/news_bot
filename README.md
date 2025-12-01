@@ -16,6 +16,7 @@ This project is an automated tool that fetches news from various RSS feeds, filt
 - **Dual Schedule**: Automatically runs twice daily:
     - **Morning Briefing (7 AM PST)**: 15-minute deep dive.
     - **Evening Update (7 PM PST)**: 5-minute quick summary.
+- **Auto-Cleanup**: Episodes older than 7 days are automatically deleted to keep the feed fresh.
 
 ## Prerequisites
 
