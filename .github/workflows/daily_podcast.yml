@@ -37,11 +37,19 @@ jobs:
           echo "$GCP_SA_KEY" | base64 --decode > service_account.json
           echo "GOOGLE_APPLICATION_CREDENTIALS=$(pwd)/service_account.json" >> $GITHUB_ENV
 
-      - name: Run Podcast Bot
-        env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+      - name: Run podcast bot
         run: |
-          python podcast_bot.py
+          # Determine duration based on time (UTC)
+          # 15:00 UTC = 7 AM PST -> 15 mins
+          # 03:00 UTC = 7 PM PST -> 5 mins
+          HOUR=$(date -u +%H)
+          if [ "$HOUR" = "03" ]; then
+            DURATION=5
+          else
+            DURATION=15
+          fi
+          echo "Running for $DURATION minutes"
+          python podcast_bot.py --duration $DURATION
 
       - name: Commit and Push changes
         run: |

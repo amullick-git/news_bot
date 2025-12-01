@@ -726,6 +726,16 @@ def main():
     # Ensure episodes directory exists
     os.makedirs(EPISODES_DIR, exist_ok=True)
 
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--duration", type=int, default=15, help="Target duration in minutes")
+    args = parser.parse_args()
+
+    duration_minutes = args.duration
+    print(f"Target duration: {duration_minutes} minutes")
+    
+    target_words = WORDS_PER_MIN * duration_minutes
+
     # write a file listing the chosen stories for this episode
     # Include hour in timestamp to allow multiple runs per day
     # Use local system time
@@ -734,7 +744,7 @@ def main():
     write_episode_sources(items, sources_file)
 
     # 1) produce the raw script from Gemini
-    script = summarize_with_gemini(items)
+    script = summarize_with_gemini(items, target_words)
 
     # 2) save raw script for debugging / inspection
     raw_script_path = os.path.join(EPISODES_DIR, "episode_script_raw.txt")
