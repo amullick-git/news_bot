@@ -549,7 +549,7 @@ def text_to_speech(clean_script, output_file="episode.mp3"):
     client = texttospeech.TextToSpeechClient()
 
     # Split cleaned plain text into safe chunks
-    chunks = chunk_text_for_tts(clean_script, max_bytes=4500)
+    chunks = chunk_text_for_tts(clean_script, max_bytes=3000)
     print(f"Total chunks: {len(chunks)}")
 
     audio_contents = []
