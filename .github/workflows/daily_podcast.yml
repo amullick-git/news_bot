@@ -48,14 +48,28 @@ jobs:
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
           
-          # Add all new files (mp3, sources, scripts, feed)
-          git add feed.xml episodes/episode_*.mp3 episodes/episode_sources_*.md
+          # 1. Stage new episodes
+          git add episodes/
           
-          # Check if there are changes to commit
+          # 2. Discard the locally generated feed.xml to avoid conflicts during pull
+          # We will regenerate it after pulling to ensure it's up to date
+          git checkout feed.xml || true
+          
+          # 3. Commit episodes
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No new episodes to commit"
           else
-            git commit -m "Daily podcast update [skip ci]"
+            git commit -m "Add daily episode [skip ci]"
+            
+            # 4. Pull latest changes (rebase)
             git pull --rebase
+            
+            # 5. Regenerate feed.xml
+            # This ensures the feed includes the new episode AND any metadata changes from the pull
+            python -c "from podcast_bot import generate_rss_feed; generate_rss_feed()"
+            
+            # 6. Commit and push feed
+            git add feed.xml
+            git commit -m "Update RSS feed [skip ci]"
             git push
           fi
