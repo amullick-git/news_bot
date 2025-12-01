@@ -7,7 +7,7 @@ import shutil
 # Add parent dir to path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-import podcast_bot
+import src.podcast_bot as podcast_bot
 
 @pytest.fixture
 def cleanup_episodes():
@@ -19,10 +19,10 @@ def cleanup_episodes():
     if os.path.exists("test_episodes"):
         shutil.rmtree("test_episodes")
 
-@patch('sys.argv', ['podcast_bot.py', '--test', '--duration', '5'])
-@patch('podcast_bot.texttospeech.TextToSpeechClient')
-@patch('podcast_bot.genai.GenerativeModel')
-@patch('podcast_bot.fetch_all')
+@patch('sys.argv', ['src/podcast_bot.py', '--test', '--duration', '5'])
+@patch('src.podcast_bot.texttospeech.TextToSpeechClient')
+@patch('src.podcast_bot.genai.GenerativeModel')
+@patch('src.podcast_bot.fetch_all')
 def test_full_flow(mock_fetch, mock_genai_model, mock_tts_client, cleanup_episodes):
     # 1. Mock RSS Data
     mock_fetch.return_value = [

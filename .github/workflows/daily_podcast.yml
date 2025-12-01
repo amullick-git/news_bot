@@ -49,7 +49,7 @@ jobs:
             DURATION=15
           fi
           echo "Running for $DURATION minutes"
-          python podcast_bot.py --duration $DURATION
+          python src/podcast_bot.py --duration $DURATION
 
       - name: Commit and Push changes
         run: |

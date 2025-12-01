@@ -58,7 +58,7 @@ This project is an automated tool that fetches news from various RSS feeds, filt
       ```
 
 2.  **Customize Sources & Topics:**
-    - Open `podcast_bot.py`.
+    - Open `src/podcast_bot.py`.
     - Modify `RSS_SOURCES` to add/remove feeds.
     - Update `KEYWORDS` to change the topics you are interested in.
 
@@ -68,13 +68,14 @@ Run the bot:
 
 ```bash
 # Default (15 minutes)
-python podcast_bot.py
+# Default (15 minutes)
+python src/podcast_bot.py
 
 # Custom duration (e.g., 5 minutes)
-python podcast_bot.py --duration 5
+python src/podcast_bot.py --duration 5
 
 # Test mode (saves to test_episodes/, no RSS update)
-python podcast_bot.py --test
+python src/podcast_bot.py --test
 
 
 ```
@@ -107,11 +108,11 @@ To make this podcast available on apps like Apple Podcasts, Spotify, or Pocket C
 
 ### Step 2: Update Configuration
 
-1.  Open `podcast_bot.py`.
+1.  Open `src/podcast_bot.py`.
 2.  Update `BASE_URL` with your GitHub Pages URL (e.g., `https://amullick-git.github.io/news_bot`).
 3.  Run the bot again to regenerate `feed.xml` with the correct URLs:
     ```bash
-    python podcast_bot.py
+    python src/podcast_bot.py
     ```
 4.  Commit and push the updated `feed.xml`:
     ```bash

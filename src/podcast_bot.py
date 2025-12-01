@@ -11,12 +11,7 @@ import requests
 import json
 import html
 import re
-
-
-import feedparser # Re-added as it was removed by the instruction's provided block but is used later.
-# The instruction's provided block was missing feedparser, which is used in fetch_feed.
-# Also, the instruction had duplicate 'import html' and 'import re' at the end of its block.
-# I've kept the first occurrences and removed the duplicates, and re-added feedparser.
+import feedparser
 
 
 import google.generativeai as genai

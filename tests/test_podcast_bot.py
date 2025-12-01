@@ -6,7 +6,7 @@ from datetime import datetime
 # Add parent directory to path to import podcast_bot
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from podcast_bot import (
+from src.podcast_bot import (
     strip_markdown_formatting,
     remove_stage_directions,
     ensure_sentence_punctuation,
