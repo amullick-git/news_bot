@@ -679,6 +679,28 @@ def generate_rss_feed():
         fe.published(dt_utc)
         
     fg.rss_file('feed.xml')
+    
+    # Inject stylesheet reference
+    try:
+        with open('feed.xml', 'r') as f:
+            content = f.read()
+        
+        if '<?xml-stylesheet' not in content:
+            # Insert after XML declaration
+            xml_decl = '<?xml version=\'1.0\' encoding=\'UTF-8\'?>'
+            stylesheet = '\n<?xml-stylesheet type="text/xsl" href="rss_style.xsl"?>'
+            if xml_decl in content:
+                content = content.replace(xml_decl, xml_decl + stylesheet)
+            else:
+                # Fallback if no declaration found (unlikely)
+                content = stylesheet + content
+                
+            with open('feed.xml', 'w') as f:
+                f.write(content)
+            print("Added stylesheet reference to feed.xml")
+    except Exception as e:
+        print(f"Error adding stylesheet: {e}")
+
     print("Generated feed.xml")
 
 
