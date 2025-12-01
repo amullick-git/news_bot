@@ -107,5 +107,5 @@ To make this podcast available on apps like Apple Podcasts, Spotify, or Pocket C
 
 ### Step 3: Subscribe
 
-- **Direct URL**: You can now paste your feed URL (e.g., `https://<username>.github.io/news_podcast/feed.xml`) directly into most podcast apps.
+- **Direct URL**: You can now paste your feed URL (e.g., `https://amullick-git.github.io/news_bot/feed.xml`) directly into most podcast apps.
 - **Submit to Directories**: You can submit this RSS feed URL to Apple Podcasts Connect, Spotify for Podcasters, etc.
