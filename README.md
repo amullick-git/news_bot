@@ -112,7 +112,7 @@ To make this podcast available on apps like Apple Podcasts, Spotify, or Pocket C
 
 ## Automation (GitHub Actions)
 
-This repository includes a GitHub Actions workflow (`.github/workflows/daily_podcast.yml`) to generate the podcast automatically every day at 12:00 UTC.
+This repository includes a GitHub Actions workflow (`.github/workflows/daily_podcast.yml`) to generate the podcast automatically every day at 15:00 UTC (7:00 AM PST).
 
 ### Setup Secrets
 
