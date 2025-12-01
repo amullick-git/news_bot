@@ -227,6 +227,27 @@ def filter_by_semantics(items, topics, limit=10):
 # GEMINI SUMMARIZATION → FULL PODCAST SCRIPT
 ###########################################
 
+def get_friendly_source_names():
+    """
+    Derive friendly names from RSS_SOURCES for the intro.
+    """
+    names = set()
+    for url in RSS_SOURCES:
+        if "bbc" in url: names.add("BBC")
+        elif "nytimes" in url: names.add("NYT")
+        elif "ndtv" in url: names.add("NDTV")
+        elif "hnrss" in url: names.add("Hacker News")
+        elif "theverge" in url: names.add("The Verge")
+        elif "cnbc" in url: names.add("CNBC")
+        elif "npr" in url: names.add("NPR")
+        else:
+            # Fallback to domain
+            try:
+                domain = urlparse(url).netloc.replace("www.", "").split(".")[0].title()
+                names.add(domain)
+            except: pass
+    return ", ".join(sorted(list(names)))
+
 def summarize_with_gemini(articles, target_words):
     # genai.configure is now called in main()
 
@@ -265,7 +286,7 @@ Source: {a['link']}
     {articles_block}
 
     **Structure:**
-    1. HOST: Intro (Welcome to Rob's Daily News Briefing...)
+    1. HOST: Intro (Welcome to Rob's Daily News Briefing...). IMPORTANT: In the intro, explicitly mention that we are covering news from {get_friendly_source_names()} and others.
     2. HOST & REPORTER: Dialogue covering the top stories. Group related stories together.
     3. HOST: Outro.
     """
