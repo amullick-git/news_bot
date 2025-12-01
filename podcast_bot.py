@@ -15,6 +15,7 @@ import google.generativeai as genai
 from google.cloud import texttospeech
 from feedgen.feed import FeedGenerator
 import glob
+from zoneinfo import ZoneInfo
 
 
 ###########################################
@@ -53,7 +54,7 @@ PODCAST_METADATA = {
     "title": "Amarnath's Daily News Briefing",
     "description": "A daily AI-generated news podcast covering world events, technology, and more.",
     "author": "Amarnath Mullick",
-    "image": "https://placehold.co/1400x1400/png?text=News+Podcast", # Replace with a real URL
+    "image": f"{BASE_URL}/cover.png",
     "language": "en"
 }
 
@@ -604,14 +605,17 @@ def generate_rss_feed():
             # Try parsing with hour first
             try:
                 dt = datetime.strptime(date_str, "%Y-%m-%d_%H")
-                display_title = dt.strftime("%Y-%m-%d %H:00")
+                # This timestamp is in Pacific Time
+                dt = dt.replace(tzinfo=ZoneInfo("US/Pacific"))
+                display_title = dt.strftime("%Y-%m-%d %H:00 %Z")
             except ValueError:
                 # Fallback to day only
                 dt = datetime.strptime(date_str, "%Y-%m-%d")
+                dt = dt.replace(tzinfo=ZoneInfo("US/Pacific"))
                 display_title = date_str
                 
-            # Make it timezone aware (UTC) for the feed
-            dt = dt.replace(tzinfo=datetime.now().astimezone().tzinfo)
+            # Convert to UTC for the feed (RSS standard)
+            dt_utc = dt.astimezone(ZoneInfo("UTC"))
         except ValueError:
             print(f"Skipping file with unexpected name format: {mp3_filename}")
             continue
@@ -625,7 +629,7 @@ def generate_rss_feed():
         fe.title(f"News Briefing: {display_title}")
         fe.description(f"Daily news summary for {display_title}.")
         fe.enclosure(file_url, str(file_size), 'audio/mpeg')
-        fe.published(dt)
+        fe.published(dt_utc)
         
     fg.rss_file('feed.xml')
     print("Generated feed.xml")
@@ -673,7 +677,9 @@ def main():
 
     # write a file listing the chosen stories for this episode
     # Include hour in timestamp to allow multiple runs per day
-    timestamp = datetime.now().strftime("%Y-%m-%d_%H")
+    # Use Pacific Time
+    now_pacific = datetime.now(ZoneInfo("US/Pacific"))
+    timestamp = now_pacific.strftime("%Y-%m-%d_%H")
     sources_file = os.path.join(EPISODES_DIR, f"episode_sources_{timestamp}.md")
     write_episode_sources(items, sources_file)
 
