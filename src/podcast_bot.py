@@ -663,6 +663,26 @@ def generate_rss_feed():
                 
             # Convert to UTC for the feed (RSS standard)
             dt_utc = dt.astimezone(timezone.utc)
+            
+            # Check for metadata file to determine type
+            # Filename: episode_metadata_YYYY-MM-DD_HH.json
+            meta_filename = f"episode_metadata_{date_str}.json"
+            meta_path = os.path.join(EPISODES_DIR, meta_filename)
+            
+            title_prefix = "News Briefing"
+            if os.path.exists(meta_path):
+                try:
+                    with open(meta_path, "r") as f:
+                        meta = json.load(f)
+                        duration = meta.get("duration_minutes", 15)
+                        if duration <= 5:
+                            title_prefix = "Quick News Briefing"
+                except Exception:
+                    pass
+            # Fallback heuristic for legacy files (optional, or just default to News Briefing)
+            elif dt.hour == 19: # 7 PM
+                 title_prefix = "Quick News Briefing"
+                
         except ValueError:
             print(f"Skipping file with unexpected name format: {mp3_filename}")
             continue
@@ -673,7 +693,7 @@ def generate_rss_feed():
         
         fe = fg.add_entry()
         fe.id(file_url)
-        fe.title(f"News Briefing: {display_title}")
+        fe.title(f"{title_prefix}: {display_title}")
         fe.description(f"Daily news summary for {display_title}.")
         fe.enclosure(file_url, str(file_size), 'audio/mpeg')
         fe.published(dt_utc)
@@ -713,6 +733,13 @@ def cleanup_old_episodes():
     
     # Find all episode files
     files = glob.glob(os.path.join(EPISODES_DIR, "episode_*"))
+    # This glob matches episode_metadata_*.json too, so the loop below just needs to handle the date parsing correctly.
+    # The regex r"(\d{4}-\d{2}-\d{2})" will match the date in "episode_metadata_2025-12-01_07.json" just fine.
+    # So actually, no code change is needed in the loop logic itself, 
+    # but I should verify the regex works for the new filename format.
+    # "episode_metadata_2025-12-01_07.json" -> match group 1 is "2025-12-01". Correct.
+    
+    # However, I will add a comment to be explicit.
     
     deleted_count = 0
     for file_path in files:
@@ -823,6 +850,12 @@ def main():
     # 5) convert cleaned script to audio
     out_file = os.path.join(EPISODES_DIR, f"episode_{timestamp}.mp3")
     text_to_speech(clean_script, out_file)
+    
+    # 5.5) Save metadata (duration arg) for RSS generation
+    meta_file = os.path.join(EPISODES_DIR, f"episode_metadata_{timestamp}.json")
+    with open(meta_file, "w") as f:
+        json.dump({"duration_minutes": args.duration}, f)
+    print(f"Saved metadata to {meta_file}")
     
     # 6) Generate RSS feed (SKIP if in test mode)
     if not args.test:
