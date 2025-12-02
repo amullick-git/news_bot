@@ -25,9 +25,14 @@
       </head>
       <body>
         <div class="header">
-          <xsl:if test="/rss/channel/image/url">
-            <img src="{/rss/channel/image/url}" alt="Podcast Cover"/>
-          </xsl:if>
+          <xsl:choose>
+            <xsl:when test="/rss/channel/image/url">
+              <img src="{/rss/channel/image/url}" alt="Podcast Cover"/>
+            </xsl:when>
+            <xsl:when test="/rss/channel/itunes:image/@href">
+              <img src="{/rss/channel/itunes:image/@href}" alt="Podcast Cover"/>
+            </xsl:when>
+          </xsl:choose>
           <h1><xsl:value-of select="/rss/channel/title"/></h1>
           <p class="desc"><xsl:value-of select="/rss/channel/description"/></p>
           <p>
