@@ -26,3 +26,14 @@ jobs:
     - name: Run Tests
       run: |
         python -m pytest tests/
+
+    - name: Verify Artifact Staging Logic
+      run: |
+        # Configure git for the test (needed for git status)
+        git config --global user.email "ci@example.com"
+        git config --global user.name "CI Bot"
+        git init # Re-init to ensure we have a git repo if checkout didn't give us full history/config
+        git add .
+        git commit -m "Initial state" || true
+        
+        python tests/verify_staging.py
