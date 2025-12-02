@@ -17,7 +17,8 @@ This project is an automated tool that fetches news from various RSS feeds, filt
     - **Morning Briefing (7 AM PST)**: 15-minute deep dive.
     - **Evening Update (7 PM PST)**: 5-minute quick summary (labeled as "Quick News Briefing").
 - **Auto-Cleanup**: Episodes older than 7 days are automatically deleted to keep the feed fresh.
-- **Podcast Website**: Professional landing page at [https://amullick-git.github.io/news_bot/](https://amullick-git.github.io/news_bot/) with subscribe instructions.
+- **Episode Links Page**: Generates a dedicated HTML page for each episode listing all source articles used.
+- **Podcast Website**: Professional landing page at [https://amullick-git.github.io/news_bot/](https://amullick-git.github.io/news_bot/) with subscribe instructions and links to recent episode sources.
 
 ## Prerequisites
 
@@ -89,7 +90,8 @@ The script will:
 ## Output
 
 - **Audio**: `episodes/episode_YYYY-MM-DD_HH.mp3` - The final podcast episode.
-- **Sources**: `episodes/episode_sources_YYYY-MM-DD_HH.md` - List of articles used.
+- **Sources**: `episodes/episode_sources_YYYY-MM-DD_HH.md` - List of articles used (Markdown).
+- **Links Page**: `episodes/links_YYYY-MM-DD_HH.html` - List of articles used (HTML webpage).
 - **Scripts**: Text files containing the generated script.
 - **RSS Feed**: `feed.xml` - The podcast feed file.
 
@@ -183,8 +185,12 @@ curl -X POST \
 To run the unit test suite:
 
 ```bash
-./venv/bin/pytest tests/
+python3 -m pytest tests/
 ```
+
+The test suite covers:
+- **Unit Tests**: `tests/test_podcast_bot.py` (Text processing, Date parsing, Webpage generation).
+- **E2E Tests**: `tests/test_e2e.py` (Full pipeline simulation).
 
 ### Continuous Integration
 
