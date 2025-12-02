@@ -659,6 +659,7 @@ def generate_rss_feed():
     fg.title(PODCAST_METADATA["title"])
     fg.description(PODCAST_METADATA["description"])
     fg.link(href=BASE_URL, rel='alternate')
+    fg.link(href=f"{BASE_URL}/feed.xml", rel='self')
     fg.language(PODCAST_METADATA["language"])
     fg.podcast.itunes_author(PODCAST_METADATA["author"])
     fg.podcast.itunes_image(PODCAST_METADATA["image"])
