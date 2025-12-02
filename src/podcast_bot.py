@@ -56,7 +56,7 @@ PODCAST_METADATA = {
     "title": "Amarnath's Daily News Briefing",
     "description": "A daily AI-generated news podcast covering world events, technology, and more.",
     "author": "Amarnath Mullick",
-    "image": f"{BASE_URL}/cover_v2.png",
+    "image": f"{BASE_URL}/cover_v2_optimized.jpg",
     "language": "en"
 }
 
@@ -662,6 +662,8 @@ def generate_rss_feed():
     fg.link(href=f"{BASE_URL}/feed.xml", rel='self')
     fg.language(PODCAST_METADATA["language"])
     fg.podcast.itunes_author(PODCAST_METADATA["author"])
+    fg.podcast.itunes_owner(name=PODCAST_METADATA["author"], email="podcast@example.com")
+    fg.podcast.itunes_explicit("no")  # Required tag for podcast apps
     fg.podcast.itunes_image(PODCAST_METADATA["image"])
     # Standard RSS image tag - must include url, title, and link for podcast apps
     fg.image(url=PODCAST_METADATA["image"], 
