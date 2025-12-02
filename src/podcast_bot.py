@@ -663,7 +663,10 @@ def generate_rss_feed():
     fg.language(PODCAST_METADATA["language"])
     fg.podcast.itunes_author(PODCAST_METADATA["author"])
     fg.podcast.itunes_image(PODCAST_METADATA["image"])
-    fg.image(PODCAST_METADATA["image"]) # Standard RSS image tag
+    # Standard RSS image tag - must include url, title, and link for podcast apps
+    fg.image(url=PODCAST_METADATA["image"], 
+             title=PODCAST_METADATA["title"], 
+             link=BASE_URL)
     fg.podcast.itunes_category('News')
     
     # Find all generated MP3 episodes
