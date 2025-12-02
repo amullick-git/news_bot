@@ -36,12 +36,12 @@
           <h1><xsl:value-of select="/rss/channel/title"/></h1>
           <p class="desc"><xsl:value-of select="/rss/channel/description"/></p>
           <p>
-            <a href="{/rss/channel/link}">Visit Website</a>
+            <a href="https://amullick-git.github.io/news_bot">Visit Website</a>
           </p>
         </div>
 
         <xsl:for-each select="/rss/channel/item">
-          <xsl:sort select="title" order="descending"/>
+          <xsl:sort select="position()" order="descending"/>
           <div class="episode">
             <h2><a href="{link}"><xsl:value-of select="title"/></a></h2>
             <div class="meta">
