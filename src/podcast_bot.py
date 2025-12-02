@@ -56,7 +56,7 @@ PODCAST_METADATA = {
     "title": "Amarnath's Daily News Briefing",
     "description": "A daily AI-generated news podcast covering world events, technology, and more.",
     "author": "Amarnath Mullick",
-    "image": f"{BASE_URL}/podcast_cover.png",
+    "image": f"{BASE_URL}/cover_v2.png",
     "language": "en"
 }
 
@@ -662,6 +662,7 @@ def generate_rss_feed():
     fg.language(PODCAST_METADATA["language"])
     fg.podcast.itunes_author(PODCAST_METADATA["author"])
     fg.podcast.itunes_image(PODCAST_METADATA["image"])
+    fg.image(PODCAST_METADATA["image"]) # Standard RSS image tag
     fg.podcast.itunes_category('News')
     
     # Find all generated MP3 episodes
