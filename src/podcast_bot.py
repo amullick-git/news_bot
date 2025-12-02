@@ -728,6 +728,7 @@ def generate_rss_feed():
         fe.id(file_url)
         fe.title(f"{title_prefix}: {display_title}")
         fe.description(f"Daily news summary for {display_title}.")
+        fe.link(href=file_url)  # Link to the episode
         fe.enclosure(file_url, str(file_size), 'audio/mpeg')
         fe.published(dt_utc)
         
