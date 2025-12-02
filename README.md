@@ -17,6 +17,7 @@ This project is an automated tool that fetches news from various RSS feeds, filt
     - **Morning Briefing (7 AM PST)**: 15-minute deep dive.
     - **Evening Update (7 PM PST)**: 5-minute quick summary (labeled as "Quick News Briefing").
 - **Auto-Cleanup**: Episodes older than 7 days are automatically deleted to keep the feed fresh.
+- **Podcast Website**: Professional landing page at [https://amullick-git.github.io/news_bot/](https://amullick-git.github.io/news_bot/) with subscribe instructions.
 
 ## Prerequisites
 

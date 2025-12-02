@@ -54,7 +54,7 @@ BASE_URL = "https://amullick-git.github.io/news_bot"
 
 PODCAST_METADATA = {
     "title": "Amarnath's Daily News Briefing",
-    "description": "A daily AI-generated news podcast covering world events, technology, and more.",
+    "description": f"A daily AI-generated news podcast covering world events, technology, and more. Visit {BASE_URL} to subscribe.",
     "author": "Amarnath Mullick",
     "image": f"{BASE_URL}/cover_v2_optimized.jpg",
     "language": "en"
