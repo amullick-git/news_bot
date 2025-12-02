@@ -286,9 +286,9 @@ Source: {a['link']}
     {articles_block}
 
     **Structure:**
-    1. HOST: Intro (Welcome to Arjav's Daily News Briefing...). IMPORTANT: In the intro, explicitly mention that we are covering news from {get_friendly_source_names()} and others.
+    1. HOST: Intro (Welcome to Arjav's Daily News Briefing...). Start with a short, interesting fact to grab attention. IMPORTANT: In the intro, explicitly mention that we are covering news from {get_friendly_source_names()} and others.
     2. HOST & REPORTER: Dialogue covering the top stories. Group related stories together.
-    3. HOST: Outro.
+    3. HOST: Outro. Include a short, interesting "fun fact of the day" (related to tech, science, or history) before signing off.
     """
 
     response = model.generate_content(prompt)
