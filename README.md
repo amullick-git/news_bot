@@ -10,12 +10,12 @@ This project is an automated tool that fetches news from various RSS feeds, filt
     - Keyword matching.
     - **Semantic Filtering**: Uses Google Gemini to select the most relevant and diverse stories based on your topics.
 - **Script Generation**: Uses Gemini to write a professional, neutral news anchor script.
-    - **Host & Reporter Mode**: Generates a dialogue between a Host (Rob) and a Reporter (Sarah).
+    - **Host & Reporter Mode**: Generates a dialogue between a Host (Arjav) and a Reporter (Arohi).
 - **Audio Production**: Converts the script to speech using Google Cloud TTS with dynamic pacing and prosody (SSML).
     - **Multi-Voice**: Uses distinct WaveNet voices for the Host and Reporter.
 - **Dual Schedule**: Automatically runs twice daily:
-    - **Morning Briefing (7 AM PST)**: 15-minute deep dive.
-    - **Evening Update (7 PM PST)**: 5-minute quick summary (labeled as "Quick News Briefing").
+    - **Morning Briefing (6:30 AM PST)**: 15-minute deep dive.
+    - **Evening Update (6:30 PM PST)**: 5-minute quick summary (labeled as "Quick News Briefing").
 - **Auto-Cleanup**: Episodes older than 7 days are automatically deleted to keep the feed fresh.
 - **Episode Links Page**: Generates a dedicated HTML page for each episode listing all source articles used.
 - **Podcast Website**: Professional landing page at [https://amullick-git.github.io/news_bot/](https://amullick-git.github.io/news_bot/) with subscribe instructions and links to recent episode sources.
@@ -135,8 +135,8 @@ The RSS feed includes an XSLT stylesheet (`rss_style.xsl`) that renders the XML 
 ## Automation (GitHub Actions)
 
 This repository includes a GitHub Actions workflow (`.github/workflows/daily_podcast.yml`) to generate the podcast automatically twice a day:
-- **07:00 AM PST** (15:00 UTC): 15-minute episode.
-- **07:00 PM PST** (03:00 UTC): 5-minute episode.
+- **06:30 AM PST** (14:30 UTC): 15-minute episode.
+- **06:30 PM PST** (02:30 UTC): 5-minute episode.
 
 ### Setup Secrets
 

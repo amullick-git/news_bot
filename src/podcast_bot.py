@@ -267,8 +267,8 @@ Source: {a['link']}
     You are writing a script for a professional news podcast featuring two speakers: a HOST and a REPORTER.
 
     **Format:**
-    - Use "HOST:" for lines spoken by the host (Rob).
-    - Use "REPORTER:" for lines spoken by the reporter (Sarah).
+    - Use "HOST:" for lines spoken by the host (Arjav).
+    - Use "REPORTER:" for lines spoken by the reporter (Arohi).
     - Write in a conversational, engaging, yet professional tone.
     - Don't keep repeating the name of the reporter or host in the conversation.
     - The HOST introduces the show, transitions between topics, and asks the REPORTER for details.
@@ -286,7 +286,7 @@ Source: {a['link']}
     {articles_block}
 
     **Structure:**
-    1. HOST: Intro (Welcome to Rob's Daily News Briefing...). IMPORTANT: In the intro, explicitly mention that we are covering news from {get_friendly_source_names()} and others.
+    1. HOST: Intro (Welcome to Arjav's Daily News Briefing...). IMPORTANT: In the intro, explicitly mention that we are covering news from {get_friendly_source_names()} and others.
     2. HOST & REPORTER: Dialogue covering the top stories. Group related stories together.
     3. HOST: Outro.
     """
@@ -712,9 +712,7 @@ def generate_rss_feed():
                             title_prefix = "Quick News Briefing"
                 except Exception:
                     pass
-            # Fallback heuristic for legacy files (optional, or just default to News Briefing)
-            elif dt.hour == 19: # 7 PM
-                 title_prefix = "Quick News Briefing"
+
                 
         except ValueError:
             print(f"Skipping file with unexpected name format: {mp3_filename}")

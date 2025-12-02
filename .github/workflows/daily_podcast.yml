@@ -3,9 +3,9 @@ name: Daily Podcast Generation
 on:
   schedule:
     # Run twice daily:
-    # 15:00 UTC (7:00 AM PST) -> Morning Briefing
-    # 03:00 UTC (7:00 PM PST) -> Evening Update
-    - cron: '0 15,3 * * *'
+    # 14:30 UTC (6:30 AM PST) -> Morning Briefing
+    # 02:30 UTC (6:30 PM PST) -> Evening Update
+    - cron: '30 14,2 * * *'
   workflow_dispatch: # Allow manual triggering
     inputs:
       duration:
@@ -53,10 +53,10 @@ jobs:
             DURATION=$INPUT_DURATION
           else
             # Determine duration based on time (UTC)
-            # 15:00 UTC = 7 AM PST -> 15 mins
-            # 03:00 UTC = 7 PM PST -> 5 mins
+            # 14:30 UTC = 6:30 AM PST -> 15 mins
+            # 02:30 UTC = 6:30 PM PST -> 5 mins
             HOUR=$(date -u +%H)
-            if [ "$HOUR" = "03" ]; then
+            if [ "$HOUR" = "02" ]; then
               DURATION=5
             else
               DURATION=15
