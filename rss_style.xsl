@@ -41,7 +41,7 @@
         </div>
 
         <xsl:for-each select="/rss/channel/item">
-          <xsl:sort select="position()" order="descending"/>
+          <xsl:sort select="position()" data-type="number" order="descending"/>
           <div class="episode">
             <h2><a href="{link}"><xsl:value-of select="title"/></a></h2>
             <div class="meta">
