@@ -758,6 +758,164 @@ def generate_rss_feed():
     print("Generated feed.xml")
 
 
+###########################################
+# HTML LINKS PAGE GENERATION
+###########################################
+
+LINKS_PAGE_TEMPLATE = """<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Episode Sources - {date_str}</title>
+    <style>
+        body {{
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f4f7f6;
+        }}
+        .container {{
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }}
+        h1 {{
+            color: #667eea;
+            border-bottom: 2px solid #f0f0f0;
+            padding-bottom: 15px;
+        }}
+        .source-item {{
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #eee;
+        }}
+        .source-item:last-child {{
+            border-bottom: none;
+        }}
+        .source-title {{
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 5px;
+            display: block;
+            color: #2d3748;
+        }}
+        .source-meta {{
+            font-size: 0.9em;
+            color: #666;
+            margin-bottom: 10px;
+        }}
+        a {{
+            color: #667eea;
+            text-decoration: none;
+        }}
+        a:hover {{
+            text-decoration: underline;
+        }}
+        .back-link {{
+            display: inline-block;
+            margin-top: 20px;
+            color: #555;
+            font-weight: 500;
+        }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Episode Sources: {date_str}</h1>
+        <div class="sources-list">
+            {items_html}
+        </div>
+        <a href="../index.html" class="back-link">← Back to Home</a>
+    </div>
+</body>
+</html>"""
+
+def generate_episode_links_page(items, timestamp):
+    """
+    Generate an HTML page listing the sources for this episode.
+    """
+    date_str = timestamp.replace("_", " ") # 2025-12-02 10
+    
+    # Format items
+    items_html = ""
+    for item in items:
+        title = html.escape(item.get("title", "Untitled"))
+        link = item.get("link", "#")
+        source = urlparse(link).netloc
+        
+        items_html += f"""
+        <div class="source-item">
+            <a href="{link}" class="source-title" target="_blank">{title}</a>
+            <div class="source-meta">Source: {source}</div>
+        </div>
+        """
+        
+    page_content = LINKS_PAGE_TEMPLATE.format(date_str=date_str, items_html=items_html)
+    
+    filename = f"links_{timestamp}.html"
+    filepath = os.path.join(EPISODES_DIR, filename)
+    
+    with open(filepath, "w") as f:
+        f.write(page_content)
+    
+    print(f"Generated links page: {filepath}")
+    return filename
+
+def update_index_with_links():
+    """
+    Update index.html to list all available episode link pages.
+    """
+    print("Updating index.html with recent episodes...")
+    
+    # Find all links_*.html files
+    link_files = glob.glob(os.path.join(EPISODES_DIR, "links_*.html"))
+    link_files.sort(reverse=True) # Latest first
+    
+    links_html = ""
+    for filepath in link_files:
+        filename = os.path.basename(filepath)
+        # Filename format: links_YYYY-MM-DD_HH.html
+        try:
+            date_part = filename.replace("links_", "").replace(".html", "")
+            dt = datetime.strptime(date_part, "%Y-%m-%d_%H")
+            display_date = dt.strftime("%B %d, %Y - %I:%M %p")
+        except ValueError:
+            display_date = filename
+            
+        links_html += f"""
+        <a href="{EPISODES_DIR}/{filename}" class="episode-link-item">
+            <span class="episode-link-date">{display_date}</span>
+            <br>View News Sources
+        </a>
+        """
+        
+    # Read index.html
+    try:
+        with open("index.html", "r") as f:
+            content = f.read()
+            
+        # Regex to replace content inside the container
+        # Looking for <div class="links-list" id="episode-links-list"> ... </div>
+        pattern = r'(<div class="links-list" id="episode-links-list">)(.*?)(</div>)'
+        
+        if re.search(pattern, content, re.DOTALL):
+            new_content = re.sub(pattern, f'\\1\n{links_html}\n\\3', content, flags=re.DOTALL)
+            
+            with open("index.html", "w") as f:
+                f.write(new_content)
+            print("Updated index.html successfully.")
+        else:
+            print("Warning: Could not find #episode-links-list in index.html")
+            
+    except Exception as e:
+        print(f"Error updating index.html: {e}")
+
+
 def cleanup_old_episodes():
     """
     Delete episodes and related files older than RETENTION_DAYS.
@@ -789,6 +947,22 @@ def cleanup_old_episodes():
                 if file_date < cutoff_date:
                     os.remove(file_path)
                     print(f"Deleted old file: {filename}")
+                    deleted_count += 1
+            except ValueError:
+                continue
+                
+    # Also clean up links_*.html files
+    link_files = glob.glob(os.path.join(EPISODES_DIR, "links_*.html"))
+    for file_path in link_files:
+        filename = os.path.basename(file_path)
+        match = re.search(r"(\d{4}-\d{2}-\d{2})", filename)
+        if match:
+            date_str = match.group(1)
+            try:
+                file_date = datetime.strptime(date_str, "%Y-%m-%d")
+                if file_date < cutoff_date:
+                    os.remove(file_path)
+                    print(f"Deleted old links file: {filename}")
                     deleted_count += 1
             except ValueError:
                 continue
@@ -894,6 +1068,11 @@ def main():
     # 6) Generate RSS feed (SKIP if in test mode)
     if not args.test:
         cleanup_old_episodes()
+        
+        # Generate links page and update index
+        generate_episode_links_page(items, timestamp)
+        update_index_with_links()
+        
         generate_rss_feed()
     else:
         print("Test mode: Skipping RSS feed generation.")

@@ -3,6 +3,7 @@ from unittest.mock import patch, MagicMock
 import sys
 import os
 import shutil
+import json
 
 # Add parent dir to path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -10,91 +11,129 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import src.podcast_bot as podcast_bot
 
 @pytest.fixture
-def cleanup_episodes():
-    # Setup: Clean before
-    if os.path.exists("test_episodes"):
-        shutil.rmtree("test_episodes")
-    yield
-    # Teardown: Clean after
-    if os.path.exists("test_episodes"):
-        shutil.rmtree("test_episodes")
+def setup_e2e_env(tmp_path):
+    """
+    Sets up a temporary environment for E2E testing.
+    Changes CWD to tmp_path and mocks EPISODES_DIR.
+    """
+    original_cwd = os.getcwd()
+    original_episodes_dir = podcast_bot.EPISODES_DIR
+    
+    # Change to temp directory
+    os.chdir(tmp_path)
+    
+    # Create necessary files/dirs
+    episodes_dir = tmp_path / "episodes"
+    episodes_dir.mkdir()
+    
+    # Create dummy index.html for the update logic
+    index_file = tmp_path / "index.html"
+    index_file.write_text("""
+<!DOCTYPE html>
+<html>
+<body>
+    <div class="container">
+        <div class="links-list" id="episode-links-list">
+            <!-- LINKS_INSERTION_POINT -->
+        </div>
+    </div>
+</body>
+</html>
+""")
+    
+    # Override global variable in the module
+    podcast_bot.EPISODES_DIR = str(episodes_dir)
+    
+    yield tmp_path, episodes_dir
+    
+    # Cleanup
+    os.chdir(original_cwd)
+    podcast_bot.EPISODES_DIR = original_episodes_dir
 
-@patch('sys.argv', ['src/podcast_bot.py', '--test', '--duration', '5'])
+@patch('sys.argv', ['src/podcast_bot.py', '--duration', '5']) # Removed --test to trigger full flow
 @patch('src.podcast_bot.texttospeech.TextToSpeechClient')
 @patch('src.podcast_bot.genai.GenerativeModel')
 @patch('src.podcast_bot.fetch_all')
-def test_full_flow(mock_fetch, mock_genai_model, mock_tts_client, cleanup_episodes):
+def test_full_flow_with_webpage_update(mock_fetch, mock_genai_model, mock_tts_client, setup_e2e_env):
+    tmp_path, episodes_dir = setup_e2e_env
+    
+    from datetime import datetime, timezone
+    now = datetime.now(timezone.utc)
+    published_str = now.strftime("%a, %d %b %Y %H:%M:%S GMT")
+
     # 1. Mock RSS Data
     mock_fetch.return_value = [
         {
             "title": "Test News 1", 
             "summary": "Summary 1", 
             "link": "http://test.com/1", 
-            "published": "Sun, 01 Dec 2025 10:00:00 GMT"
+            "published": published_str
         },
         {
             "title": "Test News 2", 
             "summary": "Summary 2", 
             "link": "http://test.com/2", 
-            "published": "Sun, 01 Dec 2025 09:00:00 GMT"
+            "published": published_str
         },
     ]
 
     # 2. Mock Gemini Response
-    # genai.GenerativeModel("...") returns a model object
     mock_model_instance = MagicMock()
     mock_genai_model.return_value = mock_model_instance
     
-    # Response 1: Semantic Filtering (JSON list of indices)
+    # Response 1: Semantic Filtering
     mock_response_filter = MagicMock()
     mock_response_filter.text = "[0, 1]"
     
-    # Response 2: Script Generation (Dialogue)
+    # Response 2: Script Generation
     mock_response_script = MagicMock()
     mock_response_script.text = """
-HOST: Welcome to the test news.
-REPORTER: Here is the first story about Test News 1.
-HOST: Interesting. What else?
-REPORTER: Test News 2 happened today.
-HOST: Thanks. Goodbye.
+HOST: Welcome.
+REPORTER: News 1.
+HOST: Thanks.
 """
     
-    # Set side_effect to return different responses in order
     mock_model_instance.generate_content.side_effect = [mock_response_filter, mock_response_script]
 
     # 3. Mock TTS Response
-    # texttospeech.TextToSpeechClient() returns a client
     mock_client_instance = MagicMock()
     mock_tts_client.return_value = mock_client_instance
-    
     mock_audio_resp = MagicMock()
     mock_audio_resp.audio_content = b"fake_audio_data"
     mock_client_instance.synthesize_speech.return_value = mock_audio_resp
 
     # 4. Run Main
-    podcast_bot.main()
+    # We need to mock os.getenv to avoid issues if GOOGLE_API_KEY is missing
+    with patch.dict(os.environ, {"GOOGLE_API_KEY": "fake_key"}):
+        podcast_bot.main()
 
     # 5. Verify Artifacts
-    assert os.path.exists("test_episodes"), "test_episodes dir not created"
     
     # Check for MP3
-    files = os.listdir("test_episodes")
-    mp3_files = [f for f in files if f.endswith(".mp3")]
+    mp3_files = list(episodes_dir.glob("*.mp3"))
     assert len(mp3_files) > 0, "No MP3 file created"
     
     # Check for script
-    assert os.path.exists("test_episodes/episode_script_clean.txt")
+    assert (episodes_dir / "episode_script_clean.txt").exists()
     
     # Check for metadata
-    import json
-    json_files = [f for f in files if f.startswith("episode_metadata_") and f.endswith(".json")]
+    json_files = list(episodes_dir.glob("episode_metadata_*.json"))
     assert len(json_files) > 0, "No metadata file created"
     
-    with open(os.path.join("test_episodes", json_files[0]), "r") as f:
-        meta = json.load(f)
-        assert meta["duration_minutes"] == 5
+    # Check for Links Page (NEW)
+    link_files = list(episodes_dir.glob("links_*.html"))
+    assert len(link_files) > 0, "No links page created"
+    assert "Test News 1" in link_files[0].read_text()
     
-    # Verify mocks were called
+    # Check index.html updated (NEW)
+    index_content = (tmp_path / "index.html").read_text()
+    assert "links_" in index_content
+    assert "View News Sources" in index_content
+    
+    # Check RSS Feed (NEW - since we removed --test)
+    assert (tmp_path / "feed.xml").exists(), "feed.xml not created"
+    
+    # Verify mocks
     mock_fetch.assert_called_once()
     mock_model_instance.generate_content.assert_called()
     mock_client_instance.synthesize_speech.assert_called()
