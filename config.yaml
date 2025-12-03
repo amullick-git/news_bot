@@ -1,0 +1,39 @@
+rss_sources:
+  - "http://feeds.bbci.co.uk/news/world/rss.xml"
+  - "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+  - "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+  - "https://feeds.feedburner.com/ndtvnews-india-news"
+  - "https://hnrss.org/frontpage"
+  - "https://www.theverge.com/rss/index.xml"
+  - "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+  - "https://feeds.npr.org/1001/rss.xml"
+
+keywords:
+  - "USA"
+  - "world"
+  - "ai"
+  - "technology"
+  - "market"
+  - "election"
+  - "india"
+  - "economy"
+  - "business"
+  - "sports"
+  - "international cricket"
+  - "health"
+
+processing:
+  duration_minutes: 15
+  words_per_min: 150
+  max_per_feed: 10
+  max_final_articles: 20
+  retention_days: 7
+  gemini_model: "gemini-2.5-flash"
+
+podcast:
+  base_url: "https://amullick-git.github.io/news_bot"
+  title: "Amarnath's Daily News Briefing"
+  author: "Amarnath Mullick"
+  image_filename: "cover_v3.jpg"
+  language: "en"
+  episodes_dir: "episodes"

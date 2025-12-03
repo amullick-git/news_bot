@@ -4,17 +4,18 @@ import subprocess
 from unittest.mock import MagicMock, patch
 from datetime import datetime, timezone
 
-# Add src to path
-sys.path.append(os.path.join(os.getcwd(), "src"))
-import podcast_bot
+# Add root to path if needed (usually cwd is in path)
+sys.path.append(os.getcwd())
+from src import main as bot_main
 
 def verify_staging():
     print("=== Verifying Artifact Staging Logic ===")
     
     # 1. Mock External APIs to avoid keys and costs
-    with patch("podcast_bot.genai") as mock_genai, \
-         patch("podcast_bot.texttospeech") as mock_tts, \
-         patch("podcast_bot.feedparser.parse") as mock_feed:
+    # We need to patch where they are imported in the modules
+    with patch("src.content.genai") as mock_genai, \
+         patch("src.audio.texttospeech") as mock_tts, \
+         patch("src.fetcher.feedparser.parse") as mock_feed:
          
         # Setup Mocks
         mock_model = MagicMock()
@@ -35,16 +36,11 @@ def verify_staging():
         ]
         
         # 2. Run the bot (Dry run / Test mode logic but in current dir)
-        # We want to simulate a REAL run, so we don't use --test flag which changes output dir.
-        # But we need to be careful not to mess up the actual repo if running locally.
-        # In CI, it's fine.
-        
         print("Running bot with mocks...")
-        # We can't easily call main() because it parses args. 
-        # Let's call the core logic or patch sys.argv
-        with patch.object(sys, 'argv', ["podcast_bot.py", "--duration", "1"]):
+        # Patch sys.argv to simulate command line args
+        with patch.object(sys, 'argv', ["main.py", "--duration", "1"]):
             try:
-                podcast_bot.main()
+                bot_main.main()
             except SystemExit:
                 pass
             except Exception as e:

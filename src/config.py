@@ -1,0 +1,52 @@
+import yaml
+import os
+from dataclasses import dataclass
+from typing import List, Dict
+
+@dataclass
+class ProcessingConfig:
+    duration_minutes: int
+    words_per_min: int
+    max_per_feed: int
+    max_final_articles: int
+    retention_days: int
+    gemini_model: str
+
+@dataclass
+class PodcastConfig:
+    base_url: str
+    title: str
+    author: str
+    image_filename: str
+    language: str
+    episodes_dir: str
+    
+    @property
+    def image_url(self) -> str:
+        return f"{self.base_url}/{self.image_filename}"
+
+@dataclass
+class Config:
+    rss_sources: List[str]
+    keywords: List[str]
+    processing: ProcessingConfig
+    podcast: PodcastConfig
+
+def load_config(config_path: str = "config.yaml") -> Config:
+    if not os.path.exists(config_path):
+        # Fallback to looking in parent dir if running from src
+        parent_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), config_path)
+        if os.path.exists(parent_path):
+            config_path = parent_path
+        else:
+            raise FileNotFoundError(f"Config file not found at {config_path}")
+
+    with open(config_path, "r") as f:
+        raw = yaml.safe_load(f)
+
+    return Config(
+        rss_sources=raw["rss_sources"],
+        keywords=raw["keywords"],
+        processing=ProcessingConfig(**raw["processing"]),
+        podcast=PodcastConfig(**raw["podcast"])
+    )
