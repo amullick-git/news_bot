@@ -56,7 +56,8 @@ jobs:
             # 14:30 UTC = 6:30 AM PST -> 15 mins
             # 02:30 UTC = 6:30 PM PST -> 5 mins
             HOUR=$(date -u +%H)
-            if [ "$HOUR" = "02" ]; then
+            # If hour is less than 10 (e.g. 02, 03, 04), it's the evening run
+            if [ "$HOUR" -lt 10 ]; then
               DURATION=5
             else
               DURATION=15
