@@ -11,6 +11,7 @@ news_podcast/
 │   ├── morning_podcast.yml # Morning schedule
 │   ├── evening_podcast.yml # Evening schedule
 │   └── weekly_podcast.yml  # Weekly schedule
+├── assets/                 # Static assets (cover images, etc.)
 ├── episodes/               # Generated artifacts (audio, scripts, metadata)
 ├── scripts/                # Utility scripts
 │   ├── regenerate_feed.py  # Regenerates RSS feed from metadata

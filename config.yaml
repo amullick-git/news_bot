@@ -34,6 +34,6 @@ podcast:
   base_url: "https://amullick-git.github.io/news_bot"
   title: "Amarnath's Daily News Briefing"
   author: "Amarnath Mullick"
-  image_filename: "cover_v3.jpg"
+  image_filename: "assets/cover_v3.jpg"
   language: "en"
   episodes_dir: "episodes"
