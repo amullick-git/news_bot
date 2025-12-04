@@ -41,7 +41,7 @@ jobs:
       - name: Run podcast bot (Weekly)
         run: |
           echo "Running Weekly Podcast Generation..."
-          python -m src.main --duration 20 --lookback-days 7 --type weekly
+          python -m src.main --duration 20 --lookback-days 7 --type weekly --title-prefix "Weekly News Round-up"
 
       - name: Commit and Push changes
         run: |

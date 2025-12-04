@@ -59,13 +59,15 @@ jobs:
             # If hour is less than 10 (e.g. 02, 03, 04), it's the evening run
             if [ "$HOUR" -lt 10 ]; then
               DURATION=5
+              TITLE_PREFIX="Quick News Briefing"
             else
               DURATION=15
+              TITLE_PREFIX="News Briefing"
             fi
           fi
           
-          echo "Running for $DURATION minutes"
-          python -m src.main --duration $DURATION
+          echo "Running for $DURATION minutes with prefix: $TITLE_PREFIX"
+          python -m src.main --duration $DURATION --title-prefix "$TITLE_PREFIX"
 
       - name: Commit and Push changes
         run: |
