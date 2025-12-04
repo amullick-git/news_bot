@@ -90,7 +90,7 @@ jobs:
             
             # 5. Regenerate feed.xml
             # This ensures the feed includes the new episode AND any metadata changes from the pull
-            python -c "from src.podcast_bot import generate_rss_feed; generate_rss_feed()"
+            python -c "from src.rss import generate_rss_feed; from src.config import load_config; generate_rss_feed(load_config())"
             
             # 6. Commit and push feed
             git add feed.xml
