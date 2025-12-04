@@ -24,7 +24,7 @@ keywords:
 
 processing:
   duration_minutes: 15
-  words_per_min: 150
+  words_per_min: 125
   max_per_feed: 10
   max_final_articles: 20
   retention_days: 7
