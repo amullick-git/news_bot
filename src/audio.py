@@ -1,3 +1,14 @@
+"""
+Audio Synthesis (TTS)
+=====================
+
+This module manages the conversion of text scripts into audio files using Google Cloud Text-to-Speech.
+Key features:
+- SSML generation for controlling prosody and breaks.
+- Multi-speaker support (Host vs. Reporter).
+- Smart chunking of text to respect API limits.
+- Audio segment concatenation.
+"""
 import re
 import html
 from textwrap import dedent

@@ -1,3 +1,14 @@
+"""
+RSS & HTML Generation
+=====================
+
+This module handles the generation of the podcast RSS feed and related HTML pages.
+It includes functions for:
+- Generating the `feed.xml` with iTunes tags.
+- Creating HTML pages listing sources for each episode.
+- Updating the main `index.html` with links to new episodes.
+- Cleaning up old episodes based on retention policy.
+"""
 import os
 import glob
 import json
@@ -236,13 +247,18 @@ def generate_rss_feed(config: Config):
                 try:
                     with open(meta_path, "r") as f:
                         meta = json.load(f)
-                        duration = meta.get("duration_minutes", 15)
-                        episode_type = meta.get("type", "daily")
-                        
-                        if episode_type == "weekly":
-                            title_prefix = "Weekly News Round-up"
-                        elif duration <= 5:
-                            title_prefix = "Quick News Briefing"
+                        # Prefer explicitly stored prefix
+                        if "title_prefix" in meta:
+                            title_prefix = meta["title_prefix"]
+                        else:
+                            # Fallback inference for old episodes
+                            duration = meta.get("duration_minutes", 15)
+                            episode_type = meta.get("type", "daily")
+                            
+                            if episode_type == "weekly":
+                                title_prefix = "Weekly News Round-up"
+                            elif duration <= 5:
+                                title_prefix = "Quick News Briefing"
                 except Exception:
                     pass
 

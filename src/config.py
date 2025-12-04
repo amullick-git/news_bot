@@ -1,3 +1,11 @@
+"""
+Configuration Management
+========================
+
+This module handles loading and parsing the application configuration.
+It uses `dataclasses` to define the expected structure of the configuration
+and `PyYAML` to read from the `config.yaml` file.
+"""
 import yaml
 import os
 from dataclasses import dataclass

@@ -1,3 +1,14 @@
+"""
+RSS Fetcher & Filter
+====================
+
+This module is responsible for fetching news articles from RSS feeds and filtering them.
+Key functionalities:
+- Fetching feeds using `feedparser`.
+- Filtering articles by time window (e.g., last 24 hours, last 7 days).
+- Filtering articles by keywords.
+- Parsing and normalizing dates.
+"""
 import feedparser
 from datetime import datetime, timedelta
 import email.utils as email_date_parser

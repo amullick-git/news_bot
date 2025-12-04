@@ -1,3 +1,10 @@
+"""
+Utilities
+=========
+
+Common utility functions used across the application.
+Currently primarily handles logging configuration.
+"""
 import logging
 import sys
 

@@ -1,3 +1,18 @@
+"""
+Main Entry Point
+================
+
+This module serves as the primary entry point for the News Podcast Generator.
+It orchestrates the entire pipeline, including:
+1. Loading configuration.
+2. Fetching and filtering news articles.
+3. Generating scripts using LLM (Gemini).
+4. Converting scripts to audio (TTS).
+5. Updating the RSS feed and HTML pages.
+
+Usage:
+    python -m src.main [--duration MINS] [--test] [--lookback-days DAYS] [--type TYPE]
+"""
 import argparse
 import os
 import json
@@ -33,6 +48,7 @@ def main():
     parser.add_argument("--test", action="store_true", help="Run in test mode (save to test_episodes/, no RSS update)")
     parser.add_argument("--lookback-days", type=int, default=1, help="Number of days to look back for news (default: 1)")
     parser.add_argument("--type", type=str, default="daily", help="Episode type: daily or weekly")
+    parser.add_argument("--title-prefix", type=str, default="News Briefing", help="Prefix for the episode title")
     args = parser.parse_args()
 
     setup_logging()
@@ -103,7 +119,8 @@ def main():
     with open(meta_file, "w") as f:
         json.dump({
             "duration_minutes": config.processing.duration_minutes,
-            "type": args.type
+            "type": args.type,
+            "title_prefix": args.title_prefix
         }, f)
     logger.info(f"Saved metadata to {meta_file}")
     

@@ -1,3 +1,13 @@
+"""
+Content Generation (LLM)
+========================
+
+This module handles interactions with the Google Gemini API for content generation.
+It includes functions for:
+- Semantic filtering of articles to select the most relevant stories.
+- Summarizing articles into a podcast script (dialogue format).
+- Retry logic for API calls using `tenacity`.
+"""
 import google.generativeai as genai
 import json
 import os
