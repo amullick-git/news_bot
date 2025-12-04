@@ -6,6 +6,9 @@ on:
     - cron: '0 15 * * 6'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     uses: ./.github/workflows/common.yml
