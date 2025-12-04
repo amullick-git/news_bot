@@ -75,10 +75,6 @@ def main():
         logger.info(f"Filtering by semantics (Gemini) for topics: {config.keywords}")
         items = filter_by_semantics(items, config.keywords, config.processing.gemini_model, limit=config.processing.max_final_articles)
 
-    try:
-        items.sort(key=lambda x: x["published"], reverse=True)
-    except Exception:
-        pass
 
     items = items[:config.processing.max_final_articles]
 
