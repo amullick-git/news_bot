@@ -16,6 +16,7 @@ This project is an automated tool that fetches news from various RSS feeds, filt
 - **Dual Schedule**: Automatically runs twice daily:
     - **Morning Briefing (6:30 AM PST)**: 15-minute deep dive.
     - **Evening Update (6:30 PM PST)**: 5-minute quick summary (labeled as "Quick News Briefing").
+    - **Weekly Round-up (Saturday 7:00 AM PST)**: 20-minute summary of the week's top stories.
 - **Auto-Cleanup**: Episodes older than 7 days are automatically deleted to keep the feed fresh.
 - **Episode Links Page**: Generates a dedicated HTML page for each episode listing all source articles used.
 - **Podcast Website**: Professional landing page at [https://amullick-git.github.io/news_bot/](https://amullick-git.github.io/news_bot/) with subscribe instructions and links to recent episode sources.
@@ -77,6 +78,9 @@ python -m src.main
 # Custom duration (e.g., 5 minutes)
 python -m src.main --duration 5
 
+# Weekly Round-up (20 mins, last 7 days)
+python -m src.main --duration 20 --lookback-days 7 --type weekly --title-prefix "Weekly News Round-up"
+
 # Test mode (saves to test_episodes/, no RSS update)
 python -m src.main --test
 ```
@@ -134,9 +138,14 @@ The RSS feed includes an XSLT stylesheet (`rss_style.xsl`) that renders the XML 
 
 ## Automation (GitHub Actions)
 
-This repository includes a GitHub Actions workflow (`.github/workflows/daily_podcast.yml`) to generate the podcast automatically twice a day:
-- **06:30 AM PST** (14:30 UTC): 15-minute episode.
-- **06:30 PM PST** (02:30 UTC): 5-minute episode.
+This repository includes GitHub Actions workflows to generate the podcast automatically:
+
+### Daily Schedule
+- **06:30 AM PST** (14:30 UTC): 15-minute episode ("News Briefing").
+- **06:30 PM PST** (02:30 UTC): 5-minute episode ("Quick News Briefing").
+
+### Weekly Schedule
+- **Saturday 07:00 AM PST** (15:00 UTC): 20-minute episode ("Weekly News Round-up").
 
 ### Setup Secrets
 
