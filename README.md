@@ -140,12 +140,17 @@ The RSS feed includes an XSLT stylesheet (`rss_style.xsl`) that renders the XML 
 
 This repository includes GitHub Actions workflows to generate the podcast automatically:
 
-### Daily Schedule
+### Morning Schedule
 - **06:30 AM PST** (14:30 UTC): 15-minute episode ("News Briefing").
+- Workflow: `.github/workflows/morning_podcast.yml`
+
+### Evening Schedule
 - **06:30 PM PST** (02:30 UTC): 5-minute episode ("Quick News Briefing").
+- Workflow: `.github/workflows/evening_podcast.yml`
 
 ### Weekly Schedule
 - **Saturday 07:00 AM PST** (15:00 UTC): 20-minute episode ("Weekly News Round-up").
+- Workflow: `.github/workflows/weekly_podcast.yml`
 
 ### Setup Secrets
 
