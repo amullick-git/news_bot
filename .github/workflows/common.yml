@@ -1,0 +1,98 @@
+name: Common Podcast Generation
+
+on:
+  workflow_call:
+    inputs:
+      duration:
+        required: true
+        type: string
+      lookback_days:
+        required: false
+        type: string
+        default: "1"
+      type:
+        required: false
+        type: string
+        default: "daily"
+      title_prefix:
+        required: true
+        type: string
+    secrets:
+      GOOGLE_API_KEY:
+        required: true
+      GCP_SA_KEY:
+        required: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    env:
+      TZ: 'America/Los_Angeles'
+      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Authenticate with Google Cloud
+        env:
+          GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
+        run: |
+          echo "$GCP_SA_KEY" | base64 --decode > service_account.json
+          echo "GOOGLE_APPLICATION_CREDENTIALS=$(pwd)/service_account.json" >> $GITHUB_ENV
+
+      - name: Run podcast bot
+        run: |
+          echo "Running Podcast Generation..."
+          echo "Duration: ${{ inputs.duration }}"
+          echo "Lookback: ${{ inputs.lookback_days }}"
+          echo "Type: ${{ inputs.type }}"
+          echo "Prefix: ${{ inputs.title_prefix }}"
+          
+          python -m src.main \
+            --duration ${{ inputs.duration }} \
+            --lookback-days ${{ inputs.lookback_days }} \
+            --type ${{ inputs.type }} \
+            --title-prefix "${{ inputs.title_prefix }}"
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          
+          # 1. Stage new episodes and updated index using the script
+          ./scripts/stage_artifacts.sh
+          
+          # 2. Discard the locally generated feed.xml to avoid conflicts during pull
+          git checkout feed.xml || true
+          
+          # 3. Commit episodes
+          if git diff --staged --quiet; then
+            echo "No new episodes to commit"
+          else
+            git commit -m "Add ${{ inputs.type }} episode [skip ci]"
+            
+            # 4. Pull latest changes (rebase)
+            git pull --rebase
+            
+            # 5. Regenerate feed.xml
+            python scripts/regenerate_feed.py
+            
+            # 6. Commit and push feed
+            git add feed.xml
+            git commit -m "Update RSS feed [skip ci]"
+            git push
+          fi

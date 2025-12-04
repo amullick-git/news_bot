@@ -1,0 +1,17 @@
+name: Evening Podcast Generation
+
+on:
+  schedule:
+    # Run at 02:30 UTC (6:30 PM PST)
+    - cron: '30 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    uses: ./.github/workflows/common.yml
+    with:
+      duration: "5"
+      lookback_days: "1"
+      type: "daily"
+      title_prefix: "Quick News Briefing"
+    secrets: inherit

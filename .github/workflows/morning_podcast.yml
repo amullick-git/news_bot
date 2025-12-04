@@ -1,0 +1,22 @@
+name: Morning Podcast Generation
+
+on:
+  schedule:
+    # Run at 14:30 UTC (6:30 AM PST)
+    - cron: '30 14 * * *'
+  workflow_dispatch:
+    inputs:
+      duration:
+        description: 'Duration in minutes'
+        required: false
+        default: '15'
+
+jobs:
+  generate:
+    uses: ./.github/workflows/common.yml
+    with:
+      duration: ${{ inputs.duration || '15' }}
+      lookback_days: "1"
+      type: "daily"
+      title_prefix: "News Briefing"
+    secrets: inherit

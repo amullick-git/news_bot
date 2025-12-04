@@ -4,72 +4,14 @@ on:
   schedule:
     # Run every Saturday at 15:00 UTC (7:00 AM PST)
     - cron: '0 15 * * 6'
-  workflow_dispatch: # Allow manual triggering
+  workflow_dispatch:
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write # Needed to push changes
-    
-    env:
-      TZ: 'America/Los_Angeles'
-      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Authenticate with Google Cloud
-        env:
-          GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
-        run: |
-          # Decode the base64 encoded service account key and save it to a file
-          echo "$GCP_SA_KEY" | base64 --decode > service_account.json
-          echo "GOOGLE_APPLICATION_CREDENTIALS=$(pwd)/service_account.json" >> $GITHUB_ENV
-
-      - name: Run podcast bot (Weekly)
-        run: |
-          echo "Running Weekly Podcast Generation..."
-          python -m src.main --duration 20 --lookback-days 7 --type weekly --title-prefix "Weekly News Round-up"
-
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name "GitHub Actions Bot"
-          git config --global user.email "actions@github.com"
-          
-          # 1. Stage new episodes and updated index using the script
-          ./scripts/stage_artifacts.sh
-          
-          # 2. Discard the locally generated feed.xml to avoid conflicts during pull
-          # We will regenerate it after pulling to ensure it's up to date
-          git checkout feed.xml || true
-          
-          # 3. Commit episodes
-          if git diff --staged --quiet; then
-            echo "No new episodes to commit"
-          else
-            git commit -m "Add weekly episode [skip ci]"
-            
-            # 4. Pull latest changes (rebase)
-            git pull --rebase
-            
-            # 5. Regenerate feed.xml
-            # This ensures the feed includes the new episode AND any metadata changes from the pull
-            python scripts/regenerate_feed.py
-            
-            # 6. Commit and push feed
-            git add feed.xml
-            git commit -m "Update RSS feed [skip ci]"
-            git push
-          fi
+  generate:
+    uses: ./.github/workflows/common.yml
+    with:
+      duration: "20"
+      lookback_days: "7"
+      type: "weekly"
+      title_prefix: "Weekly News Round-up"
+    secrets: inherit
