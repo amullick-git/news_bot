@@ -45,12 +45,12 @@ def fetch_all(sources: List[str], max_per_feed: int) -> List[Dict[str, Any]]:
         all_items.extend(items)
     return all_items
 
-def filter_last_24_hours(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+def filter_by_time_window(items: List[Dict[str, Any]], hours: int = 24) -> List[Dict[str, Any]]:
     """
-    Keep only stories published in the last 24 hours.
+    Keep only stories published in the last N hours.
     """
     now = datetime.now(datetime.utcnow().astimezone().tzinfo)
-    cutoff = now - timedelta(hours=24)
+    cutoff = now - timedelta(hours=hours)
 
     filtered = []
     for item in items:
@@ -65,7 +65,7 @@ def filter_last_24_hours(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         if dt >= cutoff:
             filtered.append(item)
 
-    logger.info(f"Filtered {len(items)} -> {len(filtered)} items (last 24h)")
+    logger.info(f"Filtered {len(items)} -> {len(filtered)} items (last {hours}h)")
     return filtered
 
 def filter_by_keywords(items: List[Dict[str, Any]], keywords: List[str]) -> List[Dict[str, Any]]:

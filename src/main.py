@@ -6,7 +6,7 @@ from urllib.parse import urlparse
 
 from .config import load_config
 from .utils import setup_logging, get_logger
-from .fetcher import fetch_all, filter_last_24_hours, filter_by_keywords, get_friendly_source_names
+from .fetcher import fetch_all, filter_by_time_window, filter_by_keywords, get_friendly_source_names
 from .content import configure_gemini, filter_by_semantics, summarize_with_gemini
 from .audio import postprocess_for_tts_plain, text_to_speech
 from .rss import generate_rss_feed, generate_episode_links_page, update_index_with_links, cleanup_old_episodes
@@ -31,6 +31,8 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--duration", type=int, help="Target duration in minutes")
     parser.add_argument("--test", action="store_true", help="Run in test mode (save to test_episodes/, no RSS update)")
+    parser.add_argument("--lookback-days", type=int, default=1, help="Number of days to look back for news (default: 1)")
+    parser.add_argument("--type", type=str, default="daily", help="Episode type: daily or weekly")
     args = parser.parse_args()
 
     setup_logging()
@@ -48,7 +50,8 @@ def main():
     logger.info("=== Fetching news... ===")
     items = fetch_all(config.rss_sources, config.processing.max_per_feed)
 
-    items = filter_last_24_hours(items)
+    lookback_hours = args.lookback_days * 24
+    items = filter_by_time_window(items, hours=lookback_hours)
 
     configure_gemini(api_key=os.getenv("GOOGLE_API_KEY"))
 
@@ -98,7 +101,10 @@ def main():
     
     meta_file = os.path.join(config.podcast.episodes_dir, f"episode_metadata_{timestamp}.json")
     with open(meta_file, "w") as f:
-        json.dump({"duration_minutes": config.processing.duration_minutes}, f)
+        json.dump({
+            "duration_minutes": config.processing.duration_minutes,
+            "type": args.type
+        }, f)
     logger.info(f"Saved metadata to {meta_file}")
     
     if not args.test:

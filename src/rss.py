@@ -237,7 +237,11 @@ def generate_rss_feed(config: Config):
                     with open(meta_path, "r") as f:
                         meta = json.load(f)
                         duration = meta.get("duration_minutes", 15)
-                        if duration <= 5:
+                        episode_type = meta.get("type", "daily")
+                        
+                        if episode_type == "weekly":
+                            title_prefix = "Weekly News Round-up"
+                        elif duration <= 5:
                             title_prefix = "Quick News Briefing"
                 except Exception:
                     pass
