@@ -3,16 +3,16 @@ import sys
 import os
 from datetime import datetime
 
-# Add parent directory to path to import podcast_bot
+# Add parent directory to path to import src modules
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from src.podcast_bot import (
+from src.audio import (
     strip_markdown_formatting,
     remove_stage_directions,
     ensure_sentence_punctuation,
-    collapse_whitespace,
-    parse_published_date
+    collapse_whitespace
 )
+from src.fetcher import parse_published_date
 
 def test_strip_markdown_formatting():
     text = """
@@ -76,24 +76,20 @@ def test_parse_published_date():
 import shutil
 from datetime import timedelta
 import re
-from src import podcast_bot
+from src import rss
 
 @pytest.fixture
 def setup_test_env(tmp_path):
     """
     Setup a temporary environment for testing.
-    Override podcast_bot.EPISODES_DIR and change working directory.
+    Change working directory to tmp_path.
     """
-    # Save original values
-    original_episodes_dir = podcast_bot.EPISODES_DIR
+    # Save original cwd
     original_cwd = os.getcwd()
     
     # Setup temp dirs
     test_episodes_dir = tmp_path / "episodes"
     test_episodes_dir.mkdir()
-    
-    # Override global variable
-    podcast_bot.EPISODES_DIR = "episodes"
     
     # Change cwd to tmp_path so that "index.html" is looked up there
     os.chdir(tmp_path)
@@ -101,7 +97,6 @@ def setup_test_env(tmp_path):
     yield tmp_path, test_episodes_dir
     
     # Teardown: restore
-    podcast_bot.EPISODES_DIR = original_episodes_dir
     os.chdir(original_cwd)
 
 def test_generate_episode_links_page(setup_test_env):
@@ -113,7 +108,7 @@ def test_generate_episode_links_page(setup_test_env):
     ]
     timestamp = "2025-12-02_10"
     
-    filename = podcast_bot.generate_episode_links_page(items, timestamp)
+    filename = rss.generate_episode_links_page(items, timestamp, str(episodes_dir))
     
     expected_path = episodes_dir / f"links_{timestamp}.html"
     assert expected_path.exists()
@@ -143,7 +138,7 @@ def test_update_index_with_links(setup_test_env):
     (episodes_dir / "links_2025-12-01_10.html").touch()
     (episodes_dir / "links_2025-12-02_10.html").touch()
     
-    podcast_bot.update_index_with_links()
+    rss.update_index_with_links("episodes")
     
     updated_content = index_html.read_text()
     
@@ -170,8 +165,8 @@ def test_cleanup_old_episodes_links(setup_test_env):
     new_file = episodes_dir / f"links_{new_date}_10.html"
     new_file.touch()
     
-    # Run cleanup
-    podcast_bot.cleanup_old_episodes()
+    # Run cleanup (using 7 as the default retention days)
+    rss.cleanup_old_episodes(str(episodes_dir), 7)
     
     assert not old_file.exists()
     assert new_file.exists()

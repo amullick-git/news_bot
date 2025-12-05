@@ -8,16 +8,16 @@ import json
 # Add parent dir to path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-import src.podcast_bot as podcast_bot
+from src import main as src_main
+from src import fetcher
 
 @pytest.fixture
 def setup_e2e_env(tmp_path):
     """
     Sets up a temporary environment for E2E testing.
-    Changes CWD to tmp_path and mocks EPISODES_DIR.
+    Changes CWD to tmp_path and creates necessary files.
     """
     original_cwd = os.getcwd()
-    original_episodes_dir = podcast_bot.EPISODES_DIR
     
     # Change to temp directory
     os.chdir(tmp_path)
@@ -25,6 +25,32 @@ def setup_e2e_env(tmp_path):
     # Create necessary files/dirs
     episodes_dir = tmp_path / "episodes"
     episodes_dir.mkdir()
+    
+    # Create a minimal config.yaml
+    config_file = tmp_path / "config.yaml"
+    config_file.write_text("""
+podcast:
+  base_url: "http://test.com"
+  title: "Test Podcast"
+  author: "Test Author"
+  image_filename: "test.jpg"
+  language: "en"
+  episodes_dir: "episodes"
+
+rss_sources:
+  - "http://example.com/rss"
+
+keywords:
+  - "news"
+
+processing:
+  max_per_feed: 10
+  max_final_articles: 5
+  duration_minutes: 5
+  words_per_min: 150
+  gemini_model: "gemini-pro"
+  retention_days: 7
+""")
     
     # Create dummy index.html for the update logic
     index_file = tmp_path / "index.html"
@@ -41,19 +67,15 @@ def setup_e2e_env(tmp_path):
 </html>
 """)
     
-    # Override global variable in the module
-    podcast_bot.EPISODES_DIR = str(episodes_dir)
-    
     yield tmp_path, episodes_dir
     
     # Cleanup
     os.chdir(original_cwd)
-    podcast_bot.EPISODES_DIR = original_episodes_dir
 
-@patch('sys.argv', ['src/podcast_bot.py', '--duration', '5']) # Removed --test to trigger full flow
-@patch('src.podcast_bot.texttospeech.TextToSpeechClient')
-@patch('src.podcast_bot.genai.GenerativeModel')
-@patch('src.podcast_bot.fetch_all')
+@patch('sys.argv', ['src/main.py', '--duration', '5']) # Removed --test to trigger full flow
+@patch('src.audio.texttospeech.TextToSpeechClient')
+@patch('src.content.genai.GenerativeModel')
+@patch('src.main.fetch_all')
 def test_full_flow_with_webpage_update(mock_fetch, mock_genai_model, mock_tts_client, setup_e2e_env):
     tmp_path, episodes_dir = setup_e2e_env
     
@@ -105,7 +127,7 @@ HOST: Thanks.
     # 4. Run Main
     # We need to mock os.getenv to avoid issues if GOOGLE_API_KEY is missing
     with patch.dict(os.environ, {"GOOGLE_API_KEY": "fake_key"}):
-        podcast_bot.main()
+        src_main.main()
 
     # 5. Verify Artifacts
     
