@@ -133,9 +133,21 @@ def update_index_with_links(episodes_dir: str):
     for filepath in link_files:
         filename = os.path.basename(filepath)
         try:
-            date_part = filename.replace("links_", "").replace(".html", "")
-            dt = datetime.strptime(date_part, "%Y-%m-%d_%H")
-            display_date = dt.strftime("%B %d, %Y - %I:%M %p")
+            # Filename format: links_{type}_{timestamp}.html
+            # Extract timestamp using regex looking for date pattern at end
+            match = re.search(r"_(\d{4}-\d{2}-\d{2}_\d{2})\.html$", filename)
+            if match:
+                date_part = match.group(1)
+                dt = datetime.strptime(date_part, "%Y-%m-%d_%H")
+                display_date = dt.strftime("%B %d, %Y - %I:%M %p")
+                
+                # Extract type for better display label? (Optional, kept simple for now)
+            else:
+                 # Legacy fallbacks
+                 date_part = filename.replace("links_", "").replace(".html", "")
+                 dt = datetime.strptime(date_part, "%Y-%m-%d_%H")
+                 display_date = dt.strftime("%B %d, %Y - %I:%M %p")
+                 
         except ValueError:
             display_date = filename
             
@@ -227,7 +239,31 @@ def generate_rss_feed(config: Config):
     for mp3_path in episode_files:
         mp3_filename = os.path.basename(mp3_path)
         try:
-            date_str = mp3_filename.replace("episode_", "").replace(".mp3", "")
+            # New format: episode_{type}_{timestamp}.mp3
+            # Or legacy format: episode_{timestamp}.mp3
+            # Using regex to extract timestamp at the end
+            match = re.search(r"_(\d{4}-\d{2}-\d{2}_\d{2})\.mp3$", mp3_filename)
+            if not match:
+                 # Try date-only match for older files
+                 match = re.search(r"_(\d{4}-\d{2}-\d{2})\.mp3$", mp3_filename)
+            
+            if match:
+                date_str = match.group(1)
+                # Determine type from filename part before timestamp
+                # format: episode_{type}_{timestamp}.mp3
+                # prefix: episode_
+                # suffix: _{timestamp}.mp3
+                type_part = mp3_filename[len("episode_"):match.start()]
+                
+                # If type_part ends with underscore, strip it (should always be empty/valid)
+                # For legacy 'episode_2024...' type_part might be empty
+                if not type_part:
+                    type_part = "legacy"
+            else:
+                # Fallback purely for legacy if regex fails (shouldn't happen with strict naming)
+                date_str = mp3_filename.replace("episode_", "").replace(".mp3", "")
+                type_part = "legacy"
+
             try:
                 dt = datetime.strptime(date_str, "%Y-%m-%d_%H")
                 dt = dt.replace(tzinfo=datetime.now().astimezone().tzinfo)
@@ -239,7 +275,9 @@ def generate_rss_feed(config: Config):
                 
             dt_utc = dt.astimezone(timezone.utc)
             
-            meta_filename = f"episode_metadata_{date_str}.json"
+            # Construct metadata filename based on MP3 filename pattern
+            # It matches the suffix of the MP3: episode_metadata_{type}_{timestamp}.json
+            meta_filename = mp3_filename.replace("episode_", "episode_metadata_").replace(".mp3", ".json")
             meta_path = os.path.join(config.podcast.episodes_dir, meta_filename)
             
             title_prefix = "News Briefing"
@@ -251,16 +289,19 @@ def generate_rss_feed(config: Config):
                         if "title_prefix" in meta:
                             title_prefix = meta["title_prefix"]
                         else:
-                            # Fallback inference for old episodes
-                            duration = meta.get("duration_minutes", 15)
+                            # Fallback using type inference (legacy)
                             episode_type = meta.get("type", "daily")
-                            
-                            if episode_type == "weekly":
+                            if "tech" in episode_type:
+                                 title_prefix = "Tech News Briefing"
+                            elif episode_type == "weekly":
                                 title_prefix = "Weekly News Round-up"
-                            elif duration <= 5:
-                                title_prefix = "Quick News Briefing"
                 except Exception:
                     pass
+            # Logic to infer title from filename type if metadata missing (optional backup)
+            elif "tech" in type_part:
+                title_prefix = "Tech News Briefing"
+            elif "weekly" in type_part:
+                title_prefix = "Weekly News Round-up"
 
         except ValueError:
             logger.warning(f"Skipping file with unexpected name format: {mp3_filename}")

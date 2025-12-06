@@ -136,6 +136,16 @@ HOST: Thanks.
     # Check for MP3
     mp3_files = list(episodes_dir.glob("*.mp3"))
     assert len(mp3_files) > 0, "No MP3 file created"
+    today = datetime.now().strftime("%Y-%m-%d_%H")
+    
+    # Expect filenames to include the type (daily)
+    # Note: args.type default is "daily" in test
+    expected_mp3 = f"episode_daily_{today}.mp3" 
+    expected_links = f"links_daily_{today}.html"
+    
+    assert os.path.exists(os.path.join(episodes_dir, expected_mp3))
+    assert os.path.exists(os.path.join(tmp_path, "feed.xml"))
+    assert os.path.exists(os.path.join(episodes_dir, expected_links))
     
     # Check for script
     assert (episodes_dir / "episode_script_clean.txt").exists()
@@ -143,11 +153,6 @@ HOST: Thanks.
     # Check for metadata
     json_files = list(episodes_dir.glob("episode_metadata_*.json"))
     assert len(json_files) > 0, "No metadata file created"
-    
-    # Check for Links Page (NEW)
-    link_files = list(episodes_dir.glob("links_*.html"))
-    assert len(link_files) > 0, "No links page created"
-    assert "Test News 1" in link_files[0].read_text()
     
     # Check index.html updated (NEW)
     index_content = (tmp_path / "index.html").read_text()

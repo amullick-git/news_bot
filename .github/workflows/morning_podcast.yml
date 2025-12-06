@@ -20,7 +20,7 @@ jobs:
     with:
       duration: ${{ inputs.duration || '15' }}
       lookback_days: "1"
-      type: "daily"
+      type: "morning"
       title_prefix: "News Briefing"
     secrets:
       GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}

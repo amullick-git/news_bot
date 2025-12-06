@@ -67,7 +67,13 @@ def main():
     
     # Select feeds based on type
     # If type contains 'tech', use tech feeds. Otherwise use general.
-    feed_key = "tech" if "tech" in args.type else "general"
+    # Map specific types (tech_daily, tech_weekly) to 'tech'
+    # Map others (morning, evening, weekly) to 'general'
+    if "tech" in args.type:
+        feed_key = "tech"
+    else:
+        feed_key = "general"
+        
     selected_feeds = config.feeds.get(feed_key, config.feeds["general"])
     
     logger.info(f"Selected feed category: {feed_key} ({len(selected_feeds)} feeds)")
@@ -101,7 +107,9 @@ def main():
     logger.info(f"Target duration: {config.processing.duration_minutes} minutes (~{target_words} words)")
 
     timestamp = datetime.now().strftime("%Y-%m-%d_%H")
-    sources_file = os.path.join(config.podcast.episodes_dir, f"episode_sources_{timestamp}.md")
+    filename_suffix = f"{args.type}_{timestamp}"
+
+    sources_file = os.path.join(config.podcast.episodes_dir, f"episode_sources_{filename_suffix}.md")
     write_episode_sources(items, sources_file)
 
     friendly_sources = get_friendly_source_names(selected_feeds)
@@ -119,21 +127,22 @@ def main():
         f.write(clean_script)
     logger.info(f"Cleaned script saved to {clean_script_path}")
 
-    out_file = os.path.join(config.podcast.episodes_dir, f"episode_{timestamp}.mp3")
+    out_file = os.path.join(config.podcast.episodes_dir, f"episode_{filename_suffix}.mp3")
     text_to_speech(clean_script, out_file)
     
-    meta_file = os.path.join(config.podcast.episodes_dir, f"episode_metadata_{timestamp}.json")
+    meta_file = os.path.join(config.podcast.episodes_dir, f"episode_metadata_{filename_suffix}.json")
     with open(meta_file, "w") as f:
         json.dump({
             "duration_minutes": config.processing.duration_minutes,
             "type": args.type,
-            "title_prefix": args.title_prefix
+            "title_prefix": args.title_prefix,
+            "timestamp": timestamp
         }, f)
     logger.info(f"Saved metadata to {meta_file}")
     
     if not args.test:
         cleanup_old_episodes(config.podcast.episodes_dir, config.processing.retention_days)
-        generate_episode_links_page(items, timestamp, config.podcast.episodes_dir)
+        generate_episode_links_page(items, filename_suffix, config.podcast.episodes_dir)
         update_index_with_links(config.podcast.episodes_dir)
         generate_rss_feed(config)
     else:

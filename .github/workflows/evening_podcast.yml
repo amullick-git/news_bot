@@ -15,7 +15,7 @@ jobs:
     with:
       duration: "8"
       lookback_days: "1"
-      type: "daily"
+      type: "evening"
       title_prefix: "Quick News Briefing"
     secrets:
       GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
