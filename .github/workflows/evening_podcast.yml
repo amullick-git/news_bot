@@ -13,7 +13,7 @@ jobs:
   generate:
     uses: ./.github/workflows/common.yml
     with:
-      duration: "5"
+      duration: "8"
       lookback_days: "1"
       type: "daily"
       title_prefix: "Quick News Briefing"
