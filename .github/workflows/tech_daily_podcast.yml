@@ -22,4 +22,6 @@ jobs:
       lookback_days: "1"
       type: "tech"
       title_prefix: "Tech News Briefing"
-    secrets: inherit
+    secrets:
+      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+      GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}

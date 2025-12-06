@@ -22,4 +22,6 @@ jobs:
       lookback_days: "7"
       type: "tech_weekly"
       title_prefix: "Weekly Tech Round-up"
-    secrets: inherit
+    secrets:
+      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+      GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}

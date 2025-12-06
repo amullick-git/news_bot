@@ -17,4 +17,6 @@ jobs:
       lookback_days: "1"
       type: "daily"
       title_prefix: "Quick News Briefing"
-    secrets: inherit
+    secrets:
+      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+      GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
