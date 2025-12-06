@@ -1,0 +1,25 @@
+name: Tech Podcast (Daily)
+
+on:
+  schedule:
+    # Run at 14:00 UTC (6:00 AM PST)
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+    inputs:
+      duration:
+        description: 'Duration in minutes'
+        required: false
+        default: '15'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    uses: ./.github/workflows/common.yml
+    with:
+      duration: ${{ inputs.duration || '15' }}
+      lookback_days: "1"
+      type: "tech"
+      title_prefix: "Tech News Briefing"
+    secrets: inherit

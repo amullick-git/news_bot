@@ -102,12 +102,14 @@ The project uses GitHub Actions for automation. The workflows are modularized to
 
 2.  **Triggers**:
     - `morning_podcast.yml`: Calls `common.yml` with 15 min duration (Daily 14:30 UTC).
-    - `evening_podcast.yml`: Calls `common.yml` with 5 min duration (Daily 02:30 UTC).
+    - `evening_podcast.yml`: Calls `common.yml` with 8 min duration (Daily 02:30 UTC).
+    - `tech_daily_podcast.yml`: Calls `common.yml` with `type: tech` (Daily 14:00 UTC).
+    - `tech_weekly_podcast.yml`: Calls `common.yml` with `type: tech_weekly` (Saturday 15:00 UTC).
     - `weekly_podcast.yml`: Calls `common.yml` with 20 min duration & 7-day lookback (Saturday 15:00 UTC).
 
 ## Architecture
 
-1.  **Fetcher (`src/fetcher.py`)**: Pulls data from RSS feeds defined in `config.yaml`. Filters by date and keywords.
+1.  **Fetcher (`src/fetcher.py`)**: Pulls data from RSS feeds defined in `config.yaml` (selected by `feeds` category). Filters by date and keywords.
 2.  **Content (`src/content.py`)**: Uses Gemini 1.5 Flash to:
     - Select the most relevant stories.
     - Summarize them into a conversational script (Host & Reporter).

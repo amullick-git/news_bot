@@ -37,18 +37,20 @@ podcast:
   language: "en"
   episodes_dir: "episodes"
 
-rss_sources:
-  - "http://example.com/rss"
+feeds:
+  general:
+    - "http://example.com/rss"
 
 keywords:
-  - "news"
+  general:
+    - "news"
 
 processing:
   max_per_feed: 10
   max_final_articles: 5
   duration_minutes: 5
   words_per_min: 150
-  gemini_model: "gemini-pro"
+  gemini_model: "gemini-2.5-flash"
   retention_days: 7
 """)
     

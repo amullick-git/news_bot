@@ -1,0 +1,25 @@
+name: Tech Podcast (Weekly)
+
+on:
+  schedule:
+    # Run at 15:00 UTC on Saturdays (7:00 AM PST)
+    - cron: '0 15 * * 6'
+  workflow_dispatch:
+    inputs:
+      duration:
+        description: 'Duration in minutes'
+        required: false
+        default: '30'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    uses: ./.github/workflows/common.yml
+    with:
+      duration: ${{ inputs.duration || '30' }}
+      lookback_days: "7"
+      type: "tech_weekly"
+      title_prefix: "Weekly Tech Round-up"
+    secrets: inherit

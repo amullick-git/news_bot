@@ -5,15 +5,19 @@ from src.config import load_config, Config
 
 def test_load_config(tmp_path):
     config_data = {
-        "rss_sources": ["http://example.com/rss"],
-        "keywords": ["test"],
+        "feeds": {
+            "general": ["http://example.com/rss"]
+        },
+        "keywords": {
+            "general": ["test"]
+        },
         "processing": {
             "duration_minutes": 10,
             "words_per_min": 100,
             "max_per_feed": 5,
             "max_final_articles": 5,
             "retention_days": 3,
-            "gemini_model": "gemini-pro"
+            "gemini_model": "gemini-2.5-flash"
         },
         "podcast": {
             "base_url": "http://example.com",
@@ -31,7 +35,7 @@ def test_load_config(tmp_path):
         
     config = load_config(str(config_file))
     
-    assert config.rss_sources == ["http://example.com/rss"]
+    assert config.feeds["general"] == ["http://example.com/rss"]
     assert config.processing.duration_minutes == 10
     assert config.podcast.title == "Test Podcast"
     assert config.podcast.image_url == "http://example.com/cover.jpg"

@@ -8,14 +8,15 @@ This project is an automated tool that fetches news from various RSS feeds, filt
 - **Smart Filtering**:
     - Filters articles from the last 24 hours.
     - Keyword matching.
-    - **Semantic Filtering**: Uses Google Gemini to select the most relevant and diverse stories based on your topics.
-- **Script Generation**: Uses Gemini to write a professional, neutral news anchor script.
+    - **Semantic Filtering**: Uses Google Gemini 2.5 Flash to select the most relevant and diverse stories based on your topics.
+- **Script Generation**: Uses Gemini 2.5 Flash to write a professional, neutral news anchor script.
     - **Host & Reporter Mode**: Generates a dialogue between a Host (Arjav) and a Reporter (Arohi).
 - **Audio Production**: Converts the script to speech using Google Cloud TTS with dynamic pacing and prosody (SSML).
     - **Multi-Voice**: Uses distinct WaveNet voices for the Host and Reporter.
 - **Dual Schedule**: Automatically runs twice daily:
     - **Morning Briefing (6:30 AM PST)**: 15-minute deep dive.
-    - **Evening Update (6:30 PM PST)**: 5-minute quick summary (labeled as "Quick News Briefing").
+    - **Evening Update (6:30 PM PST)**: 8-minute quick summary (labeled as "Quick News Briefing").
+    - **Tech News (Morning & Weekly)**: Dedicated tech news briefing daily and a detailed weekly round-up on Saturdays.
     - **Weekly Round-up (Saturday 7:00 AM PST)**: 20-minute summary of the week's top stories.
 - **Auto-Cleanup**: Episodes older than 7 days are automatically deleted to keep the feed fresh.
 - **Episode Links Page**: Generates a dedicated HTML page for each episode listing all source articles used.
@@ -62,8 +63,8 @@ This project is an automated tool that fetches news from various RSS feeds, filt
 
 2.  **Customize Sources & Topics:**
     - Edit `config.yaml` to modify:
-        - `rss_sources`: List of RSS feed URLs.
-        - `keywords`: Topics you are interested in.
+        - `feeds`: Dictionary of RSS feed URLs (grouped by `general` and `tech`).
+        - `keywords`: Topics you are interested in (grouped by `general` and `tech`).
         - `podcast`: Metadata like title, author, and base URL.
         - `processing`: Duration, word counts, and retention policy.
 
@@ -145,8 +146,14 @@ This repository includes GitHub Actions workflows to generate the podcast automa
 - Workflow: `.github/workflows/morning_podcast.yml`
 
 ### Evening Schedule
-- **06:30 PM PST** (02:30 UTC): 5-minute episode ("Quick News Briefing").
+- **06:30 PM PST** (02:30 UTC): 8-minute episode ("Quick News Briefing").
 - Workflow: `.github/workflows/evening_podcast.yml`
+
+### Tech Schedule
+- **Daily 06:00 AM PST** (14:00 UTC): 15-minute Tech News Briefing.
+- Workflow: `.github/workflows/tech_daily_podcast.yml`
+- **Weekly (Saturday) 07:00 AM PST** (15:00 UTC): 30-minute Weekly Tech Round-up.
+- Workflow: `.github/workflows/tech_weekly_podcast.yml`
 
 ### Weekly Schedule
 - **Saturday 07:00 AM PST** (15:00 UTC): 20-minute episode ("Weekly News Round-up").

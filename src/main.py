@@ -64,16 +64,27 @@ def main():
         logger.info(f"Output directory set to: {config.podcast.episodes_dir}")
 
     logger.info("=== Fetching news... ===")
-    items = fetch_all(config.rss_sources, config.processing.max_per_feed)
+    
+    # Select feeds based on type
+    # If type contains 'tech', use tech feeds. Otherwise use general.
+    feed_key = "tech" if "tech" in args.type else "general"
+    selected_feeds = config.feeds.get(feed_key, config.feeds["general"])
+    
+    logger.info(f"Selected feed category: {feed_key} ({len(selected_feeds)} feeds)")
+    items = fetch_all(selected_feeds, config.processing.max_per_feed)
 
     lookback_hours = args.lookback_days * 24
     items = filter_by_time_window(items, hours=lookback_hours)
 
     configure_gemini(api_key=os.getenv("GOOGLE_API_KEY"))
 
-    if config.keywords:
-        logger.info(f"Filtering by semantics (Gemini) for topics: {config.keywords}")
-        items = filter_by_semantics(items, config.keywords, config.processing.gemini_model, limit=config.processing.max_final_articles)
+    # Select keywords based on type, similar to feeds
+    kw_key = "tech" if "tech" in args.type else "general"
+    selected_keywords = config.keywords.get(kw_key, config.keywords["general"])
+
+    if selected_keywords:
+        logger.info(f"Filtering by semantics (Gemini) for topics: {selected_keywords}")
+        items = filter_by_semantics(items, selected_keywords, config.processing.gemini_model, limit=config.processing.max_final_articles)
 
 
     items = items[:config.processing.max_final_articles]
@@ -93,7 +104,7 @@ def main():
     sources_file = os.path.join(config.podcast.episodes_dir, f"episode_sources_{timestamp}.md")
     write_episode_sources(items, sources_file)
 
-    friendly_sources = get_friendly_source_names(config.rss_sources)
+    friendly_sources = get_friendly_source_names(selected_feeds)
     script = summarize_with_gemini(items, target_words, config.processing.gemini_model, friendly_sources)
 
     raw_script_path = os.path.join(config.podcast.episodes_dir, "episode_script_raw.txt")

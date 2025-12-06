@@ -35,8 +35,8 @@ class PodcastConfig:
 
 @dataclass
 class Config:
-    rss_sources: List[str]
-    keywords: List[str]
+    feeds: Dict[str, List[str]]
+    keywords: Dict[str, List[str]]
     processing: ProcessingConfig
     podcast: PodcastConfig
 
@@ -53,7 +53,7 @@ def load_config(config_path: str = "config.yaml") -> Config:
         raw = yaml.safe_load(f)
 
     return Config(
-        rss_sources=raw["rss_sources"],
+        feeds=raw["feeds"],
         keywords=raw["keywords"],
         processing=ProcessingConfig(**raw["processing"]),
         podcast=PodcastConfig(**raw["podcast"])
