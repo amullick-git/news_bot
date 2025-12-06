@@ -15,16 +15,26 @@ def test_load_config(tmp_path):
         },
         "processing": {
             "duration_minutes": 10,
-            "words_per_min": 100,
+            "words_per_min": 150,
             "max_per_feed": 5,
-            "max_final_articles": 5,
-            "retention_days": 3,
-            "gemini_model": "gemini-2.5-flash"
+            "max_final_articles": 10,
+            "retention_days": 7,
+            "gemini_model": "gemini-1.5-flash"
+        },
+        "processing_overrides": {
+            "kids": {
+                "duration_minutes": 5,
+                "words_per_min": 100,
+                "max_per_feed": 3,
+                "max_final_articles": 5,
+                "retention_days": 7,
+                "gemini_model": "gemini-1.5-flash"
+            }
         },
         "podcast": {
             "base_url": "http://example.com",
             "title": "Test Podcast",
-            "author": "Tester",
+            "author": "Test Author",
             "image_filename": "cover.jpg",
             "language": "en",
             "episodes_dir": "episodes"
@@ -39,5 +49,10 @@ def test_load_config(tmp_path):
     
     assert config.feeds["general"] == ["http://example.com/rss"]
     assert config.processing.duration_minutes == 10
+    
+    # Test overrides
+    assert config.processing_overrides is not None
+    assert "kids" in config.processing_overrides
+    assert config.processing_overrides["kids"].duration_minutes == 5
     assert config.podcast.title == "Test Podcast"
     assert config.podcast.image_url == "http://example.com/cover.jpg"

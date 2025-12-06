@@ -39,6 +39,7 @@ class Config:
     keywords: Dict[str, List[str]]
     processing: ProcessingConfig
     podcast: PodcastConfig
+    processing_overrides: Dict[str, ProcessingConfig] = None
 
 def load_config(config_path: str = "config.yaml") -> Config:
     if not os.path.exists(config_path):
@@ -52,9 +53,15 @@ def load_config(config_path: str = "config.yaml") -> Config:
     with open(config_path, "r") as f:
         raw = yaml.safe_load(f)
 
+    overrides = {}
+    if "processing_overrides" in raw:
+        for key, val in raw["processing_overrides"].items():
+            overrides[key] = ProcessingConfig(**val)
+
     return Config(
         feeds=raw["feeds"],
         keywords=raw["keywords"],
         processing=ProcessingConfig(**raw["processing"]),
-        podcast=PodcastConfig(**raw["podcast"])
+        podcast=PodcastConfig(**raw["podcast"]),
+        processing_overrides=overrides
     )

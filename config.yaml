@@ -19,11 +19,12 @@ feeds:
     - "http://feeds.bbci.co.uk/news/world/rss.xml"
     - "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
     - "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
-    - "https://feeds.feedburner.com/ndtvnews-india-news"
-    - "https://hnrss.org/frontpage"
     - "https://www.theverge.com/rss/index.xml"
     - "https://www.cnbc.com/id/100003114/device/rss/rss.html"
     - "https://feeds.npr.org/1001/rss.xml"
+    - "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+    - "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+    - "https://www.nasa.gov/rss/dyn/breaking_news.rss"
 
 keywords:
   general:
@@ -55,6 +56,7 @@ keywords:
   kids:
     - "science"
     - "space"
+    - "world"
     - "animals"
     - "technology"
     - "environment"
@@ -69,6 +71,15 @@ processing:
   max_final_articles: 20
   retention_days: 7
   gemini_model: "gemini-2.5-flash"
+
+processing_overrides:
+  kids:
+    duration_minutes: 12
+    words_per_min: 125
+    max_per_feed: 8
+    max_final_articles: 15
+    retention_days: 7
+    gemini_model: "gemini-2.5-flash"
 
 podcast:
   base_url: "https://amullick-git.github.io/news_bot"

@@ -77,6 +77,14 @@ def main():
     else:
         feed_key = "general"
         
+    # Apply processing overrides if defined for this category
+    if config.processing_overrides and feed_key in config.processing_overrides:
+        logger.info(f"Applying processing overrides for category: {feed_key}")
+        config.processing = config.processing_overrides[feed_key]
+        # Re-apply CLI duration override if provided, as it should take precedence
+        if args.duration:
+            config.processing.duration_minutes = args.duration
+
     selected_feeds = config.feeds.get(feed_key, config.feeds["general"])
     
     logger.info(f"Selected feed category: {feed_key} ({len(selected_feeds)} feeds)")
