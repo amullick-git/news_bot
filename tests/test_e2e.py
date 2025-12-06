@@ -158,7 +158,11 @@ HOST: Thanks.
     
     # Check index.html updated (NEW)
     index_content = (tmp_path / "index.html").read_text()
-    assert "links_" in index_content
+    # Check RSS Feed
+    feed_content = (tmp_path / "feed.xml").read_text()
+    # New Format: Title - Month Day, Year
+    # e.g., "News Briefing - December 06, 2025"
+    assert "News Briefing -" in feed_content
     assert "View News Sources" in index_content
     
     # Check RSS Feed (NEW - since we removed --test)

@@ -267,11 +267,13 @@ def generate_rss_feed(config: Config):
             try:
                 dt = datetime.strptime(date_str, "%Y-%m-%d_%H")
                 dt = dt.replace(tzinfo=datetime.now().astimezone().tzinfo)
-                display_title = dt.strftime("%Y-%m-%d %H:00 %Z")
+                # User-friendly date format: December 06, 2024
+                # We drop the time from the title to keep it clean
+                display_title = dt.strftime("%B %d, %Y")
             except ValueError:
                 dt = datetime.strptime(date_str, "%Y-%m-%d")
                 dt = dt.replace(tzinfo=datetime.now().astimezone().tzinfo)
-                display_title = date_str
+                display_title = dt.strftime("%B %d, %Y")
                 
             dt_utc = dt.astimezone(timezone.utc)
             
@@ -292,16 +294,28 @@ def generate_rss_feed(config: Config):
                             # Fallback using type inference (legacy)
                             episode_type = meta.get("type", "daily")
                             if "tech" in episode_type:
-                                 title_prefix = "Tech News Briefing"
-                            elif episode_type == "weekly":
-                                title_prefix = "Weekly News Round-up"
+                                 title_prefix = "Tech News"
+                            elif "kids" in episode_type:
+                                 title_prefix = "Kids News"
+                            elif "weekly" in episode_type:
+                                title_prefix = "Weekly Round-up"
+                            elif "morning" in episode_type:
+                                title_prefix = "Morning News"
+                            elif "evening" in episode_type:
+                                title_prefix = "Evening News"
                 except Exception:
                     pass
             # Logic to infer title from filename type if metadata missing (optional backup)
             elif "tech" in type_part:
-                title_prefix = "Tech News Briefing"
+                title_prefix = "Tech News"
+            elif "kids" in type_part:
+                title_prefix = "Kids News"
             elif "weekly" in type_part:
-                title_prefix = "Weekly News Round-up"
+                title_prefix = "Weekly Round-up"
+            elif "morning" in type_part:
+                title_prefix = "Morning News"
+            elif "evening" in type_part:
+                title_prefix = "Evening News"
 
         except ValueError:
             logger.warning(f"Skipping file with unexpected name format: {mp3_filename}")
@@ -312,7 +326,7 @@ def generate_rss_feed(config: Config):
         
         fe = fg.add_entry()
         fe.id(file_url)
-        fe.title(f"{title_prefix}: {display_title}")
+        fe.title(f"{title_prefix} - {display_title}")
         fe.description(f"Daily news summary for {display_title}.")
         fe.link(href=file_url)
         fe.enclosure(file_url, str(file_size), 'audio/mpeg')
