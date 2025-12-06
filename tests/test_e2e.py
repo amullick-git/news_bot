@@ -44,6 +44,8 @@ feeds:
 keywords:
   general:
     - "news"
+  kids:
+    - "science"
 
 processing:
   max_per_feed: 10

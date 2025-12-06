@@ -68,9 +68,12 @@ def main():
     # Select feeds based on type
     # If type contains 'tech', use tech feeds. Otherwise use general.
     # Map specific types (tech_daily, tech_weekly) to 'tech'
+    # Map 'kids_daily' to 'kids'
     # Map others (morning, evening, weekly) to 'general'
     if "tech" in args.type:
         feed_key = "tech"
+    elif "kids" in args.type:
+        feed_key = "kids"
     else:
         feed_key = "general"
         
@@ -85,7 +88,8 @@ def main():
     configure_gemini(api_key=os.getenv("GOOGLE_API_KEY"))
 
     # Select keywords based on type, similar to feeds
-    kw_key = "tech" if "tech" in args.type else "general"
+    # Re-using feed_key logic is safe here as structure mirrors feeds
+    kw_key = feed_key # "tech", "kids", or "general"
     selected_keywords = config.keywords.get(kw_key, config.keywords["general"])
 
     if selected_keywords:
@@ -113,7 +117,11 @@ def main():
     write_episode_sources(items, sources_file)
 
     friendly_sources = get_friendly_source_names(selected_feeds)
-    script = summarize_with_gemini(items, target_words, config.processing.gemini_model, friendly_sources)
+    
+    # Determine audience
+    audience = "kids" if "kids" in args.type else "general"
+    
+    script = summarize_with_gemini(items, target_words, config.processing.gemini_model, friendly_sources, audience=audience)
 
     raw_script_path = os.path.join(config.podcast.episodes_dir, "episode_script_raw.txt")
     with open(raw_script_path, "w") as f:

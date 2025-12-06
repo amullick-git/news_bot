@@ -15,6 +15,15 @@ feeds:
     - "https://www.technologyreview.com/feed/"
     - "https://hnrss.org/frontpage"
     - "https://www.bloomberg.com/feeds/technology.rss"
+  kids:
+    - "http://feeds.bbci.co.uk/news/world/rss.xml"
+    - "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+    - "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    - "https://feeds.feedburner.com/ndtvnews-india-news"
+    - "https://hnrss.org/frontpage"
+    - "https://www.theverge.com/rss/index.xml"
+    - "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+    - "https://feeds.npr.org/1001/rss.xml"
 
 keywords:
   general:
@@ -43,6 +52,15 @@ keywords:
     - "microsoft"
     - "tech policy"
     - "electric vehicles"
+  kids:
+    - "science"
+    - "space"
+    - "animals"
+    - "technology"
+    - "environment"
+    - "sports"
+    - "inventions"
+    - "history"
 
 processing:
   duration_minutes: 15

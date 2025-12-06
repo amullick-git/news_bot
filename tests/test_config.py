@@ -6,10 +6,12 @@ from src.config import load_config, Config
 def test_load_config(tmp_path):
     config_data = {
         "feeds": {
-            "general": ["http://example.com/rss"]
+            "general": ["http://example.com/rss"],
+            "kids": ["http://example.com/rss"]
         },
         "keywords": {
-            "general": ["test"]
+            "general": ["test"],
+            "kids": ["test"]
         },
         "processing": {
             "duration_minutes": 10,

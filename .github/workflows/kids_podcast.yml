@@ -1,0 +1,27 @@
+name: Kids Podcast (Daily)
+
+on:
+  schedule:
+    # Run at 14:00 UTC (6:00 AM PST)
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+    inputs:
+      duration:
+        description: 'Duration in minutes'
+        required: false
+        default: '15'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    uses: ./.github/workflows/common.yml
+    with:
+      duration: ${{ inputs.duration || '15' }}
+      lookback_days: "1"
+      type: "kids_daily"
+      title_prefix: "Kids News"
+    secrets:
+      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+      GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}

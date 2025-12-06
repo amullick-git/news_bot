@@ -80,7 +80,7 @@ def filter_by_semantics(items: List[Dict[str, Any]], topics: List[str], model_na
         raise # Retry will catch this
 
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10))
-def summarize_with_gemini(articles: List[Dict[str, Any]], target_words: int, model_name: str, friendly_sources: str) -> str:
+def summarize_with_gemini(articles: List[Dict[str, Any]], target_words: int, model_name: str, friendly_sources: str, audience: str = "general") -> str:
     model = genai.GenerativeModel(model_name)
 
     articles_block = ""
@@ -92,13 +92,20 @@ Summary: {a.get('summary')}
 Source: {a.get('link')}
 """
 
+    if audience == "kids":
+       tone_instruction = "Tone: Energetic, simple, educational, and fun. Verify content is safe for legal minors (approx 10 years old). Explain complex terms simply."
+       intro_instruction = f"HOST: High-energy intro! Welcome to the Kids News Station! Mention we are checking sources like {friendly_sources}."
+    else:
+       tone_instruction = "Tone: Conversational, engaging, yet professional. Professional news anchor style."
+       intro_instruction = f"HOST: Intro (Welcome to Arjav's Daily News Briefing...). Start with a short, interesting fact to grab attention. Explicitly mention that we are covering news from {friendly_sources} and others."
+
     prompt = f"""
     You are writing a script for a professional news podcast featuring two speakers: a HOST and a REPORTER.
 
     **Format:**
     - Use "HOST:" for lines spoken by the host (Arjav).
     - Use "REPORTER:" for lines spoken by the reporter (Arohi).
-    - Write in a conversational, engaging, yet professional tone.
+    - {tone_instruction}
     - Don't keep repeating the name of the reporter or host in the conversation.
     - The HOST introduces the show, transitions between topics, and asks the REPORTER for details.
     - The REPORTER provides the in-depth news summaries and analysis.
@@ -115,9 +122,9 @@ Source: {a.get('link')}
     {articles_block}
 
     **Structure:**
-    1. HOST: Intro (Welcome to Arjav's Daily News Briefing...). Start with a short, interesting fact to grab attention. IMPORTANT: In the intro, explicitly mention that we are covering news from {friendly_sources} and others.
+    1. {intro_instruction}
     2. HOST & REPORTER: Dialogue covering the top stories. Group related stories together.
-    3. HOST: Outro. Include a short, interesting "fun fact of the day" (related to tech, science, or history) before signing off.
+    3. HOST: Outro. Include a short, interesting "fun fact of the day" (for kids: related to animals/space; for general: tech/history) before signing off.
     """
 
     response = model.generate_content(prompt)
