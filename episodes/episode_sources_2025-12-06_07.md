@@ -1,69 +1,81 @@
 # Episode Sources
 
-1. **Waymo to issue software recall over how robotaxis behave around school buses**  
-   _techcrunch.com_  
-   https://techcrunch.com/2025/12/05/waymo-to-issue-software-recall-over-how-robotaxis-behave-around-school-buses/
+1. **US Supreme Court agrees to hear case challenging birthright citizenship**  
+   _www.bbc.com_  
+   https://www.bbc.com/news/articles/c208j0wrzrvo?at_medium=RSS&at_campaign=rss
 
-2. **Meta acquires AI device startup Limitless**  
-   _techcrunch.com_  
-   https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/
+2. **US panel votes to end recommending hepatitis B vaccine for all newborns**  
+   _www.bbc.com_  
+   https://www.bbc.com/news/articles/cwypwznx9kqo?at_medium=RSS&at_campaign=rss
 
-3. **OpenAI has trained its LLM to confess to bad behavior**  
-   _www.technologyreview.com_  
-   https://www.technologyreview.com/2025/12/03/1128740/openai-has-trained-its-llm-to-confess-to-bad-behavior/
+3. **Trump’s Security Strategy Focuses on Profit, Not Spreading Democracy**  
+   _www.nytimes.com_  
+   https://www.nytimes.com/2025/12/05/us/politics/trump-national-security-strategy.html
 
-4. **AI chatbots can sway voters better than political advertisements**  
-   _www.technologyreview.com_  
-   https://www.technologyreview.com/2025/12/04/1128824/ai-chatbots-can-sway-voters-better-than-political-advertisements/
+4. **The Supreme Court, Once Wary of Partisan Gerrymandering, Goes All In**  
+   _www.nytimes.com_  
+   https://www.nytimes.com/2025/12/05/us/politics/supreme-court-partisan-gerrymandering.html
 
-5. **AWS needs you to believe in AI agents**  
-   _techcrunch.com_  
-   https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/
+5. **Have Trump’s Tariffs Gone as High as They Can Go? Business Hope So**  
+   _www.nytimes.com_  
+   https://www.nytimes.com/2025/12/06/business/economy/tariff-exemptions-trump.html
 
-6. **Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people**  
-   _techcrunch.com_  
-   https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/
+6. **Here’s How Trump Has Made It Harder for Migrants Seeking Asylum and Citizenship**  
+   _www.nytimes.com_  
+   https://www.nytimes.com/2025/12/05/us/politics/trump-immigration-changes.html
 
-7. **Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation**  
-   _techcrunch.com_  
-   https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/
+7. **Appeals court hands Trump a victory, OK'ing firings of two independent agency heads**  
+   _www.npr.org_  
+   https://www.npr.org/2025/12/05/nx-s1-5634705/trump-nlrb-mspb-firing-appeal
 
-8. **How AI is uncovering hidden geothermal energy resources**  
-   _www.technologyreview.com_  
-   https://www.technologyreview.com/2025/12/04/1128763/ai-geothermal-zanskar/
+8. **Russia bombards Ukraine as US says progress made in talks with Kyiv**  
+   _www.bbc.com_  
+   https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss
 
-9. **SpaceX reportedly in talks for secondary sale at $800B valuation, which would make it America’s most valuable private company**  
-   _techcrunch.com_  
-   https://techcrunch.com/2025/12/05/spacex-reportedly-in-talks-for-secondary-sale-at-800b-valuation-which-would-make-it-americas-most-valuable-private-company/
+9. **At least 11 killed in South Africa mass shooting**  
+   _www.bbc.com_  
+   https://www.bbc.com/news/articles/cwyvkrkl2jlo?at_medium=RSS&at_campaign=rss
 
-10. **This startup built a Fitbit for your brain to combat chronic stress**  
-   _techcrunch.com_  
-   https://techcrunch.com/2025/12/05/this-startup-built-a-fitbit-for-your-brain-to-combat-chronic-stress/
+10. **Deadly border fighting breaks out between Pakistan and Afghanistan**  
+   _www.bbc.com_  
+   https://www.bbc.com/news/articles/cn09zp87pz8o?at_medium=RSS&at_campaign=rss
 
-11. **Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming**  
-   _arstechnica.com_  
-   https://arstechnica.com/gadgets/2025/12/netflixs-72b-wb-acquisition-confounds-the-future-of-movie-theaters-streaming/
+11. **Sudanese paramilitary drone attack kills 50, including 33 children, doctor group says**  
+   _www.npr.org_  
+   https://www.npr.org/2025/12/06/g-s1-101066/sudanese-paramilitary-drone-attack-kills-50
 
-12. **Streaming service makes rare decision to lower its monthly fees**  
-   _arstechnica.com_  
-   https://arstechnica.com/gadgets/2025/12/fubo-lowers-its-prices-by-up-to-15-after-losing-nbcuniversal-channels/
+12. **New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work**  
+   _www.nytimes.com_  
+   https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html
 
-13. **Wolfram Compute Services**  
-   _writings.stephenwolfram.com_  
-   https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/
+13. **EU Hits Elon Musk’s X With $140 Million Fine**  
+   _www.nytimes.com_  
+   https://www.nytimes.com/2025/12/05/technology/eu-elon-musk-x-140-million-fine.html
 
-14. **How I discovered a hidden microphone on a Chinese NanoKVM**  
-   _telefoncek.si_  
-   https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/
+14. **Judge finalizes remedies in Google antitrust case**  
+   _www.cnbc.com_  
+   https://www.cnbc.com/2025/12/05/judge-finalize-remedies-in-google-antitrust-case.html
 
-15. **Elon Musk’s X first to be fined under EU’s Digital Services Act**  
-   _arstechnica.com_  
-   https://arstechnica.com/tech-policy/2025/12/elon-musks-x-first-to-be-fined-under-eus-digital-service-act/
+15. **Berkshire Hathaway is on track to lag behind the S&P 500 in Buffett's last year as CEO**  
+   _www.cnbc.com_  
+   https://www.cnbc.com/2025/12/06/berkshire-hathaway-is-on-track-to-lag-behind-the-sp-500-in-buffetts-last-year-as-ceo.html
 
-16. **Feds find more complaints of Tesla’s FSD running red lights and crossing lanes**  
-   _techcrunch.com_  
-   https://techcrunch.com/2025/12/05/feds-find-more-complaints-of-teslas-fsd-running-red-lights-and-crossing-lanes/
+16. **SpaceX aims for $800 billion valuation in secondary share sale, WSJ reports**  
+   _www.cnbc.com_  
+   https://www.cnbc.com/2025/12/05/spacex-aims-for-800b-valuation-in-secondary-share-sale-wsj-reports.html
 
-17. **Toyota’s new GR GT picks up where the 2000GT and Lexus LFA left off**  
-   _arstechnica.com_  
-   https://arstechnica.com/cars/2025/12/toyota-busts-out-a-new-flagship-gazoo-racing-coupe-plus-gt3-version/
+17. **'Hindu Rate Of Growth' Was A Way Of Maligning Faith: PM Modi**  
+   _www.ndtv.com_  
+   https://www.ndtv.com/india-news/when-world-is-fragmented-india-stands-as-bridge-builder-pm-modi-9762939#publisher=newsstand
+
+18. **Centre Plans Big IndiGo Crackdown Amid Flight Disruptions: Sources**  
+   _www.ndtv.com_  
+   https://www.ndtv.com/india-news/indigo-crisis-live-updates-centre-planning-big-indigo-crackdown-likely-to-get-ceo-pieter-elbers-sacked-sources-9761987#publisher=newsstand
+
+19. **Putin and Modi expand India-Russia economic ties in talks in New Delhi**  
+   _www.npr.org_  
+   https://www.npr.org/2025/12/05/g-s1-100899/putin-modi-india-visit-russia-trade-oil
+
+20. **Netflix to Buy Warner Bros in $83 Billion Deal**  
+   _www.nytimes.com_  
+   https://www.nytimes.com/2025/12/05/business/warner-brothers-discovery-netflix.html
