@@ -267,9 +267,8 @@ def generate_rss_feed(config: Config):
             try:
                 dt = datetime.strptime(date_str, "%Y-%m-%d_%H")
                 dt = dt.replace(tzinfo=datetime.now().astimezone().tzinfo)
-                # User-friendly date format: December 06, 2024
-                # We drop the time from the title to keep it clean
-                display_title = dt.strftime("%B %d, %Y")
+                # User-friendly date format with hour: December 06, 2024 - 02 PM
+                display_title = dt.strftime("%B %d, %Y - %I %p")
             except ValueError:
                 dt = datetime.strptime(date_str, "%Y-%m-%d")
                 dt = dt.replace(tzinfo=datetime.now().astimezone().tzinfo)
