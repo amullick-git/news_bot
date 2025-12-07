@@ -60,6 +60,13 @@ news_podcast/
     export GOOGLE_APPLICATION_CREDENTIALS="path/to/service_account.json"
     ```
 
+5.  **Set up Git Hooks (Recommended):**
+    Install the pre-push hook to automatically run tests and verification before pushing:
+    ```bash
+    cp scripts/pre-push.sh .git/hooks/pre-push
+    chmod +x .git/hooks/pre-push
+    ```
+
 ## Running Locally
 
 You can run the bot locally using the module syntax:
