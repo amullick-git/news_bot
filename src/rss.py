@@ -97,8 +97,24 @@ LINKS_PAGE_TEMPLATE = """<!DOCTYPE html>
 </html>"""
 
 def generate_episode_links_page(items: List[Dict[str, Any]], timestamp: str, episodes_dir: str) -> str:
-    date_str = timestamp.replace("_", " ")
-    
+    # timestamp arg is actually "type_datehash" suffix
+    # Try to parse it for a nicer title
+    try:
+        # Expected: {type}_{yyyy-mm-dd_hh}
+        # e.g. tech_daily_2024-12-06_17
+        match = re.search(r"^(.*)_(\d{4}-\d{2}-\d{2}_\d{2})$", timestamp)
+        if match:
+            raw_type = match.group(1).replace("_", " ").title()
+            date_part = match.group(2)
+            dt = datetime.strptime(date_part, "%Y-%m-%d_%H")
+            date_str = dt.strftime("%B %d, %Y - %I %p")
+            page_title = f"{raw_type}: {date_str}"
+        else:
+            # Fallback
+            page_title = timestamp.replace("_", " ")
+    except:
+        page_title = timestamp.replace("_", " ")
+
     items_html = ""
     for item in items:
         title = html.escape(item.get("title", "Untitled"))
@@ -112,7 +128,7 @@ def generate_episode_links_page(items: List[Dict[str, Any]], timestamp: str, epi
         </div>
         """
         
-    page_content = LINKS_PAGE_TEMPLATE.format(date_str=date_str, items_html=items_html)
+    page_content = LINKS_PAGE_TEMPLATE.format(date_str=page_title, items_html=items_html)
     
     filename = f"links_{timestamp}.html"
     filepath = os.path.join(episodes_dir, filename)
@@ -132,28 +148,40 @@ def update_index_with_links(episodes_dir: str):
     links_html = ""
     for filepath in link_files:
         filename = os.path.basename(filepath)
+        display_label = ""
+        display_date = ""
+        
         try:
             # Filename format: links_{type}_{timestamp}.html
-            # Extract timestamp using regex looking for date pattern at end
-            match = re.search(r"_(\d{4}-\d{2}-\d{2}_\d{2})\.html$", filename)
+            # Regex: match prefix "links_", then capture type group, then capture date group
+            # e.g. links_tech_daily_2024-12-06_17.html
+            match = re.search(r"links_(.*)_(\d{4}-\d{2}-\d{2}_\d{2})\.html$", filename)
+            
             if match:
-                date_part = match.group(1)
+                raw_type = match.group(1).replace("_", " ").title() # e.g. Tech Daily
+                date_part = match.group(2)
                 dt = datetime.strptime(date_part, "%Y-%m-%d_%H")
                 display_date = dt.strftime("%B %d, %Y - %I:%M %p")
                 
-                # Extract type for better display label? (Optional, kept simple for now)
+                display_label = f"[{raw_type}]"
             else:
-                 # Legacy fallbacks
+                 # Legacy fallback
                  date_part = filename.replace("links_", "").replace(".html", "")
-                 dt = datetime.strptime(date_part, "%Y-%m-%d_%H")
-                 display_date = dt.strftime("%B %d, %Y - %I:%M %p")
+                 # Try to parse date if possible, otherwise raw
+                 try: 
+                    dt = datetime.strptime(date_part, "%Y-%m-%d_%H")
+                    display_date = dt.strftime("%B %d, %Y - %I:%M %p")
+                 except:     
+                    display_date = date_part
                  
-        except ValueError:
+        except Exception:
             display_date = filename
+            
+        full_text = f"{display_label} {display_date}".strip()
             
         links_html += f"""
         <a href="{episodes_dir}/{filename}" class="episode-link-item">
-            <span class="episode-link-date">{display_date}</span>
+            <span class="episode-link-date">{full_text}</span>
             <br>View News Sources
         </a>
         """
