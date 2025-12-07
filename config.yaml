@@ -75,9 +75,10 @@ processing:
   gemini_model: "gemini-2.5-flash"
   fetch_limit: 100  # Max items per feed to fetch
   local_model: "all-MiniLM-L6-v2"  # Local embedding model for semantic filtering
-  local_model: "all-MiniLM-L6-v2"  # Local embedding model for semantic filtering
   local_prefilter_limit: 50  # Stage 1: Local AI reduces to this many candidates
-  voice_type: "wavenet"  # TTS Voice type: wavenet (default), neural, studio, or chirp3-hdessing_overrides:
+  voice_type: "wavenet"  # TTS Voice type: wavenet (default), neural, studio, or chirp3-hd
+
+processing_overrides:
   kids:
     duration_minutes: 12
     words_per_min: 125
