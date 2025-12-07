@@ -8,11 +8,14 @@ This project is an automated tool that fetches news from various RSS feeds, filt
 - **Smart Filtering**:
     - Filters articles from the last 24 hours.
     - Keyword matching.
-    - **Hybrid Semantic Filtering**: Uses a local AI model (`sentence-transformers`) to efficiently scan 500+ articles and shortlist the top relevant ones (saving API quota), followed by Google Gemini 2.5 Flash for final summarization.
+    - **Hybrid Semantic Filtering**: Uses a two-stage pipeline:
+        1. **Local AI**: `sentence-transformers` efficiently scans 500+ articles to identifying top candidates (configurable limit).
+        2. **Gemini Filter**: Uses Gemini 2.5 Flash to make the final editorial selection, ensuring high quality and relevance.
 - **Script Generation**: Uses Gemini 2.5 Flash to write a professional, neutral news anchor script.
     - **Host & Reporter Mode**: Generates a dialogue between a Host (Arjav) and a Reporter (Arohi).
 - **Audio Production**: Converts the script to speech using Google Cloud TTS with dynamic pacing and prosody (SSML).
-    - **Multi-Voice**: Uses distinct WaveNet voices for the Host and Reporter.
+    - **Voice Selection**: Support for **WaveNet** (Standard), **Neural2** (Human-like), and **Studio** (Premium) voices.
+    - **Multi-Voice**: Uses distinct voices for the Host and Reporter.
     - **Intro Announcement**: Explicitly announces the show name (e.g. "Welcome to Weekly Tech Round-up") for clarity.
 - **Metrics Logging**: Logs run statistics (fetched vs. used articles) to `metrics_prod.md` for performance tracking.
 - **Dual Schedule**: Automatically runs twice daily:
@@ -80,6 +83,9 @@ python -m src.main
 
 # Custom duration (e.g., 5 minutes)
 python -m src.main --duration 5
+
+# Use Premium Studio Voices
+python -m src.main --voice-type studio
 
 # Weekly Round-up (20 mins, last 7 days)
 python -m src.main --duration 20 --lookback-days 7 --type weekly --title-prefix "Weekly News Round-up"
