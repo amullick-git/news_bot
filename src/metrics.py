@@ -34,16 +34,18 @@ class MetricsLogger:
                 shortlisted_items: List[Dict[str, Any]], 
                 run_type: str, 
                 is_test: bool = False,
-                links_file: str = None):
+                links_file: str = None,
+                local_ai_items: List[Dict[str, Any]] = None):
         
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
         
         # Calculate stats
         fetched_counts = self._count_by_source(fetched_items)
         shortlisted_counts = self._count_by_source(shortlisted_items)
+        local_ai_counts = self._count_by_source(local_ai_items) if local_ai_items else {}
         
         # Merge all known sources
-        all_sources = sorted(list(set(fetched_counts.keys()) | set(shortlisted_counts.keys())))
+        all_sources = sorted(list(set(fetched_counts.keys()) | set(shortlisted_counts.keys()) | set(local_ai_counts.keys())))
         
         # Build Markdown Report
         lines = []
@@ -55,16 +57,24 @@ class MetricsLogger:
             # Let's just print the filename for now or relative path.
             lines.append(f"**Links File**: [{links_file}](episodes/{links_file})\n")
             
-        lines.append(f"**Total Fetched**: {len(fetched_items)} -> **Shortlisted**: {len(shortlisted_items)}\n")
+        stats_line = f"**Total Fetched**: {len(fetched_items)}"
+        if local_ai_items is not None:
+             stats_line += f" -> **Stage 1 (Local AI)**: {len(local_ai_items)}"
+             stats_line += f" -> **Stage 2 (Gemini Final)**: {len(shortlisted_items)}\n"
+        else:
+             stats_line += f" -> **Final Selection**: {len(shortlisted_items)}\n"
+        
+        lines.append(stats_line)
         
         lines.append("### Breakdown by Source")
-        lines.append("| Source | Fetched | Selected |")
-        lines.append("|---|---|---|")
+        lines.append("| Source | Fetched | Stage 1 (Local AI) | Selected |")
+        lines.append("|---|---|---|---|")
         
         for src in all_sources:
             f_count = fetched_counts.get(src, 0)
-            s_count = shortlisted_counts.get(src, 0)
-            lines.append(f"| {src} | {f_count} | {s_count} |")
+            s1_count = local_ai_counts.get(src, 0)
+            s2_count = shortlisted_counts.get(src, 0)
+            lines.append(f"| {src} | {f_count} | {s1_count} | {s2_count} |")
             
         lines.append("\n" + "-"*40 + "\n")
         

@@ -30,10 +30,22 @@ def test_metrics_logger(tmp_path):
         print(content)
         assert "## Run:" in content
         assert "Type: unit_test" in content
-        assert "**Total Fetched**: 4 -> **Shortlisted**: 2" in content
-        assert "| BBC | 2 | 1 |" in content
-        assert "| NYT | 1 | 1 |" in content
-        assert "| unknown.com | 1 | 0 |" in content
+        assert "**Total Fetched**: 4 -> **Final Selection**: 2" in content
+        assert "| BBC | 2 | 0 | 1 |" in content
+        assert "| NYT | 1 | 0 | 1 |" in content
+        assert "| unknown.com | 1 | 0 | 0 |" in content
+
+    # Test with Stage 1 items
+    stage1_items = [
+        {"link": "https://bbc.com/1", "source_name": "BBC"},
+        {"link": "https://bbc.com/2", "source_name": "BBC"},
+        {"link": "https://nyt.com/1", "source_name": "NYT"}
+    ]
+    
+    logger.log_run(fetched, shortlisted, run_type="stage1_test", is_test=True, local_ai_items=stage1_items)
+    with open(test_file) as f:
+        content = f.read()
+        assert "**Total Fetched**: 4 -> **Stage 1 (Local AI)**: 3 -> **Stage 2 (Gemini Final)**: 2" in content
 
     # Test Prod Mode with Link
     logger.log_run(fetched, shortlisted, run_type="prod_run", is_test=False, links_file="links_prod.html")

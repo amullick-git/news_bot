@@ -114,6 +114,7 @@ def main():
     selected_keywords = config.keywords.get(kw_key, config.keywords["general"])
 
     # TWO-STAGE HYBRID FILTERING:
+    stage1_count = None
     if selected_keywords:
         # STAGE 1: Local AI Pre-Filter (Semantic Relevance Only)
         from .local_ai import LocalFilter
@@ -128,6 +129,8 @@ def main():
             threshold=0.15
         )
         
+        
+        stage1_count = len(candidates)
         logger.info(f"Stage 1 (Local AI): {len(items)} → {len(candidates)} candidates")
         
         # STAGE 2: Gemini Final Selection (Breaking News, Diversity, Ordering)
@@ -228,7 +231,7 @@ def main():
     # --- LOG METRICS ---
     from .metrics import MetricsLogger
     metrics = MetricsLogger(os.getcwd())
-    metrics.log_run(fetched_items, shortlisted_items, args.type, args.test, links_file=links_filename)
+    metrics.log_run(fetched_items, shortlisted_items, args.type, args.test, links_file=links_filename, local_ai_items=candidates if selected_keywords else None)
 
     logger.info("=== Done! ===")
 
