@@ -88,7 +88,10 @@ def main():
     selected_feeds = config.feeds.get(feed_key, config.feeds["general"])
     
     logger.info(f"Selected feed category: {feed_key} ({len(selected_feeds)} feeds)")
-    items = fetch_all(selected_feeds, config.processing.max_per_feed)
+    
+    # FETCH STEP: Use deep fetch limit (e.g. 100) to ensure history coverage
+    fetch_limit = getattr(config.processing, "fetch_limit", 100)
+    items = fetch_all(selected_feeds, fetch_limit)
 
     lookback_hours = args.lookback_days * 24
     items = filter_by_time_window(items, hours=lookback_hours)
@@ -100,10 +103,25 @@ def main():
     kw_key = feed_key # "tech", "kids", or "general"
     selected_keywords = config.keywords.get(kw_key, config.keywords["general"])
 
+    # KEYWORD FILTER STEP: Reduce noise before AI
+    if selected_keywords:
+        logger.info(f"Filtering by keywords (Text Match): {selected_keywords}")
+        items = filter_by_keywords(items, selected_keywords)
+
+    # SOURCE LIMIT STEP: Soft cap to ensure diversity (e.g. top 25 per source)
+    # This prevents one busy feed from dominating history
+    # 'max_per_feed' is now serving as this diversity cap
+    from .fetcher import limit_by_source
+    items = limit_by_source(items, config.processing.max_per_feed)
+
+    if not items:
+        logger.warning("No articles found after filtering.")
+        return
+
+    # SEMANTIC FILTER STEP: AI Selection
     if selected_keywords:
         logger.info(f"Filtering by semantics (Gemini) for topics: {selected_keywords}")
         items = filter_by_semantics(items, selected_keywords, config.processing.gemini_model, limit=config.processing.max_final_articles)
-
 
     items = items[:config.processing.max_final_articles]
 

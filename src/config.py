@@ -19,6 +19,7 @@ class ProcessingConfig:
     max_final_articles: int
     retention_days: int
     gemini_model: str
+    fetch_limit: int = 100
 
 @dataclass
 class PodcastConfig:

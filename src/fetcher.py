@@ -93,6 +93,40 @@ def filter_by_keywords(items: List[Dict[str, Any]], keywords: List[str]) -> List
     logger.info(f"Filtered {len(items)} -> {len(out)} items (keywords)")
     return out
 
+def limit_by_source(items: List[Dict[str, Any]], max_per_source: int) -> List[Dict[str, Any]]:
+    """
+    Groups items by source (netloc) and keeps only top N items per source.
+    """
+    if max_per_source <= 0:
+        return items
+
+    by_source = {}
+    for item in items:
+        link = item.get("link", "")
+        # Extract domain as key (e.g. 'bbc.co.uk')
+        try:
+            domain = urlparse(link).netloc
+        except:
+            domain = "unknown"
+            
+        if domain not in by_source:
+            by_source[domain] = []
+        by_source[domain].append(item)
+
+    final_items = []
+    # Interleave items for diversity? Or just append?
+    # Appending is safer to preserve some implicit time ordering if we re-sort later.
+    # But usually feeds are individually time-sorted.
+    for domain, source_items in by_source.items():
+        # Keep top N
+        kept = source_items[:max_per_source]
+        final_items.extend(kept)
+        if len(source_items) > max_per_source:
+             logger.info(f"Capped {domain} from {len(source_items)} to {max_per_source} items")
+
+    logger.info(f"Source limiting processed {len(items)} -> {len(final_items)} items")
+    return final_items
+
 def get_friendly_source_names(sources: List[str]) -> str:
     """
     Derive friendly names from RSS_SOURCES for the intro.

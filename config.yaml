@@ -71,15 +71,33 @@ processing:
   max_final_articles: 20
   retention_days: 7
   gemini_model: "gemini-2.5-flash"
+  fetch_limit: 100
 
 processing_overrides:
   kids:
     duration_minutes: 12
     words_per_min: 125
-    max_per_feed: 8
+    max_per_feed: 25
     max_final_articles: 15
     retention_days: 7
     gemini_model: "gemini-2.5-flash"
+    fetch_limit: 100
+  weekly:
+    duration_minutes: 20
+    words_per_min: 125
+    max_per_feed: 25
+    max_final_articles: 15
+    retention_days: 7
+    gemini_model: "gemini-2.5-flash"
+    fetch_limit: 100
+  tech_weekly:
+    duration_minutes: 30
+    words_per_min: 125
+    max_per_feed: 25
+    max_final_articles: 20
+    retention_days: 7
+    gemini_model: "gemini-2.5-flash"
+    fetch_limit: 100
 
 podcast:
   base_url: "https://amullick-git.github.io/news_bot"
