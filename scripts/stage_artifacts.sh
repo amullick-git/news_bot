@@ -10,5 +10,6 @@ git add index.html
 # Stage the metrics logs (if they exist)
 git add metrics_prod.md || true
 git add metrics_test.md || true
+git add metrics_stats.json || true
 
 # Note: feed.xml is handled separately in the workflow after regeneration

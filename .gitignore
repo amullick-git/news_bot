@@ -8,6 +8,7 @@ venv/
 # Project specific
 keys/
 *.json
+!metrics_stats.json
 
 episode_script*.txt
 test_episodes/
