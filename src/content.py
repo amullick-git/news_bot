@@ -112,7 +112,9 @@ Source: {a.get('link')}
     - End with the HOST signing off.
 
     **Constraints:**
-    - Total length: STRICTLY ~{target_words} words. Do NOT exceed this significanty.
+    - Total length: STRICTLY ~{target_words} words. Do NOT exceed this.
+    - Do NOT mention the word count or these instructions in the output.
+    - Output ONLY the spoken dialogue script.
     - Be concise. Focus on the most important details.
     - Do NOT use markdown formatting (bold, italics) in the spoken text.
     - Do NOT include sound effects or music cues.
