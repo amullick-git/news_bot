@@ -1,0 +1,92 @@
+import os
+from datetime import datetime
+from typing import List, Dict, Any
+from urllib.parse import urlparse
+from .utils import get_logger
+
+logger = get_logger(__name__)
+
+class MetricsLogger:
+    def __init__(self, base_dir: str):
+        self.base_dir = base_dir
+
+    def _get_source_name(self, item: Dict[str, Any]) -> str:
+        """Helper to get friendly source name or domain"""
+        if item.get("source_name"):
+            return item["source_name"]
+        
+        # Fallback to domain
+        link = item.get("link", "")
+        try:
+            return urlparse(link).netloc.replace("www.", "")
+        except:
+            return "unknown"
+
+    def _count_by_source(self, items: List[Dict[str, Any]]) -> Dict[str, int]:
+        counts = {}
+        for item in items:
+            src = self._get_source_name(item)
+            counts[src] = counts.get(src, 0) + 1
+        return counts
+
+    def log_run(self, 
+                fetched_items: List[Dict[str, Any]], 
+                shortlisted_items: List[Dict[str, Any]], 
+                run_type: str, 
+                is_test: bool = False,
+                links_file: str = None):
+        
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
+        
+        # Calculate stats
+        fetched_counts = self._count_by_source(fetched_items)
+        shortlisted_counts = self._count_by_source(shortlisted_items)
+        
+        # Merge all known sources
+        all_sources = sorted(list(set(fetched_counts.keys()) | set(shortlisted_counts.keys())))
+        
+        # Build Markdown Report
+        lines = []
+        lines.append(f"## Run: {timestamp} (Type: {run_type})")
+        
+        if links_file:
+            # Assumes relative path from where the log is viewed or absolute?
+            # Usually we are at root. links are in `episodes/`.
+            # Let's just print the filename for now or relative path.
+            lines.append(f"**Links File**: [{links_file}](episodes/{links_file})\n")
+            
+        lines.append(f"**Total Fetched**: {len(fetched_items)} -> **Shortlisted**: {len(shortlisted_items)}\n")
+        
+        lines.append("### Breakdown by Source")
+        lines.append("| Source | Fetched | Selected |")
+        lines.append("|---|---|---|")
+        
+        for src in all_sources:
+            f_count = fetched_counts.get(src, 0)
+            s_count = shortlisted_counts.get(src, 0)
+            lines.append(f"| {src} | {f_count} | {s_count} |")
+            
+        lines.append("\n" + "-"*40 + "\n")
+        
+        report_content = "\n".join(lines)
+        
+        # Determine filename
+        filename = "metrics_test.md" if is_test else "metrics_prod.md"
+        filepath = os.path.join(self.base_dir, filename)
+        
+        self._prepend_to_file(filepath, report_content)
+
+    def _prepend_to_file(self, filepath: str, new_content: str):
+        """Prepends content to a file efficiently"""
+        existing_content = ""
+        if os.path.exists(filepath):
+            try:
+                with open(filepath, "r") as f:
+                    existing_content = f.read()
+            except Exception as e:
+                logger.error(f"Failed to read existing metrics: {e}")
+                
+        with open(filepath, "w") as f:
+            f.write(new_content + "\n" + existing_content)
+            
+        logger.info(f"Metrics logged to {filepath}")

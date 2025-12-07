@@ -85,16 +85,18 @@ def main():
         if args.duration:
             config.processing.duration_minutes = args.duration
 
+    # Selected feeds
     selected_feeds = config.feeds.get(feed_key, config.feeds["general"])
-    
     logger.info(f"Selected feed category: {feed_key} ({len(selected_feeds)} feeds)")
     
     # FETCH STEP: Use deep fetch limit (e.g. 100) to ensure history coverage
     fetch_limit = getattr(config.processing, "fetch_limit", 100)
-    items = fetch_all(selected_feeds, fetch_limit)
-
+    
+    # --- METRICS CHECKPOINT 1 ---
+    fetched_items = fetch_all(selected_feeds, fetch_limit)
+    
     lookback_hours = args.lookback_days * 24
-    items = filter_by_time_window(items, hours=lookback_hours)
+    items = filter_by_time_window(fetched_items, hours=lookback_hours)
 
     configure_gemini(api_key=os.getenv("GOOGLE_API_KEY"))
 
@@ -103,28 +105,27 @@ def main():
     selected_keywords = config.keywords.get(kw_key, config.keywords["general"])
 
     # HYBRID FILTERING STEP:
-    # 1. Use Local AI (cost=0) to filter 500+ items -> Top N relevant items
-    # 2. Local AI also enforces diversity (max 5 per source)
     if selected_keywords:
         from .local_ai import LocalFilter
         local_bot = LocalFilter()
         
         # We filter down to 'max_final_articles' directly here
-        # This replaces both the text-keyword filter AND the Gemini-semantic filter
         items = local_bot.filter_by_relevance(
             items, 
             topics=selected_keywords, 
             model_name=getattr(config.processing, "local_model", "all-MiniLM-L6-v2"),
             limit=config.processing.max_final_articles,
-            threshold=0.15, # Slightly lower threshold to ensure we get enough items
-            max_per_source=5 # Diversity limit as requested
+            threshold=0.15, 
+            max_per_source=5 
         )
     else:
-        # Fallback if no keywords: strict source limit + take newest
-        # (Though keywords usually exist for all types now)
+        # Fallback
         from .fetcher import limit_by_source
         items = limit_by_source(items, 5)
         items = items[:config.processing.max_final_articles]
+
+    # --- METRICS CHECKPOINT 2 ---
+    shortlisted_items = items
 
     if not items:
         logger.warning("No articles found after filtering.")
@@ -175,13 +176,20 @@ def main():
         }, f)
     logger.info(f"Saved metadata to {meta_file}")
     
+    links_filename = None
     if not args.test:
         cleanup_old_episodes(config.podcast.episodes_dir, config.processing.retention_days)
-        generate_episode_links_page(items, filename_suffix, config.podcast.episodes_dir)
+        # Capture the generated filename (e.g. links_daily_2024...html)
+        links_filename = generate_episode_links_page(items, filename_suffix, config.podcast.episodes_dir)
         update_index_with_links(config.podcast.episodes_dir)
         generate_rss_feed(config)
     else:
         logger.info("Test mode: Skipping RSS feed generation.")
+        
+    # --- LOG METRICS ---
+    from .metrics import MetricsLogger
+    metrics = MetricsLogger(os.getcwd())
+    metrics.log_run(fetched_items, shortlisted_items, args.type, args.test, links_file=links_filename)
 
     logger.info("=== Done! ===")
 
