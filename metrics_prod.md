@@ -1,3 +1,21 @@
+## Run: 2025-12-07 06:44 (Type: morning)
+**Links File**: [links_morning_2025-12-07_06.html](episodes/links_morning_2025-12-07_06.html)
+
+**Total Fetched**: 161 -> **Shortlisted**: 20
+
+### Breakdown by Source
+| Source | Fetched | Selected |
+|---|---|---|
+| BBC News | 30 | 1 |
+| Hacker News | 20 | 3 |
+| NDTV News | 20 | 4 |
+| NPR Topics | 10 | 3 |
+| NYT | 41 | 4 |
+| The Verge | 10 | 0 |
+| US Top News and Analysis | 30 | 5 |
+
+----------------------------------------
+
 ## Run: 2025-12-07 06:22 (Type: tech_daily)
 **Links File**: [links_tech_daily_2025-12-07_06.html](episodes/links_tech_daily_2025-12-07_06.html)
 
