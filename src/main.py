@@ -50,6 +50,7 @@ def main():
     parser.add_argument("--type", type=str, default="daily", help="Episode type: daily or weekly")
     parser.add_argument("--title-prefix", type=str, default="News Briefing", help="Prefix for the episode title")
     parser.add_argument("--no-tts", action="store_true", help="Skip Text-to-Speech generation (script only)")
+    parser.add_argument("--voice-type", type=str, default=None, choices=["wavenet", "neural", "studio"], help="TTS Voice type: wavenet (default), neural, or studio")
     args = parser.parse_args()
 
     setup_logging()
@@ -187,10 +188,7 @@ def main():
 
     out_file = os.path.join(config.podcast.episodes_dir, f"episode_{filename_suffix}.mp3")
     
-    if args.no_tts:
-        logger.info("Skipping TTS generation as --no-tts was specified.")
-    else:
-        text_to_speech(clean_script, out_file)
+    episode_path = os.path.join(config.podcast.episodes_dir, f"episode_{filename_suffix}.mp3")
     
     meta_file = os.path.join(config.podcast.episodes_dir, f"episode_metadata_{filename_suffix}.json")
     with open(meta_file, "w") as f:
@@ -198,9 +196,17 @@ def main():
             "duration_minutes": config.processing.duration_minutes,
             "type": args.type,
             "title_prefix": args.title_prefix,
-            "timestamp": timestamp
+            "timestamp": timestamp,
+            "voice_type": config.processing.voice_type
         }, f)
     logger.info(f"Saved metadata to {meta_file}")
+
+    # 6. Generate Audio (TTS)
+    if not args.no_tts:
+        text_to_speech(clean_script, episode_path, voice_type=config.processing.voice_type)
+        logger.info("Audio generation complete.")
+    else:
+        logger.info("Skipping TTS generation (--no-tts provided).")
     
     links_filename = None
     if not args.test:

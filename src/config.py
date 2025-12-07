@@ -18,11 +18,11 @@ class ProcessingConfig:
     max_per_feed: int
     max_final_articles: int
     retention_days: int
-    gemini_model: str
     gemini_model: str = "gemini-2.5-flash"
     local_model: str = "all-MiniLM-L6-v2"
     fetch_limit: int = 100
     local_prefilter_limit: int = 50
+    voice_type: str = "wavenet"
 
 @dataclass
 class PodcastConfig:

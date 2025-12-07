@@ -179,8 +179,8 @@ def synthesize_chunk(client, synthesis_input, voice, audio_config):
         audio_config=audio_config,
     )
 
-def text_to_speech(clean_script: str, output_file: str):
-    logger.info("Converting to speech using Google TTS...")
+def text_to_speech(clean_script: str, output_file: str, voice_type: str = "wavenet"):
+    logger.info(f"Converting to speech using Google TTS ({voice_type})...")
 
     client = texttospeech.TextToSpeechClient()
 
@@ -221,13 +221,26 @@ def text_to_speech(clean_script: str, output_file: str):
 
     audio_contents = []
 
+    # Voice Definitions
+    # D = Male, F = Female (usually)
+    if voice_type == "neural":
+        host_name = "en-US-Neural2-D"
+        reporter_name = "en-US-Neural2-F"
+    elif voice_type == "studio":
+        # Studio voices are premium: M (Male), O (Female) are common high-quality ones
+        host_name = "en-US-Studio-M"
+        reporter_name = "en-US-Studio-O"
+    else: # wavenet (default)
+        host_name = "en-US-Wavenet-D"
+        reporter_name = "en-US-Wavenet-F"
+
     voice_host = texttospeech.VoiceSelectionParams(
         language_code="en-US",
-        name="en-US-Wavenet-D", 
+        name=host_name, 
     )
     voice_reporter = texttospeech.VoiceSelectionParams(
         language_code="en-US",
-        name="en-US-Wavenet-F", 
+        name=reporter_name, 
     )
 
     audio_config = texttospeech.AudioConfig(
