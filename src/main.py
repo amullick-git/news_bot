@@ -165,11 +165,12 @@ def main():
     
     script = summarize_with_gemini(
         items, 
-        target_words, 
-        config.processing.gemini_model, 
-        friendly_sources, 
+        target_words=target_words, 
+        model_name=config.processing.gemini_model, 
+        friendly_sources=friendly_sources, 
         audience=audience,
-        show_name=args.title_prefix
+        show_name=args.title_prefix,
+        keywords=selected_keywords
     )
 
     raw_script_path = os.path.join(config.podcast.episodes_dir, "episode_script_raw.txt")

@@ -80,7 +80,7 @@ def filter_by_semantics(items: List[Dict[str, Any]], topics: List[str], model_na
         raise # Retry will catch this
 
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10))
-def summarize_with_gemini(articles: List[Dict[str, Any]], target_words: int, model_name: str, friendly_sources: str, audience: str = "general", show_name: str = "News Briefing") -> str:
+def summarize_with_gemini(articles: List[Dict[str, Any]], target_words: int, model_name: str, friendly_sources: str, audience: str = "general", show_name: str = "News Briefing", keywords: List[str] = None) -> str:
     model = genai.GenerativeModel(model_name)
 
     articles_block = ""
@@ -92,12 +92,15 @@ Summary: {a.get('summary')}
 Source: {a.get('link')}
 """
 
+    # Format keywords for the prompt
+    keywords_str = ", ".join(keywords) if keywords else "today's topics"
+    
     if audience == "kids":
        tone_instruction = "Tone: Energetic, simple, educational, and fun. Verify content is safe for legal minors (approx 10 years old). Explain complex terms simply."
-       intro_instruction = f"HOST: High-energy intro! Welcome to {show_name}! Mention we are checking sources like {friendly_sources}."
+       intro_instruction = f"HOST: High-energy intro! Welcome to {show_name}! Start with an 'On This Day in History' fact relevant to these topics: {keywords_str}. Mention we are checking sources like {friendly_sources}."
     else:
        tone_instruction = "Tone: Conversational, engaging, yet professional. Professional news anchor style."
-       intro_instruction = f"HOST: Intro (Welcome to {show_name}...). Start with a short, interesting fact to grab attention. Explicitly mention that we are covering news from {friendly_sources} and others."
+       intro_instruction = f"HOST: Intro (Welcome to {show_name}...). Start with an 'On This Day in History' fact relevant to these topics: {keywords_str}. Explicitly mention that we are covering news from {friendly_sources} and others."
 
     prompt = f"""
     You are writing a script for a professional news podcast featuring two speakers: a HOST and a REPORTER.
