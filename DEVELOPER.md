@@ -123,7 +123,7 @@ The project uses GitHub Actions for automation. The workflows are modularized to
     - **Script Gen**: Summarizes the stories into a conversational script.
 5.  **Audio (`src/audio.py`)**: Uses Google Cloud TTS to convert the script to audio.
     - Uses SSML for voice control.
-    - Supports `wavenet`, `neural`, and `studio` voice types via config or CLI arguments.
+    - Supports `wavenet`, `neural`, `studio`, and `chirp3-hd` voice types via config or CLI arguments.
     - Concatenates audio segments using `pydub` (or simple binary concatenation if mp3).
 4.  **RSS (`src/rss.py`)**:
     - Generates `feed.xml` compatible with podcast players.
