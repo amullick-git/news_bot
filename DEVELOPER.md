@@ -136,6 +136,12 @@ The project uses GitHub Actions for automation. The workflows are modularized to
     - Logs cumulative stats to `metrics_prod.md` (Production) and `metrics_test.md` (Test).
     - **TTS Usage**: Tracks character counts sent to the TTS API (per run and running total).
     - **Persistence**: Persists running totals in `metrics_stats.json` (tracked in git) to maintain counts across CI runs.
+    
+7.  **Configuration (`src/config.py`)**:
+    - Uses `dataclasses` for type-safe configuration.
+    - **Sparse Overrides**: The `processing_overrides` in `config.yaml` support sparse definitions.
+        - If an override key (e.g., `daily`) omits a field (e.g., `gemini_model`), it automatically inherits the value from the default `processing` block.
+        - This allows `config.yaml` to remain minimal, specifying only what differs from the global default.
 
 ## Contributing
 

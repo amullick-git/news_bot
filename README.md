@@ -15,6 +15,11 @@ This project is an automated tool that fetches news from various RSS feeds, filt
     - **Host & Reporter Mode**: Generates a dialogue between a Host (Arjav) and a Reporter (Arohi).
 - **Audio Production**: Converts the script to speech using Google Cloud TTS with dynamic pacing and prosody (SSML).
     - **Voice Selection**: Support for **WaveNet** (Standard), **Neural2** (Human-like), **Studio** (Premium), and **Chirp 3 HD** (Ultra-Realistic) voices.
+    - **Configurable Defaults**:
+        - **Daily/Morning**: Chirp 3 HD
+        - **Kids**: Neural2
+        - **Evening**: Studio
+        - **Tech/Weekly**: WaveNet (Global Default)
     - **Multi-Voice**: Uses distinct voices for the Host and Reporter.
     - **Intro Announcement**: Explicitly announces the show name (e.g. "Welcome to Weekly Tech Round-up") for clarity.
 - **Metrics Logging**: Logs run statistics (fetched vs. used articles, **Voice Character Usage**) to `metrics_prod.md` for performance comparison and cost tracking.

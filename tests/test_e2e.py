@@ -168,10 +168,10 @@ HOST: Thanks.
     # New Format: Title - Month Day, Year - HH AM/PM
     # e.g., "News Briefing - December 06, 2025 - 02 PM"
     # We check for the prefix and part of date/time
-    assert "News Briefing -" in feed_content
+    assert "News Briefing (WaveNet) -" in feed_content
     # Ideally verify date is present, but regex matching for "Month" is simpler
     import re
-    assert re.search(r"News Briefing - [A-Z][a-z]+ \d{2}, \d{4} - \d{2} [AP]M", feed_content)
+    assert re.search(r"News Briefing \(WaveNet\) - [A-Z][a-z]+ \d{2}, \d{4} - \d{2} [AP]M", feed_content)
     assert "View News Sources" in index_content
     
     # Check RSS Feed (NEW - since we removed --test)
