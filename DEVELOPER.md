@@ -22,6 +22,7 @@ news_podcast/
 │   ├── config.py           # Configuration loading
 │   ├── content.py          # LLM logic (Gemini)
 │   ├── fetcher.py          # RSS fetching & filtering
+│   ├── local_ai.py         # Local Semantic Filtering (sentence-transformers)
 │   ├── main.py             # Entry point
 │   ├── rss.py              # RSS feed & HTML generation
 │   └── utils.py            # Logging & helpers
@@ -110,9 +111,14 @@ The project uses GitHub Actions for automation. The workflows are modularized to
 ## Architecture
 
 1.  **Fetcher (`src/fetcher.py`)**: Pulls data from RSS feeds defined in `config.yaml` (selected by `feeds` category). Filters by date and keywords.
-2.  **Content (`src/content.py`)**: Uses Gemini 1.5 Flash to:
-    - Select the most relevant stories.
-    - Summarize them into a conversational script (Host & Reporter).
+3.  **Local Filter (`src/local_ai.py`)**:
+    - Uses `sentence-transformers` (all-MiniLM-L6-v2) to filter candidates locally.
+    - **Note**: The default model (`all-MiniLM-L6-v2`) is a highly efficient 80MB model developed by **UKP Lab** (based on Microsoft's MiniLM). It is optimized for CPU inference, making it perfect for cost-effective CI/CD pipelines.
+    - Scores articles by semantic relevance to topics.
+    - Enforces diversity (limit per source).
+    - Reduces 500+ items to ~25 critical stories, saving API tokens.
+4.  **Content (`src/content.py`)**: Uses Gemini 1.5 Flash to:
+    - Summarize the shortlisted stories into a conversational script.
 3.  **Audio (`src/audio.py`)**: Uses Google Cloud TTS to convert the script to audio.
     - Uses SSML for voice control.
     - Concatenates audio segments using `pydub` (or simple binary concatenation if mp3).

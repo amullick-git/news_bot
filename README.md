@@ -8,7 +8,7 @@ This project is an automated tool that fetches news from various RSS feeds, filt
 - **Smart Filtering**:
     - Filters articles from the last 24 hours.
     - Keyword matching.
-    - **Semantic Filtering**: Uses Google Gemini 2.5 Flash to select the most relevant and diverse stories based on your topics.
+    - **Hybrid Semantic Filtering**: Uses a local AI model (`sentence-transformers`) to efficiently scan 500+ articles and shortlist the top relevant ones (saving API quota), followed by Google Gemini 2.5 Flash for final summarization.
 - **Script Generation**: Uses Gemini 2.5 Flash to write a professional, neutral news anchor script.
     - **Host & Reporter Mode**: Generates a dialogue between a Host (Arjav) and a Reporter (Arohi).
 - **Audio Production**: Converts the script to speech using Google Cloud TTS with dynamic pacing and prosody (SSML).

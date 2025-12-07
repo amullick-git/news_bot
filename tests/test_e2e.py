@@ -80,7 +80,8 @@ processing:
 @patch('src.audio.texttospeech.TextToSpeechClient')
 @patch('src.content.genai.GenerativeModel')
 @patch('src.main.fetch_all')
-def test_full_flow_with_webpage_update(mock_fetch, mock_genai_model, mock_tts_client, setup_e2e_env):
+@patch('src.local_ai.LocalFilter.filter_by_relevance')
+def test_full_flow_with_webpage_update(mock_filter, mock_fetch, mock_genai_model, mock_tts_client, setup_e2e_env):
     tmp_path, episodes_dir = setup_e2e_env
     
     from datetime import datetime, timezone
@@ -88,7 +89,7 @@ def test_full_flow_with_webpage_update(mock_fetch, mock_genai_model, mock_tts_cl
     published_str = now.strftime("%a, %d %b %Y %H:%M:%S GMT")
 
     # 1. Mock RSS Data
-    mock_fetch.return_value = [
+    items = [
         {
             "title": "Test News 1", 
             "summary": "Summary 1", 
@@ -102,16 +103,21 @@ def test_full_flow_with_webpage_update(mock_fetch, mock_genai_model, mock_tts_cl
             "published": published_str
         },
     ]
+    mock_fetch.return_value = items
+    
+    # 2. Mock Local Filter (Pass-through)
+    mock_filter.return_value = items
 
-    # 2. Mock Gemini Response
+    # 3. Mock Gemini Response
     mock_model_instance = MagicMock()
     mock_genai_model.return_value = mock_model_instance
     
-    # Response 1: Semantic Filtering
-    mock_response_filter = MagicMock()
-    mock_response_filter.text = "[0, 1]"
+    # Response 1: Semantic Filtering (Not called anymore?)
+    # Wait, main.py replaced filter_by_semantics with LocalFilter, so Gemini is NOT called for filtering.
+    # It is only called for Summarization.
+    # So we strictly need fewer side effects.
     
-    # Response 2: Script Generation
+    # Response: Script Generation
     mock_response_script = MagicMock()
     mock_response_script.text = """
 HOST: Welcome.
@@ -119,21 +125,20 @@ REPORTER: News 1.
 HOST: Thanks.
 """
     
-    mock_model_instance.generate_content.side_effect = [mock_response_filter, mock_response_script]
+    mock_model_instance.generate_content.side_effect = [mock_response_script]
 
-    # 3. Mock TTS Response
+    # 4. Mock TTS Response
     mock_client_instance = MagicMock()
     mock_tts_client.return_value = mock_client_instance
     mock_audio_resp = MagicMock()
     mock_audio_resp.audio_content = b"fake_audio_data"
     mock_client_instance.synthesize_speech.return_value = mock_audio_resp
 
-    # 4. Run Main
-    # We need to mock os.getenv to avoid issues if GOOGLE_API_KEY is missing
+    # 5. Run Main
     with patch.dict(os.environ, {"GOOGLE_API_KEY": "fake_key"}):
         src_main.main()
 
-    # 5. Verify Artifacts
+    # 6. Verify Artifacts
     
     # Check for MP3
     mp3_files = list(episodes_dir.glob("*.mp3"))

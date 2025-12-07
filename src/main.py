@@ -98,35 +98,36 @@ def main():
 
     configure_gemini(api_key=os.getenv("GOOGLE_API_KEY"))
 
-    # Select keywords based on type, similar to feeds
-    # Re-using feed_key logic is safe here as structure mirrors feeds
+    # Select keywords based on type
     kw_key = feed_key # "tech", "kids", or "general"
     selected_keywords = config.keywords.get(kw_key, config.keywords["general"])
 
-    # KEYWORD FILTER STEP: Reduce noise before AI
+    # HYBRID FILTERING STEP:
+    # 1. Use Local AI (cost=0) to filter 500+ items -> Top N relevant items
+    # 2. Local AI also enforces diversity (max 5 per source)
     if selected_keywords:
-        logger.info(f"Filtering by keywords (Text Match): {selected_keywords}")
-        items = filter_by_keywords(items, selected_keywords)
-
-    # SOURCE LIMIT STEP: Soft cap to ensure diversity (e.g. top 25 per source)
-    # This prevents one busy feed from dominating history
-    # 'max_per_feed' is now serving as this diversity cap
-    from .fetcher import limit_by_source
-    items = limit_by_source(items, config.processing.max_per_feed)
+        from .local_ai import LocalFilter
+        local_bot = LocalFilter()
+        
+        # We filter down to 'max_final_articles' directly here
+        # This replaces both the text-keyword filter AND the Gemini-semantic filter
+        items = local_bot.filter_by_relevance(
+            items, 
+            topics=selected_keywords, 
+            model_name=getattr(config.processing, "local_model", "all-MiniLM-L6-v2"),
+            limit=config.processing.max_final_articles,
+            threshold=0.15, # Slightly lower threshold to ensure we get enough items
+            max_per_source=5 # Diversity limit as requested
+        )
+    else:
+        # Fallback if no keywords: strict source limit + take newest
+        # (Though keywords usually exist for all types now)
+        from .fetcher import limit_by_source
+        items = limit_by_source(items, 5)
+        items = items[:config.processing.max_final_articles]
 
     if not items:
         logger.warning("No articles found after filtering.")
-        return
-
-    # SEMANTIC FILTER STEP: AI Selection
-    if selected_keywords:
-        logger.info(f"Filtering by semantics (Gemini) for topics: {selected_keywords}")
-        items = filter_by_semantics(items, selected_keywords, config.processing.gemini_model, limit=config.processing.max_final_articles)
-
-    items = items[:config.processing.max_final_articles]
-
-    if not items:
-        logger.warning("No articles found. Try different keywords.")
         return
 
     logger.info(f"Using {len(items)} stories")

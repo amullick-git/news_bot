@@ -71,6 +71,11 @@ processing:
   max_final_articles: 20
   retention_days: 7
   gemini_model: "gemini-2.5-flash"
+  # Supported local models:
+  # - all-MiniLM-L6-v2 (Default: Fast, Low Memory)
+  # - all-mpnet-base-v2 (Higher Quality, Slower)
+  # - paraphrase-multilingual-MiniLM-L12-v2 (Good for non-English)
+  local_model: "all-MiniLM-L6-v2"
   fetch_limit: 100
 
 processing_overrides:
