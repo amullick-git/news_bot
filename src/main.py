@@ -50,7 +50,7 @@ def main():
     parser.add_argument("--type", type=str, default="daily", help="Episode type: daily or weekly")
     parser.add_argument("--title-prefix", type=str, default="News Briefing", help="Prefix for the episode title")
     parser.add_argument("--no-tts", action="store_true", help="Skip Text-to-Speech generation (script only)")
-    parser.add_argument("--voice-type", type=str, default=None, choices=["wavenet", "neural", "studio"], help="TTS Voice type: wavenet (default), neural, or studio")
+    parser.add_argument("--voice-type", type=str, default=None, choices=["wavenet", "neural", "studio", "chirp3-hd"], help="TTS Voice type: wavenet (default), neural, studio, or chirp3-hd")
     args = parser.parse_args()
 
     setup_logging()

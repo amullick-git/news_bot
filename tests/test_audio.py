@@ -25,7 +25,7 @@ def test_voice_selection_wavenet_default(mock_tts_client):
     voice_params = call_args.kwargs['voice']
     
     assert "Wavenet" in voice_params.name
-    assert voice_params.language_code == "en-US"
+    assert "Studio" in voice_params.name
 
 def test_voice_selection_neural(mock_tts_client):
     """Test that voice_type='neural' selects Neural2 voices"""
@@ -48,6 +48,17 @@ def test_voice_selection_studio(mock_tts_client):
     voice_params = call_args.kwargs['voice']
     
     assert "Studio" in voice_params.name
+
+def test_voice_selection_chirp3_hd(mock_tts_client):
+    """Test that voice_type='chirp3-hd' selects Chirp3 HD voices"""
+    mock_instance = mock_tts_client.return_value
+    
+    text_to_speech("HOST: Hello.", "out.mp3", voice_type="chirp3-hd")
+    
+    call_args = mock_instance.synthesize_speech.call_args
+    voice_params = call_args.kwargs['voice']
+    
+    assert "Chirp3-HD" in voice_params.name
 
 def test_voice_selection_explicit_wavenet(mock_tts_client):
     """Test explicit 'wavenet' selection"""

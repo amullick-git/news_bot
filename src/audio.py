@@ -230,6 +230,10 @@ def text_to_speech(clean_script: str, output_file: str, voice_type: str = "waven
         # Studio voices are premium: M (Male), O (Female) are common high-quality ones
         host_name = "en-US-Studio-M"
         reporter_name = "en-US-Studio-O"
+    elif voice_type == "chirp3-hd":
+        # Chirp 3 HD Voices (USM v3)
+        host_name = "en-US-Chirp3-HD-D"
+        reporter_name = "en-US-Chirp3-HD-F"
     else: # wavenet (default)
         host_name = "en-US-Wavenet-D"
         reporter_name = "en-US-Wavenet-F"
