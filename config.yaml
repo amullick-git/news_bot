@@ -93,7 +93,7 @@ processing_overrides:
     duration_minutes: 20
     words_per_min: 125
     max_per_feed: 25
-    max_final_articles: 15
+    max_final_articles: 20
     retention_days: 7
     gemini_model: "gemini-2.5-flash"
     fetch_limit: 100
