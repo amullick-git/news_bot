@@ -30,6 +30,7 @@ news_podcast/
 ├── tests/                  # Unit and integration tests
 ├── config.yaml             # Configuration file
 ├── requirements.txt        # Python dependencies
+├── metrics_stats.json      # Persistent TTS usage stats
 └── README.md               # User documentation
 ```
 
@@ -133,6 +134,8 @@ The project uses GitHub Actions for automation. The workflows are modularized to
 6.  **Metrics (`src/metrics.py`)**:
     - Tracks fetch counts and selection rates per source.
     - Logs cumulative stats to `metrics_prod.md` (Production) and `metrics_test.md` (Test).
+    - **TTS Usage**: Tracks character counts sent to the TTS API (per run and running total).
+    - **Persistence**: Persists running totals in `metrics_stats.json` (tracked in git) to maintain counts across CI runs.
 
 ## Contributing
 

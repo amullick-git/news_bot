@@ -17,7 +17,7 @@ This project is an automated tool that fetches news from various RSS feeds, filt
     - **Voice Selection**: Support for **WaveNet** (Standard), **Neural2** (Human-like), **Studio** (Premium), and **Chirp 3 HD** (Ultra-Realistic) voices.
     - **Multi-Voice**: Uses distinct voices for the Host and Reporter.
     - **Intro Announcement**: Explicitly announces the show name (e.g. "Welcome to Weekly Tech Round-up") for clarity.
-- **Metrics Logging**: Logs run statistics (fetched vs. used articles) to `metrics_prod.md` for performance tracking.
+- **Metrics Logging**: Logs run statistics (fetched vs. used articles, **Voice Character Usage**) to `metrics_prod.md` for performance comparison and cost tracking.
 - **Dual Schedule**: Automatically runs twice daily:
     - **Morning Briefing (6:30 AM PST)**: 15-minute deep dive.
     - **Evening Update (6:30 PM PST)**: 8-minute quick summary (labeled as "Quick News Briefing").
