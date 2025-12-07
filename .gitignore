@@ -12,3 +12,5 @@ keys/
 
 episode_script*.txt
 test_episodes/
+chunk_*.mp3
+out.mp3
