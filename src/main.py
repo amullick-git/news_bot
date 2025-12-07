@@ -105,22 +105,35 @@ def main():
     kw_key = feed_key # "tech", "kids", or "general"
     selected_keywords = config.keywords.get(kw_key, config.keywords["general"])
 
-    # HYBRID FILTERING STEP:
+    # TWO-STAGE HYBRID FILTERING:
     if selected_keywords:
+        # STAGE 1: Local AI Pre-Filter (Semantic Relevance Only)
         from .local_ai import LocalFilter
         local_bot = LocalFilter()
         
-        # We filter down to 'max_final_articles' directly here
-        items = local_bot.filter_by_relevance(
+        prefilter_limit = getattr(config.processing, "local_prefilter_limit", 50)
+        candidates = local_bot.filter_by_relevance(
             items, 
             topics=selected_keywords, 
             model_name=getattr(config.processing, "local_model", "all-MiniLM-L6-v2"),
-            limit=config.processing.max_final_articles,
-            threshold=0.15, 
-            max_per_source=5 
+            limit=prefilter_limit,  # Stage 1: Reduce to ~50 candidates
+            threshold=0.15
         )
+        
+        logger.info(f"Stage 1 (Local AI): {len(items)} → {len(candidates)} candidates")
+        
+        # STAGE 2: Gemini Final Selection (Breaking News, Diversity, Ordering)
+        from .content import filter_by_semantics
+        items = filter_by_semantics(
+            candidates,
+            topics=selected_keywords,
+            model_name=config.processing.gemini_model,
+            limit=config.processing.max_final_articles  # Stage 2: Final selection
+        )
+        
+        logger.info(f"Stage 2 (Gemini): {len(candidates)} → {len(items)} final articles")
     else:
-        # Fallback
+        # Fallback if no keywords
         from .fetcher import limit_by_source
         items = limit_by_source(items, 5)
         items = items[:config.processing.max_final_articles]

@@ -49,9 +49,10 @@ class LocalFilter:
             logger.info(f"Model loaded on {device}")
         return self._model
 
-    def filter_by_relevance(self, items: List[Dict[str, Any]], topics: List[str], model_name: str = "all-MiniLM-L6-v2", limit: int = 20, threshold: float = 0.15, max_per_source: int = 5) -> List[Dict[str, Any]]:
+    def filter_by_relevance(self, items: List[Dict[str, Any]], topics: List[str], model_name: str = "all-MiniLM-L6-v2", limit: int = 50, threshold: float = 0.15) -> List[Dict[str, Any]]:
         """
-        Filters items by semantic relevance to topics, enforcing source diversity.
+        Filters items by semantic relevance to topics.
+        Returns top N items by semantic similarity score (no diversity enforcement).
         """
         if not items or not topics:
             return items
@@ -71,15 +72,15 @@ class LocalFilter:
         item_texts = [f"{item.get('title', '')} {item.get('summary', '')}"[:512] for item in items]
         item_embeddings = model.encode(item_texts, convert_to_tensor=True)
 
-        # 3. Compute Similarity details
+        # 3. Compute Similarity scores
         # We want the max similarity of an item to ANY of the provided topics
         cosine_scores = util.cos_sim(item_embeddings, topic_embeddings) 
-        # cosine_scores shape: [train_initials, len(topics)]
+        # cosine_scores shape: [num_items, len(topics)]
         
         # Take the maximum score across all topics for each item
         max_scores, _ = cosine_scores.max(dim=1)
 
-        # 4. Rank and Filter with Diversity
+        # 4. Rank and Filter by threshold
         scored_items = []
         for i, score in enumerate(max_scores):
             if score.item() >= threshold:
@@ -90,27 +91,8 @@ class LocalFilter:
         
         logger.info(f"Found {len(scored_items)} items above threshold {threshold}")
         
-        # 5. Diversity Loop
-        final_items = []
-        source_counts = {}
+        # 5. Return top N items (no diversity enforcement)
+        final_items = [item for score, item in scored_items[:limit]]
         
-        for score, item in scored_items:
-            if len(final_items) >= limit:
-                break
-                
-            link = item.get("link", "")
-            try:
-                domain = urlparse(link).netloc
-            except:
-                domain = "unknown"
-            
-            # Check diversity constraint
-            current_count = source_counts.get(domain, 0)
-            if current_count < max_per_source:
-                final_items.append(item)
-                source_counts[domain] = current_count + 1
-            else:
-                logger.debug(f"Skipping {item.get('title')} from {domain} (Max {max_per_source} reached)")
-
-        logger.info(f"Selected {len(final_items)} diverse, relevant items")
+        logger.info(f"Selected {len(final_items)} items for pre-filtering")
         return final_items

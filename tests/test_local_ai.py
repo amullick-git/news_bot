@@ -35,20 +35,19 @@ def test_local_filter_relevance():
     assert "Cookies" not in titles
 
 def test_local_filter_diversity():
+    """Test that local filter returns semantically relevant items (diversity now handled by Gemini)"""
     f = LocalFilter()
     
-    # Test strict limit of 2 per source
+    # Test semantic filtering only (no diversity enforcement)
     result = f.filter_by_relevance(
         items=MOCK_ITEMS, 
         topics=["Space Exploration"], 
         limit=5, 
-        threshold=0.2,
-        max_per_source=2
+        threshold=0.2
     )
     
-    # Checks
+    # Should return space-related items by semantic relevance
     titles = [i['title'] for i in result]
-    spacex_count = sum(1 for link in [i['link'] for i in result] if "spacex.com" in link)
-    
-    assert spacex_count <= 2
+    # Top items should be space-related
+    assert len(result) >= 3
     assert "NASA Mars" in titles

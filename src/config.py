@@ -22,6 +22,7 @@ class ProcessingConfig:
     gemini_model: str = "gemini-2.5-flash"
     local_model: str = "all-MiniLM-L6-v2"
     fetch_limit: int = 100
+    local_prefilter_limit: int = 50
 
 @dataclass
 class PodcastConfig:
