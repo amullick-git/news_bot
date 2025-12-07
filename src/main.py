@@ -49,6 +49,7 @@ def main():
     parser.add_argument("--lookback-days", type=int, default=1, help="Number of days to look back for news (default: 1)")
     parser.add_argument("--type", type=str, default="daily", help="Episode type: daily or weekly")
     parser.add_argument("--title-prefix", type=str, default="News Briefing", help="Prefix for the episode title")
+    parser.add_argument("--no-tts", action="store_true", help="Skip Text-to-Speech generation (script only)")
     args = parser.parse_args()
 
     setup_logging()
@@ -171,7 +172,11 @@ def main():
     logger.info(f"Cleaned script saved to {clean_script_path}")
 
     out_file = os.path.join(config.podcast.episodes_dir, f"episode_{filename_suffix}.mp3")
-    text_to_speech(clean_script, out_file)
+    
+    if args.no_tts:
+        logger.info("Skipping TTS generation as --no-tts was specified.")
+    else:
+        text_to_speech(clean_script, out_file)
     
     meta_file = os.path.join(config.podcast.episodes_dir, f"episode_metadata_{filename_suffix}.json")
     with open(meta_file, "w") as f:

@@ -21,7 +21,10 @@ def verify_staging():
         mock_model = MagicMock()
         mock_genai.GenerativeModel.return_value = mock_model
         # Mock semantic filtering response
-        mock_model.generate_content.return_value.text = "[0, 1]" 
+        # Mock Response Object explicitly
+        mock_response = MagicMock()
+        mock_response.text = "HOST: This is a mock script verify staging."
+        mock_model.generate_content.return_value = mock_response 
         
         # Mock TTS response
         mock_client = MagicMock()
