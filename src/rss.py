@@ -310,40 +310,42 @@ def generate_rss_feed(config: Config):
             meta_path = os.path.join(config.podcast.episodes_dir, meta_filename)
             
             title_prefix = "News Briefing"
+            title_suffix = ""
             if os.path.exists(meta_path):
                 try:
                     with open(meta_path, "r") as f:
                         meta = json.load(f)
-                        # Prefer explicitly stored prefix
+                        
+                        # Get Title Prefix
                         if "title_prefix" in meta:
                             title_prefix = meta["title_prefix"]
                         else:
-                            # Fallback using type inference (legacy)
+                            # Fallback logic
                             episode_type = meta.get("type", "daily")
-                            if "tech" in episode_type:
-                                 title_prefix = "Tech News"
-                            elif "kids" in episode_type:
-                                 title_prefix = "Kids News"
-                            elif "weekly" in episode_type:
-                                title_prefix = "Weekly Round-up"
-                            elif "morning" in episode_type:
-                                title_prefix = "Morning News"
-                            elif "evening" in episode_type:
-                                title_prefix = "Evening News"
+                            if "tech" in episode_type: title_prefix = "Tech News"
+                            elif "kids" in episode_type: title_prefix = "Kids News"
+                            elif "weekly" in episode_type: title_prefix = "Weekly Round-up"
+                            elif "morning" in episode_type: title_prefix = "Morning News"
+                            elif "evening" in episode_type: title_prefix = "Evening News"
+                            
+                        # Get Voice Label
+                        voice = meta.get("voice_type")
+                        if voice:
+                            if "chirp" in voice: title_suffix = " (Chirp)"
+                            elif "wavenet" in voice: title_suffix = " (WaveNet)"
+                            elif "neural" in voice: title_suffix = " (Neural)"
+                            elif "studio" in voice: title_suffix = " (Studio)"
+                            
                 except Exception:
                     pass
-            # Logic to infer title from filename type if metadata missing (optional backup)
-            elif "tech" in type_part:
-                title_prefix = "Tech News"
-            elif "kids" in type_part:
-                title_prefix = "Kids News"
-            elif "weekly" in type_part:
-                title_prefix = "Weekly Round-up"
-            elif "morning" in type_part:
-                title_prefix = "Morning News"
-            elif "evening" in type_part:
-                title_prefix = "Evening News"
-
+                    
+            # Logic to infer title from filename if metadata missing
+            elif "tech" in type_part: title_prefix = "Tech News"
+            elif "kids" in type_part: title_prefix = "Kids News"
+            elif "weekly" in type_part: title_prefix = "Weekly Round-up"
+            elif "morning" in type_part: title_prefix = "Morning News"
+            elif "evening" in type_part: title_prefix = "Evening News"
+ 
         except ValueError:
             logger.warning(f"Skipping file with unexpected name format: {mp3_filename}")
             continue
@@ -353,7 +355,7 @@ def generate_rss_feed(config: Config):
         
         fe = fg.add_entry()
         fe.id(file_url)
-        fe.title(f"{title_prefix} - {display_title}")
+        fe.title(f"{title_prefix}{title_suffix} - {display_title}")
         fe.description(f"Daily news summary for {display_title}.")
         fe.link(href=file_url)
         fe.enclosure(file_url, str(file_size), 'audio/mpeg')

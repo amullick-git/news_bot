@@ -59,8 +59,13 @@ def load_config(config_path: str = "config.yaml") -> Config:
 
     overrides = {}
     if "processing_overrides" in raw:
+        base_processing = raw["processing"]
         for key, val in raw["processing_overrides"].items():
-            overrides[key] = ProcessingConfig(**val)
+            # Merge base config with override values
+            merged = base_processing.copy()
+            if val:
+                merged.update(val)
+            overrides[key] = ProcessingConfig(**merged)
 
     return Config(
         feeds=raw["feeds"],

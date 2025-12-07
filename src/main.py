@@ -87,12 +87,19 @@ def main():
         feed_key = "general"
         
     # Apply processing overrides if defined for this category
-    if config.processing_overrides and feed_key in config.processing_overrides:
+    # Apply processing overrides
+    # Priority 1: Exact type match (e.g. 'evening', 'tech_weekly')
+    if config.processing_overrides and args.type in config.processing_overrides:
+        logger.info(f"Applying processing overrides for type: {args.type}")
+        config.processing = config.processing_overrides[args.type]
+    # Priority 2: Feed category match (e.g. 'tech', 'kids') - ONLY if not already overridden by type
+    elif config.processing_overrides and feed_key in config.processing_overrides:
         logger.info(f"Applying processing overrides for category: {feed_key}")
         config.processing = config.processing_overrides[feed_key]
-        # Re-apply CLI duration override if provided, as it should take precedence
-        if args.duration:
-            config.processing.duration_minutes = args.duration
+        
+    # Re-apply CLI duration override if provided, as it should take precedence
+    if args.duration:
+        config.processing.duration_minutes = args.duration
 
     # Selected feeds
     selected_feeds = config.feeds.get(feed_key, config.feeds["general"])
