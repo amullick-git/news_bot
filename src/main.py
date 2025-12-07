@@ -149,7 +149,14 @@ def main():
     # Determine audience
     audience = "kids" if "kids" in args.type else "general"
     
-    script = summarize_with_gemini(items, target_words, config.processing.gemini_model, friendly_sources, audience=audience)
+    script = summarize_with_gemini(
+        items, 
+        target_words, 
+        config.processing.gemini_model, 
+        friendly_sources, 
+        audience=audience,
+        show_name=args.title_prefix
+    )
 
     raw_script_path = os.path.join(config.podcast.episodes_dir, "episode_script_raw.txt")
     with open(raw_script_path, "w") as f:
