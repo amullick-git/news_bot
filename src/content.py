@@ -112,7 +112,8 @@ Source: {a.get('link')}
     - End with the HOST signing off.
 
     **Constraints:**
-    - Total length: ~{target_words} words.
+    - Total length: STRICTLY ~{target_words} words. Do NOT exceed this significanty.
+    - Be concise. Focus on the most important details.
     - Do NOT use markdown formatting (bold, italics) in the spoken text.
     - Do NOT include sound effects or music cues.
     - Ensure smooth transitions between stories.

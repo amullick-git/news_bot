@@ -54,12 +54,14 @@ keywords:
     - "tech policy"
     - "electric vehicles"
   kids:
-    - "science"
-    - "space"
     - "world"
-    - "animals"
+    - "USA"
     - "technology"
     - "environment"
+    - "science"
+    - "space"
+    - "animals"
+    - "education"
     - "sports"
     - "inventions"
     - "history"
@@ -96,7 +98,7 @@ processing_overrides:
     gemini_model: "gemini-2.5-flash"
     fetch_limit: 100
   tech_weekly:
-    duration_minutes: 30
+    duration_minutes: 20
     words_per_min: 125
     max_per_feed: 25
     max_final_articles: 20
