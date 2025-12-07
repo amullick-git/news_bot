@@ -24,6 +24,7 @@ news_podcast/
 │   ├── fetcher.py          # RSS fetching & filtering
 │   ├── local_ai.py         # Local Semantic Filtering (sentence-transformers)
 │   ├── main.py             # Entry point
+│   ├── metrics.py          # Run statistics & logging
 │   ├── rss.py              # RSS feed & HTML generation
 │   └── utils.py            # Logging & helpers
 ├── tests/                  # Unit and integration tests
@@ -88,6 +89,8 @@ python -m pytest tests/test_fetcher.py
 ### Key Tests
 - `tests/test_fetcher.py`: Verifies RSS filtering logic (time windows, keywords).
 - `tests/test_config.py`: Verifies configuration loading.
+- `tests/test_metrics.py`: Verifies metrics calculation and logging.
+- `tests/test_rss.py`: Verifies link page generation and display logic.
 - `tests/test_regenerate_feed.py`: Verifies the feed regeneration script.
 
 ## CI/CD Workflows
@@ -124,9 +127,12 @@ The project uses GitHub Actions for automation. The workflows are modularized to
     - Concatenates audio segments using `pydub` (or simple binary concatenation if mp3).
 4.  **RSS (`src/rss.py`)**:
     - Generates `feed.xml` compatible with podcast players.
-    - Creates HTML "Links" pages for each episode.
+    - Creates HTML "Links" pages for each episode (with friendly display names).
     - Updates `index.html`.
     - Cleans up old files.
+6.  **Metrics (`src/metrics.py`)**:
+    - Tracks fetch counts and selection rates per source.
+    - Logs cumulative stats to `metrics_prod.md` (Production) and `metrics_test.md` (Test).
 
 ## Contributing
 

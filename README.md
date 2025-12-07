@@ -13,6 +13,8 @@ This project is an automated tool that fetches news from various RSS feeds, filt
     - **Host & Reporter Mode**: Generates a dialogue between a Host (Arjav) and a Reporter (Arohi).
 - **Audio Production**: Converts the script to speech using Google Cloud TTS with dynamic pacing and prosody (SSML).
     - **Multi-Voice**: Uses distinct WaveNet voices for the Host and Reporter.
+    - **Intro Announcement**: Explicitly announces the show name (e.g. "Welcome to Weekly Tech Round-up") for clarity.
+- **Metrics Logging**: Logs run statistics (fetched vs. used articles) to `metrics_prod.md` for performance tracking.
 - **Dual Schedule**: Automatically runs twice daily:
     - **Morning Briefing (6:30 AM PST)**: 15-minute deep dive.
     - **Evening Update (6:30 PM PST)**: 8-minute quick summary (labeled as "Quick News Briefing").
@@ -98,6 +100,7 @@ The script will:
 - **Sources**: `episodes/episode_sources_YYYY-MM-DD_HH.md` - List of articles used (Markdown).
 - **Links Page**: `episodes/links_YYYY-MM-DD_HH.html` - List of articles used (HTML webpage).
 - **Scripts**: Text files containing the generated script.
+- **Metrics**: `metrics_prod.md` (Production) and `metrics_test.md` (Test) - Cumulative run statistics.
 - **RSS Feed**: `feed.xml` - The podcast feed file.
 
 ## Publishing to Podcast Apps
