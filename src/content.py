@@ -130,7 +130,7 @@ Source: {a.get('link')}
     **Structure:**
     1. {intro_instruction}
     2. HOST & REPORTER: Dialogue covering the top stories. Group related stories together.
-    3. HOST: Outro. Include a short, interesting "fun fact of the day" (for kids: related to animals/space; for general: tech/history) before signing off.
+    3. HOST: Outro. Include a unique, surprising fun fact related to one of these topics: {keywords_str}. Vary the fact type each time (historical milestone, scientific discovery, cultural tidbit, technological breakthrough, etc.). Avoid generic or commonly known facts. Then sign off.
     """
 
     response = model.generate_content(prompt)
