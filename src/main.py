@@ -55,6 +55,13 @@ def main():
 
     setup_logging()
     config = load_config()
+    
+    # Configure Gemini
+    api_key = os.getenv("GOOGLE_API_KEY")
+    if api_key:
+        configure_gemini(api_key)
+    else:
+        logger.warning("GOOGLE_API_KEY not set. Gemini calls may fail if not using ADC.")
 
     # Override config with args if provided
     if args.duration:
