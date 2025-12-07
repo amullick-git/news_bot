@@ -279,6 +279,7 @@ def text_to_speech(clean_script: str, output_file: str, voice_type: str = "waven
         reporter_name = "en-US-Wavenet-F"
 
     audio_segments = [] # To store paths to temporary audio files
+    total_chars = 0
 
     # Process segments
     for i, (speaker, text_content) in enumerate(segments):
@@ -439,6 +440,12 @@ def text_to_speech(clean_script: str, output_file: str, voice_type: str = "waven
                 response = synthesize_chunk(client, synthesis_input, voice_params, audio_config)
                 audio_contents.append(response.audio_content)
                 
+                # Count characters sent
+                if is_ssml:
+                    total_chars += len(chunk)
+                else:
+                    total_chars += len(chunk)
+                
             except Exception as e:
                 logger.error(f"Failed to synthesize chunk {i}-{chunk_idx}: {e}")
                 raise e
@@ -448,3 +455,4 @@ def text_to_speech(clean_script: str, output_file: str, voice_type: str = "waven
             out.write(content)
 
     logger.info(f"Saved audio file: {output_file}")
+    return total_chars

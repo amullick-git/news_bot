@@ -1,5 +1,6 @@
 import os
 from datetime import datetime
+import json
 from typing import List, Dict, Any
 from urllib.parse import urlparse
 from .utils import get_logger
@@ -9,6 +10,30 @@ logger = get_logger(__name__)
 class MetricsLogger:
     def __init__(self, base_dir: str):
         self.base_dir = base_dir
+        self.stats_file = os.path.join(base_dir, "metrics_stats.json")
+
+    def _load_stats(self) -> Dict[str, Any]:
+        if os.path.exists(self.stats_file):
+            try:
+                with open(self.stats_file, "r") as f:
+                    return json.load(f)
+            except Exception as e:
+                logger.error(f"Failed to load stats: {e}")
+        return {"tts_usage": {}}
+
+    def _save_stats(self, stats: Dict[str, Any]):
+        try:
+            with open(self.stats_file, "w") as f:
+                json.dump(stats, f, indent=2)
+        except Exception as e:
+            logger.error(f"Failed to save stats: {e}")
+
+    def _update_tts_stats(self, model: str, chars: int) -> Dict[str, int]:
+        stats = self._load_stats()
+        usage = stats.setdefault("tts_usage", {})
+        usage[model] = usage.get(model, 0) + chars
+        self._save_stats(stats)
+        return usage
 
     def _get_source_name(self, item: Dict[str, Any]) -> str:
         """Helper to get friendly source name or domain"""
@@ -35,7 +60,8 @@ class MetricsLogger:
                 run_type: str, 
                 is_test: bool = False,
                 links_file: str = None,
-                local_ai_items: List[Dict[str, Any]] = None):
+                local_ai_items: List[Dict[str, Any]] = None,
+                tts_stats: Dict[str, Any] = None):
         
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
         
@@ -65,6 +91,19 @@ class MetricsLogger:
              stats_line += f" -> **Final Selection**: {len(shortlisted_items)}\n"
         
         lines.append(stats_line)
+
+        if tts_stats:
+            model = tts_stats.get("model", "unknown")
+            chars = tts_stats.get("chars", 0)
+            
+            # Update and get running totals
+            if not is_test:  # Only update running totals for prod runs
+                running_totals = self._update_tts_stats(model, chars)
+                total_for_model = running_totals.get(model, 0)
+            else:
+                total_for_model = chars # Just show current for test
+
+            lines.append(f"**TTS Usage**: {chars} chars (Model: {model}) -> **Running Total**: {total_for_model} chars\n")
         
         lines.append("### Breakdown by Source")
         lines.append("| Source | Fetched | Stage 1 (Local AI) | Selected |")

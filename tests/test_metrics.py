@@ -47,6 +47,31 @@ def test_metrics_logger(tmp_path):
         content = f.read()
         assert "**Total Fetched**: 4 -> **Stage 1 (Local AI)**: 3 -> **Stage 2 (Gemini Final)**: 2" in content
 
+    # Test TTS Stats
+    tts_stats = {"model": "test_model", "chars": 1234}
+    logger.log_run(fetched, shortlisted, run_type="tts_test", is_test=True, tts_stats=tts_stats)
+    
+    with open(test_file) as f:
+        content = f.read()
+        assert "**TTS Usage**: 1234 chars (Model: test_model)" in content
+        
+    # Test Persistence (mocking persistence by using prod mode logic in a temp dir)
+    # log_run only updates persistence if is_test=False
+    logger.log_run(fetched, shortlisted, run_type="prod_tts", is_test=False, tts_stats=tts_stats)
+    
+    stats_file = os.path.join(base_dir, "metrics_stats.json")
+    assert os.path.exists(stats_file)
+    import json
+    with open(stats_file) as f:
+        data = json.load(f)
+        assert data["tts_usage"]["test_model"] == 1234
+        
+    # Run again to test accumulation
+    logger.log_run(fetched, shortlisted, run_type="prod_tts_2", is_test=False, tts_stats=tts_stats)
+    with open(stats_file) as f:
+        data = json.load(f)
+        assert data["tts_usage"]["test_model"] == 2468
+
     # Test Prod Mode with Link
     logger.log_run(fetched, shortlisted, run_type="prod_run", is_test=False, links_file="links_prod.html")
     prod_file = os.path.join(base_dir, "metrics_prod.md")

@@ -212,8 +212,9 @@ def main():
     logger.info(f"Saved metadata to {meta_file}")
 
     # 6. Generate Audio (TTS)
+    tts_chars = 0
     if not args.no_tts:
-        text_to_speech(clean_script, episode_path, voice_type=config.processing.voice_type)
+        tts_chars = text_to_speech(clean_script, episode_path, voice_type=config.processing.voice_type)
         logger.info("Audio generation complete.")
     else:
         logger.info("Skipping TTS generation (--no-tts provided).")
@@ -231,7 +232,13 @@ def main():
     # --- LOG METRICS ---
     from .metrics import MetricsLogger
     metrics = MetricsLogger(os.getcwd())
-    metrics.log_run(fetched_items, shortlisted_items, args.type, args.test, links_file=links_filename, local_ai_items=candidates if selected_keywords else None)
+    
+    tts_stats = {
+        "model": config.processing.voice_type,
+        "chars": tts_chars
+    }
+    
+    metrics.log_run(fetched_items, shortlisted_items, args.type, args.test, links_file=links_filename, local_ai_items=candidates if selected_keywords else None, tts_stats=tts_stats)
 
     logger.info("=== Done! ===")
 
