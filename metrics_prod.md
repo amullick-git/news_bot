@@ -1,3 +1,17 @@
+## Run: 2025-12-07 15:11 (Type: daily)
+**Links File**: [links_daily_2025-12-07_15.html](episodes/links_daily_2025-12-07_15.html)
+
+**Total Fetched**: 16 -> **Stage 1 (Local AI)**: 16 -> **Stage 2 (Gemini Final)**: 2
+
+**TTS Usage**: 18 chars (Model: chirp3-hd) -> **Running Total**: 18 chars
+
+### Breakdown by Source
+| Source | Fetched | Stage 1 (Local AI) | Selected |
+|---|---|---|---|
+| Test News Source | 16 | 16 | 2 |
+
+----------------------------------------
+
 ## Run: 2025-12-07 06:44 (Type: morning)
 **Links File**: [links_morning_2025-12-07_06.html](episodes/links_morning_2025-12-07_06.html)
 

@@ -12,26 +12,34 @@ def verify_staging():
     print("=== Verifying Artifact Staging Logic ===")
     
     # 1. Mock External APIs to avoid keys and costs
-    # We need to patch where they are imported in the modules
+    # We patch the underlying libraries used by src/content and src/audio
     with patch("src.content.genai") as mock_genai, \
          patch("src.audio.texttospeech") as mock_tts, \
          patch("src.fetcher.feedparser.parse") as mock_feed:
          
-        # Setup Mocks
+        # Setup Gemini Mocks
         mock_model = MagicMock()
         mock_genai.GenerativeModel.return_value = mock_model
-        # Mock semantic filtering response
-        # Mock Response Object explicitly
-        mock_response = MagicMock()
-        mock_response.text = "HOST: This is a mock script verify staging."
-        mock_model.generate_content.return_value = mock_response 
+        
+        # Prepare responses for Sequence: 
+        # 1. Semantic Filter (JSON list of indices)
+        # 2. Script Generation (Text)
+        mock_filter_resp = MagicMock()
+        mock_filter_resp.text = "[0, 1]"
+        
+        mock_script_resp = MagicMock()
+        mock_script_resp.text = "HOST: MOCKED SCRIPT.\nREPORTER: END."
+        
+        # side_effect ensures sequential returns
+        mock_model.generate_content.side_effect = [mock_filter_resp, mock_script_resp]
         
         # Mock TTS response
         mock_client = MagicMock()
         mock_tts.TextToSpeechClient.return_value = mock_client
         mock_client.synthesize_speech.return_value.audio_content = b"fake_audio"
         
-        # Mock Feed
+        # Mock Feed Metadata (Critical: must avoid Mocks leaking into source names)
+        mock_feed.return_value.feed = {"title": "Test News Source"}
         now_str = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
         mock_feed.return_value.entries = [
             {"title": "Test News 1", "link": "http://test.com/1", "summary": "Summary 1", "published": now_str},
