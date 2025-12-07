@@ -40,13 +40,13 @@
    _www.ndtv.com_  
    https://www.ndtv.com/india-news/priti-adani-calls-on-adani-university-graduates-to-power-indias-rise-with-purpose-9764207#publisher=newsstand
 
-11. **Silicon Valley’s Man in the White House Is Benefiting Himself and His Friends**  
+11. **In Honduras, Some Voters Were Swayed by Trump, Others Angered**  
+   _www.nytimes.com_  
+   https://www.nytimes.com/2025/12/06/world/americas/honduras-voters-trump-election.html
+
+12. **Silicon Valley’s Man in the White House Is Benefiting Himself and His Friends**  
    _www.nytimes.com_  
    https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html
-
-12. **Beta Will Sell Motors to Another Electric Aircraft Company**  
-   _www.nytimes.com_  
-   https://www.nytimes.com/2025/12/02/business/beta-eve-embraer-electric-planes.html
 
 13. **Week in review: Stocks rise, Meta gets real on metaverse, and Salesforce bounces**  
    _www.cnbc.com_  
