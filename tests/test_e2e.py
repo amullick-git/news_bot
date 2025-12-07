@@ -105,19 +105,18 @@ def test_full_flow_with_webpage_update(mock_filter, mock_fetch, mock_genai_model
     ]
     mock_fetch.return_value = items
     
-    # 2. Mock Local Filter (Pass-through)
+    # 2. Mock Local Filter (Stage 1: Pass-through)
     mock_filter.return_value = items
 
     # 3. Mock Gemini Response
     mock_model_instance = MagicMock()
     mock_genai_model.return_value = mock_model_instance
     
-    # Response 1: Semantic Filtering (Not called anymore?)
-    # Wait, main.py replaced filter_by_semantics with LocalFilter, so Gemini is NOT called for filtering.
-    # It is only called for Summarization.
-    # So we strictly need fewer side effects.
+    # Stage 2: Gemini filtering response (filter_by_semantics)
+    mock_response_filtering = MagicMock()
+    mock_response_filtering.text = "[0, 1]"  # Return indices of both items
     
-    # Response: Script Generation
+    # Stage 3: Script Generation
     mock_response_script = MagicMock()
     mock_response_script.text = """
 HOST: Welcome.
@@ -125,7 +124,8 @@ REPORTER: News 1.
 HOST: Thanks.
 """
     
-    mock_model_instance.generate_content.side_effect = [mock_response_script]
+    # Two Gemini calls now: filtering + script generation
+    mock_model_instance.generate_content.side_effect = [mock_response_filtering, mock_response_script]
 
     # 4. Mock TTS Response
     mock_client_instance = MagicMock()
