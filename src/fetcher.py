@@ -127,23 +127,53 @@ def limit_by_source(items: List[Dict[str, Any]], max_per_source: int) -> List[Di
     logger.info(f"Source limiting processed {len(items)} -> {len(final_items)} items")
     return final_items
 
-def get_friendly_source_names(sources: List[str]) -> str:
+def get_friendly_source_names(sources_or_items: List[Any], limit: int = 6) -> str:
     """
-    Derive friendly names from RSS_SOURCES for the intro.
+    Derive friendly names from actual items or source URLs for the intro.
+    Args:
+        sources_or_items: List of item dicts (with 'link') OR list of URL strings.
+        limit: Max number of names to list.
     """
     names = set()
-    for url in sources:
+    
+    # Extract URLs
+    urls = []
+    for x in sources_or_items:
+        if isinstance(x, dict):
+            urls.append(x.get("link", ""))
+        else:
+            urls.append(str(x))
+            
+    for url in urls:
         if "bbc" in url: names.add("BBC")
         elif "nytimes" in url: names.add("NYT")
         elif "ndtv" in url: names.add("NDTV")
-        elif "hnrss" in url: names.add("Hacker News")
+        elif "hnrss" in url or "hackernews" in url: names.add("Hacker News")
         elif "theverge" in url: names.add("The Verge")
         elif "cnbc" in url: names.add("CNBC")
         elif "npr" in url: names.add("NPR")
+        elif "sciencejournalforkids" in url: names.add("Science Journal for Kids")
+        elif "nasa" in url: names.add("NASA")
+        elif "youth1" in url: names.add("Youth1")
+        elif "sportsfeelgoodstories" in url: names.add("Sports Feel Good Stories")
+        elif "snexplores" in url: names.add("Science News Explores")
+        elif "bloomberg" in url: names.add("Bloomberg")
+        elif "technologyreview" in url: names.add("MIT Tech Review")
+        elif "techcrunch" in url: names.add("TechCrunch")
+        elif "arstechnica" in url: names.add("Ars Technica")
         else:
             # Fallback to domain
             try:
                 domain = urlparse(url).netloc.replace("www.", "").split(".")[0].title()
-                names.add(domain)
+                if domain:
+                    names.add(domain)
             except: pass
-    return ", ".join(sorted(list(names)))
+            
+    sorted_names = sorted(list(names))
+    
+    # Cap the list
+    if len(sorted_names) > limit:
+        display_names = sorted_names[:limit]
+        return ", ".join(display_names) + ", and others"
+    
+    return ", ".join(sorted_names)

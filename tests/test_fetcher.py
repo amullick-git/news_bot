@@ -1,6 +1,6 @@
 import pytest
 from datetime import datetime, timedelta
-from src.fetcher import filter_by_time_window, filter_by_keywords
+from src.fetcher import filter_by_time_window, filter_by_keywords, get_friendly_source_names
 
 def test_filter_by_time_window():
     now = datetime.now(datetime.utcnow().astimezone().tzinfo)
@@ -30,6 +30,26 @@ def test_filter_by_time_window():
     assert "Old" in titles_7d
     assert "Week Old" in titles_7d
     assert "Ancient" not in titles_7d
+
+def test_get_friendly_source_names():
+    # Test with item dicts
+    items = [
+        {"link": "https://www.bbc.com/news/123"},
+        {"link": "https://www.nytimes.com/tech/456"},
+        {"link": "https://other-domain.com/article"},
+        {"link": "https://www.theverge.com/2024/01/01/cool-gadget"}
+    ]
+    
+    names_str = get_friendly_source_names(items)
+    assert "BBC" in names_str
+    assert "NYT" in names_str
+    assert "The Verge" in names_str
+    assert "Other-Domain" in names_str
+
+    # Test Limiting to 2
+    names_limited = get_friendly_source_names(items, limit=2)
+    assert names_limited.count(",") >= 1 # At least one comma
+    assert "and others" in names_limited
 
 def test_filter_by_keywords():
     items = [

@@ -142,7 +142,7 @@ def main():
     sources_file = os.path.join(config.podcast.episodes_dir, f"episode_sources_{filename_suffix}.md")
     write_episode_sources(items, sources_file)
 
-    friendly_sources = get_friendly_source_names(selected_feeds)
+    friendly_sources = get_friendly_source_names(items, limit=6)
     
     # Determine audience
     audience = "kids" if "kids" in args.type else "general"
