@@ -1,3 +1,19 @@
+## Run: 2025-12-07 06:22 (Type: tech_daily)
+**Links File**: [links_tech_daily_2025-12-07_06.html](episodes/links_tech_daily_2025-12-07_06.html)
+
+**Total Fetched**: 80 -> **Shortlisted**: 10
+
+### Breakdown by Source
+| Source | Fetched | Selected |
+|---|---|---|
+| Ars Technica | 20 | 0 |
+| Hacker News | 20 | 7 |
+| MIT Technology Review | 10 | 0 |
+| TechCrunch | 20 | 3 |
+| The Verge | 10 | 0 |
+
+----------------------------------------
+
 ## Run: 2025-12-07 06:13 (Type: kids_daily)
 **Links File**: [links_kids_daily_2025-12-07_06.html](episodes/links_kids_daily_2025-12-07_06.html)
 
