@@ -14,6 +14,7 @@ def verify_staging():
     # 1. Mock External APIs to avoid keys and costs
     # We patch the underlying libraries used by src/content and src/audio
     with patch("src.content.genai") as mock_genai, \
+         patch("src.main.generate_rss_feed") as mock_rss, \
          patch("src.audio.texttospeech") as mock_tts, \
          patch("src.fetcher.feedparser.parse") as mock_feed:
          
