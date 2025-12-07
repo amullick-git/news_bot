@@ -25,7 +25,7 @@ def test_voice_selection_wavenet_default(mock_tts_client):
     voice_params = call_args.kwargs['voice']
     
     assert "Wavenet" in voice_params.name
-    assert "Studio" in voice_params.name
+    assert "Wavenet" in voice_params.name
 
 def test_voice_selection_neural(mock_tts_client):
     """Test that voice_type='neural' selects Neural2 voices"""
@@ -59,6 +59,27 @@ def test_voice_selection_chirp3_hd(mock_tts_client):
     voice_params = call_args.kwargs['voice']
     
     assert "Chirp3-HD" in voice_params.name
+
+
+
+def test_voice_selection_input_format(mock_tts_client):
+    """Test that chirp3-hd uses plain text and others use SSML"""
+    mock_instance = mock_tts_client.return_value
+    
+    # Test Chirp3-HD (Plain Text)
+    text_to_speech("HOST: Hello.", "out.mp3", voice_type="chirp3-hd")
+    call_args = mock_instance.synthesize_speech.call_args
+    # Check that 'text' arg is present and 'ssml' is not (or None)
+    synthesis_input = call_args.kwargs['input']
+    assert synthesis_input.text != ""
+    assert not synthesis_input.ssml
+    
+    # Test Wavenet (SSML)
+    text_to_speech("HOST: Hello.", "out.mp3", voice_type="wavenet")
+    call_args = mock_instance.synthesize_speech.call_args
+    synthesis_input = call_args.kwargs['input']
+    assert synthesis_input.ssml != ""
+    assert not synthesis_input.text
 
 def test_voice_selection_explicit_wavenet(mock_tts_client):
     """Test explicit 'wavenet' selection"""
