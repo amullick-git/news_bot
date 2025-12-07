@@ -32,17 +32,43 @@ def parse_published_date(published_str: str) -> datetime:
     except Exception:
         return None
 
+def clean_source_name(title: str) -> str:
+    """
+    Cleans up RSS feed titles to get a friendly source name.
+    e.g. "NYT > Technology" -> "NYT"
+    """
+    if not title or title.lower() in ["unknown title", "rss", "feed", "home"]:
+        return None
+        
+    # 1. Split by common separators and take the first part
+    separators = [' > ', ' - ', ' | ', ': ', ' – ']
+    for sep in separators:
+        if sep in title:
+            title = title.split(sep)[0]
+            
+    # 2. Specific fixes for known messy feeds (optional but helpful)
+    if "Search Records Found" in title:
+        title = title.split(" Search Records")[0]
+        
+    return title.strip()
+
 def fetch_feed(url: str, max_items: int = 10) -> List[Dict[str, Any]]:
     logger.info(f"Fetching feed: {url}")
     try:
         feed = feedparser.parse(url)
+        
+        # Extract and clean source name
+        raw_title = feed.feed.get('title', '')
+        source_name = clean_source_name(raw_title)
+        
         items = []
         for entry in feed.entries[:max_items]:
             items.append({
                 "title": entry.get("title"),
                 "summary": entry.get("summary", ""),
                 "published": entry.get("published", ""),
-                "link": entry.get("link")
+                "link": entry.get("link"),
+                "source_name": source_name # Store the discovered name
             })
         return items
     except Exception as e:
@@ -114,9 +140,6 @@ def limit_by_source(items: List[Dict[str, Any]], max_per_source: int) -> List[Di
         by_source[domain].append(item)
 
     final_items = []
-    # Interleave items for diversity? Or just append?
-    # Appending is safer to preserve some implicit time ordering if we re-sort later.
-    # But usually feeds are individually time-sorted.
     for domain, source_items in by_source.items():
         # Keep top N
         kept = source_items[:max_per_source]
@@ -129,45 +152,45 @@ def limit_by_source(items: List[Dict[str, Any]], max_per_source: int) -> List[Di
 
 def get_friendly_source_names(sources_or_items: List[Any], limit: int = 6) -> str:
     """
-    Derive friendly names from actual items or source URLs for the intro.
-    Args:
-        sources_or_items: List of item dicts (with 'link') OR list of URL strings.
-        limit: Max number of names to list.
+    Derive friendly names. 
+    PRIORITY:
+    1. 'source_name' field in item (from RSS metadata)
+    2. Fallback to domain parsing
     """
     names = set()
     
-    # Extract URLs
-    urls = []
+    # 1. Try to extract from items
     for x in sources_or_items:
         if isinstance(x, dict):
-            urls.append(x.get("link", ""))
+            # If we have a good source name from the feed, use it
+            if x.get("source_name"):
+                names.add(x["source_name"])
+                continue
+                
+            # Fallback: Parse URL
+            url = x.get("link", "")
         else:
-            urls.append(str(x))
+            url = str(x)
             
-    for url in urls:
-        if "bbc" in url: names.add("BBC")
-        elif "nytimes" in url: names.add("NYT")
-        elif "ndtv" in url: names.add("NDTV")
-        elif "hnrss" in url or "hackernews" in url: names.add("Hacker News")
-        elif "theverge" in url: names.add("The Verge")
-        elif "cnbc" in url: names.add("CNBC")
-        elif "npr" in url: names.add("NPR")
-        elif "sciencejournalforkids" in url: names.add("Science Journal for Kids")
-        elif "nasa" in url: names.add("NASA")
-        elif "youth1" in url: names.add("Youth1")
-        elif "sportsfeelgoodstories" in url: names.add("Sports Feel Good Stories")
-        elif "snexplores" in url: names.add("Science News Explores")
-        elif "bloomberg" in url: names.add("Bloomberg")
-        elif "technologyreview" in url: names.add("MIT Tech Review")
-        elif "techcrunch" in url: names.add("TechCrunch")
-        elif "arstechnica" in url: names.add("Ars Technica")
-        else:
-            # Fallback to domain
-            try:
-                domain = urlparse(url).netloc.replace("www.", "").split(".")[0].title()
-                if domain:
-                    names.add(domain)
-            except: pass
+        # 2. Domain fallback (removed hardcoded map, using generic formatting)
+        try:
+            # e.g. "www.bbc.co.uk" -> "Bbc" ... slightly imperfect but a safety net
+            # Improve: "news.ycombinator.com" -> "Hacker News" ? 
+            # We keep a tiny hardcoded list for popular tech/news sites if metadata fails?
+            
+            # Simple Domain Formatter
+            # "techcrunch.com" -> "Techcrunch"
+            netloc = urlparse(url).netloc.replace("www.", "")
+            name_part = netloc.split(".")[0].title()
+            
+            # Manual overrides just for when metadata fails entirely (e.g. Bloomberg)
+            if "bloomberg" in netloc: name_part = "Bloomberg"
+            elif "nytimes" in netloc: name_part = "NYT"
+            elif "bbci" in netloc or "bbc." in netloc: name_part = "BBC"
+            
+            names.add(name_part)
+        except: 
+            pass
             
     sorted_names = sorted(list(names))
     

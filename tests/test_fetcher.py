@@ -33,21 +33,25 @@ def test_filter_by_time_window():
 
 def test_get_friendly_source_names():
     # Test with item dicts
-    items = [
-        {"link": "https://www.bbc.com/news/123"},
-        {"link": "https://www.nytimes.com/tech/456"},
-        {"link": "https://other-domain.com/article"},
-        {"link": "https://www.theverge.com/2024/01/01/cool-gadget"}
+    # Case 1: Items WITH source_name (metadata)
+    items_meta = [
+        {"link": "https://foo.com", "source_name": "Foo News"},
+        {"link": "https://bar.com", "source_name": "Bar Daily"}
     ]
-    
-    names_str = get_friendly_source_names(items)
+    assert "Foo News" in get_friendly_source_names(items_meta)
+    assert "Bar Daily" in get_friendly_source_names(items_meta)
+
+    # Case 2: Items WITHOUT source_name (fallback to domain)
+    items_fallback = [
+        {"link": "https://www.bbc.com/news/123"}, # Should become BBC
+        {"link": "https://other-domain.com/article"} # Should become Other-Domain
+    ]
+    names_str = get_friendly_source_names(items_fallback)
     assert "BBC" in names_str
-    assert "NYT" in names_str
-    assert "The Verge" in names_str
     assert "Other-Domain" in names_str
 
     # Test Limiting to 2
-    names_limited = get_friendly_source_names(items, limit=2)
+    names_limited = get_friendly_source_names(items_fallback, limit=1)
     assert names_limited.count(",") >= 1 # At least one comma
     assert "and others" in names_limited
 
