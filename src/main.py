@@ -96,7 +96,7 @@ def main():
     # If type contains 'tech', use tech feeds. Otherwise use general.
     # Map specific types (tech_daily, tech_weekly) to 'tech'
     # Map 'kids_daily' to 'kids'
-    # Map others (morning, evening, weekly) to 'general'
+    # Map others (daily, evening, weekly) to 'general'
     if "tech" in args.type:
         feed_key = "tech"
     elif "kids" in args.type:

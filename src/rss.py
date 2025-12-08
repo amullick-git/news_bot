@@ -339,7 +339,6 @@ def generate_rss_feed(config: Config, output_dir: str = "."):
                             if "tech" in episode_type: title_prefix = "Tech News"
                             elif "kids" in episode_type: title_prefix = "Kids News"
                             elif "weekly" in episode_type: title_prefix = "Weekly Round-up"
-                            elif "morning" in episode_type: title_prefix = "Morning News"
                             elif "evening" in episode_type: title_prefix = "Evening News"
                             
                         # Get Voice Label
@@ -357,7 +356,6 @@ def generate_rss_feed(config: Config, output_dir: str = "."):
             elif "tech" in type_part: title_prefix = "Tech News"
             elif "kids" in type_part: title_prefix = "Kids News"
             elif "weekly" in type_part: title_prefix = "Weekly Round-up"
-            elif "morning" in type_part: title_prefix = "Morning News"
             elif "evening" in type_part: title_prefix = "Evening News"
  
         except ValueError:
