@@ -144,6 +144,9 @@ def update_index_with_links(episodes_dir: str, index_path: str = "index.html"):
     
     link_files = glob.glob(os.path.join(episodes_dir, "links_*.html"))
     
+    # Filter out verification tests
+    link_files = [f for f in link_files if "verification_test" not in os.path.basename(f)]
+    
     # Sort files by date (parsed from filename) instead of string comparison
     files_with_dates = []
     for filepath in link_files:
@@ -322,6 +325,9 @@ def generate_rss_feed(config: Config, output_dir: str = "."):
     fg.podcast.itunes_category('News')
     
     episode_files = sorted(glob.glob(os.path.join(config.podcast.episodes_dir, "episode_*.mp3")), reverse=True)
+    
+    # Filter out verification tests
+    episode_files = [f for f in episode_files if "verification_test" not in os.path.basename(f)]
     
     for mp3_path in episode_files:
         mp3_filename = os.path.basename(mp3_path)
