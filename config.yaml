@@ -73,6 +73,7 @@ processing:
   max_final_articles: 20
   retention_days: 7
   gemini_model: "gemini-2.5-flash"
+  gemini_filter_model: "gemini-2.5-flash-lite"
   fetch_limit: 100  # Max items per feed to fetch
   local_model: "all-MiniLM-L6-v2"  # Local embedding model for semantic filtering
   local_prefilter_limit: 50  # Stage 1: Local AI reduces to this many candidates

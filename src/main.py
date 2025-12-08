@@ -167,7 +167,7 @@ def main():
         items = filter_by_semantics(
             candidates,
             topics=selected_keywords,
-            model_name=config.processing.gemini_model,
+            model_name=getattr(config.processing, "gemini_filter_model", config.processing.gemini_model),
             limit=config.processing.max_final_articles,  # Stage 2: Final selection
             audience=content_type
         )

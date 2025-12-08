@@ -54,5 +54,6 @@ def test_load_config(tmp_path):
     assert config.processing_overrides is not None
     assert "kids" in config.processing_overrides
     assert config.processing_overrides["kids"].duration_minutes == 5
+    assert config.processing.gemini_filter_model == "gemini-2.5-flash-lite" # Default check
     assert config.podcast.title == "Test Podcast"
     assert config.podcast.image_url == "http://example.com/cover.jpg"
