@@ -98,41 +98,10 @@ def postprocess_for_tts_plain(raw_script: str) -> str:
     text = flatten_for_tts(text)
     return text
 
-def classify_paragraph(p: str) -> str:
-    pl = p.strip().lower()
-    if pl.startswith(("welcome", "good morning", "good evening", "this is", "you’re listening", "you're listening")):
-        return "intro"
-    if pl.startswith(("that’s it", "that's it", "that is it",
-                      "thanks for listening", "thank you for listening",
-                      "see you next time", "we’ll be back", "we'll be back",
-                      "until next time")):
-        return "outro"
-
-    length = len(p)
-    if length < 120:
-        return "short"
-    if length > 450:
-        return "long"
-
-    return "normal"
-
-def pacing_for_type(kind: str):
-    if kind == "intro":
-        return "fast", 900
-    if kind == "outro":
-        return "medium", 600
-    if kind == "short":
-        return "fast", 500
-    if kind == "long":
-        return "fast", 800
-    return "medium", 600
-
 def make_ssml_paragraph(text: str) -> str:
-    kind = classify_paragraph(text)
-    rate, break_ms = pacing_for_type(kind)
     escaped = html.escape(text)
     escaped = escaped.replace(", ", '<break strength="weak"/> ')
-    return f'<p><prosody rate="{rate}">{escaped}</prosody></p><break time="{break_ms}ms"/>'
+    return f'<p>{escaped}</p><break time="500ms"/>'
 
 def generate_ssml_chunks(text: str, max_bytes=5000) -> list[str]:
     raw_paragraphs = [p.strip() for p in text.split("\n") if p.strip()]
