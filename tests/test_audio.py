@@ -70,9 +70,10 @@ def test_voice_selection_input_format(mock_tts_client):
     text_to_speech("HOST: Hello.", "out.mp3", voice_type="chirp3-hd")
     call_args = mock_instance.synthesize_speech.call_args
     # Check that 'text' arg is present and 'ssml' is not (or None)
+    # Check that 'ssml' arg is present
     synthesis_input = call_args.kwargs['input']
-    assert synthesis_input.text != ""
-    assert not synthesis_input.ssml
+    assert synthesis_input.ssml != ""
+    assert not synthesis_input.text
     
     # Test Wavenet (SSML)
     text_to_speech("HOST: Hello.", "out.mp3", voice_type="wavenet")

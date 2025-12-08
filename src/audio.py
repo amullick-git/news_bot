@@ -297,14 +297,9 @@ def text_to_speech(clean_script: str, output_file: str, voice_type: str = "waven
         )
 
         # Generate chunks (SSML or Plain Text)
-        if voice_type == "chirp3-hd":
-             # Chirp/USM/Journey models often don't support SSML (or limited support)
-             # Use plain text input
-             chunks = generate_plain_chunks(text_content)
-             is_ssml = False
-        else:
-             chunks = generate_ssml_chunks(text_content)
-             is_ssml = True
+        # Always use SSML chunks
+        chunks = generate_ssml_chunks(text_content)
+        is_ssml = True
 
         # Helper function for parallel synthesis
         def synthesize_single_chunk(chunk_idx, chunk, is_ssml):
