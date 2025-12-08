@@ -293,7 +293,7 @@ def text_to_speech(clean_script: str, output_file: str, voice_type: str = "waven
         )
         audio_config = texttospeech.AudioConfig(
             audio_encoding=texttospeech.AudioEncoding.MP3,
-            speaking_rate=1.25
+            speaking_rate=1.15
         )
 
         # Generate chunks (SSML or Plain Text)
