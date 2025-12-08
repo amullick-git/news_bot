@@ -78,7 +78,7 @@ jobs:
           ./scripts/stage_artifacts.sh
           
           # 2. Discard the locally generated feed.xml to avoid conflicts during pull
-          git checkout feed.xml || true
+          git checkout docs/feed.xml || true
           
           # 3. Commit episodes
           if git diff --staged --quiet; then
@@ -93,7 +93,7 @@ jobs:
             python scripts/regenerate_feed.py
             
             # 6. Commit and push feed
-            git add feed.xml
+            git add docs/feed.xml
             git commit -m "Update RSS feed [skip ci]"
             git push
           fi
