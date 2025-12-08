@@ -204,6 +204,16 @@ def main():
     # Determine audience
     audience = "kids" if "kids" in args.type else "general"
     
+    # Determine greeting based on current hour
+    current_hour = datetime.now().hour
+    if current_hour < 12:
+        greeting = "Good Morning"
+    elif 12 <= current_hour < 17:
+        greeting = "Good Afternoon"
+    else:
+        greeting = "Good Evening"
+    logger.info(f"Target Greeting: {greeting} (Hour: {current_hour})")
+    
     script = summarize_with_gemini(
         items, 
         target_words=target_words, 
@@ -211,8 +221,10 @@ def main():
         friendly_sources=friendly_sources, 
         audience=audience,
         show_name=args.title_prefix,
-        keywords=selected_keywords
+        keywords=selected_keywords,
+        greeting=greeting
     )
+
 
     raw_script_path = os.path.join(config.podcast.episodes_dir, "episode_script_raw.txt")
     with open(raw_script_path, "w") as f:
