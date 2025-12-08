@@ -78,7 +78,7 @@ python -m src.main
 # Custom duration
 python -m src.main --duration 5
 
-# Test mode (dry run, saves to test_episodes/)
+# Test mode (dry run, saves to test_output/)
 python -m src.main --test
 ```
 

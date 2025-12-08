@@ -95,7 +95,7 @@ python -m src.main --voice-type studio
 # Weekly Round-up (20 mins, last 7 days)
 python -m src.main --duration 20 --lookback-days 7 --type weekly --title-prefix "Weekly News Round-up"
 
-# Test mode (saves to test_episodes/, no RSS update)
+# Test mode (saves to test_output/, no RSS update)
 python -m src.main --test
 ```
 
