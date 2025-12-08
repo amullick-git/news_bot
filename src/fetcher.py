@@ -150,7 +150,7 @@ def limit_by_source(items: List[Dict[str, Any]], max_per_source: int) -> List[Di
     logger.info(f"Source limiting processed {len(items)} -> {len(final_items)} items")
     return final_items
 
-def get_friendly_source_names(sources_or_items: List[Any], limit: int = 6) -> str:
+def get_friendly_source_names(sources_or_items: List[Any], limit: int = 6, randomize: bool = False) -> str:
     """
     Derive friendly names. 
     PRIORITY:
@@ -195,7 +195,11 @@ def get_friendly_source_names(sources_or_items: List[Any], limit: int = 6) -> st
     sorted_names = sorted(list(names))
     
     # Cap the list
-    if len(sorted_names) > limit:
+    if randomize and len(sorted_names) > limit:
+        import random
+        display_names = sorted(random.sample(sorted_names, limit))
+        return ", ".join(display_names) + ", and others"
+    elif len(sorted_names) > limit:
         display_names = sorted_names[:limit]
         return ", ".join(display_names) + ", and others"
     
