@@ -139,8 +139,8 @@ def generate_episode_links_page(items: List[Dict[str, Any]], timestamp: str, epi
     logger.info(f"Generated links page: {filepath}")
     return filename
 
-def update_index_with_links(episodes_dir: str):
-    logger.info("Updating index.html with recent episodes...")
+def update_index_with_links(episodes_dir: str, index_path: str = "index.html"):
+    logger.info(f"Updating {index_path} with recent episodes...")
     
     link_files = glob.glob(os.path.join(episodes_dir, "links_*.html"))
     link_files.sort(reverse=True)
@@ -187,22 +187,36 @@ def update_index_with_links(episodes_dir: str):
         """
         
     try:
-        with open("index.html", "r") as f:
-            content = f.read()
+        content = ""
+        if os.path.exists(index_path):
+            with open(index_path, "r") as f:
+                content = f.read()
+        else:
+            # Create basic structure if missing (e.g. in test mode)
+            content = """<!DOCTYPE html>
+<html>
+<head><title>Podcast Gen</title></head>
+<body>
+    <h1>Latest Episodes</h1>
+    <div class="links-list" id="episode-links-list">
+        <!-- Links will be inserted here -->
+    </div>
+</body>
+</html>"""
             
         pattern = r'(<div class="links-list" id="episode-links-list">)(.*?)(</div>)'
         
         if re.search(pattern, content, re.DOTALL):
             new_content = re.sub(pattern, f'\\1\n{links_html}\n\\3', content, flags=re.DOTALL)
             
-            with open("index.html", "w") as f:
+            with open(index_path, "w") as f:
                 f.write(new_content)
-            logger.info("Updated index.html successfully.")
+            logger.info(f"Updated {index_path} successfully.")
         else:
-            logger.warning("Could not find #episode-links-list in index.html")
+            logger.warning(f"Could not find #episode-links-list in {index_path}")
             
     except Exception as e:
-        logger.error(f"Error updating index.html: {e}")
+        logger.error(f"Error updating {index_path}: {e}")
 
 def cleanup_old_episodes(episodes_dir: str, retention_days: int):
     logger.info(f"Cleaning up old episodes (TTL: {retention_days} days)")
@@ -242,8 +256,8 @@ def cleanup_old_episodes(episodes_dir: str, retention_days: int):
                 
     logger.info(f"Deleted {deleted_count} old files.")
 
-def generate_rss_feed(config: Config):
-    logger.info("Generating Podcast RSS Feed...")
+def generate_rss_feed(config: Config, output_dir: str = "."):
+    logger.info(f"Generating Podcast RSS Feed in {output_dir}...")
     
     fg = FeedGenerator()
     fg.load_extension('podcast')
@@ -361,10 +375,11 @@ def generate_rss_feed(config: Config):
         fe.enclosure(file_url, str(file_size), 'audio/mpeg')
         fe.published(dt_utc)
         
-    fg.rss_file('feed.xml')
+    feed_path = os.path.join(output_dir, 'feed.xml')
+    fg.rss_file(feed_path)
     
     try:
-        with open('feed.xml', 'r') as f:
+        with open(feed_path, 'r') as f:
             content = f.read()
         
         if '<?xml-stylesheet' not in content:
@@ -375,10 +390,10 @@ def generate_rss_feed(config: Config):
             else:
                 content = stylesheet + content
                 
-            with open('feed.xml', 'w') as f:
+            with open(feed_path, 'w') as f:
                 f.write(content)
             logger.info("Added stylesheet reference to feed.xml")
     except Exception as e:
         logger.error(f"Error adding stylesheet: {e}")
 
-    logger.info("Generated feed.xml")
+    logger.info(f"Generated {feed_path}")

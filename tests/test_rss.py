@@ -81,10 +81,18 @@ def test_rss_voice_suffix(tmp_path):
         json.dump(meta2, f)
         
     # Run
-    os.chdir(str(tmp_path))
-    generate_rss_feed(config)
+    # Run with explicit output directory
+    output_dir = tmp_path / "output"
+    output_dir.mkdir()
     
-    with open(tmp_path / "feed.xml") as f:
+    os.chdir(str(tmp_path))
+    generate_rss_feed(config, output_dir=str(output_dir))
+    
+    # Check that feed.xml is in output_dir, NOT in root (which is tmp_path here)
+    assert (output_dir / "feed.xml").exists()
+    assert not (tmp_path / "feed.xml").exists()
+    
+    with open(output_dir / "feed.xml") as f:
         content = f.read()
         assert "Daily News (Chirp)" in content
         assert "Tech News (WaveNet)" in content

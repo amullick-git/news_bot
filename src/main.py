@@ -67,10 +67,18 @@ def main():
     if args.duration:
         config.processing.duration_minutes = args.duration
     
+    # --- OUTPUT DIRECTORY SETUP ---
+    base_output_dir = "."
     if args.test:
         logger.info("TEST MODE ENABLED")
-        config.podcast.episodes_dir = "test_episodes"
-        logger.info(f"Output directory set to: {config.podcast.episodes_dir}")
+        base_output_dir = "test_output"
+        os.makedirs(base_output_dir, exist_ok=True)
+        logger.info(f"Base output directory: {base_output_dir}")
+        
+    # Episodes directory is always nested under base output
+    config.podcast.episodes_dir = os.path.join(base_output_dir, "episodes")
+    os.makedirs(config.podcast.episodes_dir, exist_ok=True)
+    logger.info(f"Episodes directory: {config.podcast.episodes_dir}")
 
     logger.info("=== Fetching news... ===")
     
@@ -228,18 +236,22 @@ def main():
         logger.info("Skipping TTS generation (--no-tts provided).")
     
     links_filename = None
-    if not args.test:
-        cleanup_old_episodes(config.podcast.episodes_dir, config.processing.retention_days)
-        # Capture the generated filename (e.g. links_daily_2024...html)
-        links_filename = generate_episode_links_page(items, filename_suffix, config.podcast.episodes_dir)
-        update_index_with_links(config.podcast.episodes_dir)
-        generate_rss_feed(config)
-    else:
-        logger.info("Test mode: Skipping RSS feed generation.")
+    links_filename = None
+     
+    cleanup_old_episodes(config.podcast.episodes_dir, config.processing.retention_days)
+    
+    # Capture the generated filename (e.g. links_daily_2024...html)
+    links_filename = generate_episode_links_page(items, filename_suffix, config.podcast.episodes_dir)
+    
+    # Update index.html in the base output directory
+    index_path = os.path.join(base_output_dir, "index.html")
+    update_index_with_links(config.podcast.episodes_dir, index_path=index_path)
+    
+    generate_rss_feed(config, output_dir=base_output_dir)
         
     # --- LOG METRICS ---
     from .metrics import MetricsLogger
-    metrics = MetricsLogger(os.getcwd())
+    metrics = MetricsLogger(base_output_dir)
     
     tts_stats = {
         "model": config.processing.voice_type,

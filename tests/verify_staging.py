@@ -69,45 +69,71 @@ def verify_staging():
         print("WARNING: No files were modified by the bot. Verification might be invalid.")
         # This might happen if mocks didn't trigger file writes.
         
-    # 4. Run the staging script
-    print("\nRunning scripts/stage_artifacts.sh...")
-    subprocess.check_call(["./scripts/stage_artifacts.sh"])
-    
-    # 5. Verify that NO unstaged changes remain (for the files we care about)
-    # We ignore feed.xml because the script says it's handled separately.
-    # We ignore untracked files that are NOT in episodes/ (like __pycache__)
-    
-    print("\nVerifying staging...")
-    final_status = subprocess.check_output(["git", "status", "--porcelain"]).decode("utf-8")
-    print(f"Git status after staging:\n{final_status}")
-    
-    lines = final_status.splitlines()
-    unstaged_files = []
-    for line in lines:
-        # Status codes: 
-        # M  = staged
-        #  M = modified (unstaged)
-        # ?? = untracked
-        code = line[:2]
-        path = line[3:]
+    try:
+        # 1. Mock External APIs ... (existing code, conceptually)
+        # We need to wrap the WHOLE thing or just the part after we start messing with files.
+        # Actually easiest to wrap from step 4 (Running stage script) or just move cleanup to finally block of the function?
+        # Let's wrap the checking logic.
+
+        # ... (steps 1-3 are setup/run, already done by the time we get here in the flow, but wait, the file executes linearly)
+        # The structure is specific. Let's rewrite the end of verify_staging function.
         
-        if path == "feed.xml":
-            continue # Ignored as per script comments
+        # 4. Run the staging script
+        print("\nRunning scripts/stage_artifacts.sh...")
+        subprocess.check_call(["./scripts/stage_artifacts.sh"])
+        
+        # 5. Verify that NO unstaged changes remain (for the files we care about)
+        print("\nVerifying staging...")
+        final_status = subprocess.check_output(["git", "status", "--porcelain"]).decode("utf-8")
+        print(f"Git status after staging:\n{final_status}")
+        
+        lines = final_status.splitlines()
+        unstaged_files = []
+        for line in lines:
+            code = line[:2]
+            path = line[3:]
             
-        if "M" in code[1]: # Modified and unstaged
-            unstaged_files.append(path)
-        elif code == "??" and path.startswith("episodes/"): # Untracked episode file not picked up
-            unstaged_files.append(path)
-        elif code == " M" and path == "index.html": # Modified index not staged
-             unstaged_files.append(path)
-             
-    if unstaged_files:
-        print("FAILURE: The following files were modified/created but NOT staged by the script:")
-        for f in unstaged_files:
-            print(f" - {f}")
-        sys.exit(1)
-    else:
-        print("SUCCESS: All generated artifacts were correctly staged.")
+            if path == "feed.xml": continue 
+            if path.endswith(".py"): continue # Ignore source code changes
+            
+            if "M" in code[1]: # Modified and unstaged
+                unstaged_files.append(path)
+            elif code == "??" and path.startswith("episodes/"): 
+                unstaged_files.append(path)
+            elif code == " M" and path == "index.html": 
+                 unstaged_files.append(path)
+                 
+        if unstaged_files:
+            print("FAILURE: The following artifacts were modified/created but NOT staged by the script:")
+            for f in unstaged_files:
+                print(f" - {f}")
+            sys.exit(1)
+        else:
+            print("SUCCESS: All generated artifacts were correctly staged.")
+
+    finally:
+        # Cleanup: Undo changes to keep the working directory clean
+        print("\nCleaning up verification artifacts...")
+        try:
+            # Restore modified tracked files
+            subprocess.call(["git", "restore", "--staged", "index.html", "metrics_prod.md", "metrics_stats.json"])
+            subprocess.call(["git", "restore", "index.html", "metrics_prod.md", "metrics_stats.json"])
+            
+            # Clean up test output directory if it exists (from manual test runs, though verifying staging usually simulates prod)
+            if os.path.exists("test_output"):
+                 import shutil
+                 shutil.rmtree("test_output")
+                 
+            # Remove untracked episodes created during test
+            subprocess.call("rm episodes/episode_*_test_*.mp3", shell=True)
+            subprocess.call("rm episodes/episode_*_test_*.md", shell=True)
+            subprocess.call("rm episodes/links_*_test_*.html", shell=True)
+            # Cleanup test feed.xml if it landed in right place (verify_staging mocks don't actually write it unless we mocked side_effect?)
+            # Actually, `verify_staging` mocks `generate_rss_feed` entirely, so no file is written.
+            # But just in case, or if we unmock it later.
+            pass
+        except Exception as e:
+            print(f"Warning: Cleanup failed: {e}")
 
 if __name__ == "__main__":
     verify_staging()
