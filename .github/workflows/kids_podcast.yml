@@ -1,9 +1,10 @@
 name: Kids Podcast (Daily)
 
 on:
-  schedule:
-    # Run at 14:00 UTC (6:00 AM PST)
-    - cron: '0 14 * * *'
+  # PAUSED: Uncomment to re-enable
+  # schedule:
+  #   # Run at 14:00 UTC (6:00 AM PST)
+  #   - cron: '0 14 * * *'
   workflow_dispatch:
     inputs:
       duration:
