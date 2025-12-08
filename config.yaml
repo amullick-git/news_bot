@@ -107,4 +107,4 @@ podcast:
   author: "Amarnath Mullick"
   image_filename: "assets/cover_v3.jpg"
   language: "en"
-  episodes_dir: "episodes"
+  episodes_dir: "docs/episodes"

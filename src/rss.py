@@ -387,7 +387,9 @@ def generate_rss_feed(config: Config, output_dir: str = "."):
             continue
             
         file_size = os.path.getsize(mp3_path)
-        file_url = f"{config.podcast.base_url}/{config.podcast.episodes_dir}/{mp3_filename}"
+        # GitHub Pages serves /docs as root, strip 'docs/' from URL
+        web_path = config.podcast.episodes_dir.replace("docs/", "")
+        file_url = f"{config.podcast.base_url}/{web_path}/{mp3_filename}"
         
         fe = fg.add_entry()
         fe.id(file_url)
