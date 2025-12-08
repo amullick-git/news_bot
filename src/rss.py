@@ -248,7 +248,8 @@ def update_index_with_links(episodes_dir: str, index_path: str = "index.html"):
 </body>
 </html>"""
             
-        pattern = r'(<div class="links-list" id="episode-links-list">)(.*?)(</div>)'
+            
+        pattern = r'(<!-- EPISODE_LIST_START -->)(.*?)(<!-- EPISODE_LIST_END -->)'
         
         if re.search(pattern, content, re.DOTALL):
             new_content = re.sub(pattern, f'\\1\n{links_html}\n\\3', content, flags=re.DOTALL)
