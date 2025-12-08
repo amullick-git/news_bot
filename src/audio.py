@@ -316,13 +316,19 @@ def text_to_speech(clean_script: str, output_file: str, voice_type: str = "waven
             try:
                 response = synthesize_chunk(client, synthesis_input, voice_params, audio_config)
                 char_count = len(chunk)
+                logger.debug(f"  Chunk {chunk_idx} synthesized ({char_count} chars)")
                 return (chunk_idx, response.audio_content, char_count)
             except Exception as e:
                 logger.error(f"Failed to synthesize chunk {i}-{chunk_idx}: {e}")
                 raise e
         
         # Parallelize chunk synthesis using ThreadPoolExecutor
+        logger.info(f"Synthesizing {len(chunks)} chunks with {max_parallel_calls} parallel workers...")
         chunk_results = {}
+        
+        import time
+        start_time = time.time()
+        
         with ThreadPoolExecutor(max_workers=max_parallel_calls) as executor:
             # Submit all chunks
             futures = {
@@ -334,6 +340,9 @@ def text_to_speech(clean_script: str, output_file: str, voice_type: str = "waven
             for future in as_completed(futures):
                 chunk_idx, audio_content, char_count = future.result()
                 chunk_results[chunk_idx] = (audio_content, char_count)
+        
+        elapsed = time.time() - start_time
+        logger.info(f"Parallel synthesis completed in {elapsed:.2f}s ({len(chunks)} chunks)")
         
         # Add audio contents in correct order and count chars
         for chunk_idx in sorted(chunk_results.keys()):
