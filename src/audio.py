@@ -260,6 +260,7 @@ def text_to_speech(clean_script: str, output_file: str, voice_type: str = "waven
     logger.info(f"Parsed {len(segments)} dialogue segments.")
 
     audio_contents = []
+    total_chars = 0
 
     # Voice Definitions
     # D = Male, F = Female (usually)
@@ -272,139 +273,13 @@ def text_to_speech(clean_script: str, output_file: str, voice_type: str = "waven
         reporter_name = "en-US-Studio-O"
     elif voice_type == "chirp3-hd":
         # Chirp 3 HD Voices (USM v3)
-        host_name = "en-US-Chirp3-HD-D"
-        reporter_name = "en-US-Chirp3-HD-F"
+        # Using named voices: Fenrir (Male) and Kore (Female)
+        host_name = "en-US-Chirp3-HD-Fenrir"
+        reporter_name = "en-US-Chirp3-HD-Kore"
     else: # wavenet (default)
         host_name = "en-US-Wavenet-D"
         reporter_name = "en-US-Wavenet-F"
 
-    audio_segments = [] # To store paths to temporary audio files
-    total_chars = 0
-
-    # Process segments
-    for i, (speaker, text_content) in enumerate(segments):
-        logger.info(f"Synthesizing segment {i+1}/{len(segments)} ({speaker})...")
-        
-        # Select voice
-        voice_name = host_name if speaker == "HOST" else reporter_name
-        voice_params = texttospeech.VoiceSelectionParams(
-            language_code="en-US",
-            name=voice_name
-        )
-        audio_config = texttospeech.AudioConfig(
-            audio_encoding=texttospeech.AudioEncoding.MP3
-        )
-
-        # Generate chunks (SSML or Plain Text)
-        if voice_type == "chirp3-hd":
-             # Chirp/USM/Journey models often don't support SSML (or limited support)
-             # Use plain text input
-             chunks = generate_plain_chunks(text_content)
-             is_ssml = False
-        else:
-             chunks = generate_ssml_chunks(text_content)
-             is_ssml = True
-
-        for chunk_idx, chunk in enumerate(chunks):
-            # Input
-            if is_ssml:
-                synthesis_input = texttospeech.SynthesisInput(ssml=chunk)
-            else:
-                synthesis_input = texttospeech.SynthesisInput(text=chunk)
-
-            try:
-                response = synthesize_chunk(client, synthesis_input, voice_params, audio_config)
-                
-                # Save chunk to temp file
-                chunk_filename = f"chunk_{i}_{chunk_idx}.mp3"
-                with open(chunk_filename, "wb") as out:
-                    out.write(response.audio_content)
-                audio_segments.append(chunk_filename)
-                
-            except Exception as e:
-                logger.error(f"Failed to synthesize chunk {i}-{chunk_idx}: {e}")
-                # Continue best effort? Or fail? failing is safer for quality.
-                raise e
-
-    # Concatenate all audio segments into the final output file
-    # This part is missing in the provided snippet, but necessary for a complete function.
-    # For now, I'll assume the user will add the concatenation logic later or that
-    # the existing `audio_contents` list was meant to be used differently.
-    # Given the instruction, I'm replacing the loop and the `audio_contents` usage.
-    # The original `audio_contents` list is now effectively unused.
-    # To make the code syntactically correct and functional, I'll re-introduce
-    # the concatenation using the `audio_segments` list.
-
-    # Re-reading the instruction: "with open(output_file, "wb") as out: for content in audio_contents: out.write(content)"
-    # This implies `audio_contents` should still be populated with binary data.
-    # The provided snippet saves to temp files and appends filenames to `audio_segments`.
-    # This is a contradiction. I will assume the user wants to save to temp files
-    # and then concatenate them. The `audio_contents` list should be removed or repurposed.
-
-    # Let's adjust to make `audio_contents` store the actual binary data again,
-    # or if `audio_segments` is meant to be used, then the final write loop needs to change.
-    # The instruction explicitly includes the final `with open(output_file, "wb") as out: for content in audio_contents: out.write(content)`
-    # This means `audio_contents` should contain the binary data.
-    # The provided snippet saves to files and appends filenames to `audio_segments`.
-    # This is a logical inconsistency in the provided change.
-
-    # I will interpret the change as:
-    # 1. Update voice selection logic.
-    # 2. Update chunk generation logic (SSML vs Plain).
-    # 3. Update synthesis input creation.
-    # 4. The *saving to temp files* and *appending filenames to audio_segments*
-    #    is a new behavior that conflicts with the final write loop.
-    #    I will assume the user wants to *append the binary content* to `audio_contents`
-    #    as before, but with the new chunking and voice selection logic.
-    #    The `audio_segments` list and temp file saving will be ignored for now
-    #    to maintain consistency with the final write block.
-
-    # Let's re-evaluate the provided change:
-    # `audio_segments = []` is introduced.
-    # `audio_contents` is still there from the original code.
-    # The loop saves to `chunk_filename` and appends `chunk_filename` to `audio_segments`.
-    # The final write loop uses `audio_contents`.
-
-    # This means the provided change is incomplete or has a logical gap.
-    # To make it syntactically correct and functional *as a direct replacement*,
-    # I must either:
-    # A) Make `audio_contents` accumulate binary data directly, ignoring `audio_segments` and temp files.
-    # B) Make `audio_contents` accumulate filenames, and then read/concatenate them in the final loop.
-    # C) Replace the final loop to read from `audio_segments` and concatenate.
-
-    # The instruction says "return the full contents of the new code document after the change."
-    # And "Make sure to incorporate the change in a way so that the resulting file is syntactically correct."
-    # The provided change *includes* the final `with open(output_file, "wb") as out: for content in audio_contents: out.write(content)`
-    # This means `audio_contents` *must* contain the binary data.
-    # The snippet *also* introduces `audio_segments` and saves to temp files.
-    # This is a direct conflict.
-
-    # I will make the change *faithfully* as provided, which means the `audio_segments` list
-    # will be populated with filenames, but the final `audio_contents` list will be empty
-    # and the final write loop will attempt to write from an empty list.
-    # This will result in a syntactically correct but functionally broken file (no audio output).
-    # This is the most faithful interpretation of the *exact* provided snippet.
-
-    # If the user intended to concatenate the temp files, they would need to add that logic.
-    # If they intended to append binary data to `audio_contents`, the `audio_segments` part is wrong.
-
-    # Given the instruction "Make sure to incorporate the change in a way so that the resulting file is syntactically correct.",
-    # and "return the full contents of the new code document after the change.",
-    # I will insert the code as given. The `audio_contents` list will remain empty,
-    # and the final loop will execute without writing anything. This is syntactically correct.
-
-    # Voice Definitions
-    # D = Male, F = Female (usually)
-    if voice_type == "neural":
-        host_name = "en-US-Neural2-D"
-        reporter_name = "en-US-Neural2-F"
-    elif voice_type == "studio":
-        # Studio voices are premium: M (Male), O (Female) are common high-quality ones
-        host_name = "en-US-Studio-M"
-        reporter_name = "en-US-Studio-O"
-    elif voice_type == "chirp3-hd":
-        # Chirp 3 HD Voices (USM v3)
-        host_name = "en-US-Chirp3-HD-D"
     # Process segments
     for i, (speaker, text_content) in enumerate(segments):
         logger.info(f"Synthesizing segment {i+1}/{len(segments)} ({speaker})...")
@@ -448,6 +323,7 @@ def text_to_speech(clean_script: str, output_file: str, voice_type: str = "waven
                 
             except Exception as e:
                 logger.error(f"Failed to synthesize chunk {i}-{chunk_idx}: {e}")
+                # Continue best effort? Or fail? failing is safer for quality.
                 raise e
 
     with open(output_file, "wb") as out:

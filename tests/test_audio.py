@@ -58,7 +58,7 @@ def test_voice_selection_chirp3_hd(mock_tts_client):
     call_args = mock_instance.synthesize_speech.call_args
     voice_params = call_args.kwargs['voice']
     
-    assert "Chirp3-HD" in voice_params.name
+    assert "Fenrir" in voice_params.name
 
 
 
