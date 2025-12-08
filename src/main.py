@@ -244,7 +244,12 @@ def main():
     # 6. Generate Audio (TTS)
     tts_chars = 0
     if not args.no_tts:
-        tts_chars = text_to_speech(clean_script, episode_path, voice_type=config.processing.voice_type)
+        tts_chars = text_to_speech(
+            clean_script, 
+            episode_path, 
+            voice_type=config.processing.voice_type,
+            max_parallel_calls=config.processing.max_parallel_tts_calls
+        )
         logger.info("Audio generation complete.")
     else:
         logger.info("Skipping TTS generation (--no-tts provided).")

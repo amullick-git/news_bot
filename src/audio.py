@@ -14,6 +14,7 @@ import html
 from textwrap import dedent
 from google.cloud import texttospeech
 from tenacity import retry, stop_after_attempt, wait_exponential
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from .utils import get_logger
 
 logger = get_logger(__name__)
@@ -219,7 +220,7 @@ def synthesize_chunk(client, synthesis_input, voice, audio_config):
         audio_config=audio_config,
     )
 
-def text_to_speech(clean_script: str, output_file: str, voice_type: str = "wavenet"):
+def text_to_speech(clean_script: str, output_file: str, voice_type: str = "wavenet", max_parallel_calls: int = 5):
     logger.info(f"Converting to speech using Google TTS ({voice_type})...")
 
     client = texttospeech.TextToSpeechClient()
@@ -304,27 +305,41 @@ def text_to_speech(clean_script: str, output_file: str, voice_type: str = "waven
              chunks = generate_ssml_chunks(text_content)
              is_ssml = True
 
-        for chunk_idx, chunk in enumerate(chunks):
-            # Input
+        # Helper function for parallel synthesis
+        def synthesize_single_chunk(chunk_idx, chunk, is_ssml):
+            """Synthesize a single chunk and return (index, audio_content, char_count)"""
             if is_ssml:
                 synthesis_input = texttospeech.SynthesisInput(ssml=chunk)
             else:
                 synthesis_input = texttospeech.SynthesisInput(text=chunk)
-
+            
             try:
                 response = synthesize_chunk(client, synthesis_input, voice_params, audio_config)
-                audio_contents.append(response.audio_content)
-                
-                # Count characters sent
-                if is_ssml:
-                    total_chars += len(chunk)
-                else:
-                    total_chars += len(chunk)
-                
+                char_count = len(chunk)
+                return (chunk_idx, response.audio_content, char_count)
             except Exception as e:
                 logger.error(f"Failed to synthesize chunk {i}-{chunk_idx}: {e}")
-                # Continue best effort? Or fail? failing is safer for quality.
                 raise e
+        
+        # Parallelize chunk synthesis using ThreadPoolExecutor
+        chunk_results = {}
+        with ThreadPoolExecutor(max_workers=max_parallel_calls) as executor:
+            # Submit all chunks
+            futures = {
+                executor.submit(synthesize_single_chunk, chunk_idx, chunk, is_ssml): chunk_idx
+                for chunk_idx, chunk in enumerate(chunks)
+            }
+            
+            # Collect results as they complete
+            for future in as_completed(futures):
+                chunk_idx, audio_content, char_count = future.result()
+                chunk_results[chunk_idx] = (audio_content, char_count)
+        
+        # Add audio contents in correct order and count chars
+        for chunk_idx in sorted(chunk_results.keys()):
+            audio_content, char_count = chunk_results[chunk_idx]
+            audio_contents.append(audio_content)
+            total_chars += char_count
 
     with open(output_file, "wb") as out:
         for content in audio_contents:

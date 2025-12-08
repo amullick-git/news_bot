@@ -23,6 +23,7 @@ class ProcessingConfig:
     fetch_limit: int = 100
     local_prefilter_limit: int = 50
     voice_type: str = "wavenet"
+    max_parallel_tts_calls: int = 5
 
 @dataclass
 class PodcastConfig:

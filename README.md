@@ -23,6 +23,7 @@ This project is an automated tool that fetches news from various RSS feeds, filt
     - **Multi-Voice**: Uses distinct voices for the Host and Reporter.
     - **Intro Announcement**: Explicitly announces the show name (e.g. "Welcome to Weekly Tech Round-up") for clarity.
 - **Type System**: Uses consistent `{content}_{frequency}` naming (e.g., `general_daily`, `tech_weekly`, `kids_daily`)
+- **Parallel TTS**: Synthesizes audio chunks concurrently (5 parallel calls) for faster generation
 - **Metrics Logging**: Logs run statistics (fetched vs. used articles, **Voice Character Usage**) to `metrics/metrics_prod.md` for performance comparison and cost tracking.
 - **Dual Schedule**: Automatically runs twice daily:
     - **Morning Briefing (6:30 AM PST)**: 15-minute deep dive.
