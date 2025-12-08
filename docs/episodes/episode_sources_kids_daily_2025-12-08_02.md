@@ -1,36 +1,36 @@
 # Episode Sources
 
-1. **Zelensky to Meet With European Leaders as Ukraine Peace Talks Drag On**  
-   _www.nytimes.com_  
-   https://www.nytimes.com/2025/12/08/world/europe/zelensky-ukraine-war-peace-talks-europe-london.html
-
-2. **One hundred abducted schoolchildren released in Nigeria**  
+1. **One hundred abducted schoolchildren released in Nigeria**  
    _www.bbc.com_  
    https://www.bbc.com/news/articles/cvgjvg4ylwpo?at_medium=RSS&at_campaign=rss
 
-3. **Ray Dalio says Middle East is becoming a 'Silicon Valley of capitalists’**  
+2. **China's exports to U.S. extend double-digit declines, dropping 29% in November, despite trade truce**  
    _www.cnbc.com_  
-   https://www.cnbc.com/2025/12/08/ray-dalio-middle-east-silicon-valley-ai-bubble.html
+   https://www.cnbc.com/2025/12/08/china-export-imports-trade-november-us-tariff-truce-.html
 
-4. **Bessent says U.S. will finish the year with 3% GDP growth, sees 'very strong' holiday season**  
+3. **Bessent says U.S. will finish the year with 3% GDP growth, sees 'very strong' holiday season**  
    _www.cnbc.com_  
    https://www.cnbc.com/2025/12/07/bessent-gdp-growth.html
 
-5. **Hundreds Rally for Boy, 6, Who Was Separated From His Father by ICE**  
-   _www.nytimes.com_  
-   https://www.nytimes.com/2025/12/07/nyregion/queens-migrant-boy-detained-rally.html
-
-6. **BlackRock bets on ‘pick and shovel’ trade, singling out clear winners in AI spending spree**  
+4. **Beef prices are soaring. Here's why America is facing record-low cattle numbers**  
    _www.cnbc.com_  
-   https://www.cnbc.com/2025/12/08/blackrock-ben-powell-bet-trade-as-ai-spending-frenzy-hyperscalers-investment-credit.html
+   https://www.cnbc.com/2025/12/07/beef-prices-are-soaring-heres-why-thats-hard-to-fix.html
 
-7. **Cold Case Inquiries Stall After Ancestry.com Revisits Policy for Users**  
-   _www.nytimes.com_  
-   https://www.nytimes.com/2025/12/07/nyregion/ancestry-dna-police.html
+5. **Ray Dalio says Middle East is becoming a 'Silicon Valley of capitalists’**  
+   _www.cnbc.com_  
+   https://www.cnbc.com/2025/12/08/ray-dalio-middle-east-silicon-valley-ai-bubble.html
 
-8. **How China, not the U.S., became the main climate solution story in 2025**  
-   _www.npr.org_  
-   https://www.npr.org/2025/12/08/nx-s1-5615257/china-us-renewable-wind-solar-climate
+6. **Japan is facing a dementia crisis – can technology help?**  
+   _www.bbc.com_  
+   https://www.bbc.com/news/articles/c4g9e34yzvgo?at_medium=RSS&at_campaign=rss
+
+7. **Elon Musk calls for abolition of European Union after X fined $140 million**  
+   _www.cnbc.com_  
+   https://www.cnbc.com/2025/12/08/elon-musk-eu-should-be-abolished-after-x-fined-140-million.html
+
+8. **Campaign group formed to fight wind farm plans**  
+   _www.bbc.com_  
+   https://www.bbc.com/news/articles/crl900d130ko?at_medium=RSS&at_campaign=rss
 
 9. **Light from satellites will ruin majority of some space telescope images, study says**  
    _www.npr.org_  
