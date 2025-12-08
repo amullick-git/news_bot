@@ -109,3 +109,7 @@ podcast:
   image_filename: "assets/cover_v3.jpg"
   language: "en"
   episodes_dir: "docs/episodes"
+
+notification:
+  enabled: true
+  platform: "discord"

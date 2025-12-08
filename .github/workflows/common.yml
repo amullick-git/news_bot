@@ -22,6 +22,8 @@ on:
         required: true
       GCP_SA_KEY:
         required: true
+      NOTIFICATION_WEBHOOK_URL:
+        required: false
 
 jobs:
   generate:
@@ -56,6 +58,8 @@ jobs:
           echo "GOOGLE_APPLICATION_CREDENTIALS=$(pwd)/service_account.json" >> $GITHUB_ENV
 
       - name: Run podcast bot
+        env:
+          NOTIFICATION_WEBHOOK_URL: ${{ secrets.NOTIFICATION_WEBHOOK_URL }}
         run: |
           echo "Running Podcast Generation..."
           echo "Duration: ${{ inputs.duration }}"

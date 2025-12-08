@@ -195,6 +195,7 @@ For the automation to work, you must add your API keys to the GitHub Repository 
     - Add the following two secrets:
         - `GOOGLE_API_KEY`: Your Gemini API key.
         - `GCP_SA_KEY`: The **Base64 encoded string** you generated in step 1.
+        - `NOTIFICATION_WEBHOOK_URL` (Optional): Slack or Discord Webhook URL for notifications.
 
 ### Manual Trigger
 

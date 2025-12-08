@@ -40,11 +40,17 @@ class PodcastConfig:
         return f"{self.base_url}/{self.image_filename}"
 
 @dataclass
+class NotificationConfig:
+    enabled: bool = True
+    platform: str = "discord"  # or "slack"
+
+@dataclass
 class Config:
     feeds: Dict[str, List[str]]
     keywords: Dict[str, List[str]]
     processing: ProcessingConfig
     podcast: PodcastConfig
+    notification: NotificationConfig
     processing_overrides: Dict[str, ProcessingConfig] = None
 
 def load_config(config_path: str = "config.yaml") -> Config:
@@ -74,5 +80,6 @@ def load_config(config_path: str = "config.yaml") -> Config:
         keywords=raw["keywords"],
         processing=ProcessingConfig(**raw["processing"]),
         podcast=PodcastConfig(**raw["podcast"]),
+        notification=NotificationConfig(**raw.get("notification", {})),
         processing_overrides=overrides
     )

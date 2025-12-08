@@ -51,7 +51,7 @@ def test_update_index_parsing(tmp_path, monkeypatch):
 
 def test_rss_voice_suffix(tmp_path, monkeypatch):
     from src.rss import generate_rss_feed
-    from src.config import Config, PodcastConfig, ProcessingConfig
+    from src.config import Config, PodcastConfig, ProcessingConfig, NotificationConfig
     import json
     
     # Mock Config
@@ -63,7 +63,8 @@ def test_rss_voice_suffix(tmp_path, monkeypatch):
         podcast=PodcastConfig(
             base_url="http://test", title="Show", author="Me", 
             image_filename="img.jpg", language="en", episodes_dir=str(tmp_path / "episodes")
-        )
+        ),
+        notification=NotificationConfig(enabled=False)
     )
     
     ep_dir = tmp_path / "episodes"

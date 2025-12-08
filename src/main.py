@@ -25,6 +25,7 @@ from .fetcher import fetch_all, filter_by_time_window, filter_by_keywords, get_f
 from .content import configure_gemini, filter_by_semantics, summarize_with_gemini
 from .audio import postprocess_for_tts_plain, text_to_speech
 from .rss import generate_rss_feed, generate_episode_links_page, update_index_with_links, cleanup_old_episodes
+from .notification import send_notification, EpisodeInfo
 
 logger = get_logger(__name__)
 
@@ -291,6 +292,34 @@ def main():
     }
     
     metrics.log_run(fetched_items, shortlisted_items, args.type, args.test, links_file=links_filename, local_ai_items=candidates if selected_keywords else None, tts_stats=tts_stats)
+
+    # 7. Notify
+    if not args.test:
+        try:
+            mp3_basename = os.path.basename(episode_path)
+            # links_filename is already basename
+            
+            # Construct URLs
+            # Assumes GitHub Pages structure: base_url/episodes/filename
+            # But episode_path is docs/episodes/..., so base_url should point to docs/ root usually.
+            # config.podcast.base_url is usually "https://user.github.io/repo" (mapped to docs/)
+            # So urls are {base}/episodes/{file}
+            
+            mp3_url = f"{config.podcast.base_url}/episodes/{mp3_basename}"
+            links_url = f"{config.podcast.base_url}/episodes/{links_filename}" if links_filename else config.podcast.base_url
+            
+            ep_title = f"{args.title_prefix} - {datetime.now().strftime('%B %d')}"
+            
+            ep_info = EpisodeInfo(
+                title=ep_title,
+                mp3_url=mp3_url,
+                links_url=links_url,
+                cover_image_url=config.podcast.image_url
+            )
+            
+            send_notification(config, ep_info)
+        except Exception as e:
+            logger.error(f"Notification failed in main loop: {e}")
 
     logger.info("=== Done! ===")
 
