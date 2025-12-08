@@ -95,4 +95,4 @@ def test_rss_voice_suffix(tmp_path):
     with open(output_dir / "feed.xml") as f:
         content = f.read()
         assert "Daily News (Chirp)" in content
-        assert "Tech News (WaveNet)" in content
+        assert "Tech News Briefing (WaveNet)" in content

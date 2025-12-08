@@ -22,7 +22,8 @@ This project is an automated tool that fetches news from various RSS feeds, filt
         - **Tech/Weekly**: WaveNet (Global Default)
     - **Multi-Voice**: Uses distinct voices for the Host and Reporter.
     - **Intro Announcement**: Explicitly announces the show name (e.g. "Welcome to Weekly Tech Round-up") for clarity.
-- **Metrics Logging**: Logs run statistics (fetched vs. used articles, **Voice Character Usage**) to `metrics_prod.md` for performance comparison and cost tracking.
+- **Type System**: Uses consistent `{content}_{frequency}` naming (e.g., `general_daily`, `tech_weekly`, `kids_daily`)
+- **Metrics Logging**: Logs run statistics (fetched vs. used articles, **Voice Character Usage**) to `metrics/metrics_prod.md` for performance comparison and cost tracking.
 - **Dual Schedule**: Automatically runs twice daily:
     - **Morning Briefing (6:30 AM PST)**: 15-minute deep dive.
     - **Evening Update (6:30 PM PST)**: 8-minute quick summary (labeled as "Quick News Briefing").
@@ -93,7 +94,7 @@ python -m src.main --duration 5
 python -m src.main --voice-type studio
 
 # Weekly Round-up (20 mins, last 7 days)
-python -m src.main --duration 20 --lookback-days 7 --type weekly --title-prefix "Weekly News Round-up"
+python -m src.main --duration 20 --lookback-days 7 --type general_weekly --title-prefix "Weekly News Round-up"
 
 # Test mode (saves to test_output/, no RSS update)
 python -m src.main --test

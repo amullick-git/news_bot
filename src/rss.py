@@ -334,12 +334,24 @@ def generate_rss_feed(config: Config, output_dir: str = "."):
                         if "title_prefix" in meta:
                             title_prefix = meta["title_prefix"]
                         else:
-                            # Fallback logic
-                            episode_type = meta.get("type", "daily")
-                            if "tech" in episode_type: title_prefix = "Tech News"
-                            elif "kids" in episode_type: title_prefix = "Kids News"
-                            elif "weekly" in episode_type: title_prefix = "Weekly Round-up"
-                            elif "evening" in episode_type: title_prefix = "Evening News"
+                            # Determine title from type (format: {content}_{frequency})
+                            # Parse content and frequency
+                            parts = episode_type.split('_')
+                            content_type = parts[0] if parts else "general"
+                            frequency = parts[1] if len(parts) > 1 else "daily"
+                            
+                            # Set title prefix based on content type and frequency
+                            if content_type == "tech":
+                                title_prefix = "Tech News Briefing" if frequency == "daily" else "Tech Weekly Round-up"
+                            elif content_type == "kids":
+                                title_prefix = "Kids News"
+                            elif content_type == "general":
+                                if frequency == "weekly":
+                                    title_prefix = "Weekly News Round-up"
+                                elif frequency == "evening":
+                                    title_prefix = "Quick News Briefing"
+                                else:  # daily
+                                    title_prefix = "News Briefing"
                             
                         # Get Voice Label
                         voice = meta.get("voice_type")
@@ -353,10 +365,22 @@ def generate_rss_feed(config: Config, output_dir: str = "."):
                     pass
                     
             # Logic to infer title from filename if metadata missing
-            elif "tech" in type_part: title_prefix = "Tech News"
-            elif "kids" in type_part: title_prefix = "Kids News"
-            elif "weekly" in type_part: title_prefix = "Weekly Round-up"
-            elif "evening" in type_part: title_prefix = "Evening News"
+            # Parse type from filename (e.g., episode_general_daily_2025-12-07.mp3)
+            parts = type_part.split('_')
+            content_type = parts[0] if parts else "general"
+            frequency = parts[1] if len(parts) > 1 else "daily"
+            
+            if content_type == "tech":
+                title_prefix = "Tech News Briefing" if frequency == "daily" else "Tech Weekly Round-up"
+            elif content_type == "kids":
+                title_prefix = "Kids News"
+            elif content_type == "general":
+                if frequency == "weekly":
+                    title_prefix = "Weekly News Round-up"
+                elif frequency == "evening":
+                    title_prefix = "Quick News Briefing"
+                else:  # daily
+                    title_prefix = "News Briefing"
  
         except ValueError:
             logger.warning(f"Skipping file with unexpected name format: {mp3_filename}")

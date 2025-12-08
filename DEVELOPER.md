@@ -116,7 +116,7 @@ The project uses GitHub Actions for automation. The workflows are modularized to
 2.  **Triggers**:
     - `daily_podcast.yml`: Calls `common.yml` with 15 min duration (Daily 14:30 UTC).
     - `evening_podcast.yml`: Calls `common.yml` with 8 min duration (Daily 02:30 UTC).
-    - `tech_daily_podcast.yml`: Calls `common.yml` with `type: tech` (Daily 14:00 UTC).
+    - `tech_daily_podcast.yml`: Calls `common.yml` with `type: tech_daily` (Daily 14:00 UTC).
     - `tech_weekly_podcast.yml`: Calls `common.yml` with `type: tech_weekly` (Saturday 15:00 UTC).
     - `weekly_podcast.yml`: Calls `common.yml` with 20 min duration & 7-day lookback (Saturday 15:00 UTC).
 
@@ -147,7 +147,7 @@ The project uses GitHub Actions for automation. The workflows are modularized to
 7.  **Configuration (`src/config.py`)**:
     - Uses `dataclasses` for type-safe configuration.
     - **Sparse Overrides**: The `processing_overrides` in `config.yaml` support sparse definitions.
-        - If an override key (e.g., `daily`) omits a field (e.g., `gemini_model`), it automatically inherits the value from the default `processing` block.
+        - If an override key (e.g., `general_daily`) omits a field (e.g., `gemini_model`), it automatically inherits the value from the default `processing` block.
         - This allows `config.yaml` to remain minimal, specifying only what differs from the global default.
 
 ## Contributing

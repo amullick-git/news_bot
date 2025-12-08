@@ -93,15 +93,19 @@ def main():
     logger.info("=== Fetching news... ===")
     
     # Select feeds based on type
-    # If type contains 'tech', use tech feeds. Otherwise use general.
-    # Map specific types (tech_daily, tech_weekly) to 'tech'
-    # Map 'kids_daily' to 'kids'
-    # Map others (daily, evening, weekly) to 'general'
-    if "tech" in args.type:
+    # Type format is now: {content}_{frequency}
+    # Content types: general, kids, tech
+    # Frequencies: daily, evening, weekly
+    # Examples: general_daily, tech_daily, kids_daily, general_evening, tech_weekly
+    
+    # Extract content type (first part before underscore)
+    content_type = args.type.split('_')[0] if '_' in args.type else args.type
+    
+    if content_type == "tech":
         feed_key = "tech"
-    elif "kids" in args.type:
+    elif content_type == "kids":
         feed_key = "kids"
-    else:
+    else:  # general or any other
         feed_key = "general"
         
     # Apply processing overrides if defined for this category
