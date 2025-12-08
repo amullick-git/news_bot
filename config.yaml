@@ -79,11 +79,11 @@ processing:
   voice_type: "wavenet"  # TTS Voice type: wavenet (default), neural, studio, or chirp3-hd
 
 processing_overrides:
-  kids:
-    duration_minutes: 12
+  kids_daily:
+    duration_minutes: 15
     max_per_feed: 25
     max_final_articles: 15
-    voice_type: "neural" # neural for daily kids
+    voice_type: "chirp3-hd"
   daily:
     voice_type: "chirp3-hd" # chirp hd for daily general news
   morning:
