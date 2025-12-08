@@ -1,3 +1,22 @@
+## Run: 2025-12-08 02:21 (Type: kids_daily)
+**Links File**: [links_kids_daily_2025-12-08_02.html](episodes/links_kids_daily_2025-12-08_02.html)
+
+**Total Fetched**: 259 -> **Stage 1 (Local AI)**: 26 -> **Stage 2 (Gemini Final)**: 13
+
+**TTS Usage**: 19470 chars (Model: chirp3-hd) -> **Running Total**: 86148 chars
+
+### Breakdown by Source
+| Source | Fetched | Stage 1 (Local AI) | Selected |
+|---|---|---|---|
+| BBC News | 157 | 7 | 5 |
+| NASA | 10 | 0 | 0 |
+| NPR Topics | 10 | 2 | 2 |
+| NYT | 42 | 8 | 3 |
+| The Verge | 10 | 0 | 0 |
+| US Top News and Analysis | 30 | 9 | 3 |
+
+----------------------------------------
+
 ## Run: 2025-12-08 02:00 (Type: tech_daily)
 **Links File**: [links_tech_daily_2025-12-08_01.html](episodes/links_tech_daily_2025-12-08_01.html)
 
