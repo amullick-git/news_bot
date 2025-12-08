@@ -13,6 +13,7 @@ This project is an automated tool that fetches news from various RSS feeds, filt
         2. **Gemini Filter**: Uses Gemini 2.5 Flash to make the final editorial selection, ensuring high quality and relevance.
 - **Script Generation**: Uses Gemini 2.5 Flash to write a professional, neutral news anchor script.
     - **Host & Reporter Mode**: Generates a dialogue between a Host (Arjav) and a Reporter (Arohi).
+    - **Child-Friendly Mode**: Automatically simplifies complex news concepts using analogies and filters out unsuitable content for younger audiences (enabled for `kids` type).
 - **Audio Production**: Converts the script to speech using Google Cloud TTS with dynamic pacing and prosody (SSML).
     - **Voice Selection**: Support for **WaveNet** (Standard), **Neural2** (Human-like), **Studio** (Premium), and **Chirp 3 HD** (Ultra-Realistic) voices.
     - **Configurable Defaults**:
