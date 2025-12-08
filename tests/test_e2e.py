@@ -174,7 +174,7 @@ HOST: Thanks.
     # Ideally verify date is present, but regex matching for "Month" is simpler
     import re
     assert re.search(r"News Briefing \(WaveNet\) - [A-Z][a-z]+ \d{2}, \d{4} - \d{2} [AP]M", feed_content)
-    assert "View News Sources" in index_content
+    assert "View Sources" in index_content
     
     # Check RSS Feed (NEW - since we removed --test)
     assert (tmp_path / "docs" / "feed.xml").exists(), "feed.xml not created"
