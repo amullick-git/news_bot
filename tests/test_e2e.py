@@ -66,7 +66,8 @@ processing:
 <body>
     <div class="container">
         <div class="links-list" id="episode-links-list">
-            <!-- LINKS_INSERTION_POINT -->
+            <!-- EPISODE_LIST_START -->
+            <!-- EPISODE_LIST_END -->
         </div>
     </div>
 </body>

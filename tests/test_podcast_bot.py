@@ -128,7 +128,8 @@ def test_update_index_with_links(setup_test_env):
     <html>
     <body>
         <div class="links-list" id="episode-links-list">
-            <!-- LINKS_INSERTION_POINT -->
+            <!-- EPISODE_LIST_START -->
+            <!-- EPISODE_LIST_END -->
         </div>
     </body>
     </html>

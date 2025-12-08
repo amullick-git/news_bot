@@ -25,7 +25,7 @@ def test_update_index_parsing(tmp_path):
     # Setup index.html with placeholder
     index_path = str(tmp_path / "index.html")
     with open(index_path, "w") as f:
-        f.write('<html><body><div class="links-list" id="episode-links-list"></div></body></html>')
+        f.write('<html><body><div class="links-list" id="episode-links-list"><!-- EPISODE_LIST_START --><!-- EPISODE_LIST_END --></div></body></html>')
         
     # Create fake link files
     # 1. New Format
@@ -108,7 +108,7 @@ def test_update_index_relative_links(tmp_path):
     episodes_dir.mkdir()
     
     index_path = docs_dir / "index.html"
-    index_path.write_text('<html><body><div class="links-list" id="episode-links-list"></div></body></html>')
+    index_path.write_text('<html><body><div class="links-list" id="episode-links-list"><!-- EPISODE_LIST_START --><!-- EPISODE_LIST_END --></div></body></html>')
     
     (episodes_dir / "links_test_2025-01-01_10.html").write_text("content")
     
@@ -131,7 +131,7 @@ def test_update_index_with_mp3(tmp_path):
     episodes_dir.mkdir()
     
     index_path = docs_dir / "index.html"
-    index_path.write_text('<html><body><div class="links-list" id="episode-links-list"></div></body></html>')
+    index_path.write_text('<html><body><div class="links-list" id="episode-links-list"><!-- EPISODE_LIST_START --><!-- EPISODE_LIST_END --></div></body></html>')
     
     # HTML file
     (episodes_dir / "links_test_2025-01-01_10.html").write_text("content")
