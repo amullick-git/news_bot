@@ -32,7 +32,10 @@ This project is an automated tool that fetches news from various RSS feeds, filt
     - **Weekly Round-up (Saturday 7:00 AM PST)**: 20-minute summary of the week's top stories.
 - **Auto-Cleanup**: Episodes older than 7 days are automatically deleted to keep the feed fresh.
 - **Episode Links Page**: Generates a dedicated HTML page for each episode listing all source articles used.
-- **Podcast Website**: Professional landing page at [https://amullick-git.github.io/news_bot/](https://amullick-git.github.io/news_bot/) with subscribe instructions and links to recent episode sources.
+- **Podcast Website**: Professional landing page at [https://amullick-git.github.io/news_bot/](https://amullick-git.github.io/news_bot/) featuring:
+    - **One-Click Subscribe**: Easily copy the feed URL to clipboard.
+    - **Styled Instructions**: Clear guide for adding the feed to podcast apps.
+    - **Episode Links**: Direct links to play audio or view source articles.
 
 ## Prerequisites
 
