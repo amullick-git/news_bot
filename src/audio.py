@@ -280,9 +280,12 @@ def text_to_speech(clean_script: str, output_file: str, voice_type: str = "waven
             language_code="en-US",
             name=voice_name
         )
+        # Select speaking rate (1.0 for chirp, 1.15 for others)
+        current_rate = 1.0 if voice_name.startswith("en-US-Chirp3-HD") else 1.15
+        
         audio_config = texttospeech.AudioConfig(
             audio_encoding=texttospeech.AudioEncoding.MP3,
-            speaking_rate=1.15
+            speaking_rate=current_rate
         )
 
         # Generate chunks (SSML or Plain Text)
