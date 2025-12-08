@@ -36,6 +36,7 @@ This project is an automated tool that fetches news from various RSS feeds, filt
     - **One-Click Subscribe**: Easily copy the feed URL to clipboard.
     - **Styled Instructions**: Clear guide for adding the feed to podcast apps.
     - **Episode Links**: Direct links to play audio or view source articles.
+- **Instant Notifications**: Sends a message to **Discord** or **Slack** immediately after a new episode is generated, including the Cover Art, MP3 link, and Source List.
 
 ## Prerequisites
 
@@ -82,6 +83,7 @@ This project is an automated tool that fetches news from various RSS feeds, filt
         - `keywords`: Topics you are interested in (grouped by `general` and `tech`).
         - `podcast`: Metadata like title, author, and base URL.
         - `processing`: Duration, word counts, and retention policy.
+        - `notification`: Enable/Disable and select platform (`discord` or `slack`).
 
 ## Usage
 

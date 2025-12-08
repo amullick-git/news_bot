@@ -25,6 +25,7 @@ news_podcast/
 │   ├── local_ai.py         # Local Semantic Filtering (sentence-transformers)
 │   ├── main.py             # Entry point
 │   ├── metrics.py          # Run statistics & logging
+│   ├── notification.py     # Discord/Slack notifications
 │   ├── rss.py              # RSS feed & HTML generation
 │   └── utils.py            # Logging & helpers
 ├── tests/                  # Unit and integration tests
@@ -58,6 +59,7 @@ news_podcast/
     ```bash
     export GOOGLE_API_KEY="your_gemini_api_key"
     export GOOGLE_APPLICATION_CREDENTIALS="path/to/service_account.json"
+    export NOTIFICATION_WEBHOOK_URL="your_discord_webhook_url"
     ```
 
 5.  **Set up Git Hooks (Recommended):**
@@ -101,6 +103,7 @@ python -m pytest tests/test_fetcher.py
 - `tests/test_rss.py`: Verifies link page generation and display logic.
 - `tests/test_regenerate_feed.py`: Verifies the feed regeneration script.
 - `tests/test_audio.py`: Verifies TTS voice selection logic.
+- `tests/test_notification.py`: Verifies Discord/Slack notification payloads.
 
 ## CI/CD Workflows
 
@@ -141,8 +144,11 @@ The project uses GitHub Actions for automation. The workflows are modularized to
 6.  **Metrics (`src/metrics.py`)**:
     - Tracks fetch counts and selection rates per source.
     - Logs cumulative stats to `metrics_prod.md` (Production) and `metrics_test.md` (Test).
-    - **TTS Usage**: Tracks character counts sent to the TTS API (per run and running total).
     - **Persistence**: Persists running totals in `metrics_stats.json` (tracked in git) to maintain counts across CI runs.
+    
+8.  **Notification (`src/notification.py`)**:
+    - Sends a completion message with episode details to a configured Webhook (Discord/Slack).
+    - Requires `NOTIFICATION_WEBHOOK_URL` secret.
     
 7.  **Configuration (`src/config.py`)**:
     - Uses `dataclasses` for type-safe configuration.
