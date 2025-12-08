@@ -282,9 +282,11 @@ def text_to_speech(clean_script: str, output_file: str, voice_type: str = "waven
         reporter_name = "en-US-Wavenet-F"
 
     # Process segments
+    
+    # 1. PREPARATION PHASE: Generate all chunks
+    all_tasks = []
+    
     for i, (speaker, text_content) in enumerate(segments):
-        logger.info(f"Synthesizing segment {i+1}/{len(segments)} ({speaker})...")
-        
         # Select voice
         voice_name = host_name if speaker == "HOST" else reporter_name
         voice_params = texttospeech.VoiceSelectionParams(
@@ -297,54 +299,70 @@ def text_to_speech(clean_script: str, output_file: str, voice_type: str = "waven
         )
 
         # Generate chunks (SSML or Plain Text)
-        # Always use SSML chunks
         chunks = generate_ssml_chunks(text_content)
         is_ssml = True
+        
+        for chunk_idx, chunk in enumerate(chunks):
+            all_tasks.append({
+                "seg_idx": i,
+                "chunk_idx": chunk_idx,
+                "chunk": chunk,
+                "is_ssml": is_ssml,
+                "voice_params": voice_params,
+                "audio_config": audio_config,
+                "speaker": speaker
+            })
 
-        # Helper function for parallel synthesis
-        def synthesize_single_chunk(chunk_idx, chunk, is_ssml):
-            """Synthesize a single chunk and return (index, audio_content, char_count)"""
-            if is_ssml:
-                synthesis_input = texttospeech.SynthesisInput(ssml=chunk)
-            else:
-                synthesis_input = texttospeech.SynthesisInput(text=chunk)
-            
-            try:
-                response = synthesize_chunk(client, synthesis_input, voice_params, audio_config)
-                char_count = len(chunk)
-                logger.debug(f"  Chunk {chunk_idx} synthesized ({char_count} chars)")
-                return (chunk_idx, response.audio_content, char_count)
-            except Exception as e:
-                logger.error(f"Failed to synthesize chunk {i}-{chunk_idx}: {e}")
-                raise e
+    # Helper function for parallel synthesis
+    def synthesize_task(task):
+        """Synthesize a single task and return (seg_idx, chunk_idx, audio_content, char_count)"""
+        seg_idx = task["seg_idx"]
+        chunk_idx = task["chunk_idx"]
+        chunk = task["chunk"]
         
-        # Parallelize chunk synthesis using ThreadPoolExecutor
-        logger.info(f"Synthesizing {len(chunks)} chunks with {max_parallel_calls} parallel workers...")
-        chunk_results = {}
+        if task["is_ssml"]:
+            synthesis_input = texttospeech.SynthesisInput(ssml=chunk)
+        else:
+            synthesis_input = texttospeech.SynthesisInput(text=chunk)
         
-        import time
-        start_time = time.time()
+        try:
+            response = synthesize_chunk(client, synthesis_input, task["voice_params"], task["audio_config"])
+            char_count = len(chunk)
+            logger.debug(f"  Segment {seg_idx} Chunk {chunk_idx} synthesized ({char_count} chars)")
+            return (seg_idx, chunk_idx, response.audio_content, char_count)
+        except Exception as e:
+            logger.error(f"Failed to synthesize Segment {seg_idx}-Chunk {chunk_idx}: {e}")
+            raise e
+    
+    # 2. EXECUTION PHASE: Run all tasks in parallel
+    logger.info(f"Synthesizing {len(all_tasks)} total chunks with {max_parallel_calls} parallel workers...")
+    
+    chunk_results = {} # Key: (seg_idx, chunk_idx)
+    import time
+    start_time = time.time()
+    
+    with ThreadPoolExecutor(max_workers=max_parallel_calls) as executor:
+        # Submit all tasks
+        futures = {
+            executor.submit(synthesize_task, task): task
+            for task in all_tasks
+        }
         
-        with ThreadPoolExecutor(max_workers=max_parallel_calls) as executor:
-            # Submit all chunks
-            futures = {
-                executor.submit(synthesize_single_chunk, chunk_idx, chunk, is_ssml): chunk_idx
-                for chunk_idx, chunk in enumerate(chunks)
-            }
-            
-            # Collect results as they complete
-            for future in as_completed(futures):
-                chunk_idx, audio_content, char_count = future.result()
-                chunk_results[chunk_idx] = (audio_content, char_count)
-        
-        elapsed = time.time() - start_time
-        logger.info(f"Parallel synthesis completed in {elapsed:.2f}s ({len(chunks)} chunks)")
-        
-        # Add audio contents in correct order and count chars
-        for chunk_idx in sorted(chunk_results.keys()):
-            audio_content, char_count = chunk_results[chunk_idx]
-            audio_contents.append(audio_content)
+        # Collect results
+        for future in as_completed(futures):
+            seg_idx, chunk_idx, audio_content, char_count = future.result()
+            chunk_results[(seg_idx, chunk_idx)] = (audio_content, char_count)
             total_chars += char_count
+
+    elapsed = time.time() - start_time
+    logger.info(f"Global parallel synthesis completed in {elapsed:.2f}s ({len(all_tasks)} chunks)")
+
+    # 3. ASSEMBLY PHASE: Concatenate in order
+    # Sort keys by seg_idx then chunk_idx
+    sorted_keys = sorted(chunk_results.keys())
+    
+    for key in sorted_keys:
+        audio_contents.append(chunk_results[key][0])
 
     with open(output_file, "wb") as out:
         for content in audio_contents:
