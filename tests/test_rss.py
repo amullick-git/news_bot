@@ -96,3 +96,54 @@ def test_rss_voice_suffix(tmp_path):
         content = f.read()
         assert "Daily News (Chirp)" in content
         assert "Tech News Briefing (WaveNet)" in content
+
+def test_update_index_relative_links(tmp_path):
+    # Setup structure:
+    # docs/index.html
+    # docs/episodes/links_xxx.html
+    
+    docs_dir = tmp_path / "docs"
+    docs_dir.mkdir()
+    episodes_dir = docs_dir / "episodes"
+    episodes_dir.mkdir()
+    
+    index_path = docs_dir / "index.html"
+    index_path.write_text('<html><body><div class="links-list" id="episode-links-list"></div></body></html>')
+    
+    (episodes_dir / "links_test_2025-01-01_10.html").write_text("content")
+    
+    # Run update
+    # Note: caller uses full paths usually
+    update_index_with_links(str(episodes_dir), index_path=str(index_path))
+    
+    content = index_path.read_text()
+    
+    # Check for relative link
+    # Should be "episodes/links_..."
+    assert 'href="episodes/links_test_2025-01-01_10.html"' in content
+    assert 'href="docs/episodes/' not in content
+
+def test_update_index_with_mp3(tmp_path):
+    # Setup structure:
+    docs_dir = tmp_path / "docs"
+    docs_dir.mkdir()
+    episodes_dir = docs_dir / "episodes"
+    episodes_dir.mkdir()
+    
+    index_path = docs_dir / "index.html"
+    index_path.write_text('<html><body><div class="links-list" id="episode-links-list"></div></body></html>')
+    
+    # HTML file
+    (episodes_dir / "links_test_2025-01-01_10.html").write_text("content")
+    # MP3 file
+    (episodes_dir / "episode_test_2025-01-01_10.mp3").write_text("audio")
+    
+    # Run update
+    from src.rss import update_index_with_links
+    update_index_with_links(str(episodes_dir), index_path=str(index_path))
+    
+    content = index_path.read_text()
+    
+    # Check for MP3 link
+    assert "Play MP3" in content
+    assert 'href="episodes/episode_test_2025-01-01_10.mp3"' in content

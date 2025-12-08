@@ -143,10 +143,38 @@ def update_index_with_links(episodes_dir: str, index_path: str = "index.html"):
     logger.info(f"Updating {index_path} with recent episodes...")
     
     link_files = glob.glob(os.path.join(episodes_dir, "links_*.html"))
-    link_files.sort(reverse=True)
+    
+    # Sort files by date (parsed from filename) instead of string comparison
+    files_with_dates = []
+    for filepath in link_files:
+        filename = os.path.basename(filepath)
+        dt = datetime.min
+        try:
+            # Try to extract timestamp: YYYY-MM-DD_HH
+            match = re.search(r"_(\d{4}-\d{2}-\d{2}_\d{2})\.html$", filename)
+            if match:
+                dt = datetime.strptime(match.group(1), "%Y-%m-%d_%H")
+            else:
+                # Fallback for simple date timestamps
+                clean_name = filename.replace("links_", "").replace(".html", "")
+                try:
+                    dt = datetime.strptime(clean_name, "%Y-%m-%d_%H")
+                except ValueError:
+                    # Try YYYY-MM-DD
+                     try:
+                        dt = datetime.strptime(clean_name, "%Y-%m-%d")
+                     except ValueError:
+                        pass
+        except Exception:
+            pass
+        files_with_dates.append({'dt': dt, 'path': filepath})
+        
+    # Sort descending by date
+    files_with_dates.sort(key=lambda x: x['dt'], reverse=True)
     
     links_html = ""
-    for filepath in link_files:
+    for item in files_with_dates:
+        filepath = item['path']
         filename = os.path.basename(filepath)
         display_label = ""
         display_date = ""
@@ -179,11 +207,27 @@ def update_index_with_links(episodes_dir: str, index_path: str = "index.html"):
             
         full_text = f"{display_label} {display_date}".strip()
             
+        if os.path.dirname(index_path):
+             rel_dir = os.path.relpath(episodes_dir, os.path.dirname(index_path))
+        else:
+             rel_dir = episodes_dir
+            
+        # Derive MP3 filename
+        mp3_filename = filename.replace("links_", "episode_").replace(".html", ".mp3")
+        mp3_exists = os.path.exists(os.path.join(episodes_dir, mp3_filename))
+        
+        mp3_link = ""
+        if mp3_exists:
+             mp3_link = f'<a href="{rel_dir}/{mp3_filename}" style="color:#667eea;text-decoration:none;font-weight:500;">🎧 Play MP3</a>'
+             
         links_html += f"""
-        <a href="{episodes_dir}/{filename}" class="episode-link-item">
-            <span class="episode-link-date">{full_text}</span>
-            <br>View News Sources
-        </a>
+        <div class="episode-entry" style="padding:15px; background:#f9f9f9; border-radius:8px; border-left:4px solid #667eea; margin-bottom:12px; transition: transform 0.2s ease;">
+            <span class="episode-link-date" style="font-weight:bold; display:block; margin-bottom:8px; color:#333;">{full_text}</span>
+            <div style="display:flex; gap:20px; font-size:0.95em;">
+                <a href="{rel_dir}/{filename}" style="color:#667eea; text-decoration:none; font-weight:500;">📄 View Sources</a>
+                {mp3_link}
+            </div>
+        </div>
         """
         
     try:
