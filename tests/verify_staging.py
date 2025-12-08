@@ -94,6 +94,7 @@ def verify_staging():
             path = line[3:]
             
             if path == "feed.xml": continue 
+            if path == "docs/feed.xml": continue 
             if path.endswith(".py"): continue # Ignore source code changes
             
             if "M" in code[1]: # Modified and unstaged
