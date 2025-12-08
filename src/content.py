@@ -21,7 +21,7 @@ def configure_gemini(api_key: str):
     genai.configure(api_key=api_key)
 
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10))
-def filter_by_semantics(items: List[Dict[str, Any]], topics: List[str], model_name: str, limit: int = 10) -> List[Dict[str, Any]]:
+def filter_by_semantics(items: List[Dict[str, Any]], topics: List[str], model_name: str, limit: int = 10, audience: str = "general") -> List[Dict[str, Any]]:
     """
     Use Gemini to filter news items based on semantic relevance to topics.
     """
@@ -37,6 +37,11 @@ def filter_by_semantics(items: List[Dict[str, Any]], topics: List[str], model_na
         summary = (item.get('summary') or "")[:300]
         items_text += f"Item {i}:\nTitle: {item.get('title')}\nSummary: {summary}\n\n"
 
+    if audience == "kids":
+        safety_instruction = "7. **Safety (Kids):** CRITICAL. Exclude stories involving murder, graphic violence, sexual content, disturbing crimes, or overly complex political intrigue. Prioritize science, space, nature, positive news, and understandable world events."
+    else:
+        safety_instruction = ""
+
     prompt = f"""
     You are a news editor. Your task is to select the top {limit} stories that are relevant to the following topics: {', '.join(topics)}.
 
@@ -47,6 +52,7 @@ def filter_by_semantics(items: List[Dict[str, Any]], topics: List[str], model_na
     4. **Diversity:** Ensure a good mix of different topics.
     5. **News vs Opinion:** STRICTLY EXCLUDE opinion pieces, editorials, commentaries, reviews, and "analysis" that is not grounded in new facts. Prioritize hard news.
     6. **Substance:** Exclude fluff, clickbait, or purely promotional content.
+    {safety_instruction}
 
     Here are the candidate stories:
     {items_text}

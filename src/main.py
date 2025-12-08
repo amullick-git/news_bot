@@ -168,7 +168,8 @@ def main():
             candidates,
             topics=selected_keywords,
             model_name=config.processing.gemini_model,
-            limit=config.processing.max_final_articles  # Stage 2: Final selection
+            limit=config.processing.max_final_articles,  # Stage 2: Final selection
+            audience=content_type
         )
         
         logger.info(f"Stage 2 (Gemini): {len(candidates)} → {len(items)} final articles")
