@@ -1,3 +1,23 @@
+## Run: 2025-12-07 18:32 (Type: general_daily)
+**Links File**: [links_general_daily_2025-12-07_18.html](episodes/links_general_daily_2025-12-07_18.html)
+
+**Total Fetched**: 160 -> **Stage 1 (Local AI)**: 50 -> **Stage 2 (Gemini Final)**: 20
+
+**TTS Usage**: 15253 chars (Model: chirp3-hd) -> **Running Total**: 39357 chars
+
+### Breakdown by Source
+| Source | Fetched | Stage 1 (Local AI) | Selected |
+|---|---|---|---|
+| BBC News | 31 | 8 | 4 |
+| Hacker News | 20 | 7 | 2 |
+| NDTV News | 20 | 14 | 5 |
+| NPR Topics | 10 | 4 | 1 |
+| NYT | 39 | 9 | 3 |
+| The Verge | 10 | 0 | 0 |
+| US Top News and Analysis | 30 | 8 | 5 |
+
+----------------------------------------
+
 ## Run: 2025-12-07 18:24 (Type: general_daily)
 **Links File**: [links_general_daily_2025-12-07_18.html](episodes/links_general_daily_2025-12-07_18.html)
 
