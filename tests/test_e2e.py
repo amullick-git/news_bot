@@ -22,8 +22,10 @@ def setup_e2e_env(tmp_path):
     # Change to temp directory
     os.chdir(tmp_path)
     
-    # Create necessary files/dirs
-    episodes_dir = tmp_path / "episodes"
+    # Create necessary files/dirs for new docs/ structure
+    docs_dir = tmp_path / "docs"
+    docs_dir.mkdir()
+    episodes_dir = docs_dir / "episodes"
     episodes_dir.mkdir()
     
     # Create a minimal config.yaml
@@ -35,7 +37,7 @@ podcast:
   author: "Test Author"
   image_filename: "test.jpg"
   language: "en"
-  episodes_dir: "episodes"
+  episodes_dir: "docs/episodes"
 
 feeds:
   general:
@@ -56,8 +58,8 @@ processing:
   retention_days: 7
 """)
     
-    # Create dummy index.html for the update logic
-    index_file = tmp_path / "index.html"
+    # Create dummy index.html for the update logic (in docs/ now)
+    index_file = docs_dir / "index.html"
     index_file.write_text("""
 <!DOCTYPE html>
 <html>
@@ -151,7 +153,7 @@ HOST: Thanks.
     expected_links = f"links_daily_{today}.html"
     
     assert os.path.exists(os.path.join(episodes_dir, expected_mp3))
-    assert os.path.exists(os.path.join(tmp_path, "feed.xml"))
+    assert os.path.exists(os.path.join(tmp_path, "docs", "feed.xml"))
     assert os.path.exists(os.path.join(episodes_dir, expected_links))
     
     # Check for script
@@ -161,10 +163,10 @@ HOST: Thanks.
     json_files = list(episodes_dir.glob("episode_metadata_*.json"))
     assert len(json_files) > 0, "No metadata file created"
     
-    # Check index.html updated (NEW)
-    index_content = (tmp_path / "index.html").read_text()
-    # Check RSS Feed
-    feed_content = (tmp_path / "feed.xml").read_text()
+    # Check index.html updated (NEW) - now in docs/
+    index_content = (tmp_path / "docs" / "index.html").read_text()
+    # Check RSS Feed (now in docs/)
+    feed_content = (tmp_path / "docs" / "feed.xml").read_text()
     # New Format: Title - Month Day, Year - HH AM/PM
     # e.g., "News Briefing - December 06, 2025 - 02 PM"
     # We check for the prefix and part of date/time
@@ -175,7 +177,7 @@ HOST: Thanks.
     assert "View News Sources" in index_content
     
     # Check RSS Feed (NEW - since we removed --test)
-    assert (tmp_path / "feed.xml").exists(), "feed.xml not created"
+    assert (tmp_path / "docs" / "feed.xml").exists(), "feed.xml not created"
     
     # Verify mocks
     mock_fetch.assert_called_once()

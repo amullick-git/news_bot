@@ -68,15 +68,25 @@ def main():
         config.processing.duration_minutes = args.duration
     
     # --- OUTPUT DIRECTORY SETUP ---
-    base_output_dir = "."
+    # Sandbox directory (root for all outputs in this run)
+    sandbox_dir = "."
     if args.test:
         logger.info("TEST MODE ENABLED")
-        base_output_dir = "test_output"
-        os.makedirs(base_output_dir, exist_ok=True)
-        logger.info(f"Base output directory: {base_output_dir}")
+        sandbox_dir = "test_output"
         
-    # Episodes directory is always nested under base output
-    config.podcast.episodes_dir = os.path.join(base_output_dir, "episodes")
+    # Create structure
+    # web_dir: contains public facing content (index.html, feed.xml, episodes/, assets/)
+    web_dir = os.path.join(sandbox_dir, "docs")
+    os.makedirs(web_dir, exist_ok=True)
+    
+    # metrics_dir: contains internal logs (handled by MetricsLogger using sandbox_dir)
+    # Note: MetricsLogger(sandbox_dir) will append /metrics automatically.
+    
+    logger.info(f"Sandbox: {sandbox_dir}")
+    logger.info(f"Web Root: {web_dir}")
+
+    # Episodes directory is nested under web_dir
+    config.podcast.episodes_dir = os.path.join(web_dir, "episodes")
     os.makedirs(config.podcast.episodes_dir, exist_ok=True)
     logger.info(f"Episodes directory: {config.podcast.episodes_dir}")
 
@@ -243,15 +253,15 @@ def main():
     # Capture the generated filename (e.g. links_daily_2024...html)
     links_filename = generate_episode_links_page(items, filename_suffix, config.podcast.episodes_dir)
     
-    # Update index.html in the base output directory
-    index_path = os.path.join(base_output_dir, "index.html")
+    # Update index.html in the web directory (docs/)
+    index_path = os.path.join(web_dir, "index.html")
     update_index_with_links(config.podcast.episodes_dir, index_path=index_path)
     
-    generate_rss_feed(config, output_dir=base_output_dir)
+    generate_rss_feed(config, output_dir=web_dir)
         
     # --- LOG METRICS ---
     from .metrics import MetricsLogger
-    metrics = MetricsLogger(base_output_dir)
+    metrics = MetricsLogger(sandbox_dir)
     
     tts_stats = {
         "model": config.processing.voice_type,

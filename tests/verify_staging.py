@@ -115,9 +115,16 @@ def verify_staging():
         # Cleanup: Undo changes to keep the working directory clean
         print("\nCleaning up verification artifacts...")
         try:
-            # Restore modified tracked files
-            subprocess.call(["git", "restore", "--staged", "index.html", "metrics_prod.md", "metrics_stats.json"])
-            subprocess.call(["git", "restore", "index.html", "metrics_prod.md", "metrics_stats.json"])
+            # Restore modified            # Stage files
+            # Note: We now have metrics in metrics/ folder
+            # Ensure folder is part of restore target? or just files?
+            
+            # Check for unstaged changes
+            # We expect changes in metrics/metrics_prod.md and metrics/metrics_stats.json
+            
+            # Restore
+            subprocess.call(["git", "restore", "--staged", "docs/index.html", "metrics/metrics_prod.md", "metrics/metrics_stats.json"])
+            subprocess.call(["git", "restore", "docs/index.html", "metrics/metrics_prod.md", "metrics/metrics_stats.json"])
             
             # Clean up test output directory if it exists (from manual test runs, though verifying staging usually simulates prod)
             if os.path.exists("test_output"):
@@ -125,9 +132,12 @@ def verify_staging():
                  shutil.rmtree("test_output")
                  
             # Remove untracked episodes created during test
-            subprocess.call("rm episodes/episode_*_test_*.mp3", shell=True)
-            subprocess.call("rm episodes/episode_*_test_*.md", shell=True)
-            subprocess.call("rm episodes/links_*_test_*.html", shell=True)
+            subprocess.call("rm docs/episodes/episode_*_test_*.mp3", shell=True)
+            subprocess.call("rm docs/episodes/episode_*_test_*.md", shell=True)
+            subprocess.call("rm docs/episodes/links_*_test_*.html", shell=True)
+            # Cleanup metrics/ if it was created during test and shouldn't be there?
+            # Actually metrics/ contains prod files, we shouldn't delete the dir, just the staged changes.
+            pass
             # Cleanup test feed.xml if it landed in right place (verify_staging mocks don't actually write it unless we mocked side_effect?)
             # Actually, `verify_staging` mocks `generate_rss_feed` entirely, so no file is written.
             # But just in case, or if we unmock it later.

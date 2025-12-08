@@ -10,7 +10,11 @@ logger = get_logger(__name__)
 class MetricsLogger:
     def __init__(self, base_dir: str):
         self.base_dir = base_dir
-        self.stats_file = os.path.join(base_dir, "metrics_stats.json")
+        # Create metrics directory under base_dir
+        self.metrics_dir = os.path.join(base_dir, "metrics")
+        os.makedirs(self.metrics_dir, exist_ok=True)
+        
+        self.stats_file = os.path.join(self.metrics_dir, "metrics_stats.json")
 
     def _load_stats(self) -> Dict[str, Any]:
         if os.path.exists(self.stats_file):
@@ -121,7 +125,7 @@ class MetricsLogger:
         
         # Determine filename
         filename = "metrics_test.md" if is_test else "metrics_prod.md"
-        filepath = os.path.join(self.base_dir, filename)
+        filepath = os.path.join(self.metrics_dir, filename)
         
         self._prepend_to_file(filepath, report_content)
 

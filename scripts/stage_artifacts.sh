@@ -2,14 +2,14 @@
 set -e
 
 # Stage the episodes directory (MP3s, Markdown sources, HTML links)
-git add episodes/
+git add docs/episodes/
 
 # Stage the index.html file (updated with new links)
-git add index.html
+git add docs/index.html
 
 # Stage the metrics logs (if they exist)
-git add metrics_prod.md || true
-git add metrics_test.md || true
-git add metrics_stats.json || true
+git add metrics/metrics_prod.md || true
+git add metrics/metrics_test.md || true
+git add metrics/metrics_stats.json || true
 
 # Note: feed.xml is handled separately in the workflow after regeneration

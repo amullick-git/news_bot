@@ -22,7 +22,7 @@ def test_metrics_logger(tmp_path):
     
     logger.log_run(fetched, shortlisted, run_type="unit_test", is_test=True)
     
-    test_file = os.path.join(base_dir, "metrics_test.md")
+    test_file = os.path.join(base_dir, "metrics", "metrics_test.md")
     assert os.path.exists(test_file)
     
     with open(test_file) as f:
@@ -59,7 +59,7 @@ def test_metrics_logger(tmp_path):
     # log_run only updates persistence if is_test=False
     logger.log_run(fetched, shortlisted, run_type="prod_tts", is_test=False, tts_stats=tts_stats)
     
-    stats_file = os.path.join(base_dir, "metrics_stats.json")
+    stats_file = os.path.join(base_dir, "metrics", "metrics_stats.json")
     assert os.path.exists(stats_file)
     import json
     with open(stats_file) as f:
@@ -74,7 +74,7 @@ def test_metrics_logger(tmp_path):
 
     # Test Prod Mode with Link
     logger.log_run(fetched, shortlisted, run_type="prod_run", is_test=False, links_file="links_prod.html")
-    prod_file = os.path.join(base_dir, "metrics_prod.md")
+    prod_file = os.path.join(base_dir, "metrics", "metrics_prod.md")
     assert os.path.exists(prod_file)
     with open(prod_file) as f:
         content = f.read()

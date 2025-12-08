@@ -123,7 +123,7 @@ To make this podcast available on apps like Apple Podcasts, Spotify, or Pocket C
 1.  Create a **public** GitHub repository for this project.
 2.  Push all files (including `feed.xml` and `episode_*.mp3`) to the repository.
 3.  Go to **Settings** > **Pages**.
-4.  Under **Source**, select `main` branch (or `master`) and `/ (root)` folder.
+4.  Under **Source**, select `main` branch (or `master`) and `/docs` folder.
 5.  Click **Save**. GitHub will provide you a URL like `https://amullick-git.github.io/news_bot/`.
 6.  **Important**: Ensure a `.nojekyll` file exists in your repo to allow serving of all files.
 
