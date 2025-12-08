@@ -16,7 +16,8 @@ def main():
     
     try:
         config = load_config()
-        generate_rss_feed(config)
+        # Generate feed in docs/ directory (production structure)
+        generate_rss_feed(config, output_dir="docs")
         logger.info("Feed regeneration complete.")
     except Exception as e:
         logger.error(f"Failed to regenerate feed: {e}")
