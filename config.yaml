@@ -91,7 +91,7 @@ processing_overrides:
     duration_minutes: 20
     max_per_feed: 25
   tech_daily:
-
+    voice_type: "neural"
   general_evening:
     duration_minutes: 8
     max_per_feed: 8
