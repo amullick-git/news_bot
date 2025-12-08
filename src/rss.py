@@ -217,7 +217,44 @@ def update_index_with_links(episodes_dir: str, index_path: str = "index.html"):
             
         # Derive MP3 filename
         mp3_filename = filename.replace("links_", "episode_").replace(".html", ".mp3")
-        mp3_exists = os.path.exists(os.path.join(episodes_dir, mp3_filename))
+        mp3_path = os.path.join(episodes_dir, mp3_filename)
+        mp3_exists = os.path.exists(mp3_path)
+        
+        # Derive Metadata filename and extract voice info
+        meta_filename = mp3_filename.replace("episode_", "episode_metadata_").replace(".mp3", ".json")
+        meta_path = os.path.join(episodes_dir, meta_filename)
+        
+        # Fuzzy lookup if exact match fails
+        if not os.path.exists(meta_path):
+             # Try to match by timestamp suffix
+             # mp3_filename: episode_{type}_{timestamp}.mp3
+             # we want: episode_metadata_*{timestamp}.json
+             match = re.search(r"_(\d{4}-\d{2}-\d{2}_\d{2})\.mp3$", mp3_filename)
+             if match:
+                 timestamp = match.group(1)
+                 candidates = glob.glob(os.path.join(episodes_dir, f"episode_metadata_*{timestamp}.json"))
+                 if candidates:
+                     meta_path = candidates[0]
+
+        voice_suffix = ""
+        if os.path.exists(meta_path):
+            try:
+                with open(meta_path, "r") as f:
+                    meta = json.load(f)
+                    voice = meta.get("voice_type", "")
+                    if voice:
+                        if "chirp" in voice:
+                            if "hd" in voice.lower():
+                                voice_suffix = " (Chirp HD)"
+                            else:
+                                voice_suffix = " (Chirp)"
+                        elif "wavenet" in voice: voice_suffix = " (WaveNet)"
+                        elif "neural" in voice: voice_suffix = " (Neural)"
+                        elif "studio" in voice: voice_suffix = " (Studio)"
+            except Exception:
+                pass
+        
+        full_text = f"{display_label}{voice_suffix} {display_date}".strip()
         
         mp3_link = ""
         if mp3_exists:
