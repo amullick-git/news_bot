@@ -157,7 +157,7 @@ This repository includes GitHub Actions workflows to generate the podcast automa
 
 ### Morning Schedule
 - **06:30 AM PST** (14:30 UTC): 15-minute episode ("News Briefing").
-- Workflow: `.github/workflows/morning_podcast.yml`
+- Workflow: `.github/workflows/daily_podcast.yml`
 
 ### Evening Schedule
 - **06:30 PM PST** (02:30 UTC): 8-minute episode ("Quick News Briefing").

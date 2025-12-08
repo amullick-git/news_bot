@@ -8,7 +8,7 @@ This guide is intended for developers contributing to the News Podcast Generator
 news_podcast/
 ├── .github/workflows/      # GitHub Actions workflows
 │   ├── common.yml          # Reusable workflow logic
-│   ├── morning_podcast.yml # Morning schedule
+│   ├── daily_podcast.yml   # Daily morning schedule
 │   ├── evening_podcast.yml # Evening schedule
 │   └── weekly_podcast.yml  # Weekly schedule
 ├── assets/                 # Static assets (cover images, etc.)
@@ -114,7 +114,7 @@ The project uses GitHub Actions for automation. The workflows are modularized to
     - Committing & Pushing Artifacts (MP3s, Scripts, RSS Feed)
 
 2.  **Triggers**:
-    - `morning_podcast.yml`: Calls `common.yml` with 15 min duration (Daily 14:30 UTC).
+    - `daily_podcast.yml`: Calls `common.yml` with 15 min duration (Daily 14:30 UTC).
     - `evening_podcast.yml`: Calls `common.yml` with 8 min duration (Daily 02:30 UTC).
     - `tech_daily_podcast.yml`: Calls `common.yml` with `type: tech` (Daily 14:00 UTC).
     - `tech_weekly_podcast.yml`: Calls `common.yml` with `type: tech_weekly` (Saturday 15:00 UTC).

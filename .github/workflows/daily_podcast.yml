@@ -1,4 +1,4 @@
-name: Morning Podcast Generation
+name: Daily Podcast Generation
 
 on:
   schedule:
@@ -20,7 +20,7 @@ jobs:
     with:
       duration: ${{ inputs.duration || '15' }}
       lookback_days: "1"
-      type: "morning"
+      type: "daily"
       title_prefix: "News Briefing"
     secrets:
       GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
