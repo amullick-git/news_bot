@@ -21,7 +21,7 @@ def test_generate_episode_links_page_parsing(tmp_path):
         assert "Tech Daily: January 01, 2025 - 10 AM" in content
         assert "News 1" in content
 
-def test_update_index_parsing(tmp_path):
+def test_update_index_parsing(tmp_path, monkeypatch):
     # Setup index.html with placeholder
     index_path = str(tmp_path / "index.html")
     with open(index_path, "w") as f:
@@ -34,7 +34,8 @@ def test_update_index_parsing(tmp_path):
     with open(str(tmp_path / "links_2024-01-01_10.html"), "w") as f: f.write("content")
     
     # Run update
-    os.chdir(str(tmp_path)) # Ensure we work in tmp dir
+    # Run update
+    monkeypatch.chdir(tmp_path) # Ensure we work in tmp dir
     update_index_with_links(str(tmp_path))
     
     with open(index_path, "r") as f:
@@ -48,7 +49,7 @@ def test_update_index_parsing(tmp_path):
         assert "January 01, 2024 - 10:00 AM" in content
         assert "[Legacy]" not in content # Should not have bracket prefix if no type
 
-def test_rss_voice_suffix(tmp_path):
+def test_rss_voice_suffix(tmp_path, monkeypatch):
     from src.rss import generate_rss_feed
     from src.config import Config, PodcastConfig, ProcessingConfig
     import json
@@ -85,7 +86,7 @@ def test_rss_voice_suffix(tmp_path):
     output_dir = tmp_path / "output"
     output_dir.mkdir()
     
-    os.chdir(str(tmp_path))
+    monkeypatch.chdir(tmp_path)
     generate_rss_feed(config, output_dir=str(output_dir))
     
     # Check that feed.xml is in output_dir, NOT in root (which is tmp_path here)
