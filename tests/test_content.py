@@ -33,3 +33,4 @@ def test_summarize_with_gemini_kids_prompt():
         prompt = call_args[0][0]
         assert "Break down complicated news" in prompt
         assert "concepts using analogies" in prompt
+        assert "Provide brief context where applicable" in prompt

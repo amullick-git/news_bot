@@ -102,7 +102,7 @@ Source: {a.get('link')}
     keywords_str = ", ".join(keywords) if keywords else "today's topics"
     
     if audience == "kids":
-       tone_instruction = "Tone: Energetic, simple, educational, and fun. Verify content is safe for legal minors (approx 10 years old). Explain complex terms simply. Break down complicated news into bite-sized, easy-to-understand concepts using analogies where appropriate."
+       tone_instruction = "Tone: Energetic, simple, educational, and fun. Verify content is safe for legal minors (approx 10 years old). Explain complex terms simply. Break down complicated news into bite-sized, easy-to-understand concepts using analogies where appropriate. Provide brief context where applicable"
        intro_instruction = f"HOST: High-energy intro! Start with '{greeting}!' and 'Welcome to {show_name}!' Start with an 'On This Day in History' fact relevant to these topics: {keywords_str}. Mention we are checking sources like {friendly_sources}."
     else:
        tone_instruction = "Tone: Conversational, engaging, energetic, bright, and yet professional. Professional news anchor style."
