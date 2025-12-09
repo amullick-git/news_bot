@@ -1,3 +1,16 @@
+## Run: 2025-12-09 13:40 (Type: motivational_daily)
+**Links File**: [links_motivational_daily_2025-12-09_13.html](episodes/links_motivational_daily_2025-12-09_13.html)
+
+**Total Fetched**: 0 -> **Stage 1 (Local AI)**: 0 -> **Stage 2 (Gemini Final)**: 0
+
+**TTS Usage**: 3388 chars (Model: wavenet) -> **Running Total**: 55054 chars
+
+### Breakdown by Source
+| Source | Fetched | Stage 1 (Local AI) | Selected |
+|---|---|---|---|
+
+----------------------------------------
+
 ## Run: 2025-12-09 08:27 (Type: motivational_daily)
 **Links File**: [links_motivational_daily_2025-12-09_08.html](episodes/links_motivational_daily_2025-12-09_08.html)
 
