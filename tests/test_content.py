@@ -33,4 +33,4 @@ def test_summarize_with_gemini_kids_prompt():
         prompt = call_args[0][0]
         assert "Break down complicated news" in prompt
         assert "Provide context where applicable" in prompt
-        assert "minors (approx 12 years old)" in prompt
+        assert "minors (approx 10 years old)" in prompt
