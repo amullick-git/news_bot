@@ -85,24 +85,24 @@ processing_overrides:
   kids_daily:
     duration_minutes: 12
     max_per_feed: 25
-    max_final_articles: 12
+    max_final_articles: 15
     voice_type: "neural"
   general_daily:
     voice_type: "chirp3-hd" # chirp hd for daily general news
   general_weekly:
     duration_minutes: 20
-    max_per_feed: 25
+    max_per_feed: 35
   tech_daily:
     voice_type: "neural"
   general_evening:
     duration_minutes: 8
-    max_per_feed: 8
-    max_final_articles: 10
+    max_per_feed: 15
+    max_final_articles: 15
     fetch_limit: 50
-    voice_type: "studio" # studio for evening daily news
+    voice_type: "neural" 
   tech_weekly:
     duration_minutes: 20
-    max_per_feed: 25
+    max_per_feed: 35
 
 podcast:
   base_url: "https://amullick-git.github.io/news_bot"
