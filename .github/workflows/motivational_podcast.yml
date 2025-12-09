@@ -1,0 +1,66 @@
+name: Motivational Podcast
+
+on:
+  schedule:
+    # 5:00 AM PST = 13:00 UTC
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+    inputs:
+      duration:
+        description: 'Duration in minutes'
+        required: false
+        default: '3'
+
+jobs:
+  motivational-podcast:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: Generate Podcast
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GOOGLE_APPLICATION_CREDENTIALS_JSON: ${{ secrets.GCP_SA_KEY }}
+          NOTIFICATION_WEBHOOK_URL: ${{ secrets.NOTIFICATION_WEBHOOK_URL }}
+        run: |
+          # Create credentials file from secret
+          echo $GOOGLE_APPLICATION_CREDENTIALS_JSON | base64 -d > service_account.json
+          export GOOGLE_APPLICATION_CREDENTIALS="service_account.json"
+          
+          # Run the bot
+          python -m src.main --type motivational_daily --title-prefix "Morning Spark"
+          
+          # Clean up
+          rm service_account.json
+          
+      - name: Stage Artifacts
+        run: |
+          chmod +x scripts/stage_artifacts.sh
+          ./scripts/stage_artifacts.sh
+          
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          
+          # Check for changes
+          if [[ -n $(git status -s) ]]; then
+            git add docs/
+            git commit -m "Auto-generated motivational episode [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi

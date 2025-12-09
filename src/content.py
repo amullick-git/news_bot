@@ -142,3 +142,53 @@ Source: {a.get('link')}
 
     response = model.generate_content(prompt)
     return response.text
+
+@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10))
+def generate_themed_script(target_words: int, model_name: str, greeting: str, theme: str = "motivational", show_name: str = "Morning Spark") -> str:
+    """
+    Generates a script without news articles, focusing on a specific theme (e.g. motivation).
+    """
+    from datetime import datetime
+    
+    model = genai.GenerativeModel(model_name)
+    
+    # Theme-specific prompt additions
+    theme_prompt = ""
+    if theme == "motivational":
+        theme_prompt = """
+        **Theme: Daily Motivation & Positivity**
+        - Concept: Provide a bright, uplifting, and energetic start to the day. 
+        - Structure:
+            1. Short, high-energy welcome.
+            2. "Thought of the Day": A unique, powerful motivational quote or concept. Vary this daily (stoicism, modern psychology, gratitude, resilience, etc.).
+            3. "Actionable Tip": A simple, practical thing the listener can do today to feel better or be more productive.
+            4. "Good News Nugget": Briefly mention one generic positive thing about the world (e.g., "science is advancing," "spring is coming," "people are helping each other").
+            5. Warm, encouraging sign-off.
+        - Tone: Optimistic, not preachy, not religious. Like a helpful friend or life coach.
+        """
+    else:
+        # Generic fallback
+        theme_prompt = f"**Theme: {theme}**\nCreate an engaging podcast segment about {theme}."
+
+    prompt = f"""
+    You are writing a script for a short, single-host daily podcast.
+    
+    **Host Persona:** Warm, friends, encouraging, energetic. Name is "Arjav".
+    
+    **Format:**
+    - Use "HOST:" for the spoken lines.
+    - {tone_instruction if 'tone_instruction' in locals() else "Tone: Bright, clear, pacing is steady but energetic."}
+    
+    {theme_prompt}
+
+    **Constraints:**
+    - Total length: ~{target_words} words.
+    - Output ONLY the spoken dialogue.
+    - No sound effects or music cues.
+    - No markdown formatting in speech.
+    
+    **Date Context:** Today is {datetime.now().strftime("%A, %B %d")}. Use this to make it feel fresh.
+    """
+
+    response = model.generate_content(prompt)
+    return response.text

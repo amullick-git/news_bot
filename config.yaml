@@ -103,6 +103,11 @@ processing_overrides:
   tech_weekly:
     duration_minutes: 20
     max_per_feed: 35
+  motivational_daily:
+    duration_minutes: 3
+    voice_type: "wavenet"
+    max_parallel_tts_calls: 3 # Lower overlap for shorter script
+
 
 podcast:
   base_url: "https://amullick-git.github.io/news_bot"

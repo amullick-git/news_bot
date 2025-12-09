@@ -128,11 +128,16 @@ def main():
     selected_feeds = config.feeds.get(feed_key, config.feeds["general"])
     logger.info(f"Selected feed category: {feed_key} ({len(selected_feeds)} feeds)")
     
-    # FETCH STEP: Use deep fetch limit (e.g. 100) to ensure history coverage
-    fetch_limit = getattr(config.processing, "fetch_limit", 100)
     
-    # --- METRICS CHECKPOINT 1 ---
-    fetched_items = fetch_all(selected_feeds, fetch_limit)
+    # --- FETCH STEP ---
+    # Skip for unique non-news types
+    fetched_items = []
+    if content_type != "motivational":
+        # Use deep fetch limit (e.g. 100) to ensure history coverage
+        fetch_limit = getattr(config.processing, "fetch_limit", 100)
+    
+        # --- METRICS CHECKPOINT 1 ---
+        fetched_items = fetch_all(selected_feeds, fetch_limit)
     
     lookback_hours = args.lookback_days * 24
     items = filter_by_time_window(fetched_items, hours=lookback_hours)
@@ -183,11 +188,14 @@ def main():
     # --- METRICS CHECKPOINT 2 ---
     shortlisted_items = items
 
-    if not items:
+    if not items and content_type != "motivational":
         logger.warning("No articles found after filtering.")
         return
 
-    logger.info(f"Using {len(items)} stories")
+    if items:
+        logger.info(f"Using {len(items)} stories")
+    else:
+        logger.info("Using 0 stories (Motivational Mode)")
     
     os.makedirs(config.podcast.episodes_dir, exist_ok=True)
 
@@ -215,17 +223,29 @@ def main():
     else:
         greeting = "Good Evening"
     logger.info(f"Target Greeting: {greeting} (Hour: {current_hour})")
-    
-    script = summarize_with_gemini(
-        items, 
-        target_words=target_words, 
-        model_name=config.processing.gemini_model, 
-        friendly_sources=friendly_sources, 
-        audience=audience,
-        show_name=args.title_prefix,
-        keywords=selected_keywords,
-        greeting=greeting
-    )
+
+    if content_type == "motivational":
+        # SPECIAL FLOW: Themed/Motivational Script (No News)
+        from .content import generate_themed_script
+        script = generate_themed_script(
+            target_words=target_words,
+            model_name=config.processing.gemini_model,
+            greeting=greeting,
+            theme="motivational",
+            show_name=args.title_prefix
+        )
+    else:
+        # STANDARD FLOW: News Summary
+        script = summarize_with_gemini(
+            items, 
+            target_words=target_words, 
+            model_name=config.processing.gemini_model, 
+            friendly_sources=friendly_sources, 
+            audience=audience,
+            show_name=args.title_prefix,
+            keywords=selected_keywords,
+            greeting=greeting
+        )
 
 
     raw_script_path = os.path.join(config.podcast.episodes_dir, "episode_script_raw.txt")

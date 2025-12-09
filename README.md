@@ -23,6 +23,7 @@ This project is an automated tool that fetches news from various RSS feeds, filt
         - **Tech/Weekly**: WaveNet (Global Default)
     - **Multi-Voice**: Uses distinct voices for the Host and Reporter.
     - **Intro Announcement**: Explicitly announces the show name (e.g. "Welcome to Weekly Tech Round-up") for clarity.
+    - **Motivational Mode**: Generates non-news content focused on daily inspiration using a dedicated `generate_themed_script` pipeline.
 - **Type System**: Uses consistent `{content}_{frequency}` naming (e.g., `general_daily`, `tech_weekly`, `kids_daily`)
 - **Parallel TTS**: Synthesizes audio chunks concurrently (5 parallel calls) for faster generation
 - **Metrics Logging**: Logs run statistics (fetched vs. used articles, **Voice Character Usage**) to `metrics/metrics_prod.md` for performance comparison and cost tracking.
@@ -31,6 +32,7 @@ This project is an automated tool that fetches news from various RSS feeds, filt
     - **Evening Update (6:30 PM PST)**: 8-minute quick summary (labeled as "Quick News Briefing").
     - **Tech News (Morning & Weekly)**: Dedicated tech news briefing daily and a detailed weekly round-up on Saturdays.
     - **Weekly Round-up (Saturday 7:00 AM PST)**: 20-minute summary of the week's top stories.
+    - **Motivational (Daily 5:00 AM PST)**: "Morning Spark" - 3-minute positive start to the day (no news, just motivation).
 - **Auto-Cleanup**: Episodes older than 7 days are automatically deleted to keep the feed fresh.
 - **Episode Links Page**: Generates a dedicated HTML page for each episode listing all source articles used.
 - **Podcast Website**: Professional landing page at [https://amullick-git.github.io/news_bot/](https://amullick-git.github.io/news_bot/) featuring:
@@ -105,6 +107,9 @@ python -m src.main --duration 20 --lookback-days 7 --type general_weekly --title
 
 # Test mode (saves to test_output/, no RSS update)
 python -m src.main --test
+
+# Motivational Podcast (No News)
+python -m src.main --type motivational_daily --title-prefix "Morning Spark"
 ```
 
 The script will:
@@ -180,6 +185,10 @@ This repository includes GitHub Actions workflows to generate the podcast automa
 ### Weekly Schedule
 - **Saturday 07:00 AM PST** (15:00 UTC): 20-minute episode ("Weekly News Round-up").
 - Workflow: `.github/workflows/weekly_podcast.yml`
+
+### Motivational Schedule
+- **Daily 05:00 AM PST** (13:00 UTC): 3-minute episode ("Morning Spark").
+- Workflow: `.github/workflows/motivational_podcast.yml`
 
 ### Setup Secrets
 

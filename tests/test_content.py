@@ -34,3 +34,22 @@ def test_summarize_with_gemini_kids_prompt():
         assert "Break down complicated news" in prompt
         assert "Provide context where applicable" in prompt
         assert "minors (approx 10 years old)" in prompt
+
+def test_generate_themed_script():
+    from src.content import generate_themed_script
+    
+    with patch("src.content.genai") as mock_genai:
+        mock_model = MagicMock()
+        mock_genai.GenerativeModel.return_value = mock_model
+        mock_model.generate_content.return_value.text = "Motivational Script"
+        
+        script = generate_themed_script(100, "model", "Good Morning", theme="motivational")
+        
+        assert script == "Motivational Script"
+        
+        # Verify prompt contains motivational keywords
+        call_args = mock_model.generate_content.call_args
+        prompt = call_args[0][0]
+        assert "Daily Motivation & Positivity" in prompt
+        assert "Thought of the Day" in prompt
+        assert "Arjav" in prompt

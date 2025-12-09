@@ -10,6 +10,7 @@ news_podcast/
 │   ├── daily_podcast.yml   # Daily morning schedule
 │   ├── evening_podcast.yml # Evening schedule
 │   ├── kids_podcast.yml    # Kids daily schedule
+│   ├── motivational_podcast.yml # Motivational daily schedule
 │   ├── tech_daily_podcast.yml # Tech daily schedule
 │   ├── tech_weekly_podcast.yml # Tech weekly schedule
 │   └── weekly_podcast.yml  # Weekly schedule
@@ -131,6 +132,7 @@ The project uses GitHub Actions for automation. The workflows are modularized to
     - `tech_daily_podcast.yml`: Calls `common.yml` with `type: tech_daily` (Daily 14:00 UTC).
     - `tech_weekly_podcast.yml`: Calls `common.yml` with `type: tech_weekly` (Saturday 15:00 UTC).
     - `weekly_podcast.yml`: Calls `common.yml` with 20 min duration & 7-day lookback (Saturday 15:00 UTC).
+    - `motivational_podcast.yml`: Custom workflow for "Morning Spark". **Does NOT use `common.yml`** because it skips the news fetching pipeline and runs a simpler process.
 
 ## Architecture
 
