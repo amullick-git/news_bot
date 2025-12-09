@@ -1,6 +1,7 @@
 feeds:
   general:
     - "http://feeds.bbci.co.uk/news/world/rss.xml"
+    - "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
     - "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
     - "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
     - "https://feeds.feedburner.com/ndtvnews-india-news"
@@ -8,6 +9,7 @@ feeds:
     - "https://www.theverge.com/rss/index.xml"
     - "https://www.cnbc.com/id/100003114/device/rss/rss.html"
     - "https://feeds.npr.org/1001/rss.xml"
+    - "https://www.espncricinfo.com/rss/content/story/feeds/0.xml"
   tech:
     - "https://techcrunch.com/feed/"
     - "https://www.theverge.com/rss/index.xml"
@@ -17,13 +19,12 @@ feeds:
     - "https://www.bloomberg.com/feeds/technology.rss"
   kids:
     - "http://feeds.bbci.co.uk/news/world/rss.xml"
-    - "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
     - "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
     - "https://www.theverge.com/rss/index.xml"
     - "https://www.cnbc.com/id/100003114/device/rss/rss.html"
     - "https://feeds.npr.org/1001/rss.xml"
     - "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
-    - "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+    - "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
     - "https://www.nasa.gov/rss/dyn/breaking_news.rss"
 
 keywords:
