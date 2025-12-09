@@ -45,7 +45,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.11'
           cache: 'pip'
 
       - name: Install dependencies
@@ -71,14 +71,17 @@ jobs:
           echo "Prefix: ${{ inputs.title_prefix }}"
           echo "Voice Type: ${{ inputs.voice_type }}"
           
-          # Construct command args
-          CMD_ARGS="--duration ${{ inputs.duration }} --lookback-days ${{ inputs.lookback_days }} --type ${{ inputs.type }} --title-prefix \"${{ inputs.title_prefix }}\""
+          # Construct command args safely using bash array
+          CMD_ARGS=(--duration "${{ inputs.duration }}")
+          CMD_ARGS+=(--lookback-days "${{ inputs.lookback_days }}")
+          CMD_ARGS+=(--type "${{ inputs.type }}")
+          CMD_ARGS+=(--title-prefix "${{ inputs.title_prefix }}")
           
           if [ -n "${{ inputs.voice_type }}" ]; then
-            CMD_ARGS="$CMD_ARGS --voice-type ${{ inputs.voice_type }}"
+            CMD_ARGS+=(--voice-type "${{ inputs.voice_type }}")
           fi
           
-          python -m src.main $CMD_ARGS
+          python -m src.main "${CMD_ARGS[@]}"
 
       - name: Commit and Push changes
         run: |
