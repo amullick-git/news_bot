@@ -75,12 +75,44 @@ def fetch_feed(url: str, max_items: int = 10) -> List[Dict[str, Any]]:
         logger.error(f"Error fetching {url}: {e}")
         return []
 
+def deduplicate_articles(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """
+    Remove duplicates based on normalized link and title.
+    """
+    seen_links = set()
+    seen_titles = set()
+    unique_items = []
+
+    for item in items:
+        link = item.get("link", "").strip()
+        title = item.get("title", "").strip().lower()
+
+        # If we have a link, use it for primary deduplication
+        if link:
+            if link in seen_links:
+                continue
+            seen_links.add(link)
+
+        # Secondary check on title (if title exists)
+        # This helps catch same story from different feed URLs if title is identical
+        if title:
+             if title in seen_titles:
+                 continue
+             seen_titles.add(title)
+        
+        unique_items.append(item)
+    
+    logger.info(f"Deduplication: {len(items)} -> {len(unique_items)} items")
+    return unique_items
+
 def fetch_all(sources: List[str], max_per_feed: int) -> List[Dict[str, Any]]:
     all_items = []
     for url in sources:
         items = fetch_feed(url, max_items=max_per_feed)
         all_items.extend(items)
-    return all_items
+    
+    # Deduplicate after fetching all
+    return deduplicate_articles(all_items)
 
 def filter_by_time_window(items: List[Dict[str, Any]], hours: int = 24) -> List[Dict[str, Any]]:
     """

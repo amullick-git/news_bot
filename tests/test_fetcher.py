@@ -68,3 +68,37 @@ def test_filter_by_keywords():
     assert "AI News" in titles
     assert "Tech" in titles
     assert "Cooking" not in titles
+
+def test_deduplicate_articles():
+    from src.fetcher import deduplicate_articles
+    
+    items = [
+        # Set 1: Exact duplication by link
+        {"title": "Article A", "link": "http://example.com/a"},
+        {"title": "Article A (Duplicate)", "link": "http://example.com/a"}, 
+        
+        # Set 2: Exact duplication by title (different link query param e.g.)
+        {"title": "Article B", "link": "http://example.com/b1"},
+        {"title": "article b", "link": "http://example.com/b2"}, # Case insensitive title match
+        
+        # Set 3: Unique
+        {"title": "Article C", "link": "http://example.com/c"}
+    ]
+    
+    deduped = deduplicate_articles(items)
+    
+    # Expecting: 
+    # 1. Article A (first link seen)
+    # 2. Article B (first title seen)
+    # 3. Article C
+    assert len(deduped) == 3
+    
+    # Verify titles
+    titles = [i["title"] for i in deduped]
+    assert "Article A" in titles
+    assert "Article B" in titles
+    assert "Article C" in titles
+    
+    # Verify we didn't get the duplicates
+    assert "Article A (Duplicate)" not in titles
+    assert "article b" not in titles
