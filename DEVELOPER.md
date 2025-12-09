@@ -4,15 +4,21 @@ This guide is intended for developers contributing to the News Podcast Generator
 
 ## Project Structure
 
-```
 news_podcast/
 ├── .github/workflows/      # GitHub Actions workflows
 │   ├── common.yml          # Reusable workflow logic
 │   ├── daily_podcast.yml   # Daily morning schedule
 │   ├── evening_podcast.yml # Evening schedule
+│   ├── kids_podcast.yml    # Kids daily schedule
+│   ├── tech_daily_podcast.yml # Tech daily schedule
+│   ├── tech_weekly_podcast.yml # Tech weekly schedule
 │   └── weekly_podcast.yml  # Weekly schedule
-├── assets/                 # Static assets (cover images, etc.)
-├── episodes/               # Generated artifacts (audio, scripts, metadata)
+├── docs/                   # GitHub Pages content
+│   ├── assets/             # Static assets (cover images)
+│   ├── episodes/           # Generated artifacts (audio, scripts, metadata)
+│   ├── feed.xml            # Podcast RSS Feed
+│   ├── index.html          # Podcast Website
+│   └── setup_notifications.md # Setup guide
 ├── scripts/                # Utility scripts
 │   ├── regenerate_feed.py  # Regenerates RSS feed from metadata
 │   └── stage_artifacts.sh  # Stages artifacts for git commit
@@ -22,18 +28,19 @@ news_podcast/
 │   ├── config.py           # Configuration loading
 │   ├── content.py          # LLM logic (Gemini)
 │   ├── fetcher.py          # RSS fetching & filtering
-│   ├── local_ai.py         # Local Semantic Filtering (sentence-transformers)
+│   ├── local_ai.py         # Local Semantic Filtering
 │   ├── main.py             # Entry point
 │   ├── metrics.py          # Run statistics & logging
 │   ├── notification.py     # Discord/Slack notifications
 │   ├── rss.py              # RSS feed & HTML generation
 │   └── utils.py            # Logging & helpers
+├── metrics/                # Metrics monitoring
+│   ├── metrics_prod.md     # Production stats
+│   └── metrics_stats.json  # Persistent TTS stats
 ├── tests/                  # Unit and integration tests
 ├── config.yaml             # Configuration file
 ├── requirements.txt        # Python dependencies
-├── metrics_stats.json      # Persistent TTS usage stats
 └── README.md               # User documentation
-```
 
 ## Setup & Installation
 
