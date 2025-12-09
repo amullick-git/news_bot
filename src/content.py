@@ -58,7 +58,7 @@ def filter_by_semantics(items: List[Dict[str, Any]], topics: List[str], model_na
     {items_text}
 
     Return a JSON list of the indices (0-based) of the selected stories.
-    Target count: ~{limit} stories (return fewer if not enough good matches).
+    Maximum count: {limit} stories (return fewer if not enough good matches).
     Example output: [0, 2, 5]
     Return ONLY the JSON list.
     """
@@ -79,7 +79,8 @@ def filter_by_semantics(items: List[Dict[str, Any]], topics: List[str], model_na
         relevant_indices = json.loads(text)
         
         filtered_items = [items[i] for i in relevant_indices if isinstance(i, int) and 0 <= i < len(items)]
-        return filtered_items
+        # STRICTLY enforce the limit in code, regardless of what the LLM returns
+        return filtered_items[:limit]
 
     except Exception as e:
         logger.error(f"Error in semantic filtering: {e}")
