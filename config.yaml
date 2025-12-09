@@ -84,7 +84,7 @@ processing_overrides:
     duration_minutes: 12
     max_per_feed: 25
     max_final_articles: 12
-    voice_type: "chirp3-hd"
+    voice_type: "neural"
   general_daily:
     voice_type: "chirp3-hd" # chirp hd for daily general news
   general_weekly:
