@@ -10,6 +10,15 @@ on:
         description: 'Duration in minutes'
         required: false
         default: '20'
+      voice_type:
+        description: 'TTS Voice type (wavenet, neural, studio, chirp3-hd)'
+        required: false
+        type: choice
+        options:
+        - wavenet
+        - neural
+        - studio
+        - chirp3-hd
 
 permissions:
   contents: write
@@ -22,6 +31,7 @@ jobs:
       lookback_days: "7"
       type: "tech_weekly"
       title_prefix: "Weekly Tech Round-up"
+      voice_type: ${{ inputs.voice_type }}
     secrets:
       GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}

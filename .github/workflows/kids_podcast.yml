@@ -11,6 +11,15 @@ on:
         description: 'Duration in minutes'
         required: false
         default: '12'
+      voice_type:
+        description: 'TTS Voice type (wavenet, neural, studio, chirp3-hd)'
+        required: false
+        type: choice
+        options:
+        - wavenet
+        - neural
+        - studio
+        - chirp3-hd
 
 permissions:
   contents: write
@@ -23,6 +32,7 @@ jobs:
       lookback_days: "1"
       type: "kids_daily"
       title_prefix: "Kids News"
+      voice_type: ${{ inputs.voice_type }}
     secrets:
       GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}

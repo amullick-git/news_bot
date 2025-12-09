@@ -205,7 +205,8 @@ For the automation to work, you must add your API keys to the GitHub Repository 
 You can also run the bot manually from GitHub:
 1.  Go to the **Actions** tab.
 2.  Select **Daily Podcast Generation**.
-3.  Click **Run workflow**.
+3.  Select the **Duration** and **Voice Type** (optional).
+4.  Click **Run workflow**.
 
 ### Manual Trigger (Remote)
 You can trigger the workflow remotely using the GitHub API or CLI.

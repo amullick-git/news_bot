@@ -5,6 +5,20 @@ on:
     # Run at 02:30 UTC (6:30 PM PST)
     - cron: '30 2 * * *'
   workflow_dispatch:
+    inputs:
+      duration:
+        description: 'Duration in minutes'
+        required: false
+        default: '8'
+      voice_type:
+        description: 'TTS Voice type (wavenet, neural, studio, chirp3-hd)'
+        required: false
+        type: choice
+        options:
+        - wavenet
+        - neural
+        - studio
+        - chirp3-hd
 
 permissions:
   contents: write
@@ -13,10 +27,11 @@ jobs:
   generate:
     uses: ./.github/workflows/common.yml
     with:
-      duration: "8"
+      duration: ${{ inputs.duration || '8' }}
       lookback_days: "1"
-      type: "general_evening"
+      type: "general_daily"
       title_prefix: "Quick News Briefing"
+      voice_type: ${{ inputs.voice_type }}
     secrets:
       GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}

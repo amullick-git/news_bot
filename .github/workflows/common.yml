@@ -17,6 +17,9 @@ on:
       title_prefix:
         required: true
         type: string
+      voice_type:
+        required: false
+        type: string
     secrets:
       GOOGLE_API_KEY:
         required: true
@@ -66,12 +69,16 @@ jobs:
           echo "Lookback: ${{ inputs.lookback_days }}"
           echo "Type: ${{ inputs.type }}"
           echo "Prefix: ${{ inputs.title_prefix }}"
+          echo "Voice Type: ${{ inputs.voice_type }}"
           
-          python -m src.main \
-            --duration ${{ inputs.duration }} \
-            --lookback-days ${{ inputs.lookback_days }} \
-            --type ${{ inputs.type }} \
-            --title-prefix "${{ inputs.title_prefix }}"
+          # Construct command args
+          CMD_ARGS="--duration ${{ inputs.duration }} --lookback-days ${{ inputs.lookback_days }} --type ${{ inputs.type }} --title-prefix \"${{ inputs.title_prefix }}\""
+          
+          if [ -n "${{ inputs.voice_type }}" ]; then
+            CMD_ARGS="$CMD_ARGS --voice-type ${{ inputs.voice_type }}"
+          fi
+          
+          python -m src.main $CMD_ARGS
 
       - name: Commit and Push changes
         run: |

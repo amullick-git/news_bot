@@ -112,8 +112,10 @@ The project uses GitHub Actions for automation. The workflows are modularized to
 1.  **`common.yml`**: A reusable workflow that handles:
     - Checkout & Setup
     - Dependency Installation
+    - Dependency Installation
     - Authentication (GCP)
     - Running the Bot (via `src.main`)
+    - Accepts optional override inputs like `voice_type`.
     - Committing & Pushing Artifacts (MP3s, Scripts, RSS Feed)
 
 2.  **Triggers**:

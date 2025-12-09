@@ -5,6 +5,20 @@ on:
     # Run every Saturday at 15:00 UTC (7:00 AM PST)
     - cron: '0 15 * * 6'
   workflow_dispatch:
+    inputs:
+      duration:
+        description: 'Duration in minutes'
+        required: false
+        default: '20'
+      voice_type:
+        description: 'TTS Voice type (wavenet, neural, studio, chirp3-hd)'
+        required: false
+        type: choice
+        options:
+        - wavenet
+        - neural
+        - studio
+        - chirp3-hd
 
 permissions:
   contents: write
@@ -13,10 +27,11 @@ jobs:
   generate:
     uses: ./.github/workflows/common.yml
     with:
-      duration: "20"
+      duration: ${{ github.event.inputs.duration || '20' }}
       lookback_days: "7"
       type: "general_weekly"
       title_prefix: "Weekly News Round-up"
+      voice_type: ${{ github.event.inputs.voice_type }}
     secrets:
       GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
