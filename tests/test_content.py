@@ -32,5 +32,5 @@ def test_summarize_with_gemini_kids_prompt():
         call_args = mock_model.generate_content.call_args
         prompt = call_args[0][0]
         assert "Break down complicated news" in prompt
-        assert "concepts using analogies" in prompt
-        assert "Provide brief context where applicable" in prompt
+        assert "Provide context where applicable" in prompt
+        assert "minors (approx 12 years old)" in prompt
