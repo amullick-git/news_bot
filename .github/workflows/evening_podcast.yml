@@ -29,7 +29,7 @@ jobs:
     with:
       duration: ${{ inputs.duration || '8' }}
       lookback_days: "1"
-      type: "general_daily"
+      type: "general_evening"
       title_prefix: "Quick News Briefing"
       voice_type: ${{ inputs.voice_type }}
     secrets:
