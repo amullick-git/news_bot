@@ -72,6 +72,32 @@ def verify_staging():
             
             if not status_output.strip():
                 print("WARNING: No files were modified by the bot. Verification might be invalid.")
+            
+            # 3.1 NEW: Strict check for ignored files
+            # Check if *production-like* filenames would be ignored.
+            # We cannot check the actual generated verification_test files because they ARE ignored by design (*verification_test*)
+            print("\nVerifying production artifacts are not git-ignored...")
+            
+            # Simulated files that should be tracked
+            test_filenames = [
+                "docs/episodes/episode_daily_2025-01-01_12.mp3",
+                "docs/episodes/episode_script_daily_2025-01-01_12.txt",
+                "docs/episodes/episode_metadata_daily_2025-01-01_12.json",
+                "docs/episodes/links_daily_2025-01-01_12.html",
+                "docs/episodes/episode_sources_daily_2025-01-01_12.md"
+            ]
+            
+            for f in test_filenames:
+                try:
+                    # git check-ignore returns 0 if ignored (FAILURE for us), 1 if NOT ignored (SUCCESS)
+                    subprocess.check_call(["git", "check-ignore", "-q", f])
+                    print(f"FAILURE: Production file would be git-ignored: {f}")
+                    sys.exit(1)
+                except subprocess.CalledProcessError:
+                    # Exit code 1 means NOT ignored. This is good.
+                    pass
+            print("SUCCESS: Production artifacts are properly tracked.")
+            
 
             # 4. Run the staging script
             print("\nRunning scripts/stage_artifacts.sh...")

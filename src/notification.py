@@ -14,6 +14,7 @@ class EpisodeInfo:
     mp3_url: str
     links_url: str
     cover_image_url: str
+    script_url: str = ""
     duration_str: str = ""
 
 def send_notification(config, episode: EpisodeInfo):
@@ -45,6 +46,26 @@ def send_notification(config, episode: EpisodeInfo):
 
 def _send_discord(url: str, episode: EpisodeInfo):
     # Discord Webhook Payload
+    fields = [
+        {
+            "name": "Listen Now",
+            "value": f"[Download MP3]({episode.mp3_url})",
+            "inline": True
+        },
+        {
+            "name": "Sources",
+            "value": f"[View Articles]({episode.links_url})",
+            "inline": True
+        }
+    ]
+
+    if episode.script_url:
+        fields.append({
+            "name": "Script",
+            "value": f"[Read Script]({episode.script_url})",
+            "inline": True
+        })
+
     payload = {
         "username": "News Bot",
         "avatar_url": episode.cover_image_url,
@@ -53,18 +74,7 @@ def _send_discord(url: str, episode: EpisodeInfo):
             "description": "Your latest news briefing is ready.",
             "url": episode.links_url,
             "color": 3447003, # Blueish
-            "fields": [
-                {
-                    "name": "Listen Now",
-                    "value": f"[Download MP3]({episode.mp3_url})",
-                    "inline": True
-                },
-                {
-                    "name": "Sources",
-                    "value": f"[View Articles]({episode.links_url})",
-                    "inline": True
-                }
-            ],
+            "fields": fields,
             "footer": {
                 "text": f"Generated at {datetime.now().strftime('%Y-%m-%d %H:%M')}"
             },
@@ -80,6 +90,11 @@ def _send_discord(url: str, episode: EpisodeInfo):
 
 def _send_slack(url: str, episode: EpisodeInfo):
     # Slack Webhook Payload (Block Kit)
+    
+    links_text = f"<{episode.mp3_url}|Listen to MP3> | <{episode.links_url}|View Sources>"
+    if episode.script_url:
+        links_text += f" | <{episode.script_url}|Read Script>"
+
     payload = {
         "text": f"New Episode: {episode.title}",
         "blocks": [
@@ -94,7 +109,7 @@ def _send_slack(url: str, episode: EpisodeInfo):
                 "type": "section",
                 "text": {
                     "type": "mrkdwn",
-                    "text": f"*Your new episode is ready!* \n<{episode.mp3_url}|Listen to MP3> | <{episode.links_url}|View Sources>"
+                    "text": f"*Your new episode is ready!* \n{links_text}"
                 },
                 "accessory": {
                     "type": "image",

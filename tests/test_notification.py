@@ -19,7 +19,8 @@ def episode_info():
         title="Test Episode",
         mp3_url="http://test/ep.mp3",
         links_url="http://test/links.html",
-        cover_image_url="http://test/img.jpg"
+        cover_image_url="http://test/img.jpg",
+        script_url="http://test/script.txt"
     )
 
 def test_notification_disabled(mock_config, episode_info):
@@ -52,6 +53,12 @@ def test_discord_notification(mock_config, episode_info, monkeypatch):
         assert payload['username'] == "News Bot"
         assert len(payload['embeds']) == 1
         assert payload['embeds'][0]['title'] == "🎙️ New Episode: Test Episode"
+        
+        # Verify script link in fields
+        fields = payload['embeds'][0]['fields']
+        script_field = next((f for f in fields if f['name'] == 'Script'), None)
+        assert script_field is not None
+        assert script_field['value'] == f"[Read Script]({episode_info.script_url})"
 
 def test_slack_notification(mock_config, episode_info, monkeypatch):
     monkeypatch.setenv("NOTIFICATION_WEBHOOK_URL", "http://slack/webhook")
@@ -65,3 +72,5 @@ def test_slack_notification(mock_config, episode_info, monkeypatch):
         mock_post.assert_called_once()
         payload = mock_post.call_args[1]['json']
         assert "New Episode: Test Episode" in payload['text']
+        # Verify script link in mrkdwn
+        assert f"<{episode_info.script_url}|Read Script>" in payload['blocks'][1]['text']['text']

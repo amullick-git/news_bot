@@ -143,6 +143,7 @@ The project uses GitHub Actions for automation. The workflows are modularized to
 4.  **Content (`src/content.py`)**:
     - **Stage 2 Filter**: Uses Gemini 2.5 Flash to select the final set of stories (e.g., top 20) with editorial judgment.
     - **Script Gen**: Summarizes the stories into a conversational script.
+    - **Script Persistence**: Saves a permanent copy of the script (`episode_script_YYYY-MM-DD_HH.txt`) for archival.
 5.  **Audio (`src/audio.py`)**: Uses Google Cloud TTS to convert the script to audio.
     - Uses SSML for voice control.
     - Supports `wavenet`, `neural`, `studio`, and `chirp3-hd` voice types via config or CLI arguments.
@@ -159,6 +160,7 @@ The project uses GitHub Actions for automation. The workflows are modularized to
     
 8.  **Notification (`src/notification.py`)**:
     - Sends a completion message with episode details to a configured Webhook (Discord/Slack).
+    - **Script Link**: Includes a direct link to the generated script in the notification.
     - Requires `NOTIFICATION_WEBHOOK_URL` secret.
     
 7.  **Configuration (`src/config.py`)**:

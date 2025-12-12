@@ -123,7 +123,9 @@ The script will:
 - **Audio**: `episodes/episode_YYYY-MM-DD_HH.mp3` - The final podcast episode.
 - **Sources**: `episodes/episode_sources_YYYY-MM-DD_HH.md` - List of articles used (Markdown).
 - **Links Page**: `episodes/links_YYYY-MM-DD_HH.html` - List of articles used (HTML webpage).
-- **Scripts**: Text files containing the generated script.
+- **Scripts**: 
+    - `episodes/episode_script_clean.txt` - The latest script used for TTS.
+    - `episodes/episode_script_YYYY-MM-DD_HH.txt` - Permanent archive of the generated script.
 - **Metrics**: `metrics_prod.md` (Production) and `metrics_test.md` (Test) - Cumulative run statistics.
 - **RSS Feed**: `feed.xml` - The podcast feed file.
 

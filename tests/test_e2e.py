@@ -159,6 +159,11 @@ HOST: Thanks.
     
     # Check for script
     assert (episodes_dir / "episode_script_clean.txt").exists()
+    # Check for permanent script
+    script_files = list(episodes_dir.glob("episode_script_*.txt"))
+    # Should have at least 2 script files: clean and permanent (which includes date)
+    # clean.txt is one, date-stamped is another.
+    assert len(script_files) >= 2, f"Expected permanent script file. Found: {script_files}"
     
     # Check for metadata
     json_files = list(episodes_dir.glob("episode_metadata_*.json"))

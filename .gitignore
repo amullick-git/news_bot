@@ -11,7 +11,8 @@ keys/
 !metrics_stats.json
 !docs/episodes/*.json
 
-episode_script*.txt
+episode_script_raw.txt
+episode_script_clean.txt
 test_episodes/
 chunk_*.mp3
 out.mp3

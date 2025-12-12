@@ -260,6 +260,12 @@ def main():
         f.write(clean_script)
     logger.info(f"Cleaned script saved to {clean_script_path}")
 
+    # Always save a permanent copy of the script
+    permanent_script_path = os.path.join(config.podcast.episodes_dir, f"episode_script_{filename_suffix}.txt")
+    with open(permanent_script_path, "w") as f:
+        f.write(clean_script)
+    logger.info(f"Permanent script saved to {permanent_script_path}")
+
     out_file = os.path.join(config.podcast.episodes_dir, f"episode_{filename_suffix}.mp3")
     
     episode_path = os.path.join(config.podcast.episodes_dir, f"episode_{filename_suffix}.mp3")
@@ -328,13 +334,18 @@ def main():
             mp3_url = f"{config.podcast.base_url}/episodes/{mp3_basename}"
             links_url = f"{config.podcast.base_url}/episodes/{links_filename}" if links_filename else config.podcast.base_url
             
+            # Script URL (permanent script file)
+            script_filename = f"episode_script_{filename_suffix}.txt"
+            script_url = f"{config.podcast.base_url}/episodes/{script_filename}"
+
             ep_title = f"{args.title_prefix} - {datetime.now().strftime('%B %d')}"
             
             ep_info = EpisodeInfo(
                 title=ep_title,
                 mp3_url=mp3_url,
                 links_url=links_url,
-                cover_image_url=config.podcast.image_url
+                cover_image_url=config.podcast.image_url,
+                script_url=script_url
             )
             
             send_notification(config, ep_info)
