@@ -88,24 +88,21 @@ processing_overrides:
     max_final_articles: 15
     voice_type: "neural"
   general_daily:
-    voice_type: "chirp3-hd" # chirp hd for daily general news
+    voice_type: "neural"
   general_weekly:
     duration_minutes: 20
     max_per_feed: 35
   tech_daily:
-    voice_type: "neural"
   general_evening:
     duration_minutes: 8
     max_per_feed: 15
     max_final_articles: 15
     fetch_limit: 50
-    voice_type: "neural" 
   tech_weekly:
     duration_minutes: 20
     max_per_feed: 35
   motivational_daily:
     duration_minutes: 3
-    voice_type: "wavenet"
     max_parallel_tts_calls: 3 # Lower overlap for shorter script
 
 
