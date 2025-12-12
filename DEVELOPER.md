@@ -171,7 +171,11 @@ The project uses GitHub Actions for automation. The workflows are modularized to
 
 ## Contributing
 
-1.  Create a feature branch.
-2.  Make changes.
-3.  Run tests.
-4.  Submit a Pull Request.
+1.  **Sync with remote:**
+    ```bash
+    git pull origin main
+    ```
+2.  Create a feature branch.
+3.  Make changes.
+4.  Run tests.
+5.  Submit a Pull Request.
