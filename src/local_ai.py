@@ -49,10 +49,13 @@ class LocalFilter:
             logger.info(f"Model loaded on {device}")
         return self._model
 
-    def filter_by_relevance(self, items: List[Dict[str, Any]], topics: List[str], model_name: str = "all-MiniLM-L6-v2", limit: int = 50, threshold: float = 0.15) -> List[Dict[str, Any]]:
+    def filter_by_relevance(self, items: List[Dict[str, Any]], topics: List[str], model_name: str = "all-MiniLM-L6-v2", limit: int = 50, threshold: float = 0.15, source_limits: Dict[str, int] = None, default_limit: int = 10) -> List[Dict[str, Any]]:
         """
-        Filters items by semantic relevance to topics.
-        Returns top N items by semantic similarity score (no diversity enforcement).
+        Filters items by semantic relevance to topics, enforcing per-source limits to ensure diversity.
+        
+        Args:
+            source_limits: Dict of domain -> max_items.
+            default_limit: Max items per source if not specified in source_limits.
         """
         if not items or not topics:
             return items
@@ -80,7 +83,7 @@ class LocalFilter:
         # Take the maximum score across all topics for each item
         max_scores, _ = cosine_scores.max(dim=1)
 
-        # 4. Rank and Filter by threshold
+        # 4. Rank by Score
         scored_items = []
         for i, score in enumerate(max_scores):
             if score.item() >= threshold:
@@ -91,8 +94,32 @@ class LocalFilter:
         
         logger.info(f"Found {len(scored_items)} items above threshold {threshold}")
         
-        # 5. Return top N items (no diversity enforcement)
-        final_items = [item for score, item in scored_items[:limit]]
+        # 5. Select Top N with Source Diversity
+        final_items = []
+        source_counts = {}
+        source_limits = source_limits or {}
+        skipped_count = 0
         
-        logger.info(f"Selected {len(final_items)} items for pre-filtering")
+        for score, item in scored_items:
+            if len(final_items) >= limit:
+                break
+                
+            link = item.get("link", "")
+            try:
+                domain = urlparse(link).netloc
+            except:
+                domain = "unknown"
+                
+            # Determine limit for this domain
+            domain_limit = source_limits.get(domain, default_limit)
+            
+            # Check if quota valid
+            current_count = source_counts.get(domain, 0)
+            if current_count < domain_limit:
+                final_items.append(item)
+                source_counts[domain] = current_count + 1
+            else:
+                skipped_count += 1
+                
+        logger.info(f"Selected {len(final_items)} items for pre-filtering (Skipped {skipped_count} due to source limits)")
         return final_items

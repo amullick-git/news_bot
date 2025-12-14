@@ -18,11 +18,13 @@ import os
 import json
 from datetime import datetime
 from urllib.parse import urlparse
+from collections import defaultdict, Counter
 
 from .config import load_config
 from .utils import setup_logging, get_logger
-from .fetcher import fetch_all, filter_by_time_window, filter_by_keywords, get_friendly_source_names
+from .fetcher import fetch_all, filter_by_time_window, filter_by_keywords, get_friendly_source_names, parse_published_date, deduplicate_articles
 from .content import configure_gemini, filter_by_semantics, summarize_with_gemini
+from . import archive
 from .audio import postprocess_for_tts_plain, text_to_speech
 from .rss import generate_rss_feed, generate_episode_links_page, update_index_with_links, cleanup_old_episodes
 from .notification import send_notification, EpisodeInfo
@@ -43,6 +45,37 @@ def write_episode_sources(items, filename):
         f.write(content)
     logger.info(f"Episode sources saved to {filename}")
 
+def log_item_stats(items, title="Item Stats"):
+    """Helper to log breakdown of items by source and date."""
+    # Structure: domain -> {'total': 0, 'dates': Counter()}
+    stats = defaultdict(lambda: {'total': 0, 'dates': Counter()})
+    
+    for x in items:
+        # Source (Friendly Name or Domain)
+        source = x.get('source_name') or urlparse(x.get('link', '')).netloc
+        
+        # Date
+        pub_str = x.get('published', '')
+        dt = parse_published_date(pub_str)
+        date_str = dt.strftime("%Y-%m-%d") if dt else "Unknown"
+        
+        stats[source]['total'] += 1
+        stats[source]['dates'][date_str] += 1
+    
+    logger.info(f"--- {title} ---")
+    
+    # Sort sources by total count (descending)
+    sorted_sources = sorted(stats.items(), key=lambda item: item[1]['total'], reverse=True)
+    
+    for source, data in sorted_sources:
+        logger.info(f"► {source} (Total: {data['total']})")
+        
+        # Sort dates (descending)
+        for date_str, count in sorted(data['dates'].items(), reverse=True):
+            logger.info(f"    - {date_str}: {count}")
+            
+    logger.info("-" * 50)
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--duration", type=int, help="Target duration in minutes")
@@ -52,6 +85,7 @@ def main():
     parser.add_argument("--title-prefix", type=str, default="News Briefing", help="Prefix for the episode title")
     parser.add_argument("--no-tts", action="store_true", help="Skip Text-to-Speech generation (script only)")
     parser.add_argument("--voice-type", type=str, default=None, choices=["wavenet", "neural", "studio", "chirp3-hd"], help="TTS Voice type: wavenet (default), neural, studio, or chirp3-hd")
+    parser.add_argument("--stage1-only", action="store_true", help="Stop after Local AI filtering (debug mode)")
     args = parser.parse_args()
 
     setup_logging()
@@ -90,6 +124,11 @@ def main():
     config.podcast.episodes_dir = os.path.join(web_dir, "episodes")
     os.makedirs(config.podcast.episodes_dir, exist_ok=True)
     logger.info(f"Episodes directory: {config.podcast.episodes_dir}")
+    
+    # Archive directory setup (for daily persistence)
+    # Use sandbox_dir so tests write to test_output/data/archive
+    archive_dir = os.path.join(sandbox_dir, "data", "archive")
+    os.makedirs(archive_dir, exist_ok=True)
 
     logger.info("=== Fetching news... ===")
     
@@ -138,6 +177,21 @@ def main():
     
         # --- METRICS CHECKPOINT 1 ---
         fetched_items = fetch_all(selected_feeds, fetch_limit)
+        
+        # 1. Archive the fresh fetch (Daily Backup)
+        if fetched_items:
+            archive.save_items(fetched_items, archive_dir)
+
+        # 2. If Weekly, Load Archives to bridge history gap
+        if "weekly" in args.type:
+            logger.info("Weekly run detected: Loading archived items to improve historical coverage...")
+            archived_items = archive.load_items(archive_dir, args.lookback_days)
+            if archived_items:
+                before_merge = len(fetched_items)
+                fetched_items.extend(archived_items)
+                # Deduplicate the stash
+                fetched_items = deduplicate_articles(fetched_items)
+                logger.info(f"Merged Archive: {before_merge} fresh + {len(archived_items)} archived -> {len(fetched_items)} unique items")
     
     lookback_hours = args.lookback_days * 24
     items = filter_by_time_window(fetched_items, hours=lookback_hours)
@@ -155,27 +209,22 @@ def main():
         from .local_ai import LocalFilter
         local_bot = LocalFilter()
         
-        prefilter_limit = getattr(config.processing, "local_prefilter_limit", 50)
         candidates = local_bot.filter_by_relevance(
-            items, 
-            topics=selected_keywords, 
-            model_name=getattr(config.processing, "local_model", "all-MiniLM-L6-v2"),
-            limit=prefilter_limit,  # Stage 1: Reduce to ~50 candidates
-            threshold=0.15
+            items,
+            selected_keywords,
+            model_name=config.processing.local_model,
+            limit=getattr(config.processing, "local_prefilter_limit", 50),
+            source_limits=config.source_limits,
+            default_limit=getattr(config.processing, "max_per_feed", 10)
         )
-        
         
         stage1_count = len(candidates)
         logger.info(f"Stage 1 (Local AI): {len(items)} → {len(candidates)} candidates")
         
-        # Apply Source Limits on Candidates (after relevance scoring)
-        from .fetcher import limit_by_source
-        candidates = limit_by_source(
-            candidates, 
-            max_per_source=getattr(config.processing, "max_per_feed", 10),
-            limits_map=config.source_limits
-        )
-        logger.info(f"Stage 1b (Source Limits): {stage1_count} → {len(candidates)} candidates")
+        if args.stage1_only:
+             log_item_stats(items, "Fetched & Time Filtered Breakdown")
+             log_item_stats(candidates, "Stage 1 Selection Breakdown")
+             return
         
         # STAGE 2: Gemini Final Selection (Breaking News, Diversity, Ordering)
         from .content import filter_by_semantics
@@ -307,6 +356,7 @@ def main():
     links_filename = None
      
     cleanup_old_episodes(config.podcast.episodes_dir, config.processing.retention_days)
+    archive.cleanup_archive(archive_dir, config.processing.retention_days)
     
     # Capture the generated filename (e.g. links_daily_2024...html)
     links_filename = generate_episode_links_page(items, filename_suffix, config.podcast.episodes_dir)
