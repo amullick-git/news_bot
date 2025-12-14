@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Bot Config Dashboard</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Dependencies -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/dashboard.css">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚙️</text></svg>">
+</head>
+
+<body>
+    <div id="app">
+        <!-- Auth View -->
+        <div id="auth-view" class="view active">
+            <div class="glass-card auth-card">
+                <h1>Config Dashboard</h1>
+                <p>Enter your GitHub Personal Access Token to continue.</p>
+                <div class="input-group">
+                    <input type="password" id="pat-input" placeholder="ghp_..." autocomplete="off">
+                    <button id="login-btn">Access Dashboard</button>
+                </div>
+                <p class="hint">Token must have <code>repo</code> or <code>contents:write</code> scope for this
+                    repository.</p>
+            </div>
+        </div>
+
+        <!-- Dashboard View -->
+        <div id="dashboard-view" class="view hidden">
+            <header class="top-bar">
+                <div class="logo">
+                    <span class="icon">⚙️</span>
+                    Config Editor
+                </div>
+                <div class="actions">
+                    <span id="status-indicator" class="status">Ready</span>
+                    <button id="save-btn" class="primary-btn">Save Changes</button>
+                    <button id="logout-btn" class="text-btn">Logout</button>
+                </div>
+            </header>
+
+            <main>
+                <div id="config-editor" class="editor-container">
+                    <!-- Dynamic Config Form will be rendered here -->
+                    <div class="loading-spinner">Loading configuration...</div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <!-- Toast Notification Container -->
+    <div id="toast-container"></div>
+
+    <script src="js/dashboard.js"></script>
+</body>
+
+</html>

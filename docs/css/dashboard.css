@@ -1,0 +1,321 @@
+:root {
+    --bg-color: #0f172a;
+    --bg-gradient: radial-gradient(circle at top right, #1e293b, #0f172a);
+    --card-bg: rgba(30, 41, 59, 0.7);
+    --card-border: rgba(255, 255, 255, 0.1);
+    --text-primary: #f8fafc;
+    --text-secondary: #94a3b8;
+    --accent: #3b82f6;
+    --accent-hover: #2563eb;
+    --danger: #ef4444;
+    --success: #22c55e;
+    --input-bg: rgba(15, 23, 42, 0.6);
+    --radius: 12px;
+    --font-family: 'Outfit', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: var(--font-family);
+    background: var(--bg-color);
+    background-image: var(--bg-gradient);
+    color: var(--text-primary);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    overflow-x: hidden;
+}
+
+#app {
+    width: 100%;
+    max-width: 1200px;
+    padding: 20px;
+}
+
+/* Views */
+.view {
+    transition: opacity 0.3s ease;
+}
+
+.view.hidden {
+    display: none;
+    opacity: 0;
+}
+
+.view.active {
+    display: flex;
+    flex-direction: column;
+    opacity: 1;
+    height: 100%;
+}
+
+/* Glassmorphism Card */
+.glass-card {
+    background: var(--card-bg);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--card-border);
+    border-radius: var(--radius);
+    padding: 2rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+/* Auth View */
+#auth-view {
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.auth-card {
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+.auth-card h1 {
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+.auth-card p {
+    color: var(--text-secondary);
+    margin-bottom: 2rem;
+}
+
+.auth-card .hint {
+    font-size: 0.85rem;
+    margin-top: 1rem;
+    margin-bottom: 0;
+}
+
+/* Inputs & Buttons */
+input, textarea, select {
+    width: 100%;
+    padding: 12px 16px;
+    background: var(--input-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 8px;
+    color: var(--text-primary);
+    font-family: var(--font-family);
+    font-size: 1rem;
+    transition: all 0.2s;
+}
+
+input:focus, textarea:focus, select:focus {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.2);
+}
+
+button {
+    cursor: pointer;
+    font-family: var(--font-family);
+    font-weight: 500;
+    transition: all 0.2s;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+}
+
+.primary-btn, #login-btn {
+    background: var(--accent);
+    color: white;
+}
+
+.primary-btn:hover, #login-btn:hover {
+    background: var(--accent-hover);
+    transform: translateY(-1px);
+}
+
+.text-btn {
+    background: transparent;
+    color: var(--text-secondary);
+}
+
+.text-btn:hover {
+    color: var(--text-primary);
+}
+
+.danger-btn {
+    background: rgba(239, 68, 68, 0.1);
+    color: var(--danger);
+}
+
+.danger-btn:hover {
+    background: rgba(239, 68, 68, 0.2);
+}
+
+/* Dashboard Header */
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    padding: 1rem 0;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.actions {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.status {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    margin-right: 1rem;
+}
+
+/* Editor Layout */
+.editor-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    padding-bottom: 4rem;
+}
+
+.section-group {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.section-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    color: var(--accent);
+    text-transform: capitalize;
+    border-bottom: 1px solid var(--card-border);
+    padding-bottom: 0.5rem;
+}
+
+.field-group {
+    margin-bottom: 1.5rem;
+}
+
+.field-label {
+    display: block;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+    margin-bottom: 0.5rem;
+    text-transform: capitalize;
+}
+
+/* Array/List Styling */
+.array-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.array-item {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.array-item input {
+    flex: 1;
+}
+
+.remove-btn {
+    padding: 0 12px;
+    background: rgba(239, 68, 68, 0.1);
+    color: var(--danger);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
+}
+
+.remove-btn:hover {
+    background: var(--danger);
+    color: white;
+}
+
+.add-btn {
+    background: rgba(59, 130, 246, 0.1);
+    color: var(--accent);
+    margin-top: 0.5rem;
+    width: 100%;
+    padding: 8px;
+    border: 1px dashed var(--accent);
+}
+
+.add-btn:hover {
+    background: rgba(59, 130, 246, 0.2);
+}
+
+/* Loading */
+.loading-spinner {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 4rem;
+    color: var(--text-secondary);
+}
+
+/* Toast Notifications */
+#toast-container {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    z-index: 100;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.toast {
+    background: var(--bg-color);
+    border: 1px solid var(--card-border);
+    padding: 1rem 1.5rem;
+    border-radius: 8px;
+    color: var(--text-primary);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3);
+    border-left: 4px solid var(--accent);
+    min-width: 300px;
+    animation: slideIn 0.3s ease;
+}
+
+.toast.success { border-left-color: var(--success); }
+.toast.error { border-left-color: var(--danger); }
+
+@keyframes slideIn {
+    from { transform: translateX(100%); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .editor-container {
+        grid-template-columns: 1fr;
+    }
+    
+    .top-bar {
+        flex-direction: column;
+        gap: 1rem;
+        align-items: flex-start;
+    }
+    
+    .actions {
+        width: 100%;
+        justify-content: space-between;
+    }
+}
