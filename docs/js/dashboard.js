@@ -62,7 +62,6 @@ async function triggerWorkflow(workflowId, btn) {
 }
 
 async function pollWorkflowStatus(workflowId, startTime, btn, originalText) {
-    const parent = btn.parentElement.parentElement; // .action-item
     let attempts = 0;
     const maxAttempts = 20; // 40 seconds (2s interval)
 
