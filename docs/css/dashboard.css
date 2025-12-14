@@ -241,6 +241,15 @@ body {
     transform: none;
 }
 
+.action-item button.active-state {
+    background: transparent;
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    opacity: 0.9;
+    box-shadow: none;
+    cursor: default;
+}
+
 
 
 .status-badge {

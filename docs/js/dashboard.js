@@ -109,7 +109,7 @@ async function triggerWorkflow(workflowId, btn) {
         saveTracking(workflowId, trackingData);
 
         pollWorkflowStatus(workflowId, timestamp);
-        btn.innerText = 'Run';
+        // btn.innerText = 'Run'; // Handled by updateActionStatus
 
     } catch (error) {
         console.error(error);
@@ -214,8 +214,23 @@ function updateActionStatus(workflowId, run) {
     // User requested "action can be triggered", so maybe keep enabled or re-enable quickly.
     // Let's re-enable the button immediately in triggerWorkflow so user can spam if they want, 
     // but the status badge tracks the latest.
+    // Enable/Disable Button based on run state
     const btn = badge.nextElementSibling;
-    if (btn) btn.disabled = (status === 'provisioning');
+    if (btn) {
+        if (status === 'in_progress' || status === 'queued') {
+            btn.classList.add('active-state');
+            btn.innerText = 'Running';
+            btn.disabled = false; // Allow re-trigger if needed, or keep enabled
+        } else if (status === 'provisioning') {
+            btn.classList.add('active-state');
+            btn.innerText = 'Starting...';
+            btn.disabled = true;
+        } else {
+            btn.classList.remove('active-state');
+            btn.innerText = 'Run';
+            btn.disabled = false;
+        }
+    }
 }
 
 // --- Persistence Helpers ---
