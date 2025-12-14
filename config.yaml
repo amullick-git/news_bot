@@ -1,101 +1,98 @@
 feeds:
   general:
-    - "http://feeds.bbci.co.uk/news/world/rss.xml"
-    - "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
-    - "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-    - "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
-    - "https://feeds.feedburner.com/ndtvnews-india-news"
-    - "https://hnrss.org/frontpage"
-    - "https://www.theverge.com/rss/index.xml"
-    - "https://www.cnbc.com/id/100003114/device/rss/rss.html"
-    - "https://feeds.npr.org/1001/rss.xml"
-    - url: "https://www.espncricinfo.com/rss/content/story/feeds/0.xml"
+    - http://feeds.bbci.co.uk/news/world/rss.xml
+    - http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+    - https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+    - https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+    - https://feeds.feedburner.com/ndtvnews-india-news
+    - https://hnrss.org/frontpage
+    - https://www.theverge.com/rss/index.xml
+    - https://www.cnbc.com/id/100003114/device/rss/rss.html
+    - https://feeds.npr.org/1001/rss.xml
+    - url: https://www.espncricinfo.com/rss/content/story/feeds/0.xml
       limit: 2
   tech:
-    - "https://techcrunch.com/feed/"
-    - "https://www.theverge.com/rss/index.xml"
-    - "https://feeds.arstechnica.com/arstechnica/index/"
-    - "https://www.technologyreview.com/feed/"
-    - "https://hnrss.org/frontpage"
-    - "https://www.bloomberg.com/feeds/technology.rss"
+    - https://techcrunch.com/feed/
+    - https://www.theverge.com/rss/index.xml
+    - https://feeds.arstechnica.com/arstechnica/index/
+    - https://www.technologyreview.com/feed/
+    - https://hnrss.org/frontpage
+    - https://www.bloomberg.com/feeds/technology.rss
   kids:
-    - "http://feeds.bbci.co.uk/news/world/rss.xml"
-    - "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
-    - "https://www.theverge.com/rss/index.xml"
-    - "https://www.cnbc.com/id/100003114/device/rss/rss.html"
-    - "https://feeds.npr.org/1001/rss.xml"
-    - "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
-    - "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-    - "https://www.nasa.gov/rss/dyn/breaking_news.rss"
-
+    - http://feeds.bbci.co.uk/news/world/rss.xml
+    - https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+    - https://www.theverge.com/rss/index.xml
+    - https://www.cnbc.com/id/100003114/device/rss/rss.html
+    - https://feeds.npr.org/1001/rss.xml
+    - http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+    - https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+    - https://www.nasa.gov/rss/dyn/breaking_news.rss
 keywords:
   general:
-    - "USA"
-    - "world"
-    - "ai"
-    - "technology"
-    - "market"
-    - "election"
-    - "india"
-    - "economy"
-    - "business"
-    - "sports"
-    - "international cricket"
-    - "health"
-    - "consumer gadgets"
+    - USA
+    - world
+    - ai
+    - technology
+    - market
+    - election
+    - india
+    - economy
+    - business
+    - sports
+    - international cricket
+    - health
+    - consumer gadgets
   tech:
-    - "artificial intelligence"
-    - "machine learning"
-    - "startup"
-    - "gadgets"
-    - "software"
-    - "hardware"
-    - "cybersecurity"
-    - "apple"
-    - "google"
-    - "microsoft"
-    - "tech policy"
-    - "electric vehicles"
+    - artificial intelligence
+    - machine learning
+    - startup
+    - gadgets
+    - software
+    - hardware
+    - cybersecurity
+    - apple
+    - google
+    - microsoft
+    - tech policy
+    - electric vehicles
   kids:
-    - "world"
-    - "USA"
-    - "technology"
-    - "environment"
-    - "science"
-    - "space"
-    - "animals"
-    - "education"
-    - "sports"
-    - "inventions"
-    - "history"
-
+    - world
+    - USA
+    - technology
+    - environment
+    - science
+    - space
+    - animals
+    - education
+    - sports
+    - inventions
+    - history
 processing:
   duration_minutes: 15
   words_per_min: 150
   max_per_feed: 10
   max_final_articles: 20
-  retention_days: 15
-  gemini_model: "gemini-2.5-flash"
-  gemini_filter_model: "gemini-2.5-flash-lite"
-  fetch_limit: 100  # Max items per feed to fetch
-  local_model: "all-MiniLM-L6-v2"  # Local embedding model for semantic filtering
-  local_prefilter_limit: 50  # Stage 1: Local AI reduces to this many candidates
-  voice_type: "wavenet"  # TTS Voice type: wavenet (default), neural, studio, or chirp3-hd
-
+  retention_days: 14
+  gemini_model: gemini-2.5-flash
+  gemini_filter_model: gemini-2.5-flash-lite
+  fetch_limit: 100
+  local_model: all-MiniLM-L6-v2
+  local_prefilter_limit: 50
+  voice_type: wavenet
 processing_overrides:
   kids_daily:
     duration_minutes: 12
     max_per_feed: 25
     max_final_articles: 15
-    voice_type: "neural"
+    voice_type: neural
   general_daily:
-    voice_type: "neural"
+    voice_type: neural
   general_weekly:
     duration_minutes: 20
     max_final_articles: 30
     max_per_feed: 35
     fetch_limit: 200
-  tech_daily:
+  tech_daily: {}
   general_evening:
     duration_minutes: 8
     max_per_feed: 15
@@ -107,17 +104,14 @@ processing_overrides:
     max_per_feed: 35
   motivational_daily:
     duration_minutes: 3
-    max_parallel_tts_calls: 3 # Lower overlap for shorter script
-
-
+    max_parallel_tts_calls: 3
 podcast:
-  base_url: "https://amullick-git.github.io/news_bot"
-  title: "Amarnath's Daily News Briefing"
-  author: "Amarnath Mullick"
-  image_filename: "assets/cover_v3.jpg"
-  language: "en"
-  episodes_dir: "docs/episodes"
-
+  base_url: https://amullick-git.github.io/news_bot
+  title: Amarnath's Daily News Briefing
+  author: Amarnath Mullick
+  image_filename: assets/cover_v3.jpg
+  language: en
+  episodes_dir: docs/episodes
 notification:
   enabled: true
-  platform: "discord"
+  platform: discord
