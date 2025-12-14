@@ -402,9 +402,26 @@ def main():
             
             # Build metrics summary
             s1_str = str(stage1_count) if stage1_count is not None else "N/A"
+            
+            # Calculate Source Breakdown
+            source_counts = Counter()
+            for item in shortlisted_items:
+                # content.py uses 'link' to derive source earlier, but article dict might have 'source_name' 
+                # if enriched, otherwise parse netloc
+                src = item.get('source_name')
+                if not src:
+                    src = urlparse(item.get('link', '')).netloc
+                source_counts[src] += 1
+            
+            # Format top sources
+            sources_str = "\n".join([f"• {src}: {count}" for src, count in source_counts.most_common(5)])
+            if len(source_counts) > 5:
+                sources_str += f"\n• ...and {len(source_counts)-5} more"
+
             metrics_str = (
                 f"Fetched: {len(fetched_items)} -> Stage 1: {s1_str} -> Final: {len(shortlisted_items)}\n"
-                f"TTS Usage: {tts_chars} chars"
+                f"TTS Usage: {tts_chars} chars\n\n"
+                f"**Source Breakdown:**\n{sources_str}"
             )
 
             ep_info = EpisodeInfo(
