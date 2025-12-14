@@ -92,6 +92,7 @@ processing_overrides:
     voice_type: "neural"
   general_weekly:
     duration_minutes: 20
+    max_final_articles: 30
     max_per_feed: 35
     fetch_limit: 200
   tech_daily:
@@ -101,6 +102,7 @@ processing_overrides:
     max_final_articles: 15
     fetch_limit: 50
   tech_weekly:
+    max_final_articles: 30
     duration_minutes: 20
     max_per_feed: 35
   motivational_daily:
