@@ -139,10 +139,11 @@ body {
     gap: 0.8rem;
 }
 
+/* Status Badge in Action Item */
 .action-item {
     display: grid;
-    grid-template-columns: auto 1fr auto;
-    /* Icon | Text | Button */
+    /* Icon | Info | Status | Button */
+    grid-template-columns: auto 1fr minmax(130px, auto) auto;
     gap: 1rem;
     align-items: center;
     padding: 1rem;
@@ -240,16 +241,13 @@ body {
     transform: none;
 }
 
-/* Status Badge in Action Item */
-.action-controls {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-}
+
 
 .status-badge {
     display: flex;
     align-items: center;
+    justify-content: flex-end;
+    /* Right align badge */
     gap: 0.5rem;
     font-size: 0.75rem;
     font-weight: 600;
