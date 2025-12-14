@@ -74,7 +74,7 @@ processing:
   words_per_min: 150
   max_per_feed: 10
   max_final_articles: 20
-  retention_days: 7
+  retention_days: 15
   gemini_model: "gemini-2.5-flash"
   gemini_filter_model: "gemini-2.5-flash-lite"
   fetch_limit: 100  # Max items per feed to fetch
