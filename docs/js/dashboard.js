@@ -23,6 +23,125 @@ const els = {
     toastContainer: document.getElementById('toast-container')
 };
 
+// --- Workflow Actions ---
+
+async function triggerWorkflow(workflowId, btn) {
+    if (!state.pat) return showToast('Please login first', 'error');
+
+    const originalText = btn.innerText;
+    btn.innerText = 'Starting...';
+    btn.disabled = true;
+
+    try {
+        const timestamp = new Date().toISOString();
+
+        // 1. Trigger Dispatch
+        const response = await fetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/actions/workflows/${workflowId}/dispatches`, {
+            method: 'POST',
+            headers: {
+                'Authorization': `token ${state.pat}`,
+                'Accept': 'application/vnd.github.v3+json'
+            },
+            body: JSON.stringify({ ref: 'main' })
+        });
+
+        if (!response.ok) throw new Error('Failed to trigger workflow');
+
+        showToast('Workflow triggered! Watching for run...', 'success');
+        btn.innerText = 'Thinking...'; // Status: Queued/Provisioning
+
+        // 2. Poll for Status
+        pollWorkflowStatus(workflowId, timestamp, btn, originalText);
+
+    } catch (error) {
+        console.error(error);
+        showToast(error.message, 'error');
+        btn.innerText = originalText;
+        btn.disabled = false;
+    }
+}
+
+async function pollWorkflowStatus(workflowId, startTime, btn, originalText) {
+    const parent = btn.parentElement.parentElement; // .action-item
+    let attempts = 0;
+    const maxAttempts = 20; // 40 seconds (2s interval)
+
+    const interval = setInterval(async () => {
+        attempts++;
+        try {
+            // Find runs created AFTER our trigger time
+            const res = await fetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/actions/runs?workflow_id=${workflowId}&created=>${startTime}`, {
+                headers: { 'Authorization': `token ${state.pat}` }
+            });
+
+            const data = await res.json();
+
+            if (data.total_count > 0) {
+                const run = data.workflow_runs[0]; // Newest run
+
+                // Update UI based on status
+                updateActionStatus(btn, run);
+
+                // If terminal state, stop polling
+                if (run.status === 'completed') {
+                    clearInterval(interval);
+                    btn.innerText = originalText;
+                    btn.disabled = false;
+                }
+            } else if (attempts >= maxAttempts) {
+                // Timeout looking for run
+                clearInterval(interval);
+                btn.innerText = originalText;
+                btn.disabled = false;
+                showToast('Workflow started, but could not find run info.', 'info');
+            }
+
+        } catch (e) {
+            console.error("Polling error", e);
+        }
+    }, 2000);
+}
+
+function updateActionStatus(btn, run) {
+    // Replace button text or add badge
+    const statusMap = {
+        'queued': { icon: '⏳', label: 'Queued', class: 'queued' },
+        'in_progress': { icon: '🟡', label: 'Running', class: 'in_progress' },
+        'completed': { icon: '🟢', label: 'Done', class: 'completed' },
+        'failure': { icon: '🔴', label: 'Failed', class: 'failure' }
+    };
+
+    // Check if we effectively finished (completed or failure)
+    let state = run.status;
+    if (state === 'completed' && run.conclusion === 'failure') state = 'failure';
+
+    const ui = statusMap[state] || { icon: '❓', label: state, class: '' };
+
+    // Update button text to reflect current state
+    if (state !== 'completed' && state !== 'failure') {
+        btn.innerText = `${ui.icon} ${ui.label}`;
+    }
+
+    // Add/Update URL link
+    let link = btn.nextElementSibling;
+    if (!link || !link.classList.contains('run-link')) {
+        link = document.createElement('a');
+        link.className = 'run-link';
+        link.target = '_blank';
+        link.style.marginLeft = '10px';
+        link.style.fontSize = '0.8rem';
+        link.style.color = '#3b82f6';
+        btn.after(link);
+    }
+    link.href = run.html_url;
+    link.innerText = 'View Logs';
+
+    // Cleanup link if done
+    if (state === 'failure' || (state === 'completed' && run.conclusion === 'success')) {
+        showToast(`Workflow ${run.conclusion || 'finished'}!`, state === 'failure' ? 'error' : 'success');
+    }
+}
+
 // --- Initialization ---
 
 async function init() {
