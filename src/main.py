@@ -403,25 +403,55 @@ def main():
             # Build metrics summary
             s1_str = str(stage1_count) if stage1_count is not None else "N/A"
             
-            # Calculate Source Breakdown
-            source_counts = Counter()
-            for item in shortlisted_items:
-                # content.py uses 'link' to derive source earlier, but article dict might have 'source_name' 
-                # if enriched, otherwise parse netloc
+            # Helper to get source domain/name
+            def get_source(item):
                 src = item.get('source_name')
                 if not src:
                     src = urlparse(item.get('link', '')).netloc
-                source_counts[src] += 1
+                return src
+
+            # 1. Fetched Counts
+            fetched_counts = Counter([get_source(i) for i in fetched_items])
+            
+            # 2. Stage 1 Counts (if applicable)
+            s1_counts = Counter()
+            if stage1_count is not None and 'candidates' in locals():
+                 s1_counts = Counter([get_source(i) for i in candidates])
+
+            # 3. Final Counts
+            final_counts = Counter([get_source(i) for i in shortlisted_items])
+            
+            # Get all unique sources
+            all_sources = set(fetched_counts.keys()) | set(final_counts.keys())
+            
+            # Sort by final count (desc), then fetched count (desc)
+            sorted_sources = sorted(all_sources, key=lambda s: (final_counts[s], fetched_counts[s]), reverse=True)
             
             # Format top sources
-            sources_str = "\n".join([f"• {src}: {count}" for src, count in source_counts.most_common(5)])
-            if len(source_counts) > 5:
-                sources_str += f"\n• ...and {len(source_counts)-5} more"
+            sources_lines = []
+            for src in sorted_sources[:10]: # Top 10
+                f = fetched_counts.get(src, 0)
+                u = final_counts.get(src, 0)
+                
+                if stage1_count is not None:
+                    # 3-Stage Flow: Fetched -> S1 -> Final
+                    s1 = s1_counts.get(src, 0)
+                    sources_lines.append(f"• {src}: {f} ➔ {s1} ➔ {u}")
+                else:
+                    # 2-Stage Flow: Fetched -> Final
+                    sources_lines.append(f"• {src}: {f} ➔ {u}")
+            
+            if len(sorted_sources) > 10:
+                sources_lines.append(f"• ...and {len(sorted_sources)-10} more")
+
+            sources_str = "\n".join(sources_lines)
+            
+            header = "**Source Funnel (Fetched ➔ S1 ➔ Final):**" if stage1_count is not None else "**Source Funnel (Fetched ➔ Used):**"
 
             metrics_str = (
                 f"Fetched: {len(fetched_items)} -> Stage 1: {s1_str} -> Final: {len(shortlisted_items)}\n"
                 f"TTS Usage: {tts_chars} chars\n\n"
-                f"**Source Breakdown:**\n{sources_str}"
+                f"{header}\n{sources_str}"
             )
 
             ep_info = EpisodeInfo(
