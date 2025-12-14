@@ -91,7 +91,7 @@ body {
 /* Dashboard Layout */
 .dashboard-layout {
     display: grid;
-    grid-template-columns: 280px 1fr;
+    grid-template-columns: 360px 1fr;
     gap: 2rem;
     align-items: start;
     margin-top: 2rem;
@@ -143,10 +143,10 @@ body {
 .action-item {
     display: grid;
     /* Icon | Info | Status | Button */
-    grid-template-columns: auto 1fr minmax(130px, auto) auto;
-    gap: 1rem;
+    grid-template-columns: auto 1fr minmax(80px, auto) auto;
+    gap: 0.5rem;
     align-items: center;
-    padding: 1rem;
+    padding: 0.75rem;
     background: rgba(255, 255, 255, 0.03);
     border-radius: 12px;
     border: 1px solid rgba(255, 255, 255, 0.05);
