@@ -20,8 +20,52 @@ const els = {
     saveBtn: document.getElementById('save-btn'),
     logoutBtn: document.getElementById('logout-btn'),
     status: document.getElementById('status-indicator'),
-    toastContainer: document.getElementById('toast-container')
+    toastContainer: document.getElementById('toast-container'),
+    demoBtn: document.getElementById('demo-btn')
 };
+
+// --- Mock Data ---
+const MOCK_CONFIG = {
+    "system": {
+        "app_name": "NewsBot",
+        "version": "1.0.0",
+        "debug": true
+    },
+    "feeds": [
+        { "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml", "limit": 5, "enabled": true },
+        { "url": "https://feeds.npr.org/1001/rss.xml", "limit": 3, "enabled": true },
+        { "url": "https://www.theverge.com/rss/index.xml", "limit": 5, "enabled": false }
+    ],
+    "audio": {
+        "provider": "google",
+        "voice": "en-US-Journey-F",
+        "speed": 1.1,
+        "pitch": 0
+    },
+    "content": {
+        "max_segments": 10,
+        "intro_template": "Hello, welcome to your briefing.",
+        "outro_template": "That's all for today."
+    },
+    "schedule": {
+        "timezone": "US/Pacific",
+        "active_days": ["Mon", "Tue", "Wed", "Thu", "Fri"]
+    }
+};
+
+function loadMockData() {
+    showDashboard(false);
+    els.status.textContent = 'Demo Mode (Read Only)';
+    state.config = MOCK_CONFIG;
+    renderConfig(state.config);
+    showToast('Loaded Mock Data', 'info');
+
+    // Disable Save in Demo Mode
+    els.saveBtn.disabled = true;
+    els.saveBtn.innerText = 'Save Disabled (Demo)';
+}
+
+if (els.demoBtn) els.demoBtn.addEventListener('click', loadMockData);
 
 // --- Workflow Actions ---
 
@@ -160,12 +204,12 @@ function showAuth() {
     els.dashView.classList.remove('active');
 }
 
-function showDashboard() {
+function showDashboard(shouldFetch = true) {
     els.authView.classList.add('hidden');
     els.authView.classList.remove('active');
     els.dashView.classList.add('active');
     els.dashView.classList.remove('hidden');
-    loadConfig();
+    if (shouldFetch) loadConfig();
 }
 
 els.loginBtn.addEventListener('click', async () => {
@@ -278,17 +322,55 @@ els.saveBtn.addEventListener('click', saveConfig);
 function renderConfig(config) {
     els.editor.innerHTML = ''; // Clear loading
 
-    // Define sections explicitly to control order, or iterate keys
     const sections = Object.keys(config);
+    const tabsContainer = document.createElement('div');
+    tabsContainer.className = 'config-tabs';
+
+    const contentContainer = document.createElement('div');
+    contentContainer.className = 'config-content';
+
+    let first = true;
 
     sections.forEach(key => {
-        const sectionEl = document.createElement('div');
-        sectionEl.className = 'section-group';
-        sectionEl.innerHTML = `<div class="section-title">${key}</div>`;
+        // 1. Create Tab Button
+        const tabBtn = document.createElement('button');
+        tabBtn.className = `tab-btn ${first ? 'active' : ''}`;
+        tabBtn.textContent = key;
+        tabBtn.onclick = () => switchTab(key);
+        tabsContainer.appendChild(tabBtn);
 
-        const content = createField(key, config[key]); // Root level keys
+        // 2. Create Section Content
+        const sectionEl = document.createElement('div');
+        sectionEl.className = `section-group ${first ? 'active' : ''}`;
+        sectionEl.id = `tab-${key}`;
+        // Remove individual titles inside tabs to save space, or keep them? 
+        // Let's keep a small header or just rely on the tab. 
+        // Actually, removing the inner title is cleaner if the tab says it.
+        // But the original code used the title for harvesting. 
+        // Let's keep the title but hide it visually or make it smaller, 
+        // OR better: keep the structure but ensure harvestConfig finds it.
+        sectionEl.innerHTML = `<div class="section-title hidden-title">${key}</div>`;
+
+        const content = createField(key, config[key]);
         sectionEl.appendChild(content);
-        els.editor.appendChild(sectionEl);
+        contentContainer.appendChild(sectionEl);
+
+        first = false;
+    });
+
+    els.editor.appendChild(tabsContainer);
+    els.editor.appendChild(contentContainer);
+}
+
+function switchTab(key) {
+    // Update Tabs
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.textContent === key);
+    });
+
+    // Update Content
+    document.querySelectorAll('.section-group').forEach(section => {
+        section.classList.toggle('active', section.id === `tab-${key}`);
     });
 }
 

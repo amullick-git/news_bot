@@ -30,10 +30,12 @@
                 <p>Enter your GitHub Personal Access Token to continue.</p>
                 <div class="input-group">
                     <input type="password" id="pat-input" placeholder="ghp_..." autocomplete="off">
-                    <button id="login-btn">Access Dashboard</button>
+                    <button id="login-btn">Login with GitHub Token</button>
                 </div>
-                <p class="hint">Token must have <code>repo</code> or <code>contents:write</code> scope for this
-                    repository.</p>
+                <button id="demo-btn" class="text-btn" style="margin-top: 1rem;">View Demo (Mock Data)</button>
+                <p class="hint">
+                    Token requires <code>repo</code> and <code>workflow</code> scopes.
+                </p>
             </div>
         </div>
 

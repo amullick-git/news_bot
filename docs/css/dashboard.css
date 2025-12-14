@@ -384,29 +384,89 @@ button {
 
 /* Editor Layout */
 .editor-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    /* Removed grid-template-columns */
+    display: flex;
+    flex-direction: column;
     gap: 1.5rem;
     padding-bottom: 4rem;
 }
 
+/* Tab Navigation */
+.config-tabs {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.tab-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-secondary);
+    padding: 8px 16px;
+    border-radius: 20px;
+    /* Pill shape */
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.2s;
+}
+
+.tab-btn:hover {
+    color: var(--text-primary);
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.tab-btn.active {
+    background: var(--accent);
+    color: white;
+    box-shadow: 0 2px 8px rgba(59, 130, 246, 0.3);
+}
+
+/* Tab Content */
+.config-content {
+    animation: fadeIn 0.3s ease;
+}
+
 .section-group {
+    display: none;
+    /* Hidden by default */
     background: var(--card-bg);
     border: 1px solid var(--card-border);
     border-radius: var(--radius);
     padding: 1.5rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 0;
+    /* Remove bottom margin as only one is shown */
 }
 
-.section-title {
-    font-size: 1.2rem;
-    font-weight: 600;
-    margin-bottom: 1.5rem;
-    color: var(--accent);
-    text-transform: capitalize;
-    border-bottom: 1px solid var(--card-border);
-    padding-bottom: 0.5rem;
+.section-group.active {
+    display: block;
+    /* Show active */
+    animation: slideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 }
+
+.section-title.hidden-title {
+    display: none;
+    /* Hide internal title as tab name suffices */
+}
+
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Keeping old structure for fallback/harvesting logic if needed */
 
 .field-group {
     margin-bottom: 1.5rem;
