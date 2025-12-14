@@ -179,7 +179,8 @@ def main():
         fetched_items = fetch_all(selected_feeds, fetch_limit)
         
         # 1. Archive the fresh fetch (Daily Backup)
-        if fetched_items:
+        # Skip for weekly runs (they consume history, don't produce daily backups)
+        if fetched_items and "weekly" not in args.type:
             archive.save_items(fetched_items, archive_dir)
 
         # 2. If Weekly, Load Archives to bridge history gap

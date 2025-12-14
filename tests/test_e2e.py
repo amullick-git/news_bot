@@ -256,7 +256,7 @@ def test_weekly_flow_with_archive(mock_save_archive, mock_load_archive, mock_fil
     
     # Verify Architecture
     mock_fetch.assert_called_once()
-    mock_save_archive.assert_called_once() # Should save the fresh fetch
+    mock_save_archive.assert_not_called() # Weekly runs should NOT save archive
     mock_load_archive.assert_called_once() # Should load history
     
     # Verify Merging: LocalFilter should have seen 2 items
