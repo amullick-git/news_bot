@@ -1,0 +1,506 @@
+[
+  {
+    "title": "Google launched its deepest AI research agent yet \u2014 on the same day OpenAI dropped GPT-5.2",
+    "link": "https://techcrunch.com/2025/12/11/google-launched-its-deepest-ai-research-agent-yet-on-the-same-day-openai-dropped-gpt-5-2/",
+    "source_name": "techcrunch.com",
+    "summary": "Google launched its deepest AI research agent yet \u2014 on the same day OpenAI dropped GPT-5.2",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "OpenAI fires back at Google with GPT-5.2 after \u2018code red\u2019 memo",
+    "link": "https://techcrunch.com/2025/12/11/openai-fires-back-at-google-with-gpt-5-2-after-code-red-memo/",
+    "source_name": "techcrunch.com",
+    "summary": "OpenAI fires back at Google with GPT-5.2 after \u2018code red\u2019 memo",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "OpenAI releases GPT-5.2 after \u201ccode red\u201d Google threat alert",
+    "link": "https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/",
+    "source_name": "arstechnica.com",
+    "summary": "OpenAI releases GPT-5.2 after \u201ccode red\u201d Google threat alert",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "TIME names \u2018Architects of AI\u2019 its Person of the Year",
+    "link": "https://techcrunch.com/2025/12/11/time-names-architects-of-ai-its-person-of-the-year/",
+    "source_name": "techcrunch.com",
+    "summary": "TIME names \u2018Architects of AI\u2019 its Person of the Year",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Training LLMs for Honesty via Confessions",
+    "link": "https://arxiv.org/abs/2512.08093",
+    "source_name": "arxiv.org",
+    "summary": "Training LLMs for Honesty via Confessions",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Runway releases its first world model, adds native audio to latest video model",
+    "link": "https://techcrunch.com/2025/12/11/runway-releases-its-first-world-model-adds-native-audio-to-latest-video-model/",
+    "source_name": "techcrunch.com",
+    "summary": "Runway releases its first world model, adds native audio to latest video model",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Runway claims its GWM-1 \u201cworld models\u201d can stay coherent for minutes at a time",
+    "link": "https://arstechnica.com/ai/2025/12/with-gwm-1-family-of-world-models-runway-shows-ambitions-beyond-hollywood/",
+    "source_name": "arstechnica.com",
+    "summary": "Runway claims its GWM-1 \u201cworld models\u201d can stay coherent for minutes at a time",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Show HN: Autofix Bot \u2013 Hybrid static analysis and AI code review agent",
+    "link": "https://news.ycombinator.com/item?id=46237358",
+    "source_name": "news.ycombinator.com",
+    "summary": "Show HN: Autofix Bot \u2013 Hybrid static analysis and AI code review agent",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Guarding My Git Forge Against AI Scrapers",
+    "link": "https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/",
+    "source_name": "vulpinecitrus.info",
+    "summary": "Guarding My Git Forge Against AI Scrapers",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Programmers and software developers lost the plot on naming their tools",
+    "link": "https://larr.net/p/namings.html",
+    "source_name": "larr.net",
+    "summary": "Programmers and software developers lost the plot on naming their tools",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Litestream VFS",
+    "link": "https://fly.io/blog/litestream-vfs/",
+    "source_name": "fly.io",
+    "summary": "Litestream VFS",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Denial of service and source code exposure in React Server Components",
+    "link": "https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components",
+    "source_name": "react.dev",
+    "summary": "Denial of service and source code exposure in React Server Components",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Gazelle\u2019s Arroyo offers a belt drive, continuous variable transmission",
+    "link": "https://arstechnica.com/cars/2025/12/gazelles-new-arroyo-a-high-end-commute-bike/",
+    "source_name": "arstechnica.com",
+    "summary": "Gazelle\u2019s Arroyo offers a belt drive, continuous variable transmission",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Almond (YC X25) Is Hiring SWEs and MechEs",
+    "link": "https://www.ycombinator.com/companies/almond-2/jobs",
+    "source_name": "www.ycombinator.com",
+    "summary": "Almond (YC X25) Is Hiring SWEs and MechEs",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "On Me raises $6M to shake up the gift card industry",
+    "link": "https://techcrunch.com/2025/12/11/on-me-raises-6m-to-shake-up-the-gift-card-industry/",
+    "source_name": "techcrunch.com",
+    "summary": "On Me raises $6M to shake up the gift card industry",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "1X\u00a0struck a deal to send its \u2018home\u2019 humanoids to\u00a0factories and warehouses",
+    "link": "https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/",
+    "source_name": "techcrunch.com",
+    "summary": "1X\u00a0struck a deal to send its \u2018home\u2019 humanoids to\u00a0factories and warehouses",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Fewer EVs need fewer batteries: Ford and SK On end their joint venture",
+    "link": "https://arstechnica.com/cars/2025/12/fewer-evs-need-fewer-batteries-ford-and-sk-on-end-their-joint-venture/",
+    "source_name": "arstechnica.com",
+    "summary": "Fewer EVs need fewer batteries: Ford and SK On end their joint venture",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Ford and SK On are ending their US battery joint venture",
+    "link": "https://techcrunch.com/2025/12/11/ford-and-sk-on-are-ending-their-u-s-battery-joint-venture/",
+    "source_name": "techcrunch.com",
+    "summary": "Ford and SK On are ending their US battery joint venture",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Rivian\u2019s AI\u00a0assistant\u00a0is\u00a0coming to its EVs in early 2026",
+    "link": "https://techcrunch.com/2025/12/11/rivians-ai-assistant-is-coming-to-its-evs-in-early-2026/",
+    "source_name": "techcrunch.com",
+    "summary": "Rivian\u2019s AI\u00a0assistant\u00a0is\u00a0coming to its EVs in early 2026",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Rivian goes big on autonomy, with custom silicon, lidar, and a hint at robotaxis",
+    "link": "https://techcrunch.com/2025/12/11/rivian-goes-big-on-autonomy-with-custom-silicon-lidar-and-a-hint-at-robotaxis/",
+    "source_name": "techcrunch.com",
+    "summary": "Rivian goes big on autonomy, with custom silicon, lidar, and a hint at robotaxis",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "AI order from Trump might be \u2018illegal,\u2019 Democrats and consumer advocacy groups claim",
+    "link": "https://www.cnbc.com/2025/12/12/trumps-ai-order-democrats-consumers.html",
+    "source_name": "www.cnbc.com",
+    "summary": "AI order from Trump might be \u2018illegal,\u2019 Democrats and consumer advocacy groups claim",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Trump Moves to Stop States From Regulating AI With a New Executive Order",
+    "link": "https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html",
+    "source_name": "www.nytimes.com",
+    "summary": "Trump Moves to Stop States From Regulating AI With a New Executive Order",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Trump signs executive order for single national AI regulation standard, limiting power of states",
+    "link": "https://www.cnbc.com/2025/12/11/trump-signs-executive-order-for-single-national-ai-regulation-framework.html",
+    "source_name": "www.cnbc.com",
+    "summary": "Trump signs executive order for single national AI regulation standard, limiting power of states",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "For Republicans, Trump\u2019s Hands-Off Approach to Health Care Is a Problem",
+    "link": "https://www.nytimes.com/2025/12/12/us/politics/trump-republicans-obamacare-health-costs.html",
+    "source_name": "www.nytimes.com",
+    "summary": "For Republicans, Trump\u2019s Hands-Off Approach to Health Care Is a Problem",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Trump's Gaza peace plan struggles to progress as Israel and Hamas face tough choices",
+    "link": "https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS&at_campaign=rss",
+    "source_name": "www.bbc.com",
+    "summary": "Trump's Gaza peace plan struggles to progress as Israel and Hamas face tough choices",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "China Is Getting Much of What It Wants From the U.S., Including Chips",
+    "link": "https://www.nytimes.com/2025/12/12/world/asia/nvidia-china-trump-security-japan.html",
+    "source_name": "www.nytimes.com",
+    "summary": "China Is Getting Much of What It Wants From the U.S., Including Chips",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Canadians Rush to Buy Stockpiles of Boycotted U.S. Liquor",
+    "link": "https://www.nytimes.com/2025/12/12/world/canada/canada-american-liquor-ban-tariffs-charity.html",
+    "source_name": "www.nytimes.com",
+    "summary": "Canadians Rush to Buy Stockpiles of Boycotted U.S. Liquor",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Harold Hamm, Oklahoma Oil Tycoon, Allies With Trump to Reshape U.S. Energy",
+    "link": "https://www.nytimes.com/2025/12/12/business/energy-environment/trump-harold-hamm-oil-gas.html",
+    "source_name": "www.nytimes.com",
+    "summary": "Harold Hamm, Oklahoma Oil Tycoon, Allies With Trump to Reshape U.S. Energy",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "CNN has endured turmoil for years. Now Trump wants role in its fate",
+    "link": "https://www.npr.org/2025/12/12/nx-s1-5640900/cnn-trump-warner-bros-netflix-paramount",
+    "source_name": "www.npr.org",
+    "summary": "CNN has endured turmoil for years. Now Trump wants role in its fate",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "'Appetizer economy': Food inflation is on restaurant table as diners go smaller with menu choices",
+    "link": "https://www.cnbc.com/2025/12/12/food-inflation-affordability-economy-consumer-spending.html",
+    "source_name": "www.cnbc.com",
+    "summary": "'Appetizer economy': Food inflation is on restaurant table as diners go smaller with menu choices",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "The Fine Art of Managing Christie\u2019s",
+    "link": "https://www.nytimes.com/2025/12/12/business/christies-bonnie-brennan-art-auctions.html",
+    "source_name": "www.nytimes.com",
+    "summary": "The Fine Art of Managing Christie\u2019s",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Coinbase to soon unveil prediction markets powered by Kalshi, source says",
+    "link": "https://www.cnbc.com/2025/12/12/coinbase-to-soon-unveil-prediction-markets-powered-by-kalshi-source-says.html",
+    "source_name": "www.cnbc.com",
+    "summary": "Coinbase to soon unveil prediction markets powered by Kalshi, source says",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "House passes INVEST Act to ease investment standards and boost capital in markets",
+    "link": "https://www.cnbc.com/2025/12/11/house-invest-act-bill-markets.html",
+    "source_name": "www.cnbc.com",
+    "summary": "House passes INVEST Act to ease investment standards and boost capital in markets",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "For investors all-in on Magnificent 7-led market, 'equal weight' is trending as stock call for 2026",
+    "link": "https://www.cnbc.com/2025/12/12/stocks-market-risks-investors-portfolios-2026.html",
+    "source_name": "www.cnbc.com",
+    "summary": "For investors all-in on Magnificent 7-led market, 'equal weight' is trending as stock call for 2026",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Broadcom tumbles 11% despite blockbuster earnings as 'AI angst' weighs on Oracle, Nvidia",
+    "link": "https://www.cnbc.com/2025/12/12/broadcom-tumbles-10percent-after-earnings-as-ai-trade-sells-off-.html",
+    "source_name": "www.cnbc.com",
+    "summary": "Broadcom tumbles 11% despite blockbuster earnings as 'AI angst' weighs on Oracle, Nvidia",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Rivian's AI, autonomy impress Wall Street, but EV and capital concerns remain",
+    "link": "https://www.cnbc.com/2025/12/12/rivian-rivn-ai-ev.html",
+    "source_name": "www.cnbc.com",
+    "summary": "Rivian's AI, autonomy impress Wall Street, but EV and capital concerns remain",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "AI tools could drive $263 billion in holiday sales. Walmart and Target are racing to get in",
+    "link": "https://www.cnbc.com/2025/12/12/ai-chatgpt-holiday-shopping-sales-walmart-target.html",
+    "source_name": "www.cnbc.com",
+    "summary": "AI tools could drive $263 billion in holiday sales. Walmart and Target are racing to get in",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Altman and Musk launched OpenAI as a nonprofit 10 years ago. Now they\u2019re rivals in a trillion-dollar market",
+    "link": "https://www.cnbc.com/2025/12/11/openai-began-decade-ago-as-nonprofit-lab-musk-and-altman-now-rivals.html",
+    "source_name": "www.cnbc.com",
+    "summary": "Altman and Musk launched OpenAI as a nonprofit 10 years ago. Now they\u2019re rivals in a trillion-dollar market",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Maharashtra, Microsoft Build 'MahaCrimeOS AI' To Fight Cybercrime",
+    "link": "https://www.ndtv.com/india-news/maharashtra-microsoft-build-mahacrimeos-ai-to-fight-cybercrime-9800640#publisher=newsstand",
+    "source_name": "www.ndtv.com",
+    "summary": "Maharashtra, Microsoft Build 'MahaCrimeOS AI' To Fight Cybercrime",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Red Letter Day For Andhra As Cognizant, 8 Other IT Firms Put Down Roots",
+    "link": "https://www.ndtv.com/india-news/red-letter-day-for-andhra-as-cognizant-8-other-it-firms-put-down-roots-9800779#publisher=newsstand",
+    "source_name": "www.ndtv.com",
+    "summary": "Red Letter Day For Andhra As Cognizant, 8 Other IT Firms Put Down Roots",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Trump signs order to block states from enforcing own AI rules",
+    "link": "https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss",
+    "source_name": "www.bbc.com",
+    "summary": "Trump signs order to block states from enforcing own AI rules",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Key Takeaways After Indiana Lawmakers Defy Trump\u2019s Redistricting Push",
+    "link": "https://www.nytimes.com/2025/12/11/us/politics/indiana-trump-redistricting-takeaways.html",
+    "source_name": "www.nytimes.com",
+    "summary": "Key Takeaways After Indiana Lawmakers Defy Trump\u2019s Redistricting Push",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Indiana redistricting bill that Trump demanded defeated in state Senate",
+    "link": "https://www.cnbc.com/2025/12/11/indiana-trump-republicans-redistricting-congress.html",
+    "source_name": "www.cnbc.com",
+    "summary": "Indiana redistricting bill that Trump demanded defeated in state Senate",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Republicans Defy Trump in Indiana, and Hundreds Quarantined in Measles Outbreak",
+    "link": "https://www.nytimes.com/2025/12/12/podcasts/the-headlines/indiana-republicans-trump-measles-outbreak.html",
+    "source_name": "www.nytimes.com",
+    "summary": "Republicans Defy Trump in Indiana, and Hundreds Quarantined in Measles Outbreak",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "U.S. Issues New Sanctions Targeting Maduro\u2019s Family and the Oil Sector",
+    "link": "https://www.nytimes.com/2025/12/11/us/politics/maduro-oil-sanctions-venezuela-tanker.html",
+    "source_name": "www.nytimes.com",
+    "summary": "U.S. Issues New Sanctions Targeting Maduro\u2019s Family and the Oil Sector",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Historic Shift Underway in China\u2019s Economy as Investment Slump Deepens",
+    "link": "https://www.nytimes.com/2025/12/12/business/china-investment-economy.html",
+    "source_name": "www.nytimes.com",
+    "summary": "Historic Shift Underway in China\u2019s Economy as Investment Slump Deepens",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "UK economy unexpectedly shrunk before Budget",
+    "link": "https://www.cnbc.com/2025/12/12/uk-economy-unexpectedly-shrinks-in-3-months-to-october.html",
+    "source_name": "www.cnbc.com",
+    "summary": "UK economy unexpectedly shrunk before Budget",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Thai PM dissolves parliament to 'return power to people'",
+    "link": "https://www.bbc.com/news/articles/c3v11rd200yo?at_medium=RSS&at_campaign=rss",
+    "source_name": "www.bbc.com",
+    "summary": "Thai PM dissolves parliament to 'return power to people'",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Thailand's Parliament is dissolved for new elections early next year",
+    "link": "https://www.npr.org/2025/12/12/nx-s1-5642491/thailand-parliament-dissolved-new-elections-2026",
+    "source_name": "www.npr.org",
+    "summary": "Thailand's Parliament is dissolved for new elections early next year",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Warner: Head at No. 5 'a worse result' for England",
+    "link": "https://www.espncricinfo.com/ci/content/story/1515391.html?ex_cid=OTC-RSS",
+    "source_name": "www.espncricinfo.com",
+    "summary": "Warner: Head at No. 5 'a worse result' for England",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Duffy five-for triggers West Indies slide to give New Zealand first win of WTC cycle",
+    "link": "https://www.espncricinfo.com/ci/content/story/1515373.html?ex_cid=OTC-RSS",
+    "source_name": "www.espncricinfo.com",
+    "summary": "Duffy five-for triggers West Indies slide to give New Zealand first win of WTC cycle",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Roston Chase: 'We try to hold everyone accountable for their actions'",
+    "link": "https://www.espncricinfo.com/ci/content/story/1515401.html?ex_cid=OTC-RSS",
+    "source_name": "www.espncricinfo.com",
+    "summary": "Roston Chase: 'We try to hold everyone accountable for their actions'",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Vaibhav Suryavanshi slams 95-ball 171 in Under-19 Asia Cup opener",
+    "link": "https://www.espncricinfo.com/ci/content/story/1515430.html?ex_cid=OTC-RSS",
+    "source_name": "www.espncricinfo.com",
+    "summary": "Vaibhav Suryavanshi slams 95-ball 171 in Under-19 Asia Cup opener",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Quinton de Kock's 90 powers SA to massive win",
+    "link": "https://www.espncricinfo.com/ci/content/story/1515329.html?ex_cid=OTC-RSS",
+    "source_name": "www.espncricinfo.com",
+    "summary": "Quinton de Kock's 90 powers SA to massive win",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Minhas, Hussain tons set up Pakistan U-19s' massive win over Malaysia",
+    "link": "https://www.espncricinfo.com/ci/content/story/1515449.html?ex_cid=OTC-RSS",
+    "source_name": "www.espncricinfo.com",
+    "summary": "Minhas, Hussain tons set up Pakistan U-19s' massive win over Malaysia",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Reddy hat-trick for Andhra in vain; Jharkhand chase down 236 vs Punjab",
+    "link": "https://www.espncricinfo.com/ci/content/story/1515423.html?ex_cid=OTC-RSS",
+    "source_name": "www.espncricinfo.com",
+    "summary": "Reddy hat-trick for Andhra in vain; Jharkhand chase down 236 vs Punjab",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Harmanpreet Kaur, Yuvraj Singh stands inaugurated at New Chandigarh Stadium",
+    "link": "https://www.espncricinfo.com/ci/content/story/1515337.html?ex_cid=OTC-RSS",
+    "source_name": "www.espncricinfo.com",
+    "summary": "Harmanpreet Kaur, Yuvraj Singh stands inaugurated at New Chandigarh Stadium",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "NASA\u2019s Webb, Curiosity Named in TIME\u2019s Best Inventions Hall of Fame",
+    "link": "https://science.nasa.gov/missions/webb/nasas-webb-curiosity-named-in-times-best-inventions-hall-of-fame/",
+    "source_name": "science.nasa.gov",
+    "summary": "NASA\u2019s Webb, Curiosity Named in TIME\u2019s Best Inventions Hall of Fame",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "NASA Astronaut Jonny Kim to Discuss Eight-Month Space Station Mission",
+    "link": "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-to-discuss-eight-month-space-station-mission/",
+    "source_name": "www.nasa.gov",
+    "summary": "NASA Astronaut Jonny Kim to Discuss Eight-Month Space Station Mission",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "NASA Announces Plan to Map Milky Way With Roman Space Telescope",
+    "link": "https://www.nasa.gov/missions/roman-space-telescope/nasa-announces-plan-to-map-milky-way-with-roman-space-telescope/",
+    "source_name": "www.nasa.gov",
+    "summary": "NASA Announces Plan to Map Milky Way With Roman Space Telescope",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Massive Stars Make Their Mark in Hubble Image",
+    "link": "https://science.nasa.gov/missions/hubble/massive-stars-make-their-mark-in-hubble-image/",
+    "source_name": "science.nasa.gov",
+    "summary": "Massive Stars Make Their Mark in Hubble Image",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "A Rare Gourd",
+    "link": "https://www.nasa.gov/image-article/a-rare-gourd/",
+    "source_name": "www.nasa.gov",
+    "summary": "A Rare Gourd",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Can OpenAI Respond After Google Closes the A.I. Technology Gap?",
+    "link": "https://www.nytimes.com/2025/12/11/technology/openai-google-ai-technology-gap.html",
+    "source_name": "www.nytimes.com",
+    "summary": "Can OpenAI Respond After Google Closes the A.I. Technology Gap?",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Australia Kicks Kids Off Social Media + Is the A.I. Water Issue Fake? + Hard Fork Wrapped",
+    "link": "https://www.nytimes.com/2025/12/12/podcasts/hardfork-australia-water.html",
+    "source_name": "www.nytimes.com",
+    "summary": "Australia Kicks Kids Off Social Media + Is the A.I. Water Issue Fake? + Hard Fork Wrapped",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Reddit launches High Court challenge to Australia's social media ban for kids",
+    "link": "https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss",
+    "source_name": "www.bbc.com",
+    "summary": "Reddit launches High Court challenge to Australia's social media ban for kids",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Elon Musk Tests Europe\u2019s Willingness to Enforce Its Online Laws",
+    "link": "https://www.nytimes.com/2025/12/12/technology/elon-musk-europe.html",
+    "source_name": "www.nytimes.com",
+    "summary": "Elon Musk Tests Europe\u2019s Willingness to Enforce Its Online Laws",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "For Rubio the Cuba Hawk, the Road to Havana Runs Through Venezuela",
+    "link": "https://www.nytimes.com/2025/12/12/us/politics/rubio-cuba-venezuela.html",
+    "source_name": "www.nytimes.com",
+    "summary": "For Rubio the Cuba Hawk, the Road to Havana Runs Through Venezuela",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "House G.O.P. Releases Health Plan That Would Allow Subsidies to End",
+    "link": "https://www.nytimes.com/2025/12/12/us/politics/republican-health-care-plan-subsidies-expire.html",
+    "source_name": "www.nytimes.com",
+    "summary": "House G.O.P. Releases Health Plan That Would Allow Subsidies to End",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Harvard Replaces Leader of Health Center Said to Have Focused on Palestinians",
+    "link": "https://www.nytimes.com/2025/12/12/us/harvard-replaces-public-health-center-director.html",
+    "source_name": "www.nytimes.com",
+    "summary": "Harvard Replaces Leader of Health Center Said to Have Focused on Palestinians",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "Ukraine's health supplies hit in series of Russian strikes on medical warehouses",
+    "link": "https://www.bbc.com/news/articles/cqlkk9qk7vyo?at_medium=RSS&at_campaign=rss",
+    "source_name": "www.bbc.com",
+    "summary": "Ukraine's health supplies hit in series of Russian strikes on medical warehouses",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "PM Modi To Address Rally In West Bengal On December 20 Amid SIR Row",
+    "link": "https://www.ndtv.com/india-news/pm-modi-to-address-rally-in-west-bengal-on-december-20-amid-sir-row-9801466#publisher=newsstand",
+    "source_name": "www.ndtv.com",
+    "summary": "PM Modi To Address Rally In West Bengal On December 20 Amid SIR Row",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  },
+  {
+    "title": "India's Education Crisis: Millions Of Girls Missing From Classrooms",
+    "link": "https://www.ndtv.com/education/indias-education-crisis-millions-of-girls-missing-from-classrooms-9799765#publisher=newsstand",
+    "source_name": "www.ndtv.com",
+    "summary": "India's Education Crisis: Millions Of Girls Missing From Classrooms",
+    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+  }
+]

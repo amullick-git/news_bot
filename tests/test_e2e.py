@@ -189,3 +189,87 @@ HOST: Thanks.
     mock_fetch.assert_called_once()
     mock_model_instance.generate_content.assert_called()
     mock_client_instance.synthesize_speech.assert_called()
+
+@patch('sys.argv', ['src/main.py', '--type', 'general_weekly', '--duration', '5'])
+@patch('src.audio.texttospeech.TextToSpeechClient')
+@patch('src.content.genai.GenerativeModel')
+@patch('src.main.fetch_all')
+@patch('src.local_ai.LocalFilter.filter_by_relevance')
+@patch('src.archive.load_items')
+@patch('src.archive.save_items')
+def test_weekly_flow_with_archive(mock_save_archive, mock_load_archive, mock_filter, mock_fetch, mock_genai_model, mock_tts_client, setup_e2e_env):
+    tmp_path, episodes_dir = setup_e2e_env
+    
+    from datetime import datetime, timezone
+    now = datetime.now(timezone.utc)
+    published_str = now.strftime("%a, %d %b %Y %H:%M:%S GMT")
+
+    # 1. Fresh Data (from Fetcher)
+    fresh_items = [{
+        "title": "Fresh News", 
+        "summary": "Summary Fresh", 
+        "link": "http://test.com/fresh", 
+        "published": published_str
+    }]
+    mock_fetch.return_value = fresh_items
+    
+    # 2. Archive Data (from History)
+    archived_items = [{
+        "title": "Old News", 
+        "summary": "Summary Old", 
+        "link": "http://test.com/old", 
+        "published": published_str # Use recent date so time filter doesn't kill it
+    }]
+    mock_load_archive.return_value = archived_items
+    
+    # 3. Local Filter should receive BOTH
+    # We assert this later
+    mock_filter.side_effect = lambda items, *args, **kwargs: items # Pass through everything
+
+    # 4. Mock Gemini Response
+    mock_model_instance = MagicMock()
+    mock_genai_model.return_value = mock_model_instance
+    
+    # Stage 2: Gemini filtering response
+    # We expect 2 items (Fresh + Old)
+    mock_response_filtering = MagicMock()
+    mock_response_filtering.text = "[0, 1]" 
+    
+    # Stage 3: Script Generation
+    mock_response_script = MagicMock()
+    mock_response_script.text = "HOST: Weekly script."
+    
+    mock_model_instance.generate_content.side_effect = [mock_response_filtering, mock_response_script]
+
+    # 5. Mock TTS
+    mock_client_instance = MagicMock()
+    mock_tts_client.return_value = mock_client_instance
+    mock_audio_resp = MagicMock()
+    mock_audio_resp.audio_content = b"weekly_audio"
+    mock_client_instance.synthesize_speech.return_value = mock_audio_resp
+
+    # 6. Run Main
+    with patch.dict(os.environ, {"GOOGLE_API_KEY": "fake_key"}):
+        src_main.main()
+
+    # 7. Verifications
+    
+    # Verify Architecture
+    mock_fetch.assert_called_once()
+    mock_save_archive.assert_called_once() # Should save the fresh fetch
+    mock_load_archive.assert_called_once() # Should load history
+    
+    # Verify Merging: LocalFilter should have seen 2 items
+    # args[0] is 'items'
+    call_args = mock_filter.call_args
+    items_passed_to_filter = call_args[0][0]
+    titles = [x['title'] for x in items_passed_to_filter]
+    
+    assert "Fresh News" in titles
+    assert "Old News" in titles
+    assert len(items_passed_to_filter) == 2
+    
+    # Verify Artifacts
+    today_hour = datetime.now().strftime("%Y-%m-%d_%H")
+    expected_mp3 = f"episode_general_weekly_{today_hour}.mp3"
+    assert os.path.exists(os.path.join(episodes_dir, expected_mp3))
