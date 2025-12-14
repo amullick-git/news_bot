@@ -168,6 +168,15 @@ def main():
         stage1_count = len(candidates)
         logger.info(f"Stage 1 (Local AI): {len(items)} → {len(candidates)} candidates")
         
+        # Apply Source Limits on Candidates (after relevance scoring)
+        from .fetcher import limit_by_source
+        candidates = limit_by_source(
+            candidates, 
+            max_per_source=getattr(config.processing, "max_per_feed", 10),
+            limits_map=config.source_limits
+        )
+        logger.info(f"Stage 1b (Source Limits): {stage1_count} → {len(candidates)} candidates")
+        
         # STAGE 2: Gemini Final Selection (Breaking News, Diversity, Ordering)
         from .content import filter_by_semantics
         items = filter_by_semantics(
@@ -182,7 +191,7 @@ def main():
     else:
         # Fallback if no keywords
         from .fetcher import limit_by_source
-        items = limit_by_source(items, 5)
+        items = limit_by_source(items, 5, limits_map=config.source_limits)
         items = items[:config.processing.max_final_articles]
 
     # --- METRICS CHECKPOINT 2 ---

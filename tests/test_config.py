@@ -6,7 +6,10 @@ from src.config import load_config, Config
 def test_load_config(tmp_path):
     config_data = {
         "feeds": {
-            "general": ["http://example.com/rss"],
+            "general": [
+                "http://example.com/rss",
+                {"url": "http://example.com/cricinfo", "limit": 2}
+            ],
             "kids": ["http://example.com/rss"]
         },
         "keywords": {
@@ -47,7 +50,8 @@ def test_load_config(tmp_path):
         
     config = load_config(str(config_file))
     
-    assert config.feeds["general"] == ["http://example.com/rss"]
+    assert config.feeds["general"] == ["http://example.com/rss", "http://example.com/cricinfo"]
+    assert config.source_limits["example.com"] == 2
     assert config.processing.duration_minutes == 10
     
     # Test overrides

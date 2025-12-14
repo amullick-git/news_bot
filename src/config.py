@@ -52,6 +52,7 @@ class Config:
     podcast: PodcastConfig
     notification: NotificationConfig
     processing_overrides: Dict[str, ProcessingConfig] = None
+    source_limits: Dict[str, int] = None # Domain -> Limit map
 
 def load_config(config_path: str = "config.yaml") -> Config:
     if not os.path.exists(config_path):
@@ -75,11 +76,37 @@ def load_config(config_path: str = "config.yaml") -> Config:
                 merged.update(val)
             overrides[key] = ProcessingConfig(**merged)
 
+    # normalizing feeds & extracting limits
+    normalized_feeds = {}
+    source_limits = {} 
+    
+    raw_feeds = raw.get("feeds", {})
+    for category, feed_list in raw_feeds.items():
+        clean_list = []
+        for item in feed_list:
+            if isinstance(item, str):
+                clean_list.append(item)
+            elif isinstance(item, dict):
+                url = item.get("url")
+                limit = item.get("limit")
+                if url:
+                    clean_list.append(url)
+                    if limit:
+                        # Extract domain for the limit map
+                        from urllib.parse import urlparse
+                        try:
+                            domain = urlparse(url).netloc
+                            source_limits[domain] = limit
+                        except:
+                            pass
+        normalized_feeds[category] = clean_list
+
     return Config(
-        feeds=raw["feeds"],
+        feeds=normalized_feeds,
         keywords=raw["keywords"],
         processing=ProcessingConfig(**raw["processing"]),
         podcast=PodcastConfig(**raw["podcast"]),
         notification=NotificationConfig(**raw.get("notification", {})),
-        processing_overrides=overrides
+        processing_overrides=overrides,
+        source_limits=source_limits
     )

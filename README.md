@@ -83,6 +83,8 @@ This project is an automated tool that fetches news from various RSS feeds, filt
 2.  **Customize Sources & Topics:**
     - Edit `config.yaml` to modify:
         - `feeds`: Dictionary of RSS feed URLs (grouped by `general` and `tech`).
+            - Supports simple strings: `"http://example.com/rss"`
+            - Supports objects with limits: `{"url": "...", "limit": 2}`
         - `keywords`: Topics you are interested in (grouped by `general` and `tech`).
         - `podcast`: Metadata like title, author, and base URL.
         - `processing`: Duration, word counts, and retention policy.

@@ -9,7 +9,8 @@ feeds:
     - "https://www.theverge.com/rss/index.xml"
     - "https://www.cnbc.com/id/100003114/device/rss/rss.html"
     - "https://feeds.npr.org/1001/rss.xml"
-    - "https://www.espncricinfo.com/rss/content/story/feeds/0.xml"
+    - url: "https://www.espncricinfo.com/rss/content/story/feeds/0.xml"
+      limit: 2
   tech:
     - "https://techcrunch.com/feed/"
     - "https://www.theverge.com/rss/index.xml"

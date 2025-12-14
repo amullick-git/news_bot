@@ -34,6 +34,7 @@ def test_greeting_morning(mock_makedirs, mock_json_dump, mock_open, mock_tts, mo
     config_mock.processing.gemini_model = "gemini-pro"
     config_mock.processing.voice_type = "neural" # explicit string
     config_mock.processing.retention_days = 7
+    config_mock.source_limits = {}
     mock_config.return_value = config_mock
 
     # Mock Data
@@ -83,6 +84,7 @@ def test_greeting_evening(mock_makedirs, mock_json_dump, mock_open, mock_tts, mo
     config_mock.processing.gemini_model = "gemini-pro"
     config_mock.processing.voice_type = "neural"
     config_mock.processing.retention_days = 7
+    config_mock.source_limits = {}
     mock_config.return_value = config_mock
 
     mock_fetch.return_value = [{"title": "Technology Update", "link": "http://example.com"}]

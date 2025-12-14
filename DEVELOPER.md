@@ -167,7 +167,7 @@ The project uses GitHub Actions for automation. The workflows are modularized to
     - Uses `dataclasses` for type-safe configuration.
     - **Sparse Overrides**: The `processing_overrides` in `config.yaml` support sparse definitions.
         - If an override key (e.g., `general_daily`) omits a field (e.g., `gemini_model`), it automatically inherits the value from the default `processing` block.
-        - This allows `config.yaml` to remain minimal, specifying only what differs from the global default.
+    - **Feed Normalization**: The `feeds` config supports mixed types (strings for simple URLs, dicts for advanced config like `{"url": "...", "limit": 2}`). These are normalized into a list of URLs and a separate `source_limits` map in `src/config.py`.
 
 ## Contributing
 

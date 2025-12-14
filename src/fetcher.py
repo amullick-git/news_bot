@@ -151,12 +151,15 @@ def filter_by_keywords(items: List[Dict[str, Any]], keywords: List[str]) -> List
     logger.info(f"Filtered {len(items)} -> {len(out)} items (keywords)")
     return out
 
-def limit_by_source(items: List[Dict[str, Any]], max_per_source: int) -> List[Dict[str, Any]]:
+def limit_by_source(items: List[Dict[str, Any]], max_per_source: int, limits_map: Dict[str, int] = None) -> List[Dict[str, Any]]:
     """
     Groups items by source (netloc) and keeps only top N items per source.
+    `limits_map` allows overriding the limit for specific domains (domain -> limit).
     """
-    if max_per_source <= 0:
+    if max_per_source <= 0 and not limits_map:
         return items
+
+    limits_map = limits_map or {}
 
     by_source = {}
     for item in items:
@@ -173,11 +176,18 @@ def limit_by_source(items: List[Dict[str, Any]], max_per_source: int) -> List[Di
 
     final_items = []
     for domain, source_items in by_source.items():
-        # Keep top N
-        kept = source_items[:max_per_source]
+        # Determine strict limit for this source
+        # Use specific limit if exists, else default global limit
+        # If global limit is disabled (<=0) and no specific limit, take all
+        limit = limits_map.get(domain, max_per_source)
+        if limit <= 0:
+             limit = len(source_items) # Take all if no limit
+
+        kept = source_items[:limit]
         final_items.extend(kept)
-        if len(source_items) > max_per_source:
-             logger.info(f"Capped {domain} from {len(source_items)} to {max_per_source} items")
+        
+        if len(source_items) > limit:
+             logger.info(f"Capped {domain} from {len(source_items)} to {limit} items")
 
     logger.info(f"Source limiting processed {len(items)} -> {len(final_items)} items")
     return final_items

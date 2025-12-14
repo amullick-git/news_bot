@@ -102,3 +102,30 @@ def test_deduplicate_articles():
     # Verify we didn't get the duplicates
     assert "Article A (Duplicate)" not in titles
     assert "article b" not in titles
+
+def test_limit_by_source_with_map():
+    from src.fetcher import limit_by_source
+    items = [
+        {"link": "http://bbc.co.uk/1"},
+        {"link": "http://bbc.co.uk/2"},
+        {"link": "http://bbc.co.uk/3"},
+        {"link": "http://cricinfo.com/1"},
+        {"link": "http://cricinfo.com/2"},
+        {"link": "http://cricinfo.com/3"},
+    ]
+    
+    # Global limit 10 (shouldn't affect these small counts), but override Cricinfo to 1
+    limits_map = {"cricinfo.com": 1}
+    
+    # Run
+    limited = limit_by_source(items, max_per_source=10, limits_map=limits_map)
+    
+    # Verification
+    # BBC: Should keep all 3 (global limit 10)
+    # Cricinfo: Should keep 1 (override limit 1)
+    # Total: 4
+    
+    links = [i["link"] for i in limited]
+    assert len(links) == 4
+    assert sum(1 for l in links if "bbc" in l) == 3
+    assert sum(1 for l in links if "cricinfo" in l) == 1
