@@ -65,10 +65,14 @@ def filter_by_semantics(items: List[Dict[str, Any]], topics: List[str], model_na
 
     try:
         model = genai.GenerativeModel(model_name)
-        response = model.generate_content(prompt)
+        # Force JSON response
+        generation_config = {"response_mime_type": "application/json"}
+        response = model.generate_content(prompt, generation_config=generation_config)
         
         text = response.text.strip()
-        # clean up potential markdown formatting
+        logger.debug(f"Gemini filtering response: {text}")
+
+        # clean up potential markdown formatting (still good to have)
         if text.startswith("```"):
             # remove first line
             text = text.split("\n", 1)[1]
@@ -76,6 +80,10 @@ def filter_by_semantics(items: List[Dict[str, Any]], topics: List[str], model_na
             if text.strip().endswith("```"):
                 text = text.rsplit("\n", 1)[0]
         
+        if not text:
+            logger.warning("Gemini returned empty text for filtering.")
+            return []
+
         relevant_indices = json.loads(text)
         
         filtered_items = [items[i] for i in relevant_indices if isinstance(i, int) and 0 <= i < len(items)]
@@ -83,7 +91,9 @@ def filter_by_semantics(items: List[Dict[str, Any]], topics: List[str], model_na
         return filtered_items[:limit]
 
     except Exception as e:
-        logger.error(f"Error in semantic filtering: {e}")
+        logger.error(f"Error in semantic filtering: {e}. Prompt preview: {prompt[:200]}...")
+        if 'response' in locals() and hasattr(response, 'prompt_feedback'):
+             logger.error(f"Prompt feedback: {response.prompt_feedback}")
         raise # Retry will catch this
 
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10))

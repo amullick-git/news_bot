@@ -16,6 +16,11 @@ def test_filter_by_semantics():
         assert filtered[0]["title"] == "A"
         assert filtered[1]["title"] == "C"
 
+        # Verify generation_config was passed
+        args, kwargs = mock_model.generate_content.call_args
+        assert "generation_config" in kwargs
+        assert kwargs["generation_config"] == {"response_mime_type": "application/json"}
+
 def test_summarize_with_gemini_kids_prompt():
     from src.content import summarize_with_gemini
     
