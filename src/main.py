@@ -399,12 +399,20 @@ def main():
 
             ep_title = f"{args.title_prefix} - {datetime.now().strftime('%B %d')}"
             
+            # Build metrics summary
+            s1_str = str(stage1_count) if stage1_count is not None else "N/A"
+            metrics_str = (
+                f"Fetched: {len(fetched_items)} -> Stage 1: {s1_str} -> Final: {len(shortlisted_items)}\n"
+                f"TTS Usage: {tts_chars} chars"
+            )
+
             ep_info = EpisodeInfo(
                 title=ep_title,
                 mp3_url=mp3_url,
                 links_url=links_url,
                 cover_image_url=config.podcast.image_url,
-                script_url=script_url
+                script_url=script_url,
+                metrics_summary=metrics_str
             )
             
             send_notification(config, ep_info)

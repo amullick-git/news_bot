@@ -16,6 +16,7 @@ class EpisodeInfo:
     cover_image_url: str
     script_url: str = ""
     duration_str: str = ""
+    metrics_summary: str = ""
 
 def send_notification(config, episode: EpisodeInfo):
     """
@@ -64,6 +65,13 @@ def _send_discord(url: str, episode: EpisodeInfo):
             "name": "Script",
             "value": f"[Read Script]({episode.script_url})",
             "inline": True
+        })
+
+    if episode.metrics_summary:
+        fields.append({
+            "name": "Metrics",
+            "value": episode.metrics_summary,
+            "inline": False
         })
 
     payload = {
