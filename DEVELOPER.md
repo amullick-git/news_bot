@@ -179,3 +179,14 @@ The project uses GitHub Actions for automation. The workflows are modularized to
 3.  Make changes.
 4.  Run tests.
 5.  Submit a Pull Request.
+
+## Archive Module (`src/archive.py`)
+
+Handles the persistence of article history.
+
+-   **Storage:** JSON files in `data/archive/`.
+-   **Naming:** `YYYY-MM-DD_{tag}.json` (where tag is the feed key, e.g., 'tech', 'general').
+-   **Key Functions:**
+    -   `save_items(items, dir, tag)`: Deduplicates and appends items to the day's file.
+    -   `load_items(dir, lookback, tag)`: Loads all files matching the tag within the lookback window.
+    -   `cleanup_archive(dir, retention)`: Deletes files older than retention period.
