@@ -11,6 +11,7 @@ This project is an automated tool that fetches news from various RSS feeds, filt
     - **Hybrid Semantic Filtering**: Uses a two-stage pipeline:
         1. **Local AI**: `sentence-transformers` efficiently scans 500+ articles to identifying top candidates (configurable limit).
         2. **Gemini Filter**: Uses Gemini 2.5 Flash to make the final editorial selection, ensuring high quality and relevance.
+    - **Config Dashboard**: A web-based configuration editor hosted directly on GitHub Pages. Allows you to modify feeds, keywords, and settings via a beautiful UI without touching code.
 - **Script Generation**: Uses Gemini 2.5 Flash to write a professional, neutral news anchor script.
     - **Host & Reporter Mode**: Generates a dialogue between a Host (Arjav) and a Reporter (Arohi).
     - **Child-Friendly Mode**: Automatically simplifies complex news concepts using analogies and filters out unsuitable content for younger audiences (enabled for `kids` type).
@@ -39,7 +40,8 @@ This project is an automated tool that fetches news from various RSS feeds, filt
     - **One-Click Subscribe**: Easily copy the feed URL to clipboard.
     - **Styled Instructions**: Clear guide for adding the feed to podcast apps.
     - **Episode Links**: Direct links to play audio or view source articles.
-- **Instant Notifications**: Sends a message to **Discord** or **Slack** immediately after a new episode is generated, including the Cover Art, MP3 link, and Source List.
+- **Instant Notifications**: Sends a message to **Discord** or **Slack** immediately after a new episode is generated.
+    - **Rich Payload**: Includes Cover Art, MP3 link, Script link, and **Source Breakdown** (top 5 sources used).
 
 ## Prerequisites
 

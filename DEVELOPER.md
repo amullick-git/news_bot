@@ -19,6 +19,9 @@ news_podcast/
 │   ├── episodes/           # Generated artifacts (audio, scripts, metadata)
 │   ├── feed.xml            # Podcast RSS Feed
 │   ├── index.html          # Podcast Website
+│   ├── config.html         # Config Dashboard (New)
+│   ├── css/                # Dashboard Styles
+│   ├── js/                 # Dashboard Logic (GitHub API Client)
 │   └── setup_notifications.md # Setup guide
 ├── scripts/                # Utility scripts
 │   ├── regenerate_feed.py  # Regenerates RSS feed from metadata
@@ -141,7 +144,7 @@ The project uses GitHub Actions for automation. The workflows are modularized to
     - **Stage 1**: Uses `sentence-transformers` (all-MiniLM-L6-v2) to filter candidates locally based on semantic relevance.
     - Reduces 500+ items to a manageable subset (e.g. 50), saving significant API quota.
 4.  **Content (`src/content.py`)**:
-    - **Stage 2 Filter**: Uses Gemini 2.5 Flash to select the final set of stories (e.g., top 20) with editorial judgment.
+    - **Stage 2 Filter**: Uses Gemini 2.5 Flash to select the final set of stories (e.g., top 20) with editorial judgment. Enforces `application/json` response type for reliability.
     - **Script Gen**: Summarizes the stories into a conversational script.
     - **Script Persistence**: Saves a permanent copy of the script (`episode_script_YYYY-MM-DD_HH.txt`) for archival.
 5.  **Audio (`src/audio.py`)**: Uses Google Cloud TTS to convert the script to audio.
@@ -161,7 +164,13 @@ The project uses GitHub Actions for automation. The workflows are modularized to
 8.  **Notification (`src/notification.py`)**:
     - Sends a completion message with episode details to a configured Webhook (Discord/Slack).
     - **Script Link**: Includes a direct link to the generated script in the notification.
+    - **Source Breakdown**: The payload includes a count of articles used per domain (calculated in `src/main.py` before sending).
     - Requires `NOTIFICATION_WEBHOOK_URL` secret.
+
+9.  **Config Dashboard (`docs/config.html`)**:
+    - **Client-Side SPA**: A dashboard hosted on GitHub Pages that interacts directly with the GitHub API.
+    - **Auth**: Uses a Personal Access Token (PAT) stored in `localStorage`.
+    - **Flow**: Fetches `config.yaml` > Renders Form > PUTs update to repo.
     
 7.  **Configuration (`src/config.py`)**:
     - Uses `dataclasses` for type-safe configuration.
