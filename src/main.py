@@ -181,12 +181,12 @@ def main():
         # 1. Archive the fresh fetch (Daily Backup)
         # Skip for weekly runs (they consume history, don't produce daily backups)
         if fetched_items and "weekly" not in args.type:
-            archive.save_items(fetched_items, archive_dir)
+            archive.save_items(fetched_items, archive_dir, tag=feed_key)
 
         # 2. If Weekly, Load Archives to bridge history gap
         if "weekly" in args.type:
             logger.info("Weekly run detected: Loading archived items to improve historical coverage...")
-            archived_items = archive.load_items(archive_dir, args.lookback_days)
+            archived_items = archive.load_items(archive_dir, args.lookback_days, tag=feed_key)
             if archived_items:
                 before_merge = len(fetched_items)
                 fetched_items.extend(archived_items)

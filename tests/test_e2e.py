@@ -257,7 +257,11 @@ def test_weekly_flow_with_archive(mock_save_archive, mock_load_archive, mock_fil
     # Verify Architecture
     mock_fetch.assert_called_once()
     mock_save_archive.assert_not_called() # Weekly runs should NOT save archive
+    
     mock_load_archive.assert_called_once() # Should load history
+    # Check that tag was correctly passed (ensuring content separation)
+    call_args = mock_load_archive.call_args
+    assert call_args.kwargs.get('tag') == 'general' or (len(call_args.args) > 2 and call_args.args[2] == 'general')
     
     # Verify Merging: LocalFilter should have seen 2 items
     # args[0] is 'items'

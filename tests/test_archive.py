@@ -96,3 +96,38 @@ def test_cleanup_archive(temp_archive_dir):
     # Assert
     assert os.path.exists(f_recent)
     assert not os.path.exists(f_old)
+
+def test_save_load_with_tag(temp_archive_dir):
+    items = [{"title": "Tech News", "link": "http://tech.com"}]
+    tag = "tech"
+    today = datetime.now()
+    
+    # Save with tag
+    filepath = archive.save_items(items, temp_archive_dir, tag=tag)
+    
+    # Verify filename contains tag
+    assert f"_{tag}.json" in filepath
+    assert os.path.exists(filepath)
+    
+    # Load with tag should find it
+    loaded = archive.load_items(temp_archive_dir, lookback_days=1, tag=tag)
+    assert len(loaded) == 1
+    assert loaded[0]["title"] == "Tech News"
+    
+    # Load with different tag should NOT find it
+    loaded_other = archive.load_items(temp_archive_dir, lookback_days=1, tag="other")
+    assert len(loaded_other) == 0
+
+def test_cleanup_includes_tagged(temp_archive_dir):
+    today = datetime.now()
+    retention = 7
+    
+    f_old_tagged = archive.get_archive_path(temp_archive_dir, today - timedelta(days=20), tag="kids")
+    os.makedirs(temp_archive_dir, exist_ok=True)
+    with open(f_old_tagged, "w") as f: json.dump([], f)
+    
+    assert os.path.exists(f_old_tagged)
+    
+    archive.cleanup_archive(temp_archive_dir, retention_days=retention)
+    
+    assert not os.path.exists(f_old_tagged)
