@@ -69,12 +69,18 @@ if (els.demoBtn) els.demoBtn.addEventListener('click', loadMockData);
 
 // --- Workflow Actions ---
 
+// --- Workflow Actions ---
+
 async function triggerWorkflow(workflowId, btn) {
     if (!state.pat) return showToast('Please login first', 'error');
 
-    const originalText = btn.innerText;
-    btn.innerText = 'Starting...';
+    const originalText = 'Run'; // Reset to standard
     btn.disabled = true;
+    btn.innerText = 'Starting...';
+
+    // Clear previous status
+    const badge = document.getElementById(`status-${workflowId}`);
+    if (badge) badge.innerHTML = '';
 
     try {
         const timestamp = new Date().toISOString();
@@ -91,23 +97,34 @@ async function triggerWorkflow(workflowId, btn) {
 
         if (!response.ok) throw new Error('Failed to trigger workflow');
 
-        showToast('Workflow triggered! Watching for run...', 'success');
-        btn.innerText = 'Thinking...'; // Status: Queued/Provisioning
+        showToast('Workflow triggered!', 'success');
 
-        // 2. Poll for Status
-        pollWorkflowStatus(workflowId, timestamp, btn, originalText);
+        // 2. Poll for Status & Persist
+        // We don't have a run ID yet, so we persist the intent to poll
+        const trackingData = {
+            id: workflowId,
+            start: timestamp,
+            status: 'provisioning'
+        };
+        saveTracking(workflowId, trackingData);
+
+        pollWorkflowStatus(workflowId, timestamp);
+        btn.innerText = 'Run';
 
     } catch (error) {
         console.error(error);
         showToast(error.message, 'error');
-        btn.innerText = originalText;
+        btn.innerText = 'Run';
         btn.disabled = false;
     }
 }
 
-async function pollWorkflowStatus(workflowId, startTime, btn, originalText) {
+async function pollWorkflowStatus(workflowId, startTime) {
     let attempts = 0;
-    const maxAttempts = 20; // 40 seconds (2s interval)
+    const maxAttempts = 30; // 60 seconds
+
+    // Initial Badge State
+    updateActionStatus(workflowId, { status: 'provisioning' });
 
     const interval = setInterval(async () => {
         attempts++;
@@ -123,20 +140,31 @@ async function pollWorkflowStatus(workflowId, startTime, btn, originalText) {
                 const run = data.workflow_runs[0]; // Newest run
 
                 // Update UI based on status
-                updateActionStatus(btn, run);
+                updateActionStatus(workflowId, run);
+
+                // Update Persistence
+                saveTracking(workflowId, {
+                    id: workflowId,
+                    start: startTime,
+                    runId: run.id,
+                    status: run.status
+                });
 
                 // If terminal state, stop polling
+                const conclusion = run.conclusion;
                 if (run.status === 'completed') {
                     clearInterval(interval);
-                    btn.innerText = originalText;
-                    btn.disabled = false;
+                    clearTracking(workflowId);
+
+                    if (conclusion === 'success') showToast('Workflow completed successfully!', 'success');
+                    else showToast('Workflow failed.', 'error');
                 }
             } else if (attempts >= maxAttempts) {
                 // Timeout looking for run
                 clearInterval(interval);
-                btn.innerText = originalText;
-                btn.disabled = false;
-                showToast('Workflow started, but could not find run info.', 'info');
+                clearTracking(workflowId);
+                showToast('Timeout: Could not find new run.', 'error');
+                updateActionStatus(workflowId, { status: 'timeout' });
             }
 
         } catch (e) {
@@ -145,44 +173,70 @@ async function pollWorkflowStatus(workflowId, startTime, btn, originalText) {
     }, 2000);
 }
 
-function updateActionStatus(btn, run) {
-    // Replace button text or add badge
-    const statusMap = {
-        'queued': { icon: '⏳', label: 'Queued', class: 'queued' },
-        'in_progress': { icon: '🟡', label: 'Running', class: 'in_progress' },
-        'completed': { icon: '🟢', label: 'Done', class: 'completed' },
-        'failure': { icon: '🔴', label: 'Failed', class: 'failure' }
-    };
+function updateActionStatus(workflowId, run) {
+    const badge = document.getElementById(`status-${workflowId}`);
+    if (!badge) return;
 
-    // Check if we effectively finished (completed or failure)
-    let state = run.status;
-    if (state === 'completed' && run.conclusion === 'failure') state = 'failure';
+    // Map Status to UI
+    let status = run.status;
+    let label = status;
+    let icon = '';
 
-    const ui = statusMap[state] || { icon: '❓', label: state, class: '' };
-
-    // Update button text to reflect current state
-    if (state !== 'completed' && state !== 'failure') {
-        btn.innerText = `${ui.icon} ${ui.label}`;
+    // Normalize status
+    if (status === 'provisioning') {
+        label = 'Starting...';
+        status = 'queued'; // Reuse queued style
+    } else if (status === 'timeout') {
+        label = 'Timeout';
+        status = 'failure';
+    } else if (status === 'completed') {
+        if (run.conclusion === 'success') {
+            label = 'Success';
+            status = 'completed';
+        } else {
+            label = 'Failed';
+            status = 'failure';
+        }
+    } else if (status === 'in_progress') {
+        label = 'Running';
     }
 
-    // Add/Update URL link
-    let link = btn.nextElementSibling;
-    if (!link || !link.classList.contains('run-link')) {
-        link = document.createElement('a');
-        link.className = 'run-link';
-        link.target = '_blank';
-        link.style.marginLeft = '10px';
-        link.style.fontSize = '0.8rem';
-        link.style.color = '#3b82f6';
-        btn.after(link);
-    }
-    link.href = run.html_url;
-    link.innerText = 'View Logs';
+    // Render Badge
+    badge.className = `status-badge ${status}`;
+    badge.innerHTML = `
+        <div class="status-dot"></div>
+        <span>${label}</span>
+        ${run.html_url ? `<a href="${run.html_url}" target="_blank" style="margin-left:5px; text-decoration:none; color:inherit;">↗</a>` : ''}
+    `;
 
-    // Cleanup link if done
-    if (state === 'failure' || (state === 'completed' && run.conclusion === 'success')) {
-        showToast(`Workflow ${run.conclusion || 'finished'}!`, state === 'failure' ? 'error' : 'success');
-    }
+    // Enable/Disable Button based on run state
+    // Actually, allowing concurrent runs might be okay, but let's disable for safety?
+    // User requested "action can be triggered", so maybe keep enabled or re-enable quickly.
+    // Let's re-enable the button immediately in triggerWorkflow so user can spam if they want, 
+    // but the status badge tracks the latest.
+    const btn = badge.nextElementSibling;
+    if (btn) btn.disabled = (status === 'provisioning');
+}
+
+// --- Persistence Helpers ---
+function saveTracking(id, data) {
+    const tracked = JSON.parse(localStorage.getItem('tracked_workflows') || '{}');
+    tracked[id] = data;
+    localStorage.setItem('tracked_workflows', JSON.stringify(tracked));
+}
+
+function clearTracking(id) {
+    const tracked = JSON.parse(localStorage.getItem('tracked_workflows') || '{}');
+    delete tracked[id];
+    localStorage.setItem('tracked_workflows', JSON.stringify(tracked));
+}
+
+function restoreTracking() {
+    const tracked = JSON.parse(localStorage.getItem('tracked_workflows') || '{}');
+    Object.values(tracked).forEach(item => {
+        // Resume polling
+        pollWorkflowStatus(item.id, item.start);
+    });
 }
 
 // --- Initialization ---
@@ -190,6 +244,7 @@ function updateActionStatus(btn, run) {
 async function init() {
     if (state.pat) {
         showDashboard();
+        restoreTracking(); // Resume any active polls
     } else {
         showAuth();
     }

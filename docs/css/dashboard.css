@@ -241,46 +241,76 @@ body {
 }
 
 /* Status Badge in Action Item */
-.run-status {
+.action-controls {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.status-badge {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
     font-size: 0.75rem;
-    padding: 2px 6px;
-    border-radius: 4px;
-    margin-top: 4px;
-    display: inline-block;
+    font-weight: 600;
+    color: var(--text-secondary);
 }
 
-.run-status.queued {
+.status-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #475569;
+}
+
+.status-badge.queued .status-dot {
     background: #d97706;
-    color: #fff;
 }
 
-.run-status.in_progress {
-    background: #2563eb;
-    color: #fff;
-    animation: pulse 1.5s infinite;
+.status-badge.queued span {
+    color: #fbbf24;
 }
 
-.run-status.completed {
-    background: #059669;
-    color: #fff;
+.status-badge.in_progress .status-dot {
+    background: #3b82f6;
+    box-shadow: 0 0 0 0 rgba(59, 130, 246, 0.7);
+    animation: pulse-blue 2s infinite;
 }
 
-.run-status.failure {
-    background: #dc2626;
-    color: #fff;
+.status-badge.in_progress span {
+    color: #60a5fa;
 }
 
-@keyframes pulse {
+.status-badge.completed .status-dot {
+    background: #10b981;
+}
+
+.status-badge.completed span {
+    color: #34d399;
+}
+
+.status-badge.failure .status-dot {
+    background: #ef4444;
+}
+
+.status-badge.failure span {
+    color: #f87171;
+}
+
+@keyframes pulse-blue {
     0% {
-        opacity: 1;
+        transform: scale(0.95);
+        box-shadow: 0 0 0 0 rgba(59, 130, 246, 0.7);
     }
 
-    50% {
-        opacity: 0.6;
+    70% {
+        transform: scale(1);
+        box-shadow: 0 0 0 10px rgba(59, 130, 246, 0);
     }
 
     100% {
-        opacity: 1;
+        transform: scale(0.95);
+        box-shadow: 0 0 0 0 rgba(59, 130, 246, 0);
     }
 }
 
