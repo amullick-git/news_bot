@@ -1,3 +1,53 @@
+## Run: 2025-12-13 23:53 (Type: general_weekly)
+**Links File**: [links_general_weekly_2025-12-13_23.html](episodes/links_general_weekly_2025-12-13_23.html)
+
+**Total Fetched**: 537 -> **Stage 1 (Local AI)**: 50 -> **Stage 2 (Gemini Final)**: 30
+
+**TTS Usage**: 37048 chars (Model: wavenet) -> **Running Total**: 217584 chars
+
+### Breakdown by Source
+| Source | Fetched | Stage 1 (Local AI) | Selected |
+|---|---|---|---|
+| BBC News | 88 | 1 | 0 |
+| Cricket news from ESPN Cricinfo.com | 100 | 2 | 0 |
+| Hacker News | 22 | 1 | 1 |
+| NDTV News | 24 | 0 | 0 |
+| NPR Topics | 10 | 0 | 0 |
+| NYT | 45 | 1 | 1 |
+| Test News Source | 2 | 0 | 0 |
+| The Verge | 10 | 0 | 0 |
+| US Top News and Analysis | 30 | 3 | 2 |
+| anthropic.com | 1 | 1 | 1 |
+| bbc.com | 17 | 4 | 2 |
+| block.xyz | 1 | 1 | 1 |
+| businessinsider.com | 1 | 0 | 0 |
+| cnbc.com | 54 | 16 | 11 |
+| condu.it | 1 | 0 | 0 |
+| confluent.io | 1 | 0 | 0 |
+| espncricinfo.com | 4 | 0 | 0 |
+| finance.yahoo.com | 1 | 1 | 1 |
+| github.com | 1 | 0 | 0 |
+| grocerydive.com | 1 | 0 | 0 |
+| heise.de | 1 | 0 | 0 |
+| higashi.blog | 1 | 1 | 1 |
+| martinalderson.com | 1 | 0 | 0 |
+| nber.org | 1 | 0 | 0 |
+| ndtv.com | 35 | 3 | 1 |
+| news.ycombinator.com | 1 | 1 | 1 |
+| nova-lang.net | 1 | 0 | 0 |
+| npr.org | 21 | 2 | 1 |
+| nytimes.com | 52 | 9 | 4 |
+| phys.org | 1 | 1 | 1 |
+| research.google | 2 | 0 | 0 |
+| swordhealth.com | 1 | 0 | 0 |
+| theverge.com | 1 | 1 | 0 |
+| trynia.ai | 1 | 0 | 0 |
+| windowscentral.com | 1 | 1 | 1 |
+| yaky.dev | 1 | 0 | 0 |
+| youtube.com | 1 | 0 | 0 |
+
+----------------------------------------
+
 ## Run: 2025-12-13 23:26 (Type: general_evening)
 **Links File**: [links_general_evening_2025-12-13_23.html](episodes/links_general_evening_2025-12-13_23.html)
 
