@@ -1,0 +1,41 @@
+HOST: Good Evening! And welcome to Quick News Briefing! I’m Arjav.
+
+REPORTER: And I’m Arohi, bringing you the latest headlines.
+
+HOST: On this day, December 14th, in 1911, Norwegian explorer Roald Amundsen became the first person to reach the South Pole, a monumental feat of endurance and scientific discovery. Today, we cover a range of stories, from breaking international news to economic shifts and technological advancements, drawing on reports from NDTV News, NPR Topics, The New York Times, and other reputable sources.
+
+REPORTER: We start with a somber report from Syria. The US military has announced that two US soldiers and a civilian interpreter were killed in an attack carried out by an Islamic State gunman. US Central Command confirmed the casualties, stating that the incident underscores the continued threats faced by coalition forces operating in the region.
+
+HOST: A tragic reminder of the ongoing challenges in international security. Moving closer to home, we turn to an unfolding situation at Brown University in the United States.
+
+REPORTER: That's right. The Brown University community is grappling with the aftermath of a shooting on Saturday that left two people dead and at least nine more wounded. While the identities of the victims have not yet been released, the university has confirmed that all those killed or injured were students. Ocean State Media journalist Paul C. Kelly Campos reports that the investigation is ongoing, as authorities work to piece together the events that led to this tragic incident on campus.
+
+HOST: Our thoughts are with the Brown University community during this difficult time. From a security concern to a public health development, California is making significant moves to bolster its public health advisory team.
+
+REPORTER: Indeed. California Governor Gavin Newsom has announced the hiring of two prominent former officials from the Centers for Disease Control and Prevention. A former director of the CDC and a former chief medical officer of the agency will now advise the state on critical public health issues. Both individuals had previously voiced criticism of the Trump administration's handling of public health matters, signaling a strategic move by California to strengthen its expert counsel.
+
+HOST: An interesting development in public health leadership. Now, we shift our focus to a concerning and complex story from Australia.
+
+REPORTER: In Sydney, Australia, the Bondi Beach area was the scene of a deadly attack over the weekend. Two gunmen opened fire on dozens of people attending a Hanukkah celebration. At least 15 individuals were killed in the assault, and one of the shooters was also killed by police. This tragic event follows a significant rise in antisemitic incidents across Australia since the conflict began in Gaza, mirroring trends seen in other countries globally. Video verified by The New York Times shows a man heroically tackling and disarming one of the shooters, a moment of extraordinary bravery amid the chaos. The investigation is actively underway to determine the full scope and motivations behind this targeted attack.
+
+HOST: A harrowing incident, but also a testament to individual courage. Moving to Latin America, political winds are shifting significantly in Chile.
+
+REPORTER: Chile has seen a sharp rightward turn in its recent presidential election. José Antonio Kast, a far-right politician, secured the presidency. Kast, who has previously expressed praise for Chile's former dictatorship, won amidst growing public concerns over crime, migration, and the economy. This outcome reflects a broader trend across Latin America where security issues have become a top concern for voters, prompting calls for more stringent measures and pushing the political landscape further to the right.
+
+HOST: A clear shift in political sentiment in the region. Now, to a critical human rights and economic story from Kenya.
+
+REPORTER: A recent investigation has shed light on systemic worker abuse faced by Kenyan women seeking employment in Saudi Arabia. The report, which aimed to investigate abuses, uncovered a troubling system that often begins exploiting these women even before they leave their home country. Kenya is reportedly betting its economy on these women, who are willing to risk everything for work, highlighting a critical issue of vulnerability and exploitation in international labor migration.
+
+HOST: A deeply concerning report that demands international attention. Next, we turn to economic news from China.
+
+REPORTER: China's economic performance in November has raised some concerns. The country's retail sales growth sharply missed estimates, deepening worries about consumer spending. Additionally, industrial production figures also fell below expectations, and investment declined more than anticipated. These indicators point to a slower-than-projected economic pace and suggest ongoing challenges for the world's second-largest economy.
+
+HOST: Those figures are certainly notable for the global economy. Finally, let's look at how technology is impacting the holiday shopping season.
+
+REPORTER: Artificial intelligence tools are set to play a significant role in holiday sales this year, potentially driving an estimated $263 billion. Consumers are increasingly turning to AI chatbots like ChatGPT for gift discovery, product reviews, and even price matching. Major retailers like Walmart and Target are keenly aware of this trend and are racing to integrate these AI capabilities into their own strategies to capture a piece of this rapidly evolving market.
+
+HOST: An exciting glimpse into the future of commerce. Before we go, here's a surprising fact: Speaking of intelligence, the first computer program specifically designed to play a full game of checkers and learn from its own experience was created by Arthur Samuel in 1952. That’s all for this edition of Quick News Briefing! Thank you for joining us.
+
+REPORTER: We hope you stay informed and have a good evening.
+
+HOST: Good night!
