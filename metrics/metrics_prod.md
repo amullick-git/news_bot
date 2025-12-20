@@ -1,3 +1,31 @@
+## Run: 2025-12-20 07:12 (Type: tech_weekly)
+**Links File**: [links_tech_weekly_2025-12-20_07.html](episodes/links_tech_weekly_2025-12-20_07.html)
+
+**Total Fetched**: 299 -> **Stage 1 (Local AI)**: 50 -> **Stage 2 (Gemini Final)**: 30
+
+**TTS Usage**: 23237 chars (Model: wavenet) -> **Running Total**: 369581 chars
+
+### Breakdown by Source
+| Source | Fetched | Stage 1 (Local AI) | Selected |
+|---|---|---|---|
+| Ars Technica | 68 | 13 | 6 |
+| Hacker News | 80 | 9 | 4 |
+| MIT Technology Review | 23 | 11 | 10 |
+| TechCrunch | 78 | 17 | 10 |
+| The Verge | 40 | 0 | 0 |
+| benjamincongdon.me | 1 | 0 | 0 |
+| github.com | 1 | 0 | 0 |
+| hey.paris | 1 | 0 | 0 |
+| jobs.ashbyhq.com | 1 | 0 | 0 |
+| lawrencecpaulson.github.io | 1 | 0 | 0 |
+| simonwillison.net | 1 | 0 | 0 |
+| techcrunch.com | 1 | 0 | 0 |
+| torrentfreak.com | 1 | 0 | 0 |
+| wbur.org | 1 | 0 | 0 |
+| whitehouse.gov | 1 | 0 | 0 |
+
+----------------------------------------
+
 ## Run: 2025-12-20 06:41 (Type: general_daily)
 **Links File**: [links_general_daily_2025-12-20_06.html](episodes/links_general_daily_2025-12-20_06.html)
 
