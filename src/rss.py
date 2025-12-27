@@ -424,6 +424,7 @@ def generate_rss_feed(config: Config, output_dir: str = "."):
                         else:
                             # Determine title from type (format: {content}_{frequency})
                             # Parse content and frequency
+                            episode_type = meta.get("type", "general_daily")
                             parts = episode_type.split('_')
                             content_type = parts[0] if parts else "general"
                             frequency = parts[1] if len(parts) > 1 else "daily"
