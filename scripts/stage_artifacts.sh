@@ -16,10 +16,17 @@ for file in metrics/metrics_prod.md metrics/metrics_test.md metrics/metrics_stat
     fi
 done
 
-# Stage archive data
+# Stage archive data (both new and deleted)
+# 1. Add new/modified files (force needed due to gitignore)
 if ls data/archive/*.json 1> /dev/null 2>&1; then
     git add -f data/archive/*.json
 fi
+# 2. Stage deletions (git add -u handles modified/deleted affecting the index)
+# We target the directory specifically.
+git add -u data/archive/
+
+# Ensure episode deletions are also caught (unlikely to be ignored, but safe)
+git add -u docs/episodes/
 
 # Debug: Show status before we exit
 echo "Staging complete. Git status:"
