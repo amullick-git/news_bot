@@ -1,0 +1,59 @@
+HOST: Good Evening! And welcome to Quick News Briefing! I'm Arjav.
+REPORTER: And I'm Arohi.
+HOST: On this day in history, December 30th, 1922, the Union of Soviet Socialist Republics, or USSR, was formally established, profoundly shaping global politics and alliances, a legacy that still echoes in today's headlines. Tonight, we bring you the most impactful stories from around the globe, drawing from BBC News, NDTV News, The New York Times, NPR, and others. We'll dive into critical developments concerning US foreign policy, geopolitical tensions, health updates, and significant economic shifts in India. Let's start with President Trump's recent international engagements.
+
+REPORTER: That's right. The administration has been pushing its agenda on multiple fronts. In Venezuela, President Trump confirmed US forces targeted a 'big facility' linked to alleged drug boats, though he wouldn't confirm US media reports that the explosion was caused by a CIA drone strike. This action signals a hardline approach. Meanwhile, on Ukraine, The New York Times has published an in-depth investigation revealing the inside story of a significant split within the US-Ukraine alliance.
+
+HOST: A split with Ukraine, that sounds like a major development given the ongoing conflict. What did the investigation uncover?
+
+REPORTER: The Times investigation details the Trump administration’s chaotic push for a peace deal and its erratic role in the war. This 'unwinding alliance' highlights the complex nature of US foreign policy in Eastern Europe, particularly as peace efforts face considerable headwinds.
+
+HOST: Moving our focus to the Middle East, there have been critical discussions surrounding a Gaza ceasefire. What's the latest following those high-level meetings?
+
+REPORTER: President Trump recently met with Israeli Prime Minister Netanyahu to discuss the next phase of a ceasefire deal in Gaza. Conditions for people in the region remain dire. Following their talks, President Trump expressed optimism, hoping to reach phase two "very quickly," while also warning Hamas they would have "hell to pay" if they do not disarm.
+
+HOST: The humanitarian situation in Gaza has been a significant concern. Are there updates regarding aid access?
+
+REPORTER: Unfortunately, that's become another point of contention. Israel has announced it will bar certain international aid groups, including Doctors Without Borders, from operating in Gaza. Israel accuses Doctors Without Borders, one of the largest health organizations there, of failing to clarify the roles of some staff members whom Israel alleges cooperated with militants. This decision could complicate aid delivery.
+
+HOST: And we're also hearing reports of renewed tensions with Russia regarding Ukraine.
+
+REPORTER: Indeed. Russia has accused Ukraine of an attempted drone strike, an incident that could further escalate the volatile situation. These accusations come amidst challenging discussions of a potential peace deal, which faces considerable "thorny issues." Two main sticking points involve territorial disputes and the fate of Europe's largest nuclear plant, currently occupied by Russia.
+
+HOST: Beyond these major US-centric developments, what else is making headlines globally? We're seeing significant political shifts and social unrest.
+
+REPORTER: In Africa, the political landscape in Guinea has seen the junta chief secure the presidency in a controversial election. This victory grants him a seven-year mandate, an outcome widely anticipated, raising questions about democratic transitions.
+
+HOST: And shifting to Asia?
+
+REPORTER: In Bangladesh, there's a significant focus on the legacy of Khaleda Zia. The slain leader's widow went on to become the country's first female prime minister, navigating periods of violent unrest and economic hardship during her terms in office.
+
+HOST: Meanwhile, in Iran, we're seeing domestic unrest. What's behind the protests spreading across the country?
+
+REPORTER: Iran is experiencing widespread protests for the third consecutive day. This surge in public discontent was triggered after the Iranian rial hit a record low against the US dollar on Sunday. The economic hardship initially prompted shopkeepers in Tehran to protest, and these demonstrations have quickly spread to other cities.
+
+HOST: Turning our attention to global health, what's the latest from the CDC and other health organizations, particularly as we head into colder months?
+
+REPORTER: New CDC data indicates that the flu season is off to a remarkably rough start this year. Cases are surging rapidly, spreading faster than in previous years, and health officials predict rates will likely get even worse. This underscores the critical importance of vaccinations and proactive health measures.
+
+HOST: And looking back at the past year, amidst all the challenges, were there still bright spots in global health?
+
+REPORTER: Despite significant headwinds, including the Trump administration's deep cuts in US foreign health aid, which had a devastating impact, there were still notable achievements. The year saw commendable progress in areas like vaccine development, malaria eradication efforts, and HIV prevention, highlighting resilience and dedicated efforts within the global health community.
+
+HOST: Now, let's bring it closer to home with some significant economic and social news from India. A big projection regarding AI and India's economy?
+
+REPORTER: Absolutely. A major projection from the Centre suggests Artificial Intelligence is set to add an impressive 1.7 trillion US dollars to the Indian economy by 2035. This massive economic uplift is largely underpinned by India's strategy: building affordable AI infrastructure, making technology accessible across sectors.
+
+HOST: That's a substantial economic impact. What else is happening on the economic front, particularly concerning trade?
+
+REPORTER: India has also taken steps to protect its domestic steel industry, imposing tariffs on certain steel products for three years to curb cheap imports. This measure follows a temporary 200-day tariff of 12% initially put in place in April, signaling a sustained effort to safeguard local manufacturers.
+
+HOST: And finally, a crucial update on the humanitarian situation in Manipur, where many have been displaced.
+
+REPORTER: The Chief Secretary has confirmed a significant development: 10,000 people displaced by recent violence in Manipur have now been successfully resettled. This marks a crucial step towards providing stability and recovery for those affected by the unrest, with ongoing efforts to ensure their long-term well-being.
+
+HOST: Thank you for those comprehensive updates from around the world. Before we sign off, here's a unique fun fact for our listeners. Did you know that the word "robot" comes from the Czech word "robota," meaning "forced labor" or "drudgery"? It was first used in a 1920 play by Karel Capek, predating actual functional robots by decades, yet perfectly capturing the essence of automated work. A fascinating glimpse into the origins of our AI-driven future. That wraps up Quick News Briefing for tonight. I'm Arjav.
+
+REPORTER: And I'm Arohi.
+
+HOST: Join us again tomorrow for more essential news and analysis. Until then, stay informed and have a good night.
