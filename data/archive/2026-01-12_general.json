@@ -2315,5 +2315,873 @@
     "published": "Tue, 06 Jan 2026 16:20:31 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1518293.html?ex_cid=OTC-RSS",
     "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "'They just kept killing': Eyewitnesses describe deadly crackdown in Iran",
+    "summary": "The BBC has received eyewitness accounts of security forces attacking anti-government protesters across the country.",
+    "published": "Mon, 12 Jan 2026 19:54:32 GMT",
+    "link": "https://www.bbc.com/news/articles/cvgp70ynx1po?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Trump announces 25% tariff on countries doing business with Iran",
+    "summary": "Trump says the new levy is \"effective immediately\" as anti-government protests in Iran enter a third week.",
+    "published": "Mon, 12 Jan 2026 23:03:03 GMT",
+    "link": "https://www.bbc.com/news/articles/clyev0kpk77o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "'We were tricked': How one woman lures foreign men to fight on Russia's front line",
+    "summary": "Recruits tell the BBC an ex-teacher who operates on Telegram misled them, saying they could avoid combat.",
+    "published": "Tue, 13 Jan 2026 00:21:40 GMT",
+    "link": "https://www.bbc.com/news/articles/ce9yv4gmn9lo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Lyse Doucet: Iran's rulers face biggest challenge since 1979 revolution",
+    "summary": "The authorities are responding to protests with a ferocious security crackdown and near total internet shutdown.",
+    "published": "Mon, 12 Jan 2026 17:53:07 GMT",
+    "link": "https://www.bbc.com/news/articles/c3ve572edzqo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Trump to meet Venezuelan opposition leader Machado at the White House",
+    "summary": "Machado, the winner of 2025 Nobel Peace Prize, had offered to share the honour with Trump,  an award the president has long coveted.",
+    "published": "Mon, 12 Jan 2026 20:51:10 GMT",
+    "link": "https://www.bbc.com/news/articles/cr7jzpr95yvo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Former Fed chairs condemn criminal investigation into Jerome Powell",
+    "summary": "Three former heads of the central bank say the probe seeks to undermine the Fed's independence and \"has no place\" in the US.",
+    "published": "Mon, 12 Jan 2026 17:27:16 GMT",
+    "link": "https://www.bbc.com/news/articles/c394xwdve9lo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "'Miracle baby' born in a tree above Mozambique floodwaters dies aged 25",
+    "summary": "Rosita Salvador Mabuiango's mother was sheltering for days before giving birth perched above the water.",
+    "published": "Mon, 12 Jan 2026 17:39:20 GMT",
+    "link": "https://www.bbc.com/news/articles/c79re5415n2o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Death toll in Philippines landfill collapse rises to 11",
+    "summary": "Hopes of finding survivors have dimmed as more than 20 people remain missing in the debris.",
+    "published": "Tue, 13 Jan 2026 01:57:23 GMT",
+    "link": "https://www.bbc.com/news/articles/c9wxg4e09jzo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "How will investigators determine if Minneapolis ICE shooting was justified?",
+    "summary": "Officials will examine video footage and policy guidelines as part of the investigation, experts told the BBC.",
+    "published": "Tue, 13 Jan 2026 03:17:29 GMT",
+    "link": "https://www.bbc.com/news/articles/cvgnvqrxl0xo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Pioneering gay footballer Josh Cavallo accuses former club of homophobia",
+    "summary": "Adelaide United says it \"categorically rejects\" Cavallo's claims he was sidelined because of his sexuality.",
+    "published": "Tue, 13 Jan 2026 03:24:22 GMT",
+    "link": "https://www.bbc.com/news/articles/cjrznw9e243o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "How Australian festival imploded after axing Palestinian author",
+    "summary": "Some 180 writers, including former New Zealand Prime Minister Jacinda Ardern, have withdrawn from the event.",
+    "published": "Tue, 13 Jan 2026 03:28:11 GMT",
+    "link": "https://www.bbc.com/news/articles/cgm4jkwz2z8o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Most of Uganda's population is under 17 - will they give an 81-year-old another term?",
+    "summary": "Thursday's election highlights a demographic issue common to many African countries.",
+    "published": "Tue, 13 Jan 2026 00:22:34 GMT",
+    "link": "https://www.bbc.com/news/articles/c77k8pym06zo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "The Indian superstar taking a shot at political greatness",
+    "summary": "Vijay draws Gen Z crowds and fan devotion, but analysts question whether movie stardom can convert into votes.",
+    "published": "Tue, 13 Jan 2026 00:51:34 GMT",
+    "link": "https://www.bbc.com/news/articles/cx2k5kxk3plo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Mortuary videos show how deadly Iran crackdown has become",
+    "summary": "BBC Verify has been examining disturbing footage from a mortuary in Tehran, showing scores of bodies. These images could hold clues about what\u2019s happening inside Iran.",
+    "published": "Mon, 12 Jan 2026 16:45:29 GMT",
+    "link": "https://www.bbc.com/news/videos/c2e134xz2rjo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "What we know about Iran's protests and the crackdown",
+    "summary": "The BBC's diplomatic correspondent, Caroline Hawley, looks into the latest events unfolding in Iran.",
+    "published": "Mon, 12 Jan 2026 16:29:42 GMT",
+    "link": "https://www.bbc.com/news/videos/c1wz35n7r0po?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Meta Plans to Cut 10% to 15% of Employees in Reality Labs Business",
+    "summary": "The layoffs are set to be announced this week and would affect Meta\u2019s work on the metaverse, as the company spends heavily on building artificial intelligence.",
+    "published": "Mon, 12 Jan 2026 22:35:16 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/technology/meta-layoffs-reality-labs.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Apple Teams Up With Google for A.I. in Its Products",
+    "summary": "Apple was facing increasing questions about its plans for artificial intelligence as other big tech companies invested tens of billions in the technology.",
+    "published": "Mon, 12 Jan 2026 21:23:30 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump Administration Nears Trade Deal With Taiwan",
+    "summary": "The deal would cut tariffs and include a commitment from Taiwanese Semiconductor Manufacturing Corporation, the island\u2019s chip giant, to build more manufacturing plants in the United States.",
+    "published": "Tue, 13 Jan 2026 03:42:47 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/business/economy/trump-taiwan-deal.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "U.S. Attacked Boat With Aircraft That Looked Like a Civilian Plane",
+    "summary": "Even accepting the Trump administration\u2019s claim that there is an armed conflict with suspected drug runners, the laws of war bar \u201cperfidy.\u201d",
+    "published": "Tue, 13 Jan 2026 02:44:53 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/us/politics/us-boat-attacks-law.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump\u2019s Plans for Venezuelan Oil Run Headlong Into Reality",
+    "summary": "President Trump\u2019s fixation on Venezuela\u2019s oil raises the question of how much \u201cenergy dominance\u201d is really worth nowadays.",
+    "published": "Tue, 13 Jan 2026 01:15:14 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/us/politics/trump-venezuela-oil-dominance-influence.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Lawyer Whom Maduro Didn\u2019t Hire Is Booted From His Case",
+    "summary": "Last week, a lawyer came forward claiming to represent the unseated president of Venezuela, Nicol\u00e1s Maduro. The judge overseeing the case settled the matter on Monday.",
+    "published": "Mon, 12 Jan 2026 23:01:45 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/nyregion/maduro-lawyers-bruce-fein.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "FBI\u2019s ICE Shooting Inquiry Examines Renee Good\u2019s Possible Ties to Activist Groups",
+    "summary": "Former department officials warned that such a broad inquiry raised the specter that forms of political protests could be criminalized.",
+    "published": "Tue, 13 Jan 2026 00:17:31 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/us/politics/fbi-renee-good-ice-shooting.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump Suggests Renee Good\u2019s \u2018Disrespectful\u2019 Attitude Justified Fatal ICE Shooting",
+    "summary": "President Trump suggested that Renee Good\u2019s \u201chighly disrespectful\u201d attitude toward law enforcement played a role in her fatal shooting by an ICE agent.",
+    "published": "Tue, 13 Jan 2026 01:08:23 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/us/politics/trump-shooting-renee-good-ice.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Fed Changes Course and Takes On Trump\u2019s Political Fight",
+    "summary": "The Justice Department\u2019s decision to open up a criminal investigation of Jerome H. Powell, the chair of the Federal Reserve, is a major escalation in the pressure campaign against the central bank to cut interest rates.",
+    "published": "Tue, 13 Jan 2026 00:22:57 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/business/federal-reserve-changes-course-trump-administration.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "A Top Fed Official Conveys Little Urgency for Immediate Rate Cuts",
+    "summary": "The Federal Reserve is likely to hold interest rates steady when it meets at the end of the month, keeping tensions high with President Trump.",
+    "published": "Tue, 13 Jan 2026 01:30:40 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/business/federal-reserve-john-williams-rates.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Labor Secretary\u2019s Aides Placed on Leave in Misconduct Investigation",
+    "summary": "The Labor Department is investigating a complaint alleging misconduct by Secretary Lori Chavez-DeRemer.",
+    "published": "Tue, 13 Jan 2026 03:11:18 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/business/lori-chavez-deremer-misconduct-investigation.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Kelly Sues Pentagon Over Threats of Punishment From Hegseth",
+    "summary": "Senator Mark Kelly, Democrat of Arizona, asked a federal judge to block the Trump administration from disciplining him for a video warning about illegal military orders.",
+    "published": "Mon, 12 Jan 2026 22:14:13 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/us/politics/mark-kelly-pentagon-hegseth-suit.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Judge Blocks Trump Effort to Stop Rhode Island\u2019s Revolution Wind Project",
+    "summary": "The ruling means that construction can continue on Revolution Wind, a $6.2 billion project off the coast of Rhode Island, at least for now.",
+    "published": "Tue, 13 Jan 2026 02:31:44 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/climate/judge-strikes-down-trumps-latest-effort-to-stop-offshore-wind.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump Cuts to Energy Projects in Blue States Were Unlawful, Judge Rules",
+    "summary": "The Energy Department canceled $7.5 billion in Biden-era energy spending, largely in Democratic-led states, during last year\u2019s government shutdown.",
+    "published": "Mon, 12 Jan 2026 22:44:20 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/climate/trump-energy-department-grant-cuts-unlawful.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Photos: Backstage With Teyana Taylor, Owen Cooper and More Golden Globe Winners",
+    "summary": "Rose Byrne, Owen Cooper, Seth Rogen, Teyana Taylor and other award winners in the spotlight.",
+    "published": "Mon, 12 Jan 2026 16:00:35 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/movies/golden-globe-winners-awards-portraits.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump Explores Diplomacy With Iran While Weighing Strikes, Officials Say",
+    "summary": "The Pentagon is presenting a wider range of strike options to the president than previously reported. Targets could include Iran\u2019s nuclear program and ballistic missile sites.",
+    "published": "Tue, 13 Jan 2026 00:42:51 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/us/politics/trump-iran-options-diplomacy-strikes.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Duke Webb, a Green Beret, Went on a Shooting Rampage. Is the Army at Fault?",
+    "summary": "High-tempo Special Operations training can cause brain injuries that accumulate unnoticed. One soldier says that is why he snapped and killed three people.",
+    "published": "Mon, 12 Jan 2026 22:14:00 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/us/blast-brain-injury-green-beret-shooting-duke-webb.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Arson Suspect Targeted Mississippi Synagogue for Its \u2018Jewish Ties,\u2019 F.B.I. Says",
+    "summary": "The suspect, Stephen Spencer Pittman, was turned in by his father, who said his son had laughed as he confessed to the fire that damaged the synagogue, investigators said.",
+    "published": "Mon, 12 Jan 2026 23:40:34 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/us/mississippi-synagogue-arson.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "The Weimar Republic Shaped the 20th Century. Can Today\u2019s Leaders Avoid Its Fate?",
+    "summary": "A fragile democracy, the Weimar Republic, briefly took hold in Germany before the Nazis seized power. Now, Weimar\u2019s collapse is seen as a warning.",
+    "published": "Mon, 12 Jan 2026 10:00:07 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/world/europe/weimar-germany-democracy-failure-warning.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Why New Jersey Is Running Out of Groundhogs",
+    "summary": "Since Milltown Mel died, a New Jersey town has faced a groundhog crisis. Now the governor has vetoed an effort to bring in out-of-state replacements.",
+    "published": "Tue, 13 Jan 2026 00:52:33 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/nyregion/new-jersey-groundhog-day-veto.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Pitching Crypto and Needling Mamdani: Adams\u2019s Post-Mayoralty Takes Shape",
+    "summary": "Two weeks ago, Eric Adams was in Times Square to lead the New Year\u2019s Eve ball drop as his last act as mayor. He returned on Monday to promote a new business interest.",
+    "published": "Tue, 13 Jan 2026 02:20:05 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/nyregion/adams-mamdani-crypto-congo.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Mamdani Brings Affordability Push to Arts With Pick to Lead Film Office",
+    "summary": "Rafael Espinal, the current head of the Freelancers Union, will serve as the new director of the Mayor\u2019s Office of Media and Entertainment.",
+    "published": "Tue, 13 Jan 2026 02:24:04 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/nyregion/mamdani-film-espinal.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump\u2019s Attack on the Federal Reserve Is Already Backfiring",
+    "summary": "And the market is gently shrugging.",
+    "published": "Mon, 12 Jan 2026 22:33:54 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/opinion/trump-jerome-powell-federal-reserve.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "The Resistance Libs Were Right",
+    "summary": "Trump\u2019s message, the emotional core of his movement, has always been textbook fascism.",
+    "published": "Tue, 13 Jan 2026 01:29:35 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/opinion/resistance-libs-trump-fascism.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Notable Republicans Criticize Investigation of Fed Chair",
+    "summary": "Also, Iran said it is ready for war, but open to negotiate. Here\u2019s the latest at the end of Monday.",
+    "published": "Mon, 12 Jan 2026 23:22:05 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/briefing/fed-chair-investigation-iran-protests.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Elle Simone Scott, Chef and Cooking Show Stalwart, Dies at 49",
+    "summary": "She was the first Black cast member on the PBS show \u201cAmerica\u2019s Test Kitchen,\u201d and used her influence to help other female chefs of color.",
+    "published": "Tue, 13 Jan 2026 02:30:06 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/dining/elle-simone-scott-dead.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "With Democrats at a Crossroads, Elizabeth Warren Urges a Left Turn",
+    "summary": "The Massachusetts senator signaled alarm about her party\u2019s movement toward the center, warning in a speech that Democrats should not cozy up to the wealthy and the powerful.",
+    "published": "Mon, 12 Jan 2026 20:05:27 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/us/politics/elizabeth-warren-democrats.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Dan Bongino, No Longer at the F.B.I., Will Return to Podcasting",
+    "summary": "The former F.B.I. deputy director, who had hosted a right-wing, pro-Trump podcast, will restart the show after a rocky tenure at the law-enforcement agency.",
+    "published": "Mon, 12 Jan 2026 21:27:41 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/arts/dan-bongino-fbi-podcast.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Former Congressional Employee Accused of Stealing 240 Phones",
+    "summary": "A Maryland man used his government job to order new cellphones worth over $150,000 and then sell them to a pawnshop, federal prosecutors said.",
+    "published": "Tue, 13 Jan 2026 00:06:43 +0000",
+    "link": "https://www.nytimes.com/2026/01/12/us/congressional-employee-stolen-phones.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Rajasthan Cops Detain Accused From Other State In School Student Rape Case",
+    "summary": "According to the police, the incident occurred on January 6 when the girl was on her way to school.",
+    "published": "Tue, 13 Jan 2026 07:56:15 +0530",
+    "link": "https://www.ndtv.com/india-news/rajasthan-cops-detain-accused-from-other-state-in-school-student-rape-case-10739488#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "\"Only Marathi Will Lead\" BMC, Says Devendra Fadnavis Ahead Of Key Polls",
+    "summary": "Devendra Fadnavis on Monday asserted that the leadership of the civic body would remain in Marathi hands.",
+    "published": "Tue, 13 Jan 2026 06:49:29 +0530",
+    "link": "https://www.ndtv.com/india-news/only-marathi-will-lead-bmc-says-devendra-fadnavis-ahead-of-key-polls-10739215#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "At Poll Rally, Devendra Fadnavis Shows Old Clips Of Feuding Thackeray Cousins",
+    "summary": "Devendra Fadnavis said that Mumbai civic body election is the battle of survival for the cousins.",
+    "published": "Tue, 13 Jan 2026 06:48:25 +0530",
+    "link": "https://www.ndtv.com/india-news/maharashtra-municipal-election-devendra-fadnavis-shows-old-clips-of-feuding-thackeray-cousins-at-poll-rally-10739334#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Karnataka Police Crack Rs 30 Lakh Gold Robbery Case, 1 Arrested",
+    "summary": "A special police team arrested one accused and recovered 240 grams of gold valued at Rs 30 lakh.",
+    "published": "Tue, 13 Jan 2026 05:43:42 +0530",
+    "link": "https://www.ndtv.com/india-news/karnataka-police-crack-rs-30-lakh-gold-robbery-case-1-arrested-10739239#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Delegation From Communist Party Of China Visits BJP Headquarters In Delhi",
+    "summary": "The Chinese Ambassador to India, Xu Feihong, also joined the CPC delegation, he added.",
+    "published": "Tue, 13 Jan 2026 01:10:32 +0530",
+    "link": "https://www.ndtv.com/india-news/delegation-from-communist-party-of-china-visits-bjp-headquarters-in-delhi-10738862#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Germany Announces Visa-Free Transit For Indian Passport Holders",
+    "summary": "(Representational Image)",
+    "published": "Tue, 13 Jan 2026 00:24:24 +0530",
+    "link": "https://www.ndtv.com/india-news/germany-announces-visa-free-transit-for-indian-passport-holders-10738766#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "\"No One Can Separate Mumbai From Maharashtra\": E Shinde On Thackerays' Charge",
+    "summary": "Maharashtra Deputy Chief Minister Eknath Shinde, who had to yield the driving seat to ally BJP for the Mumbai civic polls, hit back at the Opposition today, declaring that no one can ever break Mumbai from Maharashtra.",
+    "published": "Tue, 13 Jan 2026 00:23:01 +0530",
+    "link": "https://www.ndtv.com/india-news/no-one-can-separate-mumbai-from-maharashtra-e-shinde-on-thackerays-charge-10738764#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "AI-Driven Errors Causing SIR Hardships: Mamata Bannerjee To Poll Body Chief",
+    "summary": "She said electors were being compelled to re-establish identity despite earlier corrections.",
+    "published": "Tue, 13 Jan 2026 00:15:13 +0530",
+    "link": "https://www.ndtv.com/india-news/ai-driven-errors-causing-sir-hardships-mamata-bannerjee-to-poll-body-chief-10738744#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Maharashtra Poll Body Bars Advance Payment Under 'Ladki Bahin' Scheme During Poll Code",
+    "summary": "(File Image)",
+    "published": "Tue, 13 Jan 2026 00:15:11 +0530",
+    "link": "https://www.ndtv.com/india-news/maharashtra-poll-body-bars-advance-payment-under-ladki-bahin-scheme-during-poll-code-10738743#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Student Asks For Breakfast At Chhattisgarh Hostel, Gets Attacked By Servers",
+    "summary": "A breakfast request in a university mess hall has exploded into a chilling flashpoint over campus safety at Guru Ghasidas Central University, after a BTech student was allegedly chased and attacked with a knife in full view of other hostel residents.",
+    "published": "Mon, 12 Jan 2026 23:37:32 +0530",
+    "link": "https://www.ndtv.com/india-news/breakfast-row-turns-bloody-at-ggu-in-bilaspur-cctv-sparks-outrage-10738358#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Navi Mumbai Airport To be Named After D B Patil, Says Devendra Fadnavis",
+    "summary": "Devendra Fadnavis said Navi Mumbai will emerge as the next engine of economic growth.",
+    "published": "Mon, 12 Jan 2026 23:21:33 +0530",
+    "link": "https://www.ndtv.com/india-news/navi-mumbai-airport-to-be-named-after-d-b-patil-says-devendra-fadnavis-10738000#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "India's Gen Z Is Full Of Creativity, Says PM Modi",
+    "summary": "\"Yuva Shakti is at the forefront of nation-building,\" said PM Modi (Representational)",
+    "published": "Mon, 12 Jan 2026 22:41:35 +0530",
+    "link": "https://www.ndtv.com/india-news/indias-gen-z-is-full-of-creativity-says-pm-modi-10736928#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Citizenship For Rs 30,000? NDTV Report On Illegal Immigration In Mumbai",
+    "summary": "India's border states, such as Assam, Tripura, and West Bengal, frequently make headlines regarding illegal infiltration, a major political flashpoint.",
+    "published": "Mon, 12 Jan 2026 22:41:14 +0530",
+    "link": "https://www.ndtv.com/india-news/mumbai-hub-of-illegal-immigrants-malvani-pattern-and-voter-ids-at-rs-30-000-10736019#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "\"Not A 'Milap', But A 'Vilap'\": Eknath Shinde Slams Thackeray Brothers' Reunion",
+    "summary": "Eknath Shinde described the upcoming BMC election as the \"final over\" to clean up corruption",
+    "published": "Mon, 12 Jan 2026 22:27:21 +0530",
+    "link": "https://www.ndtv.com/india-news/no-power-on-earth-can-take-mumbai-away-from-maharashtra-eknath-shinde-10736370#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Delhi's Minimum Temperature Drops To 3.2 Degrees Celsius Amid Cold Wave",
+    "summary": "The maximum temperature in Delhi was recorded at 20.6 degrees Celsius (File)",
+    "published": "Mon, 12 Jan 2026 21:41:43 +0530",
+    "link": "https://www.ndtv.com/india-news/delhis-minimum-temperature-drops-to-3-2-degrees-celsius-amid-cold-wave-10736263#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Telangana Employees To Face 10% Salary Cut For Not Taking Care Of Parents",
+    "summary": "(Representational Image)",
+    "published": "Mon, 12 Jan 2026 21:28:53 +0530",
+    "link": "https://www.ndtv.com/india-news/telangana-employees-to-face-10-salary-cut-for-not-taking-care-of-parents-10736173#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Indore Contaminated Water Deaths Rise To 23, Residents Live With Fear",
+    "summary": "Hospital data indicates the pressure on critical care remains high and unstable",
+    "published": "Mon, 12 Jan 2026 21:25:15 +0530",
+    "link": "https://www.ndtv.com/india-news/indore-contaminated-water-deaths-rise-to-23-residents-live-with-fear-10736153#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Obscenity At Chhattisgarh Dance Programme, One More Cop Suspended",
+    "summary": "The six-day programme took place in Chhattisgarh's Urmal village.",
+    "published": "Mon, 12 Jan 2026 21:23:16 +0530",
+    "link": "https://www.ndtv.com/india-news/obscenity-at-chhattisgarh-dance-programme-one-more-cop-suspended-10736140#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Woman With 4 Children Allowed To Contest Nagpur Civic Polls. Law Says She Can't",
+    "summary": "Pushpa Waghmare, a mother of four, is contesting the Nagpur Municipal Corporation elections",
+    "published": "Mon, 12 Jan 2026 21:13:12 +0530",
+    "link": "https://www.ndtv.com/india-news/woman-with-4-children-allowed-to-contest-nagpur-civic-polls-law-says-she-cant-10736077#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Gold Hits Lifetime High, Silver Soars 6% To Record Rs 2.65 Lakh Per kg",
+    "summary": "Spot silver in the international trade rose by USD 4.3 (Representational)",
+    "published": "Mon, 12 Jan 2026 21:04:04 +0530",
+    "link": "https://www.ndtv.com/india-news/gold-hits-lifetime-high-silver-soars-6-to-record-rs-2-65-lakh-per-kg-10736034#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Tell HN: DigitalOcean's managed services broke each other after update",
+    "summary": "<p>Yesterday my production app went down. The cause? DigitalOcean's managed PostgreSQL update broke private VPC connectivity to their managed Kubernetes.<p>Public endpoint worked. Private endpoint timed out. Root cause: a Cilium bug (#34503) where ARP entries go stale after infrastructure changes.<p>DO support responded relatively quickly (<12hrs). Their fix? Deploy a DaemonSet from a random GitHub user to ping stale ARP entries every 10 seconds. The upstream Cilium fix is merged but not yet deployed to DOKS. No ETA.<p>I chose managed services specifically to avoid ops emergencies. We're a tiny startup paying the premium so someone else handles this. Instead, I spent late night hours debugging VPC routing issues in a networking layer I don't control.<p>HN's usual advice is \"just use managed services, focus on the business.\" Generally good advice. But managed doesn't mean worry-free, it means trading your failure modes for the vendor's failure modes. You're not choosing between problems and no problems. You're choosing between problems you control and (fewer?) problems you don't.<p>Still using DO. Still using managed services. Just with fewer illusions about what \"managed\" means.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46596075\">https://news.ycombinator.com/item?id=46596075</a></p>\n<p>Points: 39</p>\n<p># Comments: 18</p>",
+    "published": "Tue, 13 Jan 2026 00:48:11 +0000",
+    "link": "https://news.ycombinator.com/item?id=46596075",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Google removes AI health summaries after investigation finds dangerous flaws",
+    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/\">https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46595419\">https://news.ycombinator.com/item?id=46595419</a></p>\n<p>Points: 106</p>\n<p># Comments: 58</p>",
+    "published": "Mon, 12 Jan 2026 23:05:04 +0000",
+    "link": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "F2 (YC S25) Is Hiring",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer\">https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46595130\">https://news.ycombinator.com/item?id=46595130</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Mon, 12 Jan 2026 22:30:33 +0000",
+    "link": "https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Fabrice Bellard's TS Zip (2024)",
+    "summary": "<p>Article URL: <a href=\"https://www.bellard.org/ts_zip/\">https://www.bellard.org/ts_zip/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46593802\">https://news.ycombinator.com/item?id=46593802</a></p>\n<p>Points: 116</p>\n<p># Comments: 46</p>",
+    "published": "Mon, 12 Jan 2026 20:26:47 +0000",
+    "link": "https://www.bellard.org/ts_zip/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The chess bot on Delta Air Lines will destroy you (2024) [video]",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=c0mLhHDcY3I\">https://www.youtube.com/watch?v=c0mLhHDcY3I</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46593395\">https://news.ycombinator.com/item?id=46593395</a></p>\n<p>Points: 175</p>\n<p># Comments: 128</p>",
+    "published": "Mon, 12 Jan 2026 19:57:37 +0000",
+    "link": "https://www.youtube.com/watch?v=c0mLhHDcY3I",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Cowork: Claude Code for the rest of your work",
+    "summary": "<p>Article URL: <a href=\"https://claude.com/blog/cowork-research-preview\">https://claude.com/blog/cowork-research-preview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46593022\">https://news.ycombinator.com/item?id=46593022</a></p>\n<p>Points: 706</p>\n<p># Comments: 356</p>",
+    "published": "Mon, 12 Jan 2026 19:27:19 +0000",
+    "link": "https://claude.com/blog/cowork-research-preview",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Clearspace (YC W23) Is Hiring an Applied Researcher (ML)",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace\">https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46592461\">https://news.ycombinator.com/item?id=46592461</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Mon, 12 Jan 2026 18:41:47 +0000",
+    "link": "https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Fall asleep by watching JavaScript load",
+    "summary": "<p>Article URL: <a href=\"https://github.com/sarusso/bedtime\">https://github.com/sarusso/bedtime</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46592376\">https://news.ycombinator.com/item?id=46592376</a></p>\n<p>Points: 54</p>\n<p># Comments: 17</p>",
+    "published": "Mon, 12 Jan 2026 18:36:12 +0000",
+    "link": "https://github.com/sarusso/bedtime",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Yolobox \u2013 Run AI coding agents with full sudo without nuking home dir",
+    "summary": "<p>Article URL: <a href=\"https://github.com/finbarr/yolobox\">https://github.com/finbarr/yolobox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46592344\">https://news.ycombinator.com/item?id=46592344</a></p>\n<p>Points: 61</p>\n<p># Comments: 48</p>",
+    "published": "Mon, 12 Jan 2026 18:34:02 +0000",
+    "link": "https://github.com/finbarr/yolobox",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Postal Arbitrage",
+    "summary": "<p>Article URL: <a href=\"https://walzr.com/postal-arbitrage\">https://walzr.com/postal-arbitrage</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46591708\">https://news.ycombinator.com/item?id=46591708</a></p>\n<p>Points: 300</p>\n<p># Comments: 152</p>",
+    "published": "Mon, 12 Jan 2026 17:41:50 +0000",
+    "link": "https://walzr.com/postal-arbitrage",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Message Queues: A Simple Guide with Analogies (2024)",
+    "summary": "<p>Article URL: <a href=\"https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html\">https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46591402\">https://news.ycombinator.com/item?id=46591402</a></p>\n<p>Points: 80</p>\n<p># Comments: 25</p>",
+    "published": "Mon, 12 Jan 2026 17:17:09 +0000",
+    "link": "https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Carma (YC W24 clients, A in 6mo) Eng hiring: Replace $500B human fleet ops with AI",
+    "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46591170\">https://news.ycombinator.com/item?id=46591170</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Mon, 12 Jan 2026 17:00:48 +0000",
+    "link": "https://news.ycombinator.com/item?id=46591170",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: AI in SolidWorks",
+    "summary": "<p>Hey HN! We\u2019re Will and Jorge, and we\u2019ve built LAD (Language-Aided Design), a SolidWorks add-in that uses LLMs to create sketches, features, assemblies, and macros from conversational inputs (<a href=\"https://www.trylad.com/\" rel=\"nofollow\">https://www.trylad.com/</a>).<p>We come from software engineering backgrounds where tools like Claude Code and Cursor have come to dominate, but when poking around CAD systems a few months back we realized there's no way to go from a text prompt input to a modeling output in any of the major CAD systems. In our testing, the LLMs aren't as good at making 3D objects as they are are writing code, but we think they'll get a lot better in the upcoming months and years.<p>To bridge this gap, we've created LAD, an add-in in SolidWorks to turn conversational input and uploaded documents/images into parts, assemblies, and macros. It includes:<p>- Dozens of tools the LLM can call to create sketches, features, and other objects in parts.<p>- Assembly tools the LLM can call to turn parts into assemblies.<p>- File system tools the LLM can use to create, save, search, and read SolidWorks files and documentation.<p>- Macro writing/running tools plus a SolidWorks API documentation search so the LLM can use macros.<p>- Automatic screenshots and feature tree parsing to provide the LLM context on the current state.<p>- Checkpointing to roll back unwanted edits and permissioning to determine which commands wait for user permission.<p>You can try LAD at <a href=\"https://www.trylad.com/\" rel=\"nofollow\">https://www.trylad.com/</a> and let us know what features would make it more useful for your work. To be honest, the LLMs aren't great at CAD right now, but we're mostly curious to hear if people would want and use this if it worked well.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46591100\">https://news.ycombinator.com/item?id=46591100</a></p>\n<p>Points: 137</p>\n<p># Comments: 76</p>",
+    "published": "Mon, 12 Jan 2026 16:56:17 +0000",
+    "link": "https://www.trylad.com",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Building a 25 Gbit/s workstation for the SCION Association",
+    "summary": "<p>Article URL: <a href=\"https://github.com/scionassociation/blog-25gbit-workstation\">https://github.com/scionassociation/blog-25gbit-workstation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46590541\">https://news.ycombinator.com/item?id=46590541</a></p>\n<p>Points: 67</p>\n<p># Comments: 26</p>",
+    "published": "Mon, 12 Jan 2026 16:20:16 +0000",
+    "link": "https://github.com/scionassociation/blog-25gbit-workstation",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
+    "summary": "<p>Article URL: <a href=\"https://github.com/haykgrigo3/TimeCapsuleLLM\">https://github.com/haykgrigo3/TimeCapsuleLLM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46590280\">https://news.ycombinator.com/item?id=46590280</a></p>\n<p>Points: 513</p>\n<p># Comments: 211</p>",
+    "published": "Mon, 12 Jan 2026 16:04:27 +0000",
+    "link": "https://github.com/haykgrigo3/TimeCapsuleLLM",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Apple picks Google's Gemini to power Siri",
+    "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html\">https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46589675\">https://news.ycombinator.com/item?id=46589675</a></p>\n<p>Points: 694</p>\n<p># Comments: 405</p>",
+    "published": "Mon, 12 Jan 2026 15:22:21 +0000",
+    "link": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Date is out, Temporal is in",
+    "summary": "<p>Article URL: <a href=\"https://piccalil.li/blog/date-is-out-and-temporal-is-in/\">https://piccalil.li/blog/date-is-out-and-temporal-is-in/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46589658\">https://news.ycombinator.com/item?id=46589658</a></p>\n<p>Points: 331</p>\n<p># Comments: 119</p>",
+    "published": "Mon, 12 Jan 2026 15:20:36 +0000",
+    "link": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Agent-of-empires: OpenCode and Claude Code session manager",
+    "summary": "<p>Hi! I\u2019m Nathan: an ML Engineer at Mozilla.ai: I built agent-of-empires (aoe): a CLI application to help you manage all of your running Claude Code/Opencode sessions and know when they are waiting for you.<p>- Written in rust and relies on tmux for security and reliability\n- Monitors state of cli sessions to tell you when an agent is running vs idle vs waiting for your input\n- Manage sessions by naming them, grouping them, configuring profiles for various settings<p>I'm passionate about getting self-hosted open-weight LLMs to be valid options to compete with proprietary closed models. One roadblock for me is that although tools like opencode allow you to connect to Local LLMs (Ollama, lm studio, etc), they generally run muuuuuch slower than models hosted by Anthropic and OpenAI. I would start a coding agent on a task, but then while I was sitting waiting for that task to complete, I would start opening new terminal windows to start multitasking. Pretty soon, I was spending a lot of time toggling between terminal windows to see which one needed me: like help in adding a clarification, approving a new command, or giving it a new task.<p>That\u2019s why I build agent-of-empires (\u201caoe\u201d). With aoe, I can launch a bunch of opencode and Claude Code sessions and quickly see their status or toggle between them, which helps me avoid having a lot of terminal windows open, or having to manually attach and detach from tmux sessions myself. It\u2019s helping me give local LLMs a fair try, because them being slower is now much less of a bottleneck.<p>You can give it an install with<p>curl -fsSL <a href=\"https://raw.githubusercontent.com/njbrake/agent-of-empires/main/scripts/install.sh\" rel=\"nofollow\">https://raw.githubusercontent.com/njbrake/agent-of-empires/m...</a>  | bash<p>Or brew install njbrake/aoe/aoe<p>And then launch by simply entering the command `aoe`.<p>I\u2019m interested in what you think as well as what features you think would be useful to add!<p>I am planning to add some further features around sandboxing (with docker) as well as support for intuitive git worktrees and am curious if there are any opinions about what should or shouldn\u2019t be in it.<p>I decided against MCP management or generic terminal usage, to help keep the tool focused on parts of agentic coding that I haven\u2019t found a usable solution for.<p>I hit the character limit on this post which prevented me from including a view of the output, but the readme on the github link has a screenshot showing what it looks like.<p>Thanks!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46588905\">https://news.ycombinator.com/item?id=46588905</a></p>\n<p>Points: 72</p>\n<p># Comments: 19</p>",
+    "published": "Mon, 12 Jan 2026 14:23:07 +0000",
+    "link": "https://github.com/njbrake/agent-of-empires",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "LLVM: The bad parts",
+    "summary": "<p>Article URL: <a href=\"https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html\">https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46588837\">https://news.ycombinator.com/item?id=46588837</a></p>\n<p>Points: 293</p>\n<p># Comments: 57</p>",
+    "published": "Mon, 12 Jan 2026 14:18:13 +0000",
+    "link": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The best robot vacuums we\u2019ve tested for 2026",
+    "summary": "Robot vacuums are impressive devices that will clean your floors well and \u2014 thanks to bigger batteries and better robot brains \u2014 rarely get tired of doing their job. Over the last few years, these floor-sweeping bots have gone from utilitarian devices to full-fledged home robots that vacuum and mop your home, clean themselves, and [&#8230;]",
+    "published": "2026-01-12T19:04:56-05:00",
+    "link": "https://www.theverge.com/22997597/best-robot-vacuum-cleaner",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Fired Rockstar employees\u2019 plea for interim pay denied",
+    "summary": "A UK employment tribunal rejected a request from fired Rockstar Games employees to receive interim pay while waiting for a full hearing about their dismissal, according to Bloomberg and IGN. After Rockstar fired 34 employees last year - 31 from the UK and three from Canada - the Independent Workers' Union of Great Britain (IWGB) [&#8230;]",
+    "published": "2026-01-12T17:25:39-05:00",
+    "link": "https://www.theverge.com/news/861004/rockstar-fired-union-workers-pay",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Framework hikes desktop PC prices as RAM shortage drags on",
+    "summary": "Just weeks after raising the price of its RAM modules, Framework has announced that it's also increasing the price of its desktop PC in response to the global memory shortage. The Framework Desktop with 32GB of RAM and an AMD Ryzen AI Max 385 chip now starts at $1,139, instead of $1,099. \"We held off [&#8230;]",
+    "published": "2026-01-12T17:25:08-05:00",
+    "link": "https://www.theverge.com/news/860988/framework-desktop-pc-price-increase-ram-memory-shortage",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Meta plans to lay off hundreds of metaverse employees this week",
+    "summary": "Meta's Reality Labs team is expected to lose around 10 percent of its staff, with layoffs concentrated on the division's metaverse employees, as reported by The New York Times. The layoffs are apparently a side effect of Meta's AI ambitions, which are pulling focus away from its virtual reality division. According to the Times, Meta's [&#8230;]",
+    "published": "2026-01-12T17:14:58-05:00",
+    "link": "https://www.theverge.com/news/860984/meta-reality-labs-layoffs-metaverse",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Baseus\u2019 retractable travel adapter is on sale for more than 50 percent off today",
+    "summary": "If you\u2019re planning on traveling at all this year, the Baseus EnerCore CG11 Universal Travel Adapter is worth a look. The adapter can power up to six devices at once, and now through the end of today, January 12th, it\u2019s on sale for just $34.19 (about $36 off) at Amazon, matching the all-time low price [&#8230;]",
+    "published": "2026-01-12T15:04:09-05:00",
+    "link": "https://www.theverge.com/gadgets/860791/baseus-enercore-cg11-6-in-1-universal-travel-adapter-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "UK pushes up a law criminalizing deepfake nudes in response to Grok",
+    "summary": "The UK is bringing a law into force that makes creating nonconsensual intimate deepfake images, like the ones that have proliferated on X because of the Grok AI chatbot, a criminal offense, as reported by the BBC. \"The Data Act, passed last year, made it a criminal offence to create - or request the creation [&#8230;]",
+    "published": "2026-01-12T15:03:49-05:00",
+    "link": "https://www.theverge.com/news/860881/uk-ai-x-grok-law-criminalizing-deepfake-nudes-ai",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The Stranger Things behind-the-scenes doc is a lot more boring than a secret episode",
+    "summary": "It's a weird time in the Stranger Things community. Following a monthslong lead-up to a finale that was so big it screened in theaters, the show's superfans have been spending their time dissecting the fifth season in order to prove that a hidden ninth episode is coming that represents the true ending of Stranger Things. [&#8230;]",
+    "published": "2026-01-12T15:00:00-05:00",
+    "link": "https://www.theverge.com/entertainment/860692/one-last-adventure-the-making-of-stranger-things-5-netflix-review",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Anthropic wants you to use Claude to &#8216;Cowork&#8217; in latest AI agent push",
+    "summary": "Anthropic wants to expand Claude's AI agent capabilities and take advantage of the growing hype around Claude Code - and it's doing it with a brand-new feature released Monday, dubbed \"Claude Cowork.\" \"Cowork can take on many of the same tasks that Claude Code can handle, but in a more approachable form for non-coding tasks,\" [&#8230;]",
+    "published": "2026-01-12T14:30:00-05:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/860730/anthropic-cowork-feature-ai-agents-claude-code",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "New York wants to regulate Roblox",
+    "summary": "New York Gov. Kathy Hochul is making kids' online safety a cornerstone of her administration, and she's eyeing a platform that has often flown under the radar: Roblox. As progress in Congress has stagnated, states have become the primary drivers of internet reforms meant to protect kids, including age verification laws and new requirements for [&#8230;]",
+    "published": "2026-01-12T14:24:31-05:00",
+    "link": "https://www.theverge.com/policy/860727/new-york-governor-hochul-roblox-kids-online-safety",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "These are my favorite Switch 2 accessories",
+    "summary": "The Nintendo Switch 2 can be enjoyed right out of the box, but it\u2019s even better with the right accessories. Some of these add-ons are more crucial than others, especially if you\u2019re deciding what to buy early on. For example, a case and a screen protector can keep your console safe from scuffs, scratches, and [&#8230;]",
+    "published": "2026-01-12T14:00:00-05:00",
+    "link": "https://www.theverge.com/buying-guides/720160/best-switch-2-accessories",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Powell investigation: Drumbeat of Republican opposition grows on Capitol Hill",
+    "summary": "Federal Reserve Chair Jerome Powell said he was under investigation on Sunday night, the latest episode in President Donald Trump's feud with him.",
+    "published": "Tue, 13 Jan 2026 02:52:41 GMT",
+    "link": "https://www.cnbc.com/2026/01/12/powell-investigation-gop-opposition-congress.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Venezuela stocks soar 130% to record highs as Maduro's ouster spurs economic turnaround hopes",
+    "summary": "Venezuela's stock market has staged a dramatic rally following the capture of its ex-president Nicol\u00e1s Maduro.",
+    "published": "Tue, 13 Jan 2026 03:35:17 GMT",
+    "link": "https://www.cnbc.com/2026/01/13/venezuela-stocks-skyrocket-after-maduro-us-capture.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump says any country doing business with Iran will face 25% U.S. tariff",
+    "summary": "Trump's tariff post targeting Iran comes as the oil-rich country struggles to suppress an ongoing swell of massive anti-government protests.",
+    "published": "Mon, 12 Jan 2026 22:35:15 GMT",
+    "link": "https://www.cnbc.com/2026/01/12/trump-tariffs-iran-business.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "SK Hynix to invest $13 billion in new plant amid memory chip shortage",
+    "summary": "South Korea's SK Hynix will invest 19 trillion Korean won into a new advanced packaging plant, as the company attempts to meet growing memory demands.",
+    "published": "Tue, 13 Jan 2026 03:42:04 GMT",
+    "link": "https://www.cnbc.com/2026/01/13/sk-hynix-invest-13-billion-new-fab-memory-chip-shortage-advanced-packaging-ai-memory.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump says Microsoft will make changes to ensure consumers don't pay for power used in AI buildout",
+    "summary": "President Trump said in a social media post that Microsoft will \"make major changes beginning this week\" to make sure Americans don't see rising energy costs.",
+    "published": "Tue, 13 Jan 2026 00:41:24 GMT",
+    "link": "https://www.cnbc.com/2026/01/12/trump-microsoft-changes-ensure-ensure-consumers-dont-pay-for-power-ai.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Japan's Nikkei 225 jumps over 3% as expectations that ruling party will opt for a snap vote rise",
+    "summary": "Asia markets opened higher as investors shrugged off geopolitical flashpoints and a criminal investigation into Fed chair Jerome Powell.",
+    "published": "Tue, 13 Jan 2026 01:47:10 GMT",
+    "link": "https://www.cnbc.com/2026/01/13/asia-pacific-markets-nikkei-225-kospi-hang-seng-index-iran-powell.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "What the Justice Department investigation of Fed Chair Powell may mean for your money",
+    "summary": "The Justice Department's criminal investigation of Federal Reserve Chair Jerome Powell could have far-reaching impacts on consumer wallets, economists say.",
+    "published": "Mon, 12 Jan 2026 23:00:08 GMT",
+    "link": "https://www.cnbc.com/2026/01/12/fed-chair-powell-investigation.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump floats 1-year, 10% credit card interest rate cap \u2014 what that could mean for your money",
+    "summary": "President Donald Trump called for a 10% cap on credit card interest rates. Here's what experts say that could mean for cardholders, if implemented.",
+    "published": "Mon, 12 Jan 2026 22:12:54 GMT",
+    "link": "https://www.cnbc.com/2026/01/12/trump-credit-card-interest-rate-cap.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Sen. Kelly sues DOD Sec. Hegseth, says he was punished for 'disfavored political speech'",
+    "summary": "Hegseth said the Pentagon would cut Kelly's military retirement pay over his participation in a video telling U.S. troops they can refuse unlawful orders.",
+    "published": "Mon, 12 Jan 2026 21:47:20 GMT",
+    "link": "https://www.cnbc.com/2026/01/12/kelly-hegseth-lawsuit-video-pentagon.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Greenspan, Bernanke, Yellen and other past officials say Trump using 'prosecutorial attacks' to undermine Fed",
+    "summary": "Previous Federal Reserve chairs, Treasury secretaries and prominent economists came together Monday to support Jerome Powell.",
+    "published": "Mon, 12 Jan 2026 17:16:36 GMT",
+    "link": "https://www.cnbc.com/2026/01/12/greenspan-bernanke-yellen-trump-fed.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "'Sell America' trade: Dollar drops, gold surges as Trump's Fed pressure campaign raises fears about U.S. system",
+    "summary": "The \"Sell America\" trade is a hot topic after Federal Reserve Chair Jerome Powell's bombshell announcement that he's under criminal investigation",
+    "published": "Mon, 12 Jan 2026 21:58:03 GMT",
+    "link": "https://www.cnbc.com/2026/01/12/sell-america-trade-trump-powell-investigation.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Alphabet hits $4 trillion market capitalization",
+    "summary": "The milestone comes after the company surpassed Apple as the second most valuable company.",
+    "published": "Mon, 12 Jan 2026 21:07:57 GMT",
+    "link": "https://www.cnbc.com/2026/01/12/alphabet-4-trillion-market-cap.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Why this health-care stock isn't bouncing after preannouncing an earnings beat",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "published": "Mon, 12 Jan 2026 20:06:07 GMT",
+    "link": "https://www.cnbc.com/2026/01/12/why-this-health-care-stock-isnt-bouncing-after-preannouncing-beat.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "OpenAI acquires health-care technology startup Torch for $60 million, source says",
+    "summary": "Torch CEO Ilya Abyzov previously co-founded Forward, a direct-to-consumer primary care business that did patient visits with tech-enabled \"CarePods.\"",
+    "published": "Mon, 12 Jan 2026 22:47:14 GMT",
+    "link": "https://www.cnbc.com/2026/01/12/open-ai-torch-health-care-technology.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Fed Chair Powell says he's under criminal investigation, won't bow to Trump intimidation",
+    "summary": "President Donald Trump has criticized Federal Reserve chief Jerome Powell for not cutting interest rates as much and as quickly as the president wants.",
+    "published": "Mon, 12 Jan 2026 18:52:03 GMT",
+    "link": "https://www.cnbc.com/2026/01/12/fed-jerome-powell-criminal-probe-nyt.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Elizabeth Warren fears workers will 'lose big' with 401(k) crypto, presses SEC chair Atkins for answers",
+    "summary": "The SEC is preparing to help the Trump administration make crypto an investment in retirement plans, but Sen. Elizabeth Warren is voicing her concerns.",
+    "published": "Mon, 12 Jan 2026 20:53:01 GMT",
+    "link": "https://www.cnbc.com/2026/01/12/elizabeth-warren-sec-chair-paul-atkins-401k-crypto-risks.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Yellen says Powell probe 'extremely chilling' for Fed independence, market should be concerned",
+    "summary": "Former Fed Chair Janet Yellen spoke Monday to CNBC about a Department of Justice investigation into current Chair Jerome Powell.",
+    "published": "Mon, 12 Jan 2026 16:27:31 GMT",
+    "link": "https://www.cnbc.com/2026/01/12/yellen-says-powell-probe-extremely-chilling-for-fed-independence-market-should-be-concerned.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Tech investors assess minerals mining as U.S. takeover talk on Greenland grows, CEO tells CNBC",
+    "summary": "The geopolitical firestorm raging over the Arctic island has brought commercial opportunities to the fore.",
+    "published": "Mon, 12 Jan 2026 15:18:13 GMT",
+    "link": "https://www.cnbc.com/2026/01/12/tech-investors-probe-mining-viability-if-us-acquires-greenland-ceo.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Offshore wind developer prevails in U.S. court as Trump calls wind farms 'losers'",
+    "summary": "A federal judge ruled Monday that work on a major offshore wind farm can resume, handing the industry at least a temporary victory as President Trump seeks to shut it down.",
+    "published": "Mon, 12 Jan 2026 19:12:14 -0500",
+    "link": "https://www.npr.org/2026/01/12/g-s1-105808/offshore-orsted-revolution-wind-trump-court-clean-energy",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Minnesota officials sue to block Trump's immigration crackdown as enforcement intensifies",
+    "summary": "More than 2,000 federal immigration agents are in Minnesota, and that number is expected to increase. On Monday, an NPR reporter witnessed multiple instances where immigration agents drove around Minneapolis \u2014 and in parking lots of big box stores \u2014 and randomly questioned people about their immigration status.",
+    "published": "Mon, 12 Jan 2026 18:51:04 -0500",
+    "link": "https://www.npr.org/2026/01/12/nx-s1-5675315/minnesota-sues-to-block-trump-immigration-crackdown",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "In photos: A week of protests against ICE",
+    "summary": "People across the country gathered to protest against ICE over the past week.",
+    "published": "Mon, 12 Jan 2026 18:45:00 -0500",
+    "link": "https://www.npr.org/sections/the-picture-show/2026/01/12/g-s1-105725/in-photos-a-week-of-protests-against-ice",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Elon Musk's X faces bans and investigations over nonconsensual bikini images",
+    "summary": "After the social media app's AI chatbot started generating sexualized images of women and children, two countries have blocked it and several more have launched investigations.",
+    "published": "Mon, 12 Jan 2026 17:57:38 -0500",
+    "link": "https://www.npr.org/2026/01/12/nx-s1-5672579/grok-women-children-bikini-elon-musk",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "As birth rates tumble, some progressives say the Left needs to offer solutions",
+    "summary": "Many countries around the world including the US face aging and shrinking populations. Conservative groups have taken the lead talking about the issue.  Some liberal thinkers say it's time to talk about the global population shift and offer progressive solutions",
+    "published": "Mon, 12 Jan 2026 16:05:24 -0500",
+    "link": "https://www.npr.org/2026/01/12/nx-s1-5637424/as-birth-rates-tumble-some-progressives-say-the-left-needs-to-offer-solutions",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Trump administration tells states to end 'orphan tax' on foster kids",
+    "summary": "There's a growing move to end what some call \"the orphan tax\" and stop states from taking benefit checks from children and youth in foster care.",
+    "published": "Mon, 12 Jan 2026 16:02:02 -0500",
+    "link": "https://www.npr.org/2026/01/08/nx-s1-5608066/foster-care-social-security-orphans-hhs",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Flu shot recommendation for kids dropped just as the illness rages",
+    "summary": "The Centers for Disease Control and Prevention dropped its advice that kids get an annual flu shot at a time when flu cases and hospitalizations are surging.",
+    "published": "Mon, 12 Jan 2026 16:01:37 -0500",
+    "link": "https://www.npr.org/sections/shots-health-news/2026/01/12/nx-s1-5668378/flu-vaccine-children-cdc",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Trump calls for a 10% cap on credit card interest rates",
+    "summary": "With credit card interest rates near modern highs, President Trump says he wants to cap the rates for one year.",
+    "published": "Mon, 12 Jan 2026 15:51:42 -0500",
+    "link": "https://www.npr.org/2026/01/12/nx-s1-5675151/trump-credit-card-interest-rate-cap",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "A judge orders HHS to restore children's health funding as a lawsuit continues",
+    "summary": "The judge ordered the restoration of nearly $12 million in funding to the American Academy of Pediatrics, including money for rural health care and the identification of disabilities in children.",
+    "published": "Mon, 12 Jan 2026 14:14:30 -0500",
+    "link": "https://www.npr.org/2026/01/12/g-s1-105740/a-judge-orders-hhs-to-restore-childrens-health-funding-as-a-lawsuit-continues",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "'I look foolish' - Nayar admits batting shuffle misfire in UP Warriorz's second loss",
+    "summary": "UPW head coach said promoting Deol to open and slotting in Navgire at No. 4 against RCB was a 'call based on the opposition' which 'didn't work'",
+    "published": "Tue, 13 Jan 2026 03:48:46 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1519299.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Australia captain Healy to retire from cricket after India series",
+    "summary": "The announcement from Healy, 35, means Australia will go into the 2026 Women's T20 World Cup with a new captain",
+    "published": "Mon, 12 Jan 2026 23:38:10 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1519286.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Rutherford' 53, Peters' three-for puts MICT on the brink of elimination",
+    "summary": "Capitals moved to the top the table after winning by a hefty 53-run margin",
+    "published": "Mon, 12 Jan 2026 20:06:56 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1519290.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Hundred teams lock in early picks for 2026",
+    "summary": "January 16 deadline approaches to finalise retentions and direct signings ahead of inaugural auctions in March",
+    "published": "Mon, 12 Jan 2026 16:24:45 GMT",
+    "link": "https://www.espncricinfo.com/county-cricket-2017/content/story/1519261.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
   }
 ]
