@@ -1,0 +1,562 @@
+[
+  {
+    "title": "Adobe Acrobat now lets you edit files using prompts, generate podcast summaries",
+    "summary": "Adobe is adding AI tools to Acrobat, including the ability to generate podcast summaries of files, create presentations, and a way for users to edit files using prompts.",
+    "published": "Wed, 21 Jan 2026 14:16:53 +0000",
+    "link": "https://techcrunch.com/2026/01/21/adobe-acrobat-now-lets-you-edit-files-using-prompts-generate-podcast-summaries/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "NYT Games\u2019 Scrabble-like game Crossplay is a dream come true",
+    "summary": "This new Scrabble inspired game is a distraction-free alternative to ad-loaded competitors like Words With Friends.",
+    "published": "Wed, 21 Jan 2026 14:00:00 +0000",
+    "link": "https://techcrunch.com/2026/01/21/nyt-games-scrabble-like-game-crossplay-is-a-dream-come-true/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "PraxisPro raises $6M seed from AlleyCorp to coach medical sales reps",
+    "summary": "PraxisPro, founded by a former pharma sales rep, offers small language model AI training specifically designed for medical product sales.",
+    "published": "Wed, 21 Jan 2026 14:00:00 +0000",
+    "link": "https://techcrunch.com/2026/01/21/praxispro-raises-6m-seed-from-alleycorp-to-coach-medical-sales-reps/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Lemonade launches an insurance product for Tesla Full Self-Driving customers",
+    "summary": "Lemonade says it worked with Tesla to gain access to previously-restricted vehicle telemetry data, but declined to offer specifics.",
+    "published": "Wed, 21 Jan 2026 13:30:00 +0000",
+    "link": "https://techcrunch.com/2026/01/21/lemonade-launches-an-insurance-product-for-tesla-full-self-driving-customers/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Eternal CEO Deepinder Goyal hands over reins to Blinkit chief as quick commerce takes off",
+    "summary": "Deepinder Goyal will remain on Eternal's board as its vice chairman.",
+    "published": "Wed, 21 Jan 2026 13:05:48 +0000",
+    "link": "https://techcrunch.com/2026/01/21/eternal-ceo-deepinder-goyal-hands-over-reins-to-blinkit-chief-as-quick-commerce-takes-off/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Zanskar thinks 1 TW of geothermal power is being overlooked",
+    "summary": "Zanskar has raised $115 million to find about a dozen geothermal resources that could help power the grid throughout the U.S. West.",
+    "published": "Wed, 21 Jan 2026 13:00:00 +0000",
+    "link": "https://techcrunch.com/2026/01/21/zanskar-thinks-1-tw-of-geothermal-power-is-being-overlooked/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Language learning marketplace Preply\u2019s unicorn status embodies Ukrainian resilience",
+    "summary": "Language learning marketplace Preply is now valued at $1.2 billion after raising a $150 million that marks a new chapter for the 14-year-old company.",
+    "published": "Wed, 21 Jan 2026 12:00:00 +0000",
+    "link": "https://techcrunch.com/2026/01/21/language-learning-marketplace-preplys-unicorn-status-embodies-ukrainian-resilience/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "India\u2019s app downloads rebounded to 25.5 billion in 2025, fueled by AI assistants and microdrama boom",
+    "summary": "ChatGPT was the second most downloaded app in India for 2025 after Instagram.",
+    "published": "Wed, 21 Jan 2026 11:30:00 +0000",
+    "link": "https://techcrunch.com/2026/01/21/indias-app-downloads-rebounded-to-25-5-billion-in-2025-fueled-by-ai-assistants-and-microdrama-boom/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Consumers spent more on mobile apps than games in 2025, driven by AI app adoption",
+    "summary": "Consumers spent more money in mobile apps than games in 2025, driven by AI app adoption.",
+    "published": "Wed, 21 Jan 2026 11:30:00 +0000",
+    "link": "https://techcrunch.com/2026/01/21/consumers-spent-more-on-mobile-apps-than-games-in-2025-driven-by-ai-app-adoption/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Snap reaches settlement in social media addiction lawsuit",
+    "summary": "Snap is still a defendant in similar cases related to social media addiction.",
+    "published": "Wed, 21 Jan 2026 07:21:32 +0000",
+    "link": "https://techcrunch.com/2026/01/20/snap-reaches-settlement-in-social-media-addiction-lawsuit/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Amagi slides in India debut, as cloud TV software firm tests investor appetite",
+    "summary": "Amagi shares debuted at a 12% discount, offering an early read on investor demand for a rare type of tech listing in India.",
+    "published": "Wed, 21 Jan 2026 06:23:46 +0000",
+    "link": "https://techcrunch.com/2026/01/20/amagi-slides-in-india-debut-as-cloud-tv-software-firm-tests-investor-appetite/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform",
+    "summary": "Bolna said that 75% of its revenue is coming from self-serve customers.",
+    "published": "Wed, 21 Jan 2026 02:00:00 +0000",
+    "link": "https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Anthropic\u2019s CEO stuns Davos with Nvidia criticism",
+    "summary": "Anthropic CEO Dario Amodei unloaded on both the administration and U.S. chip companies over plans to sell to China. The criticism was particularly notable because one of those chipmakers, Nvidia, is a major partner and investor in Anthropic.",
+    "published": "Wed, 21 Jan 2026 01:39:58 +0000",
+    "link": "https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Netflix to redesign its app as it competes with social platforms for daily engagement",
+    "summary": "At the center of the redesign is deeper integration of vertical video feeds, which the streaming giant has been experimenting with since May.",
+    "published": "Wed, 21 Jan 2026 00:47:09 +0000",
+    "link": "https://techcrunch.com/2026/01/20/netflix-to-redesign-its-app-as-it-competes-with-social-platforms-for-daily-engagement/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "One-time hot insurance tech Ethos poised to be first tech IPO of the year",
+    "summary": "Ethos was backed by a who's who of VCs and celebs through 2021. It is currently profitable, it says.",
+    "published": "Tue, 20 Jan 2026 23:36:32 +0000",
+    "link": "https://techcrunch.com/2026/01/20/one-time-hot-insurance-tech-ethos-poised-to-be-first-tech-ipo-of-the-year/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "In an effort to protect young users, ChatGPT will now predict how old you are",
+    "summary": "The feature is designed to stop problematic content from being delivered to users under the age of 18.",
+    "published": "Tue, 20 Jan 2026 23:29:56 +0000",
+    "link": "https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Elon Musk says Tesla\u2019s restarted Dojo3 will be for \u2018space-based AI compute\u2019",
+    "summary": "Tesla aims to restart work on Dojo3, its previously abandoned third-generation AI chip. Only this time, Dojo3 won\u2019t be aimed at training self-driving models on Earth. Instead, Musk says it will be dedicated to \u201cspace-based AI compute.\u201d",
+    "published": "Tue, 20 Jan 2026 22:10:41 +0000",
+    "link": "https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "X open sources its algorithm while facing a transparency fine and Grok controversies",
+    "summary": "In a post to GitHub on Tuesday, the social media giant purported to share its secret sauce.",
+    "published": "Tue, 20 Jan 2026 21:37:09 +0000",
+    "link": "https://techcrunch.com/2026/01/20/x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Luminar founder Austin Russell agrees to accept subpoena in bankruptcy case",
+    "summary": "The agreement comes two weeks after Luminar accused its billionaire founder of dodging information requests, as it evaluates potential legal claims.",
+    "published": "Tue, 20 Jan 2026 21:32:47 +0000",
+    "link": "https://techcrunch.com/2026/01/20/luminar-founder-austin-russell-agrees-to-accept-subpoena-in-bankruptcy-case/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Why Serve Robotics is\u00a0acquiring\u00a0a hospital assistant robot company",
+    "summary": "Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million.",
+    "published": "Tue, 20 Jan 2026 21:30:00 +0000",
+    "link": "https://techcrunch.com/2026/01/20/why-serve-robotics-is-acquiring-a-hospital-assistant-robot-company/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Instagram\u2019s top boss is missing the point about AI on the platform",
+    "summary": "A couple of weeks ago, Adam Mosseri posted to his grid. In a series of messages, Instagram's top exec laid out his concerns for the platform in the coming year, largely around AI. The post was equal parts Working Through It, a sounding of alarms, and a rallying cry to creators who use the platform: [&#8230;]",
+    "published": "2026-01-21T09:15:00-05:00",
+    "link": "https://www.theverge.com/tech/864768/instagram-adam-mosseri-ai-content-algorithm",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "YouTube TV will launch custom multiview and channel packages \u2018soon\u2019",
+    "summary": "YouTube TV is getting ready to launch two major updates that will allow you to watch multiple non-sports channels simultaneously, as well as choose from 10 new paid plans focused on a range of topics, including sports, entertainment, and news. In his annual letter to users, YouTube CEO Neal Mohan says both of these changes [&#8230;]",
+    "published": "2026-01-21T09:00:00-05:00",
+    "link": "https://www.theverge.com/news/864566/youtube-tv-custom-multiview-channel-packages",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "YouTubers will be able to make Shorts with their own AI likenesses",
+    "summary": "Your YouTube Shorts feed might soon be filled with a lot more AI-generated content from your favorite creators - including AI-generated versions of the creators themselves. In his annual letter released today, YouTube CEO Neal Mohan says that sometime this year, creators will be able to make Shorts using their \"own likeness.\" Mohan didn't share [&#8230;]",
+    "published": "2026-01-21T09:00:00-05:00",
+    "link": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Adobe Acrobat uses AI to turn your PDFs into podcasts",
+    "summary": "Adobe has added new generative AI features to Acrobat that aim to help you quickly edit PDFs and summarize them in audio and visual formats. These updates include chat-based editing and the ability to generate personalized podcasts and presentations based on your docs, which are now available in Acrobat Studio - the AI-infused document workspace [&#8230;]",
+    "published": "2026-01-21T09:00:00-05:00",
+    "link": "https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Detective games get extra cryptic with TR-49\u2019s code-breaking mystery",
+    "summary": "We're living in a pretty great time for detective games. Over the last few years, developers have been experimenting with all kinds of different ways of turning the act of investigation into a compelling game, which has led to the likes of Her Story, Return of the Obra Dinn, and the Golden Idol series, to [&#8230;]",
+    "published": "2026-01-21T08:30:00-05:00",
+    "link": "https://www.theverge.com/games/864630/tr49-review-steam-iphone",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Burritos from Heaven: Are drones the future of delivery?",
+    "summary": "On a blustery afternoon late last year, on the lawn just outside City Hall in Rowlett, Texas, a strange-looking craft cleared the trees just before me. It hovered overhead for a moment before lowering a second craft on a thin rope all the way to a parched patch of grass. The little, white thing deposited [&#8230;]",
+    "published": "2026-01-21T07:00:00-05:00",
+    "link": "https://www.theverge.com/tech/864601/zipline-drone-delivery-food-takeout-texas",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "What a Sony and TCL partnership means for the future of TVs",
+    "summary": "I'm not sure anyone saw this news coming, but the TV landscape as we know it could change considerably over the next year or two. Sony, the storied Japanese TV brand, has announced that it has signed a memorandum of understanding with its Chinese competitor TCL. This potential partnership - with TCL set to hold [&#8230;]",
+    "published": "2026-01-21T07:00:00-05:00",
+    "link": "https://www.theverge.com/tech/864745/sony-tcl-tvs-partnership-explained",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "OpenAI says its data centers will pay for their own energy and limit water usage",
+    "summary": "OpenAI says it will minimize water use and pay for energy infrastructure upgrades needed to power its data centers. \"We're being good neighbors,\" the company said, directly addressing the growing opposition to AI projects amid rising utility bills. \"We commit to paying our own way on energy, so that our operations don't increase your electricity [&#8230;]",
+    "published": "2026-01-21T05:58:15-05:00",
+    "link": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "ChatGPT is using age prediction to restrict what minors see",
+    "summary": "OpenAI has added age prediction features to ChatGPT, meant to identify and bolster protections for underage users. These age detection plans were announced in December alongside updated guidelines for interacting with teens and follow a rise in similar age-gating efforts from online platforms, including Instagram, YouTube, TikTok, and Roblox. ChatGPT's age prediction model works by [&#8230;]",
+    "published": "2026-01-21T05:23:14-05:00",
+    "link": "https://www.theverge.com/news/864784/openai-chatgpt-age-prediction-restrictions-rollout",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "One year in, Big Tech has out-maneuvered MAGA populists",
+    "summary": "Welcome to Regulator, a newsletter for Verge subscribers about the technology and the tech bros upending American politics and the Trump administration. If you're not a subscriber yet, and you're interested in Silicon Valley's adventures in sausage-making, you should do so here! It's Q1! Surely the corporate budget will allow for it. Precisely one year [&#8230;]",
+    "published": "2026-01-20T22:33:00-05:00",
+    "link": "https://www.theverge.com/column/864759/big-tech-trump-one-year-in",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
+    "summary": "The web's best guide to spotting AI writing has become a manual for hiding it.",
+    "published": "Wed, 21 Jan 2026 12:15:23 +0000",
+    "link": "https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Webb reveals a planetary nebula with phenomenal clarity, and it is spectacular",
+    "summary": "The colors show the star\u2019s final breath transforming into the raw ingredients for new worlds.",
+    "published": "Tue, 20 Jan 2026 23:33:57 +0000",
+    "link": "https://arstechnica.com/space/2026/01/webb-has-given-us-with-a-stunning-new-view-of-a-well-known-planetary-nebula/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Zuck stuck on Trump\u2019s bad side: FTC appeals loss in Meta monopoly case",
+    "summary": "FTC will appeal ruling that found Meta has no monopoly in social networking.",
+    "published": "Tue, 20 Jan 2026 23:22:26 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/01/zuck-stuck-on-trumps-bad-side-ftc-appeals-loss-in-meta-monopoly-case/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Verizon starts requiring 365 days of paid service before it will unlock phones",
+    "summary": "Verizon changed prepaid brands' policy a week after FCC waived unlocking rule.",
+    "published": "Tue, 20 Jan 2026 22:35:32 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Google temporarily disabled YouTube's advanced captions without warning",
+    "summary": "Google says SRV3 captions were causing playback errors, so it has \"temporarily\" disabled them.",
+    "published": "Tue, 20 Jan 2026 22:17:02 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/01/google-temporarily-disabled-youtubes-advanced-captions-without-warning/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Flesh-eating flies are eating their way through Mexico, CDC warns",
+    "summary": "Eight animal cases in Mexico's Tamaulipas spur CDC to warn doctors of festering wounds.",
+    "published": "Tue, 20 Jan 2026 21:59:38 +0000",
+    "link": "https://arstechnica.com/health/2026/01/be-on-the-lookout-for-flesh-eating-flies-cdc-tells-clinicians-in-alert/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Macaque facial gestures are more than just a reflex, study finds",
+    "summary": "Study is first to implant micro-electrode arrays to record neurons as they produce facial gestures.",
+    "published": "Tue, 20 Jan 2026 21:25:30 +0000",
+    "link": "https://arstechnica.com/science/2026/01/macaque-facial-gestures-are-more-than-just-a-reflex-study-finds/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Netflix to pay all cash for Warner Bros. to fend off Paramount hostile takeover",
+    "summary": "Netflix and Warner seek quick shareholder vote as Paramount tries to upend deal.",
+    "published": "Tue, 20 Jan 2026 19:24:12 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/01/netflix-to-pay-all-cash-for-warner-bros-to-fend-off-paramount-hostile-takeover/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Sony is giving TCL control over its high-end Bravia TVs",
+    "summary": "TCL will own 51 percent of the high-end TVs.",
+    "published": "Tue, 20 Jan 2026 18:58:22 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/01/tcl-to-gain-majority-ownership-over-sonys-bravia-tvs/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The first commercial space station, Haven-1, is now undergoing assembly for launch",
+    "summary": "\"We have a very strong incentive to send a crew as quickly as we can safely do so.\"",
+    "published": "Tue, 20 Jan 2026 15:00:04 +0000",
+    "link": "https://arstechnica.com/space/2026/01/the-first-commercial-space-station-haven-1-is-now-undergoing-assembly-for-launch/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The fastest human spaceflight mission in history crawls closer to liftoff",
+    "summary": "After a remarkably smooth launch campaign, Artemis II reached its last stop before the Moon.",
+    "published": "Mon, 19 Jan 2026 22:01:52 +0000",
+    "link": "https://arstechnica.com/space/2026/01/nasas-artemis-ii-rocket-rolls-to-launch-pad-but-key-test-looms-ahead/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The first new Marathon game in decades will launch on March 5",
+    "summary": "Development hasn't exactly been smooth since the extraction shooter's 2023 announcement.",
+    "published": "Mon, 19 Jan 2026 21:07:55 +0000",
+    "link": "https://arstechnica.com/gaming/2026/01/bungies-delayed-marathon-revival-will-finally-launch-march-5/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Signs point to a sooner-rather-than-later M5 MacBook Pro refresh",
+    "summary": "Delayed shipping times for current models sometimes means an update is imminent.",
+    "published": "Mon, 19 Jan 2026 19:52:22 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/01/signs-point-to-a-sooner-rather-than-later-m5-macbook-pro-refresh/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Elon Musk accused of making up math to squeeze $134B from OpenAI, Microsoft",
+    "summary": "Musk's math reduced ChatGPT inventors' contributions to \"zero,\" OpenAI argued.",
+    "published": "Mon, 19 Jan 2026 19:04:18 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/01/elon-musk-accused-of-making-up-math-to-squeeze-134b-from-openai-microsoft/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Asus confirms its smartphone business is on indefinite hiatus",
+    "summary": "Asus chairman Jonney Shih sees AI applications as the company's main focus going forward.",
+    "published": "Mon, 19 Jan 2026 18:24:49 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/01/asus-confirms-its-smartphone-business-is-on-indefinite-hiatus/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Reports of ad-supported Xbox game streams show Microsoft's lack of imagination",
+    "summary": "Xbox maker needs some fresher ideas for expanding access to cloud gaming.",
+    "published": "Mon, 19 Jan 2026 17:16:38 +0000",
+    "link": "https://arstechnica.com/gaming/2026/01/reports-of-ad-supported-xbox-game-streams-show-microsofts-lack-of-imagination/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The race to build a super-large ground telescope is likely down to two competitors",
+    "summary": "Ars checks in with the new president of the Giant Magellan Telescope.",
+    "published": "Mon, 19 Jan 2026 17:06:28 +0000",
+    "link": "https://arstechnica.com/space/2026/01/as-europes-large-ground-telescope-project-advances-how-is-its-us-competitor-faring/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Meet Veronika, the tool-using cow",
+    "summary": "Veronika uses sticks to scratch herself, suggesting scientists have underestimated cow cognition.",
+    "published": "Mon, 19 Jan 2026 16:00:27 +0000",
+    "link": "https://arstechnica.com/science/2026/01/meet-veronika-the-tool-using-cow/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "10 things I learned from burning myself out with AI coding agents",
+    "summary": "Opinion: As software power tools, AI agents may make people busier than ever before.",
+    "published": "Mon, 19 Jan 2026 12:00:45 +0000",
+    "link": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Ocean damage nearly doubles the cost of climate change",
+    "summary": "Ignoring the blue economy has left a multi-trillion-dollar blind spot in climate finance.",
+    "published": "Sun, 18 Jan 2026 12:00:56 +0000",
+    "link": "https://arstechnica.com/science/2026/01/ocean-damage-nearly-doubles-the-cost-of-climate-change/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Everyone wants AI sovereignty. No one can truly have it.",
+    "summary": "Governments plan to pour $1.3 trillion into AI infrastructure by 2030 to invest in \u201csovereign AI,\u201d with the premise being that countries should be in control of their own AI capabilities. The funds include financing for domestic data centers, locally trained models, independent supply chains, and national talent pipelines. This is a response to real&#8230;",
+    "published": "Wed, 21 Jan 2026 14:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/01/21/1131513/everyone-wants-ai-sovereignty-no-one-can-truly-have-it/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: Trump at Davos, and AI scientists",
+    "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. All anyone wants to talk about at Davos is AI and Donald Trump \u2014Mat Honan, MIT Technology Review\u2019s editor in chief&#160; At Davos this year Trump is dominating all the side conversations. There&#8230;",
+    "published": "Wed, 21 Jan 2026 13:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/01/21/1131548/the-download-trump-at-davos-and-ai-scientists/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "All anyone wants to talk about at Davos is AI and Donald Trump",
+    "summary": "This story first appeared in The Debrief, our subscriber-only newsletter about the biggest news in tech&#160;by Mat Honan, Editor in Chief. Subscribe to read the next edition as soon as it lands. Hello from the World Economic Forum annual meeting in Davos, Switzerland. I\u2019ve been here for two days now, attending meetings, speaking on panels,&#8230;",
+    "published": "Wed, 21 Jan 2026 11:20:51 +0000",
+    "link": "https://www.technologyreview.com/2026/01/21/1131538/all-anyone-wants-to-talk-about-at-davos-is-ai-and-donald-trump/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Reimagining ERP for the agentic AI era",
+    "summary": "The story of enterprise resource planning (ERP) is really a story of businesses learning to organize themselves around the latest, greatest technology of the times. In the 1960s through the \u201980s, mainframes, material requirements planning (MRP), and manufacturing resource planning (MRP II) brought core business data from file cabinets to centralized systems. Client-server architectures defined&#8230;",
+    "published": "Tue, 20 Jan 2026 16:14:14 +0000",
+    "link": "https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The era of agentic chaos and how data will save us",
+    "summary": "AI agents are moving beyond coding assistants and customer service chatbots into the operational core of the enterprise. The ROI is promising, but autonomy without alignment is a recipe for chaos. Business leaders need to lay the essential foundations now. The agent explosion is coming Agents are independently handling end-to-end processes across lead generation, supply&#8230;",
+    "published": "Tue, 20 Jan 2026 15:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/01/20/1130911/the-era-of-agentic-chaos-and-how-data-will-save-us/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The UK government is backing AI that can run its own lab experiments",
+    "summary": "A number of startups and university teams that are building \u201cAI scientists\u201d to design and run experiments in the lab, including robot biologists and chemists, have just won extra funding from the UK government agency that supports moonshot R&#38;D. The competition, set up by ARIA (the Advanced Research and Invention Agency), gives a clear sense&#8230;",
+    "published": "Tue, 20 Jan 2026 13:28:21 +0000",
+    "link": "https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: digitizing India, and scoring embryos",
+    "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The man who made India digital isn\u2019t done yet Nandan Nilekani can\u2019t stop trying to push India into the future. He started nearly 30 years ago, masterminding an ongoing experiment in technological state&#8230;",
+    "published": "Tue, 20 Jan 2026 13:13:00 +0000",
+    "link": "https://www.technologyreview.com/2026/01/20/1131459/the-download-digitizing-india-and-scoring-embryos/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: the US digital rights crackdown, and AI companionship",
+    "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What it\u2019s like to be banned from the US for fighting online hate\u00a0\u00a0 Just before Christmas the Trump administration dramatically escalated its war on digital rights by banning five people from entering the&#8230;",
+    "published": "Mon, 19 Jan 2026 13:39:00 +0000",
+    "link": "https://www.technologyreview.com/2026/01/19/1131450/the-download-the-us-digital-rights-crackdown-and-ai-companionship/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Going beyond pilots with composable and sovereign AI",
+    "summary": "Today marks an inflection point for enterprise AI adoption. Despite billions invested in generative AI, only 5% of integrated pilots deliver measurable business value and nearly one in two companies abandons AI initiatives before reaching production. The bottleneck is not the models themselves. What\u2019s holding enterprises back is the surrounding infrastructure: Limited data accessibility, rigid&#8230;",
+    "published": "Mon, 19 Jan 2026 11:59:33 +0000",
+    "link": "https://www.technologyreview.com/2026/01/19/1131422/going-beyond-pilots-with-composable-and-sovereign-ai/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "What it\u2019s like to be banned from the US for fighting online hate",
+    "summary": "It was early evening in Berlin, just a day before Christmas Eve, when Josephine Ballon got an unexpected email from US Customs and Border Protection. The status of her ability to travel to the United States had changed\u2014she\u2019d no longer be able to enter the country.&#160; At first, she couldn\u2019t find any information online as&#8230;",
+    "published": "Mon, 19 Jan 2026 10:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/01/19/1131384/what-its-like-to-be-banned-from-the-us-for-fighting-online-hate/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Uber Faces Growing Pressure over Sexual Assault Record",
+    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/01/21/business/uber-scrutiny-sexual-assault.html\">https://www.nytimes.com/2026/01/21/business/uber-scrutiny-sexual-assault.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46705870\">https://news.ycombinator.com/item?id=46705870</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+    "published": "Wed, 21 Jan 2026 14:05:51 +0000",
+    "link": "https://www.nytimes.com/2026/01/21/business/uber-scrutiny-sexual-assault.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Ireland wants to give its cops spyware, ability to crack encrypted messages",
+    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/\">https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46705715\">https://news.ycombinator.com/item?id=46705715</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
+    "published": "Wed, 21 Jan 2026 13:52:27 +0000",
+    "link": "https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "AI Destroys Institutions",
+    "summary": "<p>Article URL: <a href=\"https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/\">https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46705606\">https://news.ycombinator.com/item?id=46705606</a></p>\n<p>Points: 84</p>\n<p># Comments: 45</p>",
+    "published": "Wed, 21 Jan 2026 13:42:53 +0000",
+    "link": "https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Nested Code Fences in Markdown",
+    "summary": "<p>Article URL: <a href=\"https://susam.net/nested-code-fences.html\">https://susam.net/nested-code-fences.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46705201\">https://news.ycombinator.com/item?id=46705201</a></p>\n<p>Points: 22</p>\n<p># Comments: 2</p>",
+    "published": "Wed, 21 Jan 2026 13:08:35 +0000",
+    "link": "https://susam.net/nested-code-fences.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Vibecoding #2",
+    "summary": "<p>Article URL: <a href=\"https://matklad.github.io/2026/01/20/vibecoding-2.html\">https://matklad.github.io/2026/01/20/vibecoding-2.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46704943\">https://news.ycombinator.com/item?id=46704943</a></p>\n<p>Points: 48</p>\n<p># Comments: 12</p>",
+    "published": "Wed, 21 Jan 2026 12:46:27 +0000",
+    "link": "https://matklad.github.io/2026/01/20/vibecoding-2.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Stories removed from the Hacker News Front Page, updated in real time (2024)",
+    "summary": "<p>Article URL: <a href=\"https://github.com/vitoplantamura/HackerNewsRemovals\">https://github.com/vitoplantamura/HackerNewsRemovals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46704555\">https://news.ycombinator.com/item?id=46704555</a></p>\n<p>Points: 116</p>\n<p># Comments: 48</p>",
+    "published": "Wed, 21 Jan 2026 12:11:11 +0000",
+    "link": "https://github.com/vitoplantamura/HackerNewsRemovals",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Hightouch (YC S19) Is Hiring",
+    "summary": "<p>Article URL: <a href=\"https://hightouch.com/careers\">https://hightouch.com/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46704465\">https://news.ycombinator.com/item?id=46704465</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Wed, 21 Jan 2026 12:02:09 +0000",
+    "link": "https://hightouch.com/careers",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Nukeproof: Manifesto for European Data Sovereignty",
+    "summary": "<p>Article URL: <a href=\"https://nukeproof.org/\">https://nukeproof.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46704310\">https://news.ycombinator.com/item?id=46704310</a></p>\n<p>Points: 48</p>\n<p># Comments: 16</p>",
+    "published": "Wed, 21 Jan 2026 11:44:48 +0000",
+    "link": "https://nukeproof.org/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "EU\u2013INC \u2013 One Europe. One Standard. \u2013 Pan-European Legal Entity",
+    "summary": "<p>Article URL: <a href=\"https://www.eu-inc.org/\">https://www.eu-inc.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46703763\">https://news.ycombinator.com/item?id=46703763</a></p>\n<p>Points: 382</p>\n<p># Comments: 260</p>",
+    "published": "Wed, 21 Jan 2026 10:49:20 +0000",
+    "link": "https://www.eu-inc.org/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "SETI@home is in hiberation",
+    "summary": "<p>Article URL: <a href=\"https://setiathome.berkeley.edu/\">https://setiathome.berkeley.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46703301\">https://news.ycombinator.com/item?id=46703301</a></p>\n<p>Points: 104</p>\n<p># Comments: 59</p>",
+    "published": "Wed, 21 Jan 2026 09:49:34 +0000",
+    "link": "https://setiathome.berkeley.edu/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The percentage of Show HN posts is increasing, but their scores are decreasing",
+    "summary": "<p>Article URL: <a href=\"https://snubi.net/posts/Show-HN/\">https://snubi.net/posts/Show-HN/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46702099\">https://news.ycombinator.com/item?id=46702099</a></p>\n<p>Points: 140</p>\n<p># Comments: 102</p>",
+    "published": "Wed, 21 Jan 2026 07:09:03 +0000",
+    "link": "https://snubi.net/posts/Show-HN/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Infracost (YC W21) Is Hiring Sr Back End Eng (Node.js+SQL) to Shift FinOps Left",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql\">https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46702045\">https://news.ycombinator.com/item?id=46702045</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Wed, 21 Jan 2026 07:00:23 +0000",
+    "link": "https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "cURL removes bug bounties",
+    "summary": "<p>Article URL: <a href=\"https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html\">https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46701733\">https://news.ycombinator.com/item?id=46701733</a></p>\n<p>Points: 311</p>\n<p># Comments: 175</p>",
+    "published": "Wed, 21 Jan 2026 06:07:03 +0000",
+    "link": "https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Libbbf: Bound Book Format, A high-performance container for comics and manga",
+    "summary": "<p>Article URL: <a href=\"https://github.com/ef1500/libbbf\">https://github.com/ef1500/libbbf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46701114\">https://news.ycombinator.com/item?id=46701114</a></p>\n<p>Points: 83</p>\n<p># Comments: 47</p>",
+    "published": "Wed, 21 Jan 2026 04:27:08 +0000",
+    "link": "https://github.com/ef1500/libbbf",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Anthropic's original take home assignment open sourced",
+    "summary": "<p>Article URL: <a href=\"https://github.com/anthropics/original_performance_takehome\">https://github.com/anthropics/original_performance_takehome</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46700594\">https://news.ycombinator.com/item?id=46700594</a></p>\n<p>Points: 451</p>\n<p># Comments: 215</p>",
+    "published": "Wed, 21 Jan 2026 02:54:32 +0000",
+    "link": "https://github.com/anthropics/original_performance_takehome",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "RSS.Social \u2013 the latest and best from small sites across the web",
+    "summary": "<p>Article URL: <a href=\"https://rss.social/\">https://rss.social/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46700503\">https://news.ycombinator.com/item?id=46700503</a></p>\n<p>Points: 141</p>\n<p># Comments: 32</p>",
+    "published": "Wed, 21 Jan 2026 02:36:44 +0000",
+    "link": "https://rss.social/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "California is free of drought for the first time in 25 years",
+    "summary": "<p>Article URL: <a href=\"https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years\">https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46698660\">https://news.ycombinator.com/item?id=46698660</a></p>\n<p>Points: 420</p>\n<p># Comments: 215</p>",
+    "published": "Tue, 20 Jan 2026 22:39:26 +0000",
+    "link": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Which AI Lies Best? A game theory classic designed by John Nash",
+    "summary": "<p>Article URL: <a href=\"https://so-long-sucker.vercel.app/\">https://so-long-sucker.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46698370\">https://news.ycombinator.com/item?id=46698370</a></p>\n<p>Points: 156</p>\n<p># Comments: 68</p>",
+    "published": "Tue, 20 Jan 2026 22:09:49 +0000",
+    "link": "https://so-long-sucker.vercel.app/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The challenges of soft delete",
+    "summary": "<p>Article URL: <a href=\"https://atlas9.dev/blog/soft-delete.html\">https://atlas9.dev/blog/soft-delete.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46698061\">https://news.ycombinator.com/item?id=46698061</a></p>\n<p>Points: 211</p>\n<p># Comments: 116</p>",
+    "published": "Tue, 20 Jan 2026 21:36:34 +0000",
+    "link": "https://atlas9.dev/blog/soft-delete.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "SWE-gen: Scaling SWE-bench task generation",
+    "summary": "<p>Article URL: <a href=\"https://github.com/abundant-ai/SWE-gen\">https://github.com/abundant-ai/SWE-gen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46697240\">https://news.ycombinator.com/item?id=46697240</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "published": "Tue, 20 Jan 2026 20:20:30 +0000",
+    "link": "https://github.com/abundant-ai/SWE-gen",
+    "source_name": "Hacker News"
+  }
+]
