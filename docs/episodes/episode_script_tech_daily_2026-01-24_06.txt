@@ -1,0 +1,91 @@
+HOST: Good Morning! And welcome to Tech News Briefing, your essential update on the innovations and disruptions shaping our world. I'm Arjav.
+
+REPORTER: And I'm Arohi. Today, we're diving deep into the biggest headlines from Ars Technica, Hacker News, TechCrunch, and beyond, covering everything from the shifting landscape of global economic forums to groundbreaking advancements in AI, critical cybersecurity threats, and the evolving world of automotive technology.
+
+HOST: Before we jump into today's top stories, let's take a quick look back. On this day in history, in 1950, Alan Turing published his seminal paper "Computing Machinery and Intelligence," introducing the concept of the Turing Test and laying foundational groundwork for what would become artificial intelligence. A fitting historical note as AI continues to dominate headlines. Arohi, it seems like AI is truly everywhere, even at events that traditionally focused on broader economic issues, right?
+
+REPORTER: Absolutely, Arjav. The World Economic Forum's annual meeting in Davos felt notably different this year. While topics like climate change and global poverty were present, AI overwhelmingly dominated the conversation. It wasn't just background chatter either; major tech leaders like Meta and Salesforce took over prime storefronts on the main promenade, and CEOs were openly discussing everything from trade policy to the societal implications of AI, signaling a significant pivot for the forum.
+
+HOST: So, Davos is turning into a tech hub. And speaking of AI, we've got some interesting news about a new venture from a prominent AI scientist. Tell us about Yann LeCun's latest project.
+
+REPORTER: Indeed. Yann LeCun, a pioneering figure in AI, has left Meta to found his own startup, AMI Labs. This new venture has already garnered significant attention, particularly because LeCun is focusing on what he calls "world models" – a fascinating area of research aimed at enabling AI systems to build internal representations of their environment and predict outcomes, moving closer to human-like understanding.
+
+HOST: That sounds like a big step for AI. And for those of us who use AI in our daily lives, Google is making it a bit more fun. What's the latest from Google Photos?
+
+REPORTER: Google Photos has just rolled out a new feature that allows users to "meme themselves." It's designed as a playful way to explore personal photos and experiment with Google's Gemini AI technology, specifically its Nano Banana variant. So now you can generate custom memes from your own image library, adding a creative and personalized touch to your photo collection.
+
+HOST: Personal memes, I like that! And on the more technical side of AI, what's happening with OpenAI's agent technology?
+
+REPORTER: OpenAI has been detailing the advancement of their Codex agent loop. This refers to their work on AI agents that can autonomously plan, execute, and refine tasks, particularly in coding. The agent loop represents a sophisticated feedback system where AI can continuously learn and improve its problem-solving capabilities without constant human intervention, pushing the boundaries of what automated systems can achieve.
+
+HOST: Fascinating stuff. And these advancements naturally lead to demand for new talent. I see a YC startup, Noora Health, is looking for AI/ML engineers.
+
+REPORTER: That's right. Noora Health, a Y Combinator Winter 2014 alum, is actively seeking AI/ML engineers. They focus on health education for patients and caregivers, so these roles would likely involve leveraging machine learning to personalize health information and improve engagement, highlighting how AI is being applied in critical social impact sectors.
+
+HOST: Moving from the cutting edge of AI to the cutting edge of automotive technology, or perhaps, a controversial change from a major player. Tesla has made a significant shift regarding Autopilot. What's the story there, Arohi?
+
+REPORTER: This is a big one, Arjav. Tesla has effectively discontinued its Autopilot system as a standalone feature. Instead, they're now locking basic lane-keeping functionality behind a $99 per month subscription fee for their Full Self-Driving, or FSD, package. This move comes amidst falling sales and shrinking profits for the company, suggesting a strategy to boost recurring revenue, but it's certainly raising eyebrows among owners who previously had some of these features included.
+
+HOST: So, what used to be a standard safety or convenience feature is now behind a paywall. That's quite a change. But on the flip side, we have companies like Comma.ai pushing open-source alternatives, don't we?
+
+REPORTER: Exactly. Comma.ai continues to champion its openpilot system, which offers open-source driver-assistance capabilities. This community-driven approach allows users to install their software on compatible vehicles, providing features like adaptive cruise control and lane-keeping, often for a fraction of the cost or with greater customization than proprietary systems. It's a significant alternative for those looking for more control over their vehicle's advanced features.
+
+HOST: An interesting contrast in philosophies for sure. Now, let's shift gears to cybersecurity, a topic that's unfortunately never far from the headlines. We have disturbing reports of a state-backed attack on Poland's power infrastructure.
+
+REPORTER: That's correct, Arjav. Security researchers have firmly attributed an attempted use of destructive "wiper" malware across Poland's energy infrastructure in late December to a Russian-backed hacking group. This group is notorious for previously causing power outages in Ukraine, signaling a worrying pattern of state-sponsored cyber warfare targeting critical civilian infrastructure. It underscores the escalating digital threats nations face.
+
+HOST: A very serious development. And speaking of digital security, or rather, the lack thereof when it comes to user data, there's been some significant news regarding Microsoft and law enforcement. What happened with BitLocker encryption keys?
+
+REPORTER: This has raised significant privacy concerns. Microsoft confirmed it provided the FBI with BitLocker encryption recovery keys to decrypt the hard drives of individuals involved in an alleged fraud case in Guam. Essentially, if a legal warrant is served, Microsoft can and will provide access to user data, including the keys to unlock BitLocker-encrypted Windows PCs. This revelation highlights the delicate balance between law enforcement needs and user privacy in the digital age.
+
+HOST: That's a huge privacy implication for Windows users. It definitely changes the perception of what "encrypted" means for many. From privacy concerns to startups, we've got some hiring news from the Y Combinator ecosystem. Telli, a YC F24 company, is hiring in Berlin.
+
+REPORTER: Yes, Telli, a new startup from Y Combinator's Winter 2024 batch, is actively recruiting for engineering, design, and growth roles in Berlin. This signals their early growth phase and commitment to building their core team on-site. It's an exciting time for them as they scale up.
+
+HOST: And speaking of companies with interesting business models, let's talk about Telly's "free" ad-based TVs. How are they doing?
+
+REPORTER: Telly, the company behind those "free" ad-based TVs, has shown they can generate notable revenue, but there's a significant catch: that's the TVs are actually delivered. The LA startup had promised to ship millions of units by 2024. However, reports indicate that delivery numbers have lagged significantly behind initial projections, leading to questions about the viability and scalability of their ad-supported hardware model.
+
+HOST: An intriguing concept, but execution clearly matters. More YC news, TrueVault, another Y Combinator alum, is also hiring.
+
+REPORTER: That's right, TrueVault, from Y Combinator's Winter 2014 batch, is looking for a Growth Lead. They're specifically seeking someone to test different growth channels, indicating a focus on expanding their market reach and customer acquisition strategies in the competitive tech landscape.
+
+HOST: Shifting gears to market performance, Apple has some good news from India. How did the iPhone fare there?
+
+REPORTER: Apple just had its best year ever in India, shipping a record 14 million iPhones in 2025. This achievement allowed Apple to significantly gain market share in a country where the broader smartphone market has remained relatively flat. It highlights the growing aspiration for premium devices in India and Apple's successful penetration strategy in a crucial emerging market.
+
+HOST: Remarkable growth for Apple in India. Now, for something a bit more nostalgic for many tech enthusiasts. There's a new web-based Commodore VIC-20 emulator.
+
+REPORTER: Indeed. JVIC is a new web-based Commodore VIC-20 emulator that allows users to relive the experience of programming and playing games on the classic 8-bit home computer directly in their browser. It's a fantastic project for retro computing fans, making an iconic piece of hardware history accessible to a new generation.
+
+HOST: Very cool for those who remember the VIC-20! And for the hardware enthusiasts, there's a deep dive into the 80386 processor.
+
+REPORTER: Yes, there's a new article detailing the intricacies of 80386 multiplication and division operations. It’s a low-level look at how these fundamental arithmetic functions were implemented in one of Intel's most influential x86 processors, providing valuable insight into vintage CPU architecture for those interested in the foundational aspects of computing.
+
+HOST: A deep dive for sure. For our software developers listening, let's touch on SQLite. The latest suggests many small queries are efficient.
+
+REPORTER: That's correct. New insights suggest that SQLite, the widely used embedded database engine, handles many small queries very efficiently. Contrary to some conventional database wisdom that often pushes for batching or fewer, larger queries, SQLite's design allows it to excel in scenarios involving numerous, quick operations, which is good news for developers optimizing performance in embedded and client-side applications.
+
+HOST: Good to know for developers! And on the topic of developer tools, GitLab seems to be making a positive impression.
+
+REPORTER: A recent article highlights a growing appreciation for GitLab among developers. The platform, which integrates source code management, CI/CD, and security, is being lauded for its comprehensive feature set and user-friendly experience, making it a preferred choice for many teams looking for an all-in-one DevOps solution.
+
+HOST: That's great news for GitLab. Now for something a bit more niche but incredibly clever: gigabit Ethernet over British phone wires. How is that possible?
+
+REPORTER: This is a truly impressive feat of ingenuity. Someone managed to achieve gigabit Ethernet speeds over existing British telephone wires. This typically involves leveraging advanced networking equipment that can push high frequencies over twisted-pair copper cabling, far beyond what traditional phone lines were designed for, bypassing the need for new cable runs in older buildings. It’s a testament to creative problem-solving in networking.
+
+HOST: That's truly an ingenious solution for connectivity! And finally, a nod to web development history: the XHTML Club.
+
+REPORTER: The XHTML Club is a new online community and resource dedicated to promoting and discussing XHTML. In an era dominated by HTML5, it offers a space for those who appreciate the stricter, XML-based syntax of XHTML, and its potential benefits for structured content and long-term web standards. It's a niche but passionate revival for a foundational web technology.
+
+HOST: Arohi, thank you for those insights into today's tech landscape. From AI transforming global forums to the nuances of cybersecurity and privacy, it's clear the tech world never stands still.
+
+REPORTER: My pleasure, Arjav. Always a lot to unpack.
+
+HOST: And before we go, here's a fun fact for you: Did you know that the "dot-com bubble" of the late 1990s and early 2000s got its name from the ".com" domain suffix, signifying the explosion of internet-based businesses? But less known is that many of these businesses were so desperate for funding, some were listed on stock exchanges with no actual revenue, leading to the term "eyeballs over profits" to describe their strategy. It’s a stark reminder of the wild early days of commercial internet.
+
+HOST: That's all for today's Tech News Briefing. Thank you for tuning in. Join us next time for more updates shaping our digital future. I'm Arjav.
+
+REPORTER: And I'm Arohi.
+
+HOST: Have a fantastic day!
