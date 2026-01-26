@@ -2168,5 +2168,621 @@
     "published": "Tue, 20 Jan 2026 05:28:59 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1520219.html?ex_cid=OTC-RSS",
     "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Russia using Interpol's wanted list to target critics abroad, leak reveals",
+    "summary": "A leak exposes for the first time the extent of Russia\u2019s misuse of Interpol to request the arrest of critics.",
+    "published": "Mon, 26 Jan 2026 00:15:03 GMT",
+    "link": "https://www.bbc.com/news/articles/c20gg729y1yo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Venezuela frees dozens of political prisoners, human rights group says",
+    "summary": "It is the latest batch of detainees freed since the US seized Venezuelan President Nicol\u00e1s Maduro in a raid.",
+    "published": "Sun, 25 Jan 2026 18:29:57 GMT",
+    "link": "https://www.bbc.com/news/articles/clymr3pz2kxo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "People cling to treetops as 'worst floods in a generation' sweep Mozambique",
+    "summary": "The worst flooding in a generation hits Mozambique with teams from Brazil, South Africa and the UK helping with the rescue.",
+    "published": "Sun, 25 Jan 2026 18:48:27 GMT",
+    "link": "https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Captain of suspected Russian shadow tanker in French custody",
+    "summary": "French officials seized the tanker, named the Grinch, in the Mediterranean Sea on Thursday.",
+    "published": "Sun, 25 Jan 2026 15:25:52 GMT",
+    "link": "https://www.bbc.com/news/articles/c62vke5dly2o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Kenya's ex-deputy president alleges assassination attempt in church attack",
+    "summary": "The interior minister condemned the attack, which police say they are investigating.",
+    "published": "Sun, 25 Jan 2026 21:29:31 GMT",
+    "link": "https://www.bbc.com/news/articles/cpqyxew338po?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Cyclist wins Australia race despite being knocked off by Kangaroo",
+    "summary": "Australian Jay Vine wins the Tour Down Under - despite being knocked off his bike in a crash caused by a kangaroo.",
+    "published": "Sun, 25 Jan 2026 14:16:37 GMT",
+    "link": "https://www.bbc.com/sport/cycling/articles/cgez09jl05wo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Tearful goodbyes as Japan returns pandas to China amid worsening ties",
+    "summary": "The twin cubs' departure will leave Japan without any pandas for the first time since 1972.",
+    "published": "Mon, 26 Jan 2026 03:08:21 GMT",
+    "link": "https://www.bbc.com/news/articles/c8d0l778dero?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Analysing the Minneapolis shooting frame by frame",
+    "summary": "BBC Verify has analysed footage of the shooting from multiple angles, piecing together a detailed picture of what happened.",
+    "published": "Sun, 25 Jan 2026 22:04:22 GMT",
+    "link": "https://www.bbc.com/news/videos/cg4e0r1el5yo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Winter storm grips US as millions face power outages and disruption",
+    "summary": "A powerful winter storm swept across the country, with heavy snow, ice and dangerously low temperatures affecting millions.",
+    "published": "Sun, 25 Jan 2026 16:22:56 GMT",
+    "link": "https://www.bbc.com/news/videos/cpqyxlqwqqlo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "How the Trump Administration Rushed to Judgment in Minneapolis Shooting",
+    "summary": "The administration was in a race to control the narrative around the killing of Alex Pretti, even as videos emerged that contradicted the government\u2019s account.",
+    "published": "Mon, 26 Jan 2026 01:53:53 +0000",
+    "link": "https://www.nytimes.com/2026/01/25/us/trump-administration-minneapolis-shooting-response.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Killing Prompts Only a Defiant Response From Trump",
+    "summary": "Even as the second death of a protester in Minnesota brought demands for accountability, the president, insulated from dissenting voices, stuck to his pattern of reflexively blaming opponents.",
+    "published": "Mon, 26 Jan 2026 01:35:41 +0000",
+    "link": "https://www.nytimes.com/2026/01/25/us/politics/minneapolis-killing-trump-defiant-response.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Winter Storm Drives U.S. Flight Cancellations to Pandemic-Level Numbers",
+    "summary": "Nearly 9,000 departures were canceled on Sunday, more than on any other day since the beginning of the Covid-19 pandemic.",
+    "published": "Mon, 26 Jan 2026 02:01:20 +0000",
+    "link": "https://www.nytimes.com/2026/01/25/weather/winter-storm-flight-delays-cancellations.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Another East Coast Storm? Don\u2019t Buy the Hype Just Yet.",
+    "summary": "After a computer model began hinting that another storm could be on the way, meteorologists sought to tamp down speculation.",
+    "published": "Sun, 25 Jan 2026 20:09:12 +0000",
+    "link": "https://www.nytimes.com/2026/01/25/weather/another-storm-forecast-noreaster.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Mamdani Clears Early Hurdles as Storm Bears Down on New York",
+    "summary": "Mayor Zohran Mamdani made use of his strong communication skills, and the Sanitation Department said every road was plowed at least twice by Sunday evening.",
+    "published": "Mon, 26 Jan 2026 02:27:12 +0000",
+    "link": "https://www.nytimes.com/2026/01/25/nyregion/mamdani-snowstorm-performance-new-york.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Columbia Selects University of Wisconsin Chancellor as Its President",
+    "summary": "Jennifer Mnookin has led the flagship campus of the state university system since 2022. She takes the helm at Columbia after a tumultuous period.",
+    "published": "Mon, 26 Jan 2026 04:01:02 +0000",
+    "link": "https://www.nytimes.com/2026/01/25/nyregion/columbia-president-wisconsin-mnookin.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Fashion Is Exaggerating the Female Form Like Never Before. What Is Going On?",
+    "summary": "Fashion has begun exaggerating, or distorting, the female form like never before. What exactly is going on?",
+    "published": "Sun, 25 Jan 2026 10:00:11 +0000",
+    "link": "https://www.nytimes.com/2026/01/25/style/the-year-of-manufacturing-the-body-and-booty-and-boobs.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Amid Two-Week Internet Blackout, Some Iranians Are Getting Back Online",
+    "summary": "Many in Iran are gaining brief and unexplained windows of online connectivity, offering a widening glimpse of the extent of the government crackdown.",
+    "published": "Sun, 25 Jan 2026 17:36:02 +0000",
+    "link": "https://www.nytimes.com/2026/01/25/world/middleeast/iran-internet.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Frank Carone, a Brooklyn Power Broker, Is Under Federal Investigation",
+    "summary": "Federal prosecutors and the F.B.I. are scrutinizing Mr. Carone, who served as chief of staff during Eric Adams\u2019s first year as mayor of New York.",
+    "published": "Sat, 24 Jan 2026 23:42:57 +0000",
+    "link": "https://www.nytimes.com/2026/01/24/nyregion/nyc-frank-carone-corruption-investigation.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Hard Times in the Mississippi Delta as Farmers Consider Letting Crops Rot",
+    "summary": "Prices for nearly every major U.S. crop are below what it costs to grow them. But a drop in rice prices means another blow to farmers in Mississippi\u2019s agricultural belt.",
+    "published": "Sun, 25 Jan 2026 10:00:20 +0000",
+    "link": "https://www.nytimes.com/2026/01/25/business/mississippi-delta-farmers-rice-prices.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Travel Math: When Flying Costs as Much as the Train, Who Wins?",
+    "summary": "Amtrak says dynamic pricing has helped strengthen its finances, but travelers often grumble at the cost, especially for last-minute travel. Still, the train has a secret weapon: avoiding the airport.",
+    "published": "Sat, 24 Jan 2026 10:00:07 +0000",
+    "link": "https://www.nytimes.com/2026/01/24/us/politics/amtrak-dynamic-pricing-flying.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "The Trump Administration Is Lying to Our Faces. Congress Must Act.",
+    "summary": "The Trump administration is once again engaged in a perversion of justice.",
+    "published": "Sun, 25 Jan 2026 19:59:23 +0000",
+    "link": "https://www.nytimes.com/2026/01/25/opinion/alex-pretti-minneapolis-shooting-border-patrol.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "George Cabot Lodge, Last of His Family to Battle a Kennedy, Dies at 98",
+    "summary": "The two Massachusetts clans faced off in elections for decades, until a final 1962 Senate race. Despite his loss, Mr. Lodge praised his opponent, Ted Kennedy.",
+    "published": "Mon, 26 Jan 2026 04:02:30 +0000",
+    "link": "https://www.nytimes.com/2026/01/25/obituaries/george-cabot-lodge-dead.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Eleanor Holmes Norton Files to End Re-election Campaign",
+    "summary": "It was not clear whether Washington\u2019s 88-year-old veteran delegate, who has been in declining health but has insisted she would seek re-election, was aware of the filing.",
+    "published": "Sun, 25 Jan 2026 19:58:12 +0000",
+    "link": "https://www.nytimes.com/2026/01/25/us/politics/eleanor-holmes-norton-re-election-campaign.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "In Visits to Dealerships, Pair Schemed to Steal High-End Vehicles, Police Say",
+    "summary": "An organized theft ring in Connecticut, New Jersey and New York swapped or quickly cloned key fobs to steal millions of dollars\u2019 worth of vehicles, officials said.",
+    "published": "Sun, 25 Jan 2026 23:15:12 +0000",
+    "link": "https://www.nytimes.com/2026/01/25/nyregion/car-theft-ring.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "India To Slash Tariffs On Cars To 40% In Trade Deal With EU: Report",
+    "summary": "The move will ease access to the Indian market for European automakers (File)",
+    "published": "Mon, 26 Jan 2026 08:51:10 +0530",
+    "link": "https://www.ndtv.com/india-news/india-to-slash-tariffs-on-cars-from-110-to-40-in-trade-deal-with-eu-report-10885385#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "On Camera, Guards Attacked At Hyderabad Complex. They Blame Blinkit Workers",
+    "summary": "Two security personnel were injured in the attack and required medical attention.",
+    "published": "Mon, 26 Jan 2026 08:44:05 +0530",
+    "link": "https://www.ndtv.com/india-news/on-camera-guards-attacked-at-hyderabad-complex-they-blame-blinkit-workers-10885382#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "PM Modi Greets Nation On 77th Republic Day",
+    "summary": "Republic Day, observed annually on January 26, marks the day India adopted its Constitution in 1950.",
+    "published": "Mon, 26 Jan 2026 08:40:01 +0530",
+    "link": "https://www.ndtv.com/india-news/republic-day-2026-pm-modi-greets-nation-on-77th-republic-day-10885225#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "RBI Office Attendant Recruitment 2026: Registration Open For 572 Vacancies, Details Inside",
+    "summary": "RBI Office Attendant Recruitment: Eligibility And Application Details",
+    "published": "Mon, 26 Jan 2026 08:12:08 +0530",
+    "link": "https://www.ndtv.com/education/rbi-office-attendant-recruitment-2026-registration-open-for-572-vacancies-details-inside-10885242#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "'Vance, Navarro, Sometimes Trump Blocked India Trade Deal': US Senator",
+    "summary": "Cruz said that Trump \"yelled\" over his tariff policy.",
+    "published": "Mon, 26 Jan 2026 07:57:08 +0530",
+    "link": "https://www.ndtv.com/world-news/vance-navarro-sometimes-trump-blocked-india-us-trade-deal-republican-senator-ted-cruz-10885233#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Republic Day 2026 Live Updates: \"This Grand National Festival Is Symbol Of India's Pride, Glory\": PM Modi Extends Wishes On Republic Day",
+    "summary": "Republic Day 2026: The event will begin at 10:30 am",
+    "published": "Mon, 26 Jan 2026 07:49:13 +0530",
+    "link": "https://www.ndtv.com/india-news/republic-day-2026-live-updates-from-kartavya-path-nation-celebrates-77th-republic-day-pm-narendra-modi-to-pay-tribute-at-national-war-memorial-parade-10885134#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Encounter Underway Between Security Forces, Terrorists In J&K's Kishtwar",
+    "summary": "Security forces returned fire, and an intermittent exchange of gunfire was reported.",
+    "published": "Mon, 26 Jan 2026 07:24:22 +0530",
+    "link": "https://www.ndtv.com/india-news/kishtwar-encounter-jammu-and-kashmir-encounter-underway-between-security-forces-terrorists-in-j-ks-kishtwar-10884736#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "IIT Delhi To Conduct Open House In Kota On January 31 For JEE Advanced 2026 Aspirants",
+    "summary": "IIT Delhi To Host Open House For JEE 2026 Aspirants In Kota",
+    "published": "Mon, 26 Jan 2026 07:10:02 +0530",
+    "link": "https://www.ndtv.com/education/iit-delhi-to-conduct-open-house-in-kota-on-january-31-for-jee-advanced-2026-aspirants-10885195#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "150 Years Of 'Vande Mataram' And Military Might At Republic Day Parade Today: 10 Points",
+    "summary": "77th Republic Day: Security personnel at Kartavya Path in Delhi",
+    "published": "Mon, 26 Jan 2026 06:29:43 +0530",
+    "link": "https://www.ndtv.com/india-news/republic-day-2026-150-years-of-vande-mataram-and-military-might-at-kartavya-path-parade-today-10884593#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "10,000 Kg Of Explosives, Detonators Seized In Rajasthan On Republic Day Eve",
+    "summary": "Ammonium nitrate has previously been linked to major blast cases.",
+    "published": "Mon, 26 Jan 2026 00:37:02 +0530",
+    "link": "https://www.ndtv.com/india-news/10-000-kg-of-explosives-detonators-seized-in-rajasthan-on-republic-day-eve-10884513#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Mumbai Professor Who Was Stabbed To Death Planned Dinner On Wife's Birthday",
+    "summary": "Police said the murder weapon has not been recovered yet.",
+    "published": "Mon, 26 Jan 2026 00:28:56 +0530",
+    "link": "https://www.ndtv.com/india-news/mumbai-professor-stabbed-to-death-planned-dinner-on-wifes-birthday-10884236#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Shibu Soren Will Forever Remain 'Bharat Ratna': Hemant Soren On Padma Bhushan To Father",
+    "summary": "Shibu Soren was among 13 people named for the Padma Bhushan.",
+    "published": "Mon, 26 Jan 2026 00:28:01 +0530",
+    "link": "https://www.ndtv.com/india-news/shibu-soren-will-forever-remain-bharat-ratna-jharkhand-chief-minister-hemant-soren-on-padma-bhushan-to-father-10884412#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "\"Unparalleled Bravery\": Shaurya Chakra For CRPF Officer Who Killed 10 Manipur Insurgents",
+    "summary": "Ten insurgents were killed in the action.",
+    "published": "Mon, 26 Jan 2026 00:23:30 +0530",
+    "link": "https://www.ndtv.com/india-news/r-day-crpf-officer-gets-shaurya-chakra-for-thwarting-attack-on-manipur-camp-10884085#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Man Who Made Prestige Cooker A Household Name Awarded Padma Shri",
+    "summary": "TT Jagannathan invented the GRS safety mechanism for pressure cookers (File)",
+    "published": "Mon, 26 Jan 2026 00:22:34 +0530",
+    "link": "https://www.ndtv.com/india-news/tt-jagannathan-man-who-made-prestige-cooker-a-household-name-awarded-padma-shri-10884679#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Baked Goods Made By Prisoners To Be Served During R-Day Parade In Bengaluru",
+    "summary": "The bakery training was conducted by professional trainers from Hyderabad (Representational)",
+    "published": "Mon, 26 Jan 2026 00:10:42 +0530",
+    "link": "https://www.ndtv.com/india-news/from-prison-to-parade-ground-bengalurus-parappana-agrahara-inmates-bake-snacks-for-republic-day-10884571#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Indian-American Doctor Gets Padma Bhushan For Advancing Cancer Treatment",
+    "summary": "The Padma Awards are among India's highest civilian honours",
+    "published": "Mon, 26 Jan 2026 00:09:00 +0530",
+    "link": "https://www.ndtv.com/india-news/indian-american-doctor-gets-padma-bhushan-for-advancing-cancer-treatment-10884653#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Missing Posters For Uddhav Thackeray Party Leaders Who Ghosted After Polls",
+    "summary": "The Shiv Sena (UBT) on Sunday pasted posters in several parts of Kalyan and Dombivali in Thane district of its four corporators who have gone incommunicado after winning the January 15 civic elections.",
+    "published": "Mon, 26 Jan 2026 00:08:02 +0530",
+    "link": "https://www.ndtv.com/india-news/missing-posters-for-uddhav-thackeray-party-leaders-who-ghosted-after-polls-10884152#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "\"Aren't You Responsible For Death Of 41 People In Karur?\" AIADMK Jabs Vijay",
+    "summary": "Hours after Tamilaga Vettri Kazhagam (TVK) founder Vijay's \"corrupt force\" jab at the AIADMK, the party criticised the actor-turned-politician's \"narcissistic behaviour\" in handling and responding to the stampede at his rally in Karur.",
+    "published": "Mon, 26 Jan 2026 00:00:28 +0530",
+    "link": "https://www.ndtv.com/india-news/arent-you-responsible-for-death-of-41-people-in-karur-aiadmk-jabs-vijay-10884613#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "\"Worshipped God Through Music,\" Says Tribal Tarpa Player Who Won Padma Shri",
+    "summary": "Dhinda's performances have enthralled audiences across several parts of Maharashtra",
+    "published": "Sun, 25 Jan 2026 23:55:08 +0530",
+    "link": "https://www.ndtv.com/india-news/worshipped-god-through-music-says-tribal-tarpa-player-who-won-padma-shri-10884592#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "\"Humbling And Encouraging\": Meghalaya Conservationist On Padma Shri",
+    "summary": "Hally War is an unassuming champion of sustainability, Nirmala Sitharaman said",
+    "published": "Sun, 25 Jan 2026 23:36:38 +0530",
+    "link": "https://www.ndtv.com/india-news/humbling-and-encouraging-meghalaya-conservationist-hally-war-on-padma-shri-10883555#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Microsoft suspects some PCs might not boot after Windows 11 January 2026 Update",
+    "summary": "<p>Article URL: <a href=\"https://www.windowslatest.com/2026/01/25/microsoft-suspects-some-pcs-might-not-boot-after-windows-11-january-2026-update-kb5074109/\">https://www.windowslatest.com/2026/01/25/microsoft-suspects-some-pcs-might-not-boot-after-windows-11-january-2026-update-kb5074109/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46761061\">https://news.ycombinator.com/item?id=46761061</a></p>\n<p>Points: 25</p>\n<p># Comments: 7</p>",
+    "published": "Mon, 26 Jan 2026 02:15:52 +0000",
+    "link": "https://www.windowslatest.com/2026/01/25/microsoft-suspects-some-pcs-might-not-boot-after-windows-11-january-2026-update-kb5074109/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Clawdbot - open source personal AI assistant",
+    "summary": "<p>Article URL: <a href=\"https://github.com/clawdbot/clawdbot\">https://github.com/clawdbot/clawdbot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46760237\">https://news.ycombinator.com/item?id=46760237</a></p>\n<p>Points: 153</p>\n<p># Comments: 95</p>",
+    "published": "Mon, 26 Jan 2026 00:27:41 +0000",
+    "link": "https://github.com/clawdbot/clawdbot",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Scientists identify brain waves that define the limits of 'you'",
+    "summary": "<p>Original paper: <a href=\"https://www.nature.com/articles/s41467-025-67657-w\" rel=\"nofollow\">https://www.nature.com/articles/s41467-025-67657-w</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46760099\">https://news.ycombinator.com/item?id=46760099</a></p>\n<p>Points: 86</p>\n<p># Comments: 15</p>",
+    "published": "Mon, 26 Jan 2026 00:10:42 +0000",
+    "link": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: FaceTime-style calls with an AI Companion (Live2D and long-term memory)",
+    "summary": "<p>Hi HN, I built Beni (<a href=\"https://thebeni.ai\" rel=\"nofollow\">https://thebeni.ai</a>\n), a web app for real-time video calls with an AI companion.<p>The idea started as a pretty simple question: text chatbots are everywhere, but they rarely feel present. I wanted something closer to a call, where the character actually reacts in real time (voice, timing, expressions), not just \u201ctype, wait, reply\u201d.<p>Beni is basically:<p>A Live2D avatar that animates during the call (expressions + motion driven by the conversation)<p>Real-time voice conversation (streaming response, not \u201cwait 10 seconds then speak\u201d)<p>Long-term memory so the character can keep context across sessions<p>The hardest part wasn\u2019t generating text, it was making the whole loop feel synchronized: mic input, model response, TTS audio, and Live2D animation all need to line up or it feels broken immediately. I ended up spending more time on state management, latency and buffering than on prompts.<p>Some implementation details (happy to share more if anyone\u2019s curious):<p>Browser-based real-time calling, with audio streaming and client-side playback control<p>Live2D rendering on the front end, with animation hooks tied to speech / state<p>A memory layer that stores lightweight user facts/preferences and conversation summaries to keep continuity<p>Current limitation: sign-in is required today (to persist memory and prevent abuse). I\u2019m adding a guest mode soon for faster try-out and working on mobile view now.<p>What I\u2019d love feedback on:<p>Does the \u201creal-time call\u201d loop feel responsive enough, or still too laggy?<p>Any ideas for better lip sync / expression timing on 2D/3D avatars in the browser?<p>Thanks, and I\u2019ll be around in the comments.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46759627\">https://news.ycombinator.com/item?id=46759627</a></p>\n<p>Points: 26</p>\n<p># Comments: 12</p>",
+    "published": "Sun, 25 Jan 2026 23:13:06 +0000",
+    "link": "https://thebeni.ai/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: A small programming language where everything is pass-by-value",
+    "summary": "<p>This is a hobby project of mine that I started a few years ago to learn about programming language implementation. It was created 95% without AI, although a few recent commits include code from Gemini CLI.<p>I started out following Crafting Interpreters, but gradually branched off that until I had almost nothing left in common.<p>Tech stack: Rust, Cranelift (JIT compilation), LALRPOP (parser).<p>Original title: \"A small programming language where everything is a value\" (edited based on comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46759520\">https://news.ycombinator.com/item?id=46759520</a></p>\n<p>Points: 55</p>\n<p># Comments: 32</p>",
+    "published": "Sun, 25 Jan 2026 23:01:06 +0000",
+    "link": "https://github.com/Jcparkyn/herd",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Case study: Creative math \u2013 How AI fakes proofs",
+    "summary": "<p>Article URL: <a href=\"https://tomaszmachnik.pl/case-study-math-en.html\">https://tomaszmachnik.pl/case-study-math-en.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46759352\">https://news.ycombinator.com/item?id=46759352</a></p>\n<p>Points: 55</p>\n<p># Comments: 32</p>",
+    "published": "Sun, 25 Jan 2026 22:44:50 +0000",
+    "link": "https://tomaszmachnik.pl/case-study-math-en.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The future of software engineering is SRE",
+    "summary": "<p>Article URL: <a href=\"https://swizec.com/blog/the-future-of-software-engineering-is-sre/\">https://swizec.com/blog/the-future-of-software-engineering-is-sre/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46759063\">https://news.ycombinator.com/item?id=46759063</a></p>\n<p>Points: 36</p>\n<p># Comments: 12</p>",
+    "published": "Sun, 25 Jan 2026 22:18:38 +0000",
+    "link": "https://swizec.com/blog/the-future-of-software-engineering-is-sre/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The '3.5% rule': How a small minority can change the world (2019)",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world\">https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46758450\">https://news.ycombinator.com/item?id=46758450</a></p>\n<p>Points: 228</p>\n<p># Comments: 165</p>",
+    "published": "Sun, 25 Jan 2026 21:27:11 +0000",
+    "link": "https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Oneplus phone update introduces hardware anti-rollback",
+    "summary": "<p>Article URL: <a href=\"https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback\">https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46757944\">https://news.ycombinator.com/item?id=46757944</a></p>\n<p>Points: 369</p>\n<p># Comments: 209</p>",
+    "published": "Sun, 25 Jan 2026 20:39:25 +0000",
+    "link": "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "I was right about ATProto key management",
+    "summary": "<p>Article URL: <a href=\"https://notes.nora.codes/atproto-again/\">https://notes.nora.codes/atproto-again/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46757357\">https://news.ycombinator.com/item?id=46757357</a></p>\n<p>Points: 121</p>\n<p># Comments: 80</p>",
+    "published": "Sun, 25 Jan 2026 19:31:23 +0000",
+    "link": "https://notes.nora.codes/atproto-again/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Spanish track was fractured before high-speed train disaster, report finds",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c1m77dmxlvlo\">https://www.bbc.com/news/articles/c1m77dmxlvlo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46757162\">https://news.ycombinator.com/item?id=46757162</a></p>\n<p>Points: 156</p>\n<p># Comments: 132</p>",
+    "published": "Sun, 25 Jan 2026 19:12:50 +0000",
+    "link": "https://www.bbc.com/news/articles/c1m77dmxlvlo",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "First, make me care",
+    "summary": "<p>Article URL: <a href=\"https://gwern.net/blog/2026/make-me-care\">https://gwern.net/blog/2026/make-me-care</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46757067\">https://news.ycombinator.com/item?id=46757067</a></p>\n<p>Points: 410</p>\n<p># Comments: 126</p>",
+    "published": "Sun, 25 Jan 2026 19:03:40 +0000",
+    "link": "https://gwern.net/blog/2026/make-me-care",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: An interactive map of US lighthouses and navigational aids",
+    "summary": "<p>This is an interactive map of US navigational aids and lighthouses, which indicates their location, color, characteristic and any remarks the Coast Guard has attached.<p>I was sick at home with the flu this weekend, and went on a bit of a Wikipedia deep dive about active American lighthouses. Searching around a bit, it was very hard to find a single source or interactive map of active beacons, and a description of what the \"characteristic\" meant. The Coast Guard maintains a list of active lights though, that they publish annually (<a href=\"https://www.navcen.uscg.gov/light-list-annual-publication\" rel=\"nofollow\">https://www.navcen.uscg.gov/light-list-annual-publication</a>). With some help from Claude Code, it wasn't hard to extract the lat/long and put together a small webapp that shows a map of these light stations and illustrates their characteristic with an animated visualization..<p>Of course, this shouldn't be used as a navigational aid, merely for informational purposes! Though having lived in Seattle and San Francisco I thought it was quite interesting.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46756427\">https://news.ycombinator.com/item?id=46756427</a></p>\n<p>Points: 51</p>\n<p># Comments: 14</p>",
+    "published": "Sun, 25 Jan 2026 18:06:26 +0000",
+    "link": "https://www.lighthouses.app/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "ICE using Palantir tool that feeds on Medicaid data",
+    "summary": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data\">https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46756117\">https://news.ycombinator.com/item?id=46756117</a></p>\n<p>Points: 990</p>\n<p># Comments: 610</p>",
+    "published": "Sun, 25 Jan 2026 17:36:19 +0000",
+    "link": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
+    "summary": "<p>Article URL: <a href=\"https://www.diljitpr.net/blog-post-postgresql-dlq\">https://www.diljitpr.net/blog-post-postgresql-dlq</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46755115\">https://news.ycombinator.com/item?id=46755115</a></p>\n<p>Points: 178</p>\n<p># Comments: 58</p>",
+    "published": "Sun, 25 Jan 2026 15:51:03 +0000",
+    "link": "https://www.diljitpr.net/blog-post-postgresql-dlq",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "A macOS app that blurs your screen when you slouch",
+    "summary": "<p>Article URL: <a href=\"https://github.com/tldev/posturr\">https://github.com/tldev/posturr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46754944\">https://news.ycombinator.com/item?id=46754944</a></p>\n<p>Points: 506</p>\n<p># Comments: 169</p>",
+    "published": "Sun, 25 Jan 2026 15:34:51 +0000",
+    "link": "https://github.com/tldev/posturr",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Netfence \u2013 Like Envoy for eBPF Filters",
+    "summary": "<p>To power the firewalling for our agents so that they couldn't contact arbitrary services, I build netfence. It's like Envoy but for eBPF filters.<p>It allows you to define different DNS-based rules that are resolved in a local daemon to IPs, then pushed to the eBPF filter to allow traffic. By doing it this way, we can still allow DNS-defined rules, but prevent contacting random IPs.<p>There's also no network performance penalty, since it's just DNS lookups and eBPF filters referencing memory.<p>It also means you don't have to tamper with the base image, which the agent could potentially manipulate to remove rules (unless you prevent root maybe).<p>It automatically manages the lifecycle of eBPF filters on cgroups and interfaces, so it works well for both containers and micro VMs (like Firecracker).<p>You implement a control plane, just like Envoy xDS, which you can manage the rules of each cgroup/interface. You can even manage DNS through the control plane to dynamically resolve records (which is helpful as a normal DNS server doesn't know which interface/cgroup a request might be coming from).<p>We specifically use this to allow our agents to only contact S3, pip, apt, and npm.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46754724\">https://news.ycombinator.com/item?id=46754724</a></p>\n<p>Points: 47</p>\n<p># Comments: 6</p>",
+    "published": "Sun, 25 Jan 2026 15:13:46 +0000",
+    "link": "https://github.com/danthegoodman1/netfence",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Bitwise conversion of doubles using only FP multiplication and addition (2020)",
+    "summary": "<p>Article URL: <a href=\"https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/\">https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46754522\">https://news.ycombinator.com/item?id=46754522</a></p>\n<p>Points: 24</p>\n<p># Comments: 2</p>",
+    "published": "Sun, 25 Jan 2026 14:55:03 +0000",
+    "link": "https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Web-based image editor modeled after Deluxe Paint",
+    "summary": "<p>Article URL: <a href=\"https://github.com/steffest/DPaint-js\">https://github.com/steffest/DPaint-js</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46753708\">https://news.ycombinator.com/item?id=46753708</a></p>\n<p>Points: 190</p>\n<p># Comments: 17</p>",
+    "published": "Sun, 25 Jan 2026 12:54:53 +0000",
+    "link": "https://github.com/steffest/DPaint-js",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Creators and communities everywhere take a stand against ICE",
+    "summary": "It's not surprising when the guy who's been yelling about the horrors of late-stage capitalism on Instagram for the last five years turns his ire towards ICE. But something different has been happening over the week or so, following the most recent shootings of civilians by federal agents - even accounts that stay laser focused [&#8230;]",
+    "published": "2026-01-25T12:21:43-05:00",
+    "link": "https://www.theverge.com/policy/867451/creators-and-communities-take-a-stand-against-ice",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "It doesn\u2019t matter if Alex Pretti had a gun",
+    "summary": "Shortly after federal agents killed Alex Pretti Saturday morning, the Department of Homeland Security began to run with the story that the dead man had been armed and dangerous. He had a gun, DHS said. (A Bellingcat analysis of the video concludes that Pretti was unarmed when he was shot.) He had approached the agents [&#8230;]",
+    "published": "2026-01-25T12:01:38-05:00",
+    "link": "https://www.theverge.com/policy/867455/dhs-ice-border-patrol-minneapolis-alex-pretti",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Trusting your phone to Abxylute\u2019s mobile controller requires a big leap of faith",
+    "summary": "As a retro gaming fan, I was thrilled when Apple opened its App Store to emulators in 2024, but I've yet to find a controller that makes me want to fully embrace retro gaming on my phone. Clamp-on controllers like the Backbone Pro are a bit too bulky, and I don't want to prop my [&#8230;]",
+    "published": "2026-01-25T11:00:00-05:00",
+    "link": "https://www.theverge.com/tech/864821/abxylute-m4-snap-on-mobile-controller-magsafe-magnetic-bluetooth",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Why won\u2019t anyone stop ICE from masking?",
+    "summary": "Americans do not like masked secret police. There is really no other way to put it. The reasons why are manifold: accountability, trust in law enforcement, and just plain overall vibes. More concretely, not being able to tell who's a cop and who's not is dangerous. An assassin masquerading as law enforcement killed Minnesota legislator [&#8230;]",
+    "published": "2026-01-25T10:00:00-05:00",
+    "link": "https://www.theverge.com/policy/867202/ice-mask-ban-no-secret-police-california",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Alex Pretti killing: Minnesota CEOs, including UnitedHealth, Target, call for 'immediate deescalation'",
+    "summary": "The Trump administration has surged federal law enforcement to the city to enforce its immigration crackdown and pursue allegations of widespread welfare fraud.",
+    "published": "Sun, 25 Jan 2026 20:20:10 GMT",
+    "link": "https://www.cnbc.com/2026/01/25/alex-pretti-ceo-minneapolis-minnesota.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Carney says Canada not pursuing free trade deal with China as Trump threatens 100% tariffs",
+    "summary": "Trump's rhetoric on Truth Social contrasts with what he said after the agreement between Ottawa and Beijing: \"If you can get a deal with China, you should do that.\"",
+    "published": "Mon, 26 Jan 2026 01:53:47 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/canada-china-trade-deal-tariffs-trump.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Videos of Alex Pretti shooting by federal agents in Minneapolis contradict Trump official claims",
+    "summary": "Footage from at least one of the videos appears to show a federal officer disarming the victim before shots are fired.",
+    "published": "Sun, 25 Jan 2026 20:49:35 GMT",
+    "link": "https://www.cnbc.com/2026/01/25/alex-pretti-minneapolis-shooting-videos-trump.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Another day another high: Gold surges past $5,000 as investors seek shelter from global risks",
+    "summary": "The surge comes as recent flashpoints from Greenland and Venezuela to the Middle East underscore higher geopolitical risk, while fiscal concerns also loom large.",
+    "published": "Mon, 26 Jan 2026 00:44:22 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/gold-record-surges-past-new-5000-record.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Asia-Pacific stocks trade mixed as geopolitical worries keep investors on edge",
+    "summary": "Asia-Pacific markets traded mixed Monday as investors continued to pile into gold, sending it to fresh highs.",
+    "published": "Mon, 26 Jan 2026 03:04:18 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/asia-pacific-markets-nikkei-225-hang-seng-index-kospi-gold-canada.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "China didn\u2019t grab many headlines at Davos, but it's the elephant in the room",
+    "summary": "The world's second-largest economy is sticking to its calls for global cooperation, which didn't stand out as much as other high-profile speeches at Davos.",
+    "published": "Mon, 26 Jan 2026 00:05:33 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/china-isnt-grabbing-headlines-at-davos-but-its-the-elephant-in-the-room.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "What I want from Apple, Meta and Microsoft in their key earnings reports",
+    "summary": "All three stocks are regarded as broken, and it's difficult to get more broken.",
+    "published": "Sun, 25 Jan 2026 22:45:43 GMT",
+    "link": "https://www.cnbc.com/2026/01/25/cramer-what-i-want-to-see-in-earnings-from-apple-meta-and-microsoft.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Major winter storm may affect over 170 million Americans \u2014 how much it could cost you",
+    "summary": "Many households can expect to pay more to cover groceries, heating, disrupted travel plans and insured losses due to the winter storm expected to hit the U.S.",
+    "published": "Fri, 23 Jan 2026 22:23:06 GMT",
+    "link": "https://www.cnbc.com/2026/01/23/winter-storm-and-your-money.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "30-year-old quit her job to open a bake shop\u2014now her 2 storefronts bring in 7 figures yearly: 'I always knew I wanted to work for myself'",
+    "summary": "Abi Caswell started baking cookies at home in 2021. Five years later, she's the founder of two successful bakeries.",
+    "published": "Sun, 25 Jan 2026 14:34:02 GMT",
+    "link": "https://www.cnbc.com/2026/01/25/30-year-old-quit-her-job-to-open-a-bake-shopnow-her-2-storefronts-bring-in-7-figures-yearly.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Couples who are 'truly close' use 8 phrases when talking about each other, says Harvard-trained psychologist",
+    "summary": "How well do you know your romantic partner? Harvard-trained psychologist and relationship expert Dr. Cortney Warren says couples who are \"truly close\" often use eight phrases when talking about each other.",
+    "published": "Sun, 25 Jan 2026 14:51:21 GMT",
+    "link": "https://www.cnbc.com/2026/01/25/harvard-psychologist-truly-close-couples-use-8-phrases-when-talking-about-each-other.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Power outages and canceled flights as winter storm brings snow, sleet and ice",
+    "summary": "Reporters from across the NPR Network are covering the storm in each state \u2014 the impact and how officials are responding.",
+    "published": "Sun, 25 Jan 2026 18:36:08 -0500",
+    "link": "https://www.npr.org/2026/01/25/nx-s1-5687957/weather-snow-ice-winter-storm-power-outages-travel",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Videos and eyewitnesses refute federal account of Minneapolis shooting",
+    "summary": "Trump officials have called the victim a \"domestic terrorist.\" State officials warn such unfounded accusations threaten the integrity of the federal investigation.<br /><br />",
+    "published": "Sun, 25 Jan 2026 15:00:00 -0500",
+    "link": "https://www.npr.org/2026/01/25/nx-s1-5687875/minneapolis-shooting-minnesota-ice-alex-pretti-dhs-investigation",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Senate Democrats and Republicans call for investigation into killing of Alex Pretti",
+    "summary": "Sen. Tina Smith, D-Minn., accuses the federal government of a 'cover up,' and Sen. Thom Tillis, R-N.C., warns White House against attempts to \"shut down an investigation.\"",
+    "published": "Sun, 25 Jan 2026 14:02:09 -0500",
+    "link": "https://www.npr.org/2026/01/25/g-s1-107288/senate-investigation-alex-pretti-killing",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Watch: Videos refute DHS account of fatal shooting in Minneapolis",
+    "summary": "Federal officials described the fatal shooting of a 37-year-old U.S. citizen by a federal agent as an act of self-defense. The video evidence that has surfaced so far contradicts that assertion.",
+    "published": "Sun, 25 Jan 2026 13:36:02 -0500",
+    "link": "https://www.npr.org/2026/01/25/nx-s1-5687384/minneapolis-minnesota-shooting-video-dhs",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Harmanpreet and Rohit to receive Padma Shri Award in 2026",
+    "summary": "The central government announced a list of 131 nominees on Sunday which included the two World Cup winning captains.",
+    "published": "Mon, 26 Jan 2026 03:40:24 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1520998.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "No chance to train: Sydney Sixers coach questions BBL finals schedule",
+    "summary": "Sixers had to play twice in three days with a lengthy flight between matches having also traveled to Perth earlier in the week",
+    "published": "Mon, 26 Jan 2026 02:09:05 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1520992.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Tristan Stubbs: 'Don't know what we did or how we did it, but we did it'",
+    "summary": "He has been part of SEC since the first season, but as captain in 2026, took them to the SA20 title",
+    "published": "Sun, 25 Jan 2026 19:31:01 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1520985.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Former BCCI president IS Bindra dies aged 84",
+    "summary": "He also served as the president of the Punjab Cricket Association from 1978 to 2014",
+    "published": "Sun, 25 Jan 2026 18:56:04 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1520975.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Breetzke, Stubbs bring Sunrisers back from dead to seal third SA20 title",
+    "summary": "Brevis' century went in vain as Jansen's three-for restricted Pretoria Capitals to 158 before SEC were reduced to 48 for 4",
+    "published": "Sun, 25 Jan 2026 18:29:11 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1520969.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Abhishek blasts 14-ball fifty to hand India unassailable 3-0 lead against NZ",
+    "summary": "It was India's second-fastest T20I fifty after Bumrah and Bishnoi restricted NZ to 153",
+    "published": "Sun, 25 Jan 2026 16:54:53 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1520958.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Abhishek slams India's second-fastest T20I half-century",
+    "summary": "He remains behind his mentor Yuvraj Singh, who still holds the India record of a 12-ball fifty against England in 2007",
+    "published": "Sun, 25 Jan 2026 16:33:23 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1520956.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
   }
 ]
