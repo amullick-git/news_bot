@@ -2231,5 +2231,915 @@
     "published": "Wed, 21 Jan 2026 06:03:01 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1520318.html?ex_cid=OTC-RSS",
     "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Immigration chief departing Minneapolis as Trump sends border tsar Tom Homan to scene",
+    "summary": "The decision may indicate that the administration is walking back more aggressive immigration enforcement.",
+    "published": "Tue, 27 Jan 2026 03:06:52 GMT",
+    "link": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "'We're all terrified', Minnesotan tells the BBC in tears",
+    "summary": "The BBC's Ana Faguy speaks to residents in the state after the second fatal shooting by federal immigration officers.",
+    "published": "Mon, 26 Jan 2026 22:22:51 GMT",
+    "link": "https://www.bbc.com/news/videos/crkr1g5vnveo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Deadly US winter storm leaves flights delayed and thousands without power",
+    "summary": "At least a dozen people have died in multiple US states possibly due to the storm, officials have said.",
+    "published": "Mon, 26 Jan 2026 22:49:39 GMT",
+    "link": "https://www.bbc.com/news/articles/cp3z8ek7eqyo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "New Iran videos show bodies piled in hospital and snipers on roofs",
+    "summary": "Footage from a hospital in Tehran shows at least 31 bodies piled inside and seven body bags outside.",
+    "published": "Mon, 26 Jan 2026 21:34:40 GMT",
+    "link": "https://www.bbc.com/news/articles/c1m7kde3y3zo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Trump raises US tariffs on South Korea imports to 25%",
+    "summary": "Trump has accused Seoul of \"not living up\" to a trade deal that was reached last year.",
+    "published": "Tue, 27 Jan 2026 03:06:18 GMT",
+    "link": "https://www.bbc.com/news/articles/cwyw3ynwe37o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Tech giants face landmark trial over social media addiction claims",
+    "summary": "Defendants include Meta, which owns Instagram and Facebook, TikTok's owner ByteDance and YouTube parent Google.",
+    "published": "Tue, 27 Jan 2026 00:01:49 GMT",
+    "link": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Former Olympian Ryan Wedding pleads not guilty to drug kingpin charges",
+    "summary": "The ex-Olympic snowboarder and accused cartel leader was taken into custody in Mexico last week by the FBI.",
+    "published": "Mon, 26 Jan 2026 22:46:49 GMT",
+    "link": "https://www.bbc.com/news/articles/cedweq4lj25o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Nigerian officers to face trial over coup-plot allegations",
+    "summary": "Following an investigation some of the 16 detained last year are accused of planning to unseat President Bola Tinubu.",
+    "published": "Mon, 26 Jan 2026 19:07:08 GMT",
+    "link": "https://www.bbc.com/news/articles/c9dv4wlw3yzo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "China has purged its highest-ranked military general. Why?",
+    "summary": "Zhang Youxia had been seen as a close ally of China's leader, Xi Jinping.",
+    "published": "Mon, 26 Jan 2026 23:19:47 GMT",
+    "link": "https://www.bbc.com/news/articles/c8d0l0g8yz5o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Trump abandons attack mode as Minneapolis shooting backlash grows",
+    "summary": "The White House has shifted how it talks about Alex Pretti's killing as more Republicans express concern over the deadly encounter.",
+    "published": "Mon, 26 Jan 2026 21:18:39 GMT",
+    "link": "https://www.bbc.com/news/articles/ckgn9q1wp0yo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "As Tech Chiefs Woo Trump, Silicon Valley Seethes Over Minneapolis Shootings",
+    "summary": "Executives, investors and engineers are speaking out against the Trump administration after the killings of Alex Pretti and another protester in moves reminiscent of Silicon Valley a decade ago.",
+    "published": "Mon, 26 Jan 2026 21:53:50 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/technology/ice-minnesota-protests-tech.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "New Videos of the Beckham Feud Are Fake. Nobody Seems to Care.",
+    "summary": "A.I.-generated content of Victoria Beckham has spread as wedding drama has engulfed the celebrity clan and the public has clamored for receipts (even fabricated ones).",
+    "published": "Mon, 26 Jan 2026 15:32:53 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/business/media/brooklyn-beckham-victoria-feud-ai-videos-dancing.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "How The New York Times Investigated Videos of ICE Agents Killing Alex Pretti",
+    "summary": "Using more than a dozen videos related to the shooting of Alex Pretti, The Times worked to establish what is called ground truth: what happened, how it happened and who might be responsible.",
+    "published": "Mon, 26 Jan 2026 22:41:57 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/insider/minneapolis-ice-shooting-videos-investigation.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Winter Storm Debilitates the South, Encasing Cities in Ice and Snow",
+    "summary": "The forecasts had predicted that the storm could be among the worst in a generation to hit the region. By Monday, it was clear that is exactly what happened.",
+    "published": "Tue, 27 Jan 2026 01:04:08 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/weather/south-us-winter-storm-snow-ice.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "How Does Climate Change Affect Winter Storms?",
+    "summary": "A warmer atmosphere has the potential to hold more moisture, which can contribute to heavier precipitation in any season, scientists say.",
+    "published": "Mon, 26 Jan 2026 23:12:42 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/weather/winter-storm-climate-change-snow.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Winter Storm Linked to at Least 22 Deaths in the US",
+    "summary": "The storm deaths were reported in New York, Tennessee, Louisiana, Kansas, Texas, Massachusetts, Arkansas, Ohio, Pennsylvania, Mississippi, Kentucky and New Jersey, and other deaths were under investigation.",
+    "published": "Mon, 26 Jan 2026 22:53:31 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/weather/winter-storm-death-toll-snow.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "What to Expect for a Cold NYC Commute: Trains, Buses and Rail",
+    "summary": "Mass transit is slowly getting back to normal around the city.",
+    "published": "Mon, 26 Jan 2026 23:07:24 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/weather/nyc-winter-storm-transit-trains-buses.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "No Snow Day? In New York City Parks, It Felt Like One.",
+    "summary": "Some children skipped remote classes in city schools in favor of activities they felt were more important: sledding and snowball fights.",
+    "published": "Tue, 27 Jan 2026 01:09:38 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/weather/snow-parks-children-remote-schooling.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "After Mamdani Nods to \u2018Heated Rivalry,\u2019 Library E-Book Downloads Surge",
+    "summary": "As a snowstorm arrived, Mayor Zohran Mamdani reminded New Yorkers that they could access the romance series that inspired the TV show through their public library.",
+    "published": "Mon, 26 Jan 2026 23:03:03 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/nyregion/mamdani-heated-rivalry-library.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump Briefed on Intelligence Saying Iran\u2019s Government Is Weaker",
+    "summary": "Protests that erupted late last year shook elements of the Iranian government, according to the reports.",
+    "published": "Mon, 26 Jan 2026 23:44:28 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/us/politics/trump-reports-iran-government.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "As U.S. Warships Get Closer, Iran Ramps Up Threats to Retaliate",
+    "summary": "Iran and its militia allies say they will respond aggressively in the region if attacked. A U.S. aircraft carrier and warships are approaching the region.",
+    "published": "Mon, 26 Jan 2026 20:50:47 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/world/middleeast/us-warships-gulf-waters-iran-retaliation-threats.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Home Sourdough Bakers Are Turning Their Hobbies Into Full-Time Jobs",
+    "summary": "Home bakers are finding devoted customer bases that allow them to stay home with family and still make a decent living \u2014 but they do have get up in the middle of the night.",
+    "published": "Tue, 27 Jan 2026 01:45:22 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/dining/home-bakers-sourdough-microbakeries.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "NATO Chief Says Europe Is \u2018Dreaming\u2019 if It Thinks It Can Defend Itself Without U.S.",
+    "summary": "Mark Rutte, the secretary general of the alliance, told members of the European Parliament that President Trump was \u201cdoing a lot of good stuff.\u201d",
+    "published": "Mon, 26 Jan 2026 23:30:41 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/world/europe/nato-chief-europe-greenland-trump-us.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "On Venezuela and Greenland, Many Trump Fans Give Him the Benefit of the Doubt",
+    "summary": "At least so far, President Trump has managed to bring along even those conservative supporters who are skeptical of foreign interventions.",
+    "published": "Mon, 26 Jan 2026 20:40:41 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/us/politics/trump-supporters-foreign-policy-greenland-iran.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "The \u2018R-Word\u2019 Returns, Dismaying Those Who Fought to Oust It",
+    "summary": "The term, long considered a slur for those with intellectual disabilities, is seeing a resurgence on social media and across the political right.",
+    "published": "Mon, 26 Jan 2026 15:10:16 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/us/r-word-slur-disability.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Democrats Embrace a Shutdown Fight They Wanted to Avoid",
+    "summary": "After a second fatal shooting of a U.S. citizen in Minneapolis, Democrats say public opinion is on their side and they are willing to risk a backlash to counter what they see as police-state tactics.",
+    "published": "Tue, 27 Jan 2026 00:38:12 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/us/politics/democrats-shutdown-ice-shooting.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump Says He Will Raise Tariffs on South Korea to 25%",
+    "summary": "President Trump threatened to increase tariffs on South Korean exports, including cars, citing the country\u2019s slow ratification of a trade deal.",
+    "published": "Tue, 27 Jan 2026 01:12:24 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/business/economy/trump-tariffs-south-korea.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Court Affirms Ruling That Alina Habba Served Unlawfully as U.S. Attorney",
+    "summary": "The Justice Department lost a bid to challenge a decision that had found Ms. Habba was serving unlawfully as New Jersey\u2019s top federal prosecutor.",
+    "published": "Mon, 26 Jan 2026 21:53:50 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/nyregion/alina-habba-appeal.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump Administration Takes Another Stake in Rare Earth Sector",
+    "summary": "The administration announced a $1.6 billion deal with USA Rare Earth. The firm also does business with Cantor Fitzgerald, which is run by the sons of President Trump\u2019s commerce secretary.",
+    "published": "Tue, 27 Jan 2026 03:26:49 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/us/politics/trump-rare-earth-howard-lutnick.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "How Bad Are A.I. Delusions? We Asked People Treating Them.",
+    "summary": "Dozens of doctors and therapists said chatbots had led their patients to psychosis, isolation and unhealthy habits.",
+    "published": "Tue, 27 Jan 2026 00:54:45 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/us/chatgpt-delusions-psychosis.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "These Liberals Listen to Right-Wing Podcasts to Leave Their Media Comfort Zone",
+    "summary": "To get outside their bubbles \u2014 and crib some tactics \u2014 members of a listening club are plunging themselves into a world they had once avoided.",
+    "published": "Mon, 26 Jan 2026 18:41:14 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/style/podcast-listening-club-right-wing.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "A Year After DC Plane Crash, Concerns About Airport\u2019s Safety Continue",
+    "summary": "The Federal Aviation Administration says it has reduced traffic in and out of the airport and designed safer routes. Crash victims\u2019 families want more.",
+    "published": "Tue, 27 Jan 2026 01:33:55 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/us/politics/reagan-national-airport-crash.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "F.A.A. Rolls Out Agency Overhaul for Improving Air Safety",
+    "summary": "The announcement of a reorganization comes nearly a year after a midair collision killed 67 people and prompted a public outcry for enhancing the security of aviation travel.",
+    "published": "Mon, 26 Jan 2026 23:31:06 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/us/politics/faa-overhaul-safety-modernization.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Chinese Pandas Leave Japanese Zoo",
+    "summary": "As Japan and China feud, an animal long used in Chinese diplomacy has been summoned back home.",
+    "published": "Mon, 26 Jan 2026 21:59:41 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/world/asia/japan-pandas-china.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "The War in Minnesota Is for Our Phones",
+    "summary": "We need to protect our right to carry cameras to document ICE\u2019s violence.",
+    "published": "Mon, 26 Jan 2026 23:03:49 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/opinion/minnesota-minneapolis-phone-ice-shooting.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump Changes Course in Minnesota",
+    "summary": "Also, large parts of the U.S. are dangerously cold. Here\u2019s the latest at the end of Monday.",
+    "published": "Mon, 26 Jan 2026 23:22:05 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/briefing/trump-minnesota-winter-storm-cold.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "430,000-Year-Old Wooden Tools Are the Oldest Ever Found",
+    "summary": "The finding, along with the discovery of a 500,000-year-old hammer made of bone, indicates that our human ancestors were making tools even earlier than archaeologists thought.",
+    "published": "Mon, 26 Jan 2026 22:40:19 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Thomas Fogarty, 91, Who Helped Revolutionize Vascular Surgery, Dies",
+    "summary": "Drawing on his love of fly-fishing, he developed a balloon catheter that removes blood clots from patients\u2019 limbs in a minimally invasive way. It has saved millions of lives.",
+    "published": "Mon, 26 Jan 2026 23:33:43 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/science/thomas-fogarty-dead.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Canada\u2019s Marineland Whales Could Find New Homes in U.S.",
+    "summary": "Marineland, a closed aquatic park in Ontario, had threatened to euthanize its whales after the government denied an application to send them to China.",
+    "published": "Tue, 27 Jan 2026 02:29:30 +0000",
+    "link": "https://www.nytimes.com/2026/01/26/world/canada/canada-marineland-beluga-whales.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Ex-Congress Leader Claims Threat To Life After Calling Rahul Gandhi 'Darpok'",
+    "summary": "Shakeel Ahmad quit Congress after 2025 Bihar assembly elections (File photo)",
+    "published": "Tue, 27 Jan 2026 08:22:03 +0530",
+    "link": "https://www.ndtv.com/india-news/ex-congress-leader-shakeel-ahmad-claims-threat-to-life-after-calling-rahul-gandhi-darpok-10890173#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "SSC CHSL Tier 1 Result Soon; Check Tier 2 Exam Pattern And Marking Scheme",
+    "summary": "SSC To Announce CHSL Tier 1 Results Before Tier 2 Exams",
+    "published": "Tue, 27 Jan 2026 08:15:31 +0530",
+    "link": "https://www.ndtv.com/education/ssc-chsl-tier-1-result-soon-check-tier-2-exam-pattern-and-marking-scheme-10890178#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "From Defence To Worker Mobility, India-EU Free Trade Deal To Create History: 10 Points",
+    "summary": "India-EU FTA is expected to bring a qualitative change in deepening the overall bilateral ties",
+    "published": "Tue, 27 Jan 2026 08:12:22 +0530",
+    "link": "https://www.ndtv.com/world-news/from-defence-to-worker-mobility-india-eu-free-trade-deal-to-create-history-10-points-10889548#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "\"Major Problem\": Raashid Alvi Says It's \"Difficult\" To Meet Congress Leaders",
+    "summary": "File photo",
+    "published": "Tue, 27 Jan 2026 08:06:22 +0530",
+    "link": "https://www.ndtv.com/india-news/raashid-alvi-says-its-difficult-to-meet-congress-leaders-major-problem-10890214#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Mamata Banerjee May Visit Delhi In February To Protest Against SIR: Sources",
+    "summary": "West Bengal Chief Minister Mamata Banerjee",
+    "published": "Tue, 27 Jan 2026 07:19:12 +0530",
+    "link": "https://www.ndtv.com/india-news/west-bengal-chief-minister-mamata-banerjee-may-visit-delhi-in-february-to-protest-against-special-intensive-revision-sir-sources-10890122#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Bareilly City Magistrate Resigns, Cites Disagreement With New UGC Policies",
+    "summary": "Bareilly City Magistrate Alankar Agnihotri.",
+    "published": "Tue, 27 Jan 2026 07:13:51 +0530",
+    "link": "https://www.ndtv.com/india-news/bareilly-city-magistrate-alankar-agnihotri-resigns-cites-disagreement-with-new-ugc-policies-10889499#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "ISRO SAC Recruitment 2026 Announced For Scientist Engineer SC And SD Posts",
+    "summary": "ISRO SAC Invites Applications for Scientist Engineer Posts 2026",
+    "published": "Tue, 27 Jan 2026 07:06:21 +0530",
+    "link": "https://www.ndtv.com/education/isro-sac-recruitment-2026-announced-for-scientist-engineer-sc-and-sd-posts-10890053#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Parents Of Gangster Goldy Brar Arrested From Punjab In Extortion Case: Cops",
+    "summary": "Gangster Goldy Brar is one of the main accused in the murder of Punjabi singer Sidhu Mooselwala in 2022.",
+    "published": "Tue, 27 Jan 2026 01:20:06 +0530",
+    "link": "https://www.ndtv.com/india-news/parents-of-gangster-goldy-brar-arrested-from-punjab-in-extortion-case-cops-10889632#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Man Killed After Being Deliberately Run Over By Techie's Car In Bengaluru",
+    "summary": "The entire incident was captured on the vehicle's dash camera.",
+    "published": "Tue, 27 Jan 2026 00:14:59 +0530",
+    "link": "https://www.ndtv.com/india-news/man-killed-after-being-deliberately-run-over-by-techies-car-in-bengaluru-10889159#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "5-Year-Old Dies In Hyderabad After Chinese Manja Slits Her Throat",
+    "summary": "This is the second such incident in Telangana in less than two weeks.",
+    "published": "Tue, 27 Jan 2026 00:09:45 +0530",
+    "link": "https://www.ndtv.com/india-news/chinese-manja-claims-life-of-5-year-old-girl-in-hyderabad-10888915#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Banks To Be Hit By Nationwide Strike On Tuesday: What To Know",
+    "summary": "This means many branch-level services may remain unavailable for three consecutive days.",
+    "published": "Mon, 26 Jan 2026 23:51:14 +0530",
+    "link": "https://www.ndtv.com/india-news/banks-to-be-hit-by-nationwide-strike-on-tuesday-what-to-know-10888197#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Jaisalmer Man Detained For Allegedly Spying For Pakistan",
+    "summary": "The action was carried out late on the night of January 25.",
+    "published": "Mon, 26 Jan 2026 23:50:37 +0530",
+    "link": "https://www.ndtv.com/india-news/jaisalmer-man-detained-for-allegedly-spying-for-pakistan-10888730#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "200 More Stray Dogs Killed In Telangana Village",
+    "summary": "In another incident, around 200 stray dogs were allegedly killed in Kamareddy district.",
+    "published": "Mon, 26 Jan 2026 23:50:11 +0530",
+    "link": "https://www.ndtv.com/india-news/200-more-stray-dogs-killed-in-telangana-village-10888680#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Excise Officer Collapses, Dies Of Hear Attack During Republic Day Photo-Op",
+    "summary": "Colleagues remembered him as a disciplined, hardworking officer.",
+    "published": "Mon, 26 Jan 2026 23:50:00 +0530",
+    "link": "https://www.ndtv.com/india-news/excise-officer-collapses-dies-of-hear-attack-during-republic-day-photo-op-10888572#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Actor, Ex-MP Mimi Chakraborty Files Complaint Over \"Harassment\" At Event",
+    "summary": "Police officials said they have taken note of the complaint and are examining the matter.",
+    "published": "Mon, 26 Jan 2026 23:49:24 +0530",
+    "link": "https://www.ndtv.com/india-news/actor-ex-mp-mimi-chakraborty-files-complaint-over-harassment-at-event-10888545#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "\"He Said Train Was Delayed\": JEE Aspirant Found Dead On Kota Railway Tracks",
+    "summary": "His two-year JEE coaching course had recently concluded.",
+    "published": "Mon, 26 Jan 2026 23:48:54 +0530",
+    "link": "https://www.ndtv.com/india-news/he-said-train-was-delayed-jee-aspirant-found-dead-on-kota-railway-tracks-10888512#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "'Choose Between Illegal Immigration And Protecting Identity': Himanta Sarma",
+    "summary": "Himanta Sarma said influx of people from East Bengal has had a major impact on demographic",
+    "published": "Mon, 26 Jan 2026 23:40:38 +0530",
+    "link": "https://www.ndtv.com/india-news/choose-between-illegal-immigration-and-protecting-identity-himanta-sarma-10889456#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Congress, BJP Spar Over Alleged Robbery Of Rs 400 Crore In Demonetised Notes",
+    "summary": "Maharashtra police has constituted a Special Investigation Team to verify the claims. (Representational)",
+    "published": "Mon, 26 Jan 2026 23:20:00 +0530",
+    "link": "https://www.ndtv.com/india-news/congress-bjp-spar-over-alleged-robbery-of-rs-400-crore-in-demonetised-notes-10889369#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Watch: Masked Men Rob Jewellery Store At Gunpoint In Karnataka",
+    "summary": "After committing the robbery, the accused fled the scene on a motorcycle.",
+    "published": "Mon, 26 Jan 2026 23:10:09 +0530",
+    "link": "https://www.ndtv.com/india-news/masked-men-threaten-with-gun-rob-jewellery-store-in-vijayapura-cctv-surfaces-10889203#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Rahul Gandhi's 'Gamosa' Behind Latest BJP vs Congress",
+    "summary": "Rahul Gandhi and other leaders at the Rashtrapati Bhavan on Monday",
+    "published": "Mon, 26 Jan 2026 23:09:07 +0530",
+    "link": "https://www.ndtv.com/india-news/rahul-gandhis-gamosa-behind-latest-bjp-vs-congress-10888714#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Heathrow Drops the Liquids Rule",
+    "summary": "<p>Article URL: <a href=\"https://flymag.com/heathrow-drops-the-liquids-rule-what-changes-at-lhr-and-how-close-the-u-s-really-is/\">https://flymag.com/heathrow-drops-the-liquids-rule-what-changes-at-lhr-and-how-close-the-u-s-really-is/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46774777\">https://news.ycombinator.com/item?id=46774777</a></p>\n<p>Points: 23</p>\n<p># Comments: 9</p>",
+    "published": "Tue, 27 Jan 2026 02:30:05 +0000",
+    "link": "https://flymag.com/heathrow-drops-the-liquids-rule-what-changes-at-lhr-and-how-close-the-u-s-really-is/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "iPhone 5s Gets New Software Update 13 Years After Launch",
+    "summary": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/01/26/iphone-5s-software-update/\">https://www.macrumors.com/2026/01/26/iphone-5s-software-update/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46774108\">https://news.ycombinator.com/item?id=46774108</a></p>\n<p>Points: 70</p>\n<p># Comments: 21</p>",
+    "published": "Tue, 27 Jan 2026 01:04:54 +0000",
+    "link": "https://www.macrumors.com/2026/01/26/iphone-5s-software-update/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Y Combinator website no longer lists Canada as a country it invests in",
+    "summary": "<p>Article URL: <a href=\"https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/\">https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46773242\">https://news.ycombinator.com/item?id=46773242</a></p>\n<p>Points: 116</p>\n<p># Comments: 67</p>",
+    "published": "Mon, 26 Jan 2026 23:32:00 +0000",
+    "link": "https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "You have to know how to drive the car",
+    "summary": "<p>Article URL: <a href=\"https://www.seangoedecke.com/knowing-how-to-drive-the-car/\">https://www.seangoedecke.com/knowing-how-to-drive-the-car/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46772966\">https://news.ycombinator.com/item?id=46772966</a></p>\n<p>Points: 46</p>\n<p># Comments: 35</p>",
+    "published": "Mon, 26 Jan 2026 23:05:43 +0000",
+    "link": "https://www.seangoedecke.com/knowing-how-to-drive-the-car/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "People who know the formula for WD-40",
+    "summary": "<p>Gift link: <a href=\"https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54?st=zbjngP&amp;reflink=desktopwebshare_permalink\" rel=\"nofollow\">https://www.wsj.com/business/the-secret-society-of-people-wh...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46771599\">https://news.ycombinator.com/item?id=46771599</a></p>\n<p>Points: 94</p>\n<p># Comments: 170</p>",
+    "published": "Mon, 26 Jan 2026 21:11:53 +0000",
+    "link": "https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Dithering \u2013 Part 2: The Ordered Dithering",
+    "summary": "<p>Article URL: <a href=\"https://visualrambling.space/dithering-part-2/\">https://visualrambling.space/dithering-part-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46770274\">https://news.ycombinator.com/item?id=46770274</a></p>\n<p>Points: 135</p>\n<p># Comments: 18</p>",
+    "published": "Mon, 26 Jan 2026 19:23:54 +0000",
+    "link": "https://visualrambling.space/dithering-part-2/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
+    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jan/26/chatgpt-containers/\">https://simonwillison.net/2026/Jan/26/chatgpt-containers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46770221\">https://news.ycombinator.com/item?id=46770221</a></p>\n<p>Points: 215</p>\n<p># Comments: 189</p>",
+    "published": "Mon, 26 Jan 2026 19:19:40 +0000",
+    "link": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: TetrisBench \u2013 Gemini Flash reaches 66% win rate on Tetris against Opus",
+    "summary": "<p>Article URL: <a href=\"https://tetrisbench.com/tetrisbench/\">https://tetrisbench.com/tetrisbench/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46769752\">https://news.ycombinator.com/item?id=46769752</a></p>\n<p>Points: 77</p>\n<p># Comments: 32</p>",
+    "published": "Mon, 26 Jan 2026 18:42:40 +0000",
+    "link": "https://tetrisbench.com/tetrisbench/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "AI code and software craft",
+    "summary": "<p>Article URL: <a href=\"https://alexwennerberg.com/blog/2026-01-25-slop.html\">https://alexwennerberg.com/blog/2026-01-25-slop.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46769188\">https://news.ycombinator.com/item?id=46769188</a></p>\n<p>Points: 103</p>\n<p># Comments: 70</p>",
+    "published": "Mon, 26 Jan 2026 18:04:15 +0000",
+    "link": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Fedora Asahi Remix is now working on Apple M3",
+    "summary": "<p>Article URL: <a href=\"https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o\">https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46769051\">https://news.ycombinator.com/item?id=46769051</a></p>\n<p>Points: 449</p>\n<p># Comments: 170</p>",
+    "published": "Mon, 26 Jan 2026 17:54:20 +0000",
+    "link": "https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "JuiceSSH \u2013 Give me my pro features back",
+    "summary": "<p>Article URL: <a href=\"https://nproject.io/blog/juicessh-give-me-back-my-pro-features/\">https://nproject.io/blog/juicessh-give-me-back-my-pro-features/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46768909\">https://news.ycombinator.com/item?id=46768909</a></p>\n<p>Points: 232</p>\n<p># Comments: 116</p>",
+    "published": "Mon, 26 Jan 2026 17:46:38 +0000",
+    "link": "https://nproject.io/blog/juicessh-give-me-back-my-pro-features/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The Adolescence of Technology",
+    "summary": "<p>Article URL: <a href=\"https://www.darioamodei.com/essay/the-adolescence-of-technology\">https://www.darioamodei.com/essay/the-adolescence-of-technology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46768257\">https://news.ycombinator.com/item?id=46768257</a></p>\n<p>Points: 145</p>\n<p># Comments: 104</p>",
+    "published": "Mon, 26 Jan 2026 17:07:24 +0000",
+    "link": "https://www.darioamodei.com/essay/the-adolescence-of-technology",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/lellouchenico/status/2015775970330882319\">https://twitter.com/lellouchenico/status/2015775970330882319</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46767668\">https://news.ycombinator.com/item?id=46767668</a></p>\n<p>Points: 565</p>\n<p># Comments: 472</p>",
+    "published": "Mon, 26 Jan 2026 16:27:46 +0000",
+    "link": "https://twitter.com/lellouchenico/status/2015775970330882319",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "RIP Low-Code 2014-2025",
+    "summary": "<p>Article URL: <a href=\"https://www.zackliscio.com/posts/rip-low-code-2014-2025/\">https://www.zackliscio.com/posts/rip-low-code-2014-2025/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46767440\">https://news.ycombinator.com/item?id=46767440</a></p>\n<p>Points: 162</p>\n<p># Comments: 74</p>",
+    "published": "Mon, 26 Jan 2026 16:11:28 +0000",
+    "link": "https://www.zackliscio.com/posts/rip-low-code-2014-2025/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "There is an AI code review bubble",
+    "summary": "<p>Article URL: <a href=\"https://www.greptile.com/blog/ai-code-review-bubble\">https://www.greptile.com/blog/ai-code-review-bubble</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46766961\">https://news.ycombinator.com/item?id=46766961</a></p>\n<p>Points: 197</p>\n<p># Comments: 141</p>",
+    "published": "Mon, 26 Jan 2026 15:38:50 +0000",
+    "link": "https://www.greptile.com/blog/ai-code-review-bubble",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Qwen3-Max-Thinking",
+    "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3-max-thinking\">https://qwen.ai/blog?id=qwen3-max-thinking</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46766741\">https://news.ycombinator.com/item?id=46766741</a></p>\n<p>Points: 420</p>\n<p># Comments: 386</p>",
+    "published": "Mon, 26 Jan 2026 15:23:00 +0000",
+    "link": "https://qwen.ai/blog?id=qwen3-max-thinking",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Windows 11's Patch Tuesday nightmare gets worse",
+    "summary": "<p>Article URL: <a href=\"https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot\">https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46766526\">https://news.ycombinator.com/item?id=46766526</a></p>\n<p>Points: 180</p>\n<p># Comments: 143</p>",
+    "published": "Mon, 26 Jan 2026 15:07:37 +0000",
+    "link": "https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Television is 100 years old today",
+    "summary": "<p>Article URL: <a href=\"https://diamondgeezer.blogspot.com/2026/01/tv100.html\">https://diamondgeezer.blogspot.com/2026/01/tv100.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46766188\">https://news.ycombinator.com/item?id=46766188</a></p>\n<p>Points: 544</p>\n<p># Comments: 194</p>",
+    "published": "Mon, 26 Jan 2026 14:41:04 +0000",
+    "link": "https://diamondgeezer.blogspot.com/2026/01/tv100.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Google AI Overviews cite YouTube more than any medical site for health queries",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study\">https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46766031\">https://news.ycombinator.com/item?id=46766031</a></p>\n<p>Points: 369</p>\n<p># Comments: 197</p>",
+    "published": "Mon, 26 Jan 2026 14:27:00 +0000",
+    "link": "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Apple introduces new AirTag with longer range and improved findability",
+    "summary": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/\">https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46765819\">https://news.ycombinator.com/item?id=46765819</a></p>\n<p>Points: 309</p>\n<p># Comments: 416</p>",
+    "published": "Mon, 26 Jan 2026 14:10:25 +0000",
+    "link": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "All the ways TikTok is broken:\u00a0here\u2019s\u00a0what\u2019s real\u00a0and what\u2019s\u00a0not",
+    "summary": "While social media rumors have suggested the errors are examples of censorship, more than a day after the issues began, TikTok USDS says the problems are the result of a power outage at a data center that it is working to resolve. Rumors of censorship targeting anti-ICE protesting or attempting to block discussion of Jeffrey [&#8230;]",
+    "published": "2026-01-26T21:10:25-05:00",
+    "link": "https://www.theverge.com/news/868379/tiktok-us-trump-oracle-broken-rumors-power-outage",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "X faces EU investigation over Grok\u2019s sexualized deepfakes",
+    "summary": "X is facing an investigation from the European Commission over the sexualized deepfakes generated by its Grok AI chatbot. In its announcement, the Commission says it will evaluate whether X \"properly assessed and mitigated risks\" associated with Grok's image-generating capabilities in the EU, as reported earlier by The New York Times. Advocacy groups and lawmakers [&#8230;]",
+    "published": "2026-01-26T17:47:34-05:00",
+    "link": "https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The best Bluetooth trackers for Apple and Android phones",
+    "summary": "Some people rarely lose things. Wallets are always exactly where they\u2019re supposed to be, keys never go missing, and remotes never slip between the couch cushions. And then there\u2019s the rest of us \u2014 the folks who can\u2019t ever seem to find the thing that was right there a few seconds ago. For us, there [&#8230;]",
+    "published": "2026-01-26T15:01:17-05:00",
+    "link": "https://www.theverge.com/23769840/best-bluetooth-trackers",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "OpenAI\u2019s president is a Trump mega-donor",
+    "summary": "OpenAI's co-founder and longtime president, Greg Brockman, didn't just make a run-of-the-mill donation to the main pro-Trump super PAC - together, he and his wife Anna's September 2025 donations equaled the largest of them all, totaling $25 million to \"MAGA Inc.,\" per a recent filing. The Brockmans' donations made up nearly one-fourth of the six-month [&#8230;]",
+    "published": "2026-01-26T14:57:08-05:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Google will settle its Assistant spying lawsuit for $68 million",
+    "summary": "Google could owe you some money, now that it's moving to settle a class-action lawsuit over how it handled recordings captured when its devices were activated by something other than Google Assistant's actual trigger word, \"Ok Google.\" German outlet VRT NWS's 2019 report exposed the issue, and court filings from last Friday say the proposed [&#8230;]",
+    "published": "2026-01-26T14:45:53-05:00",
+    "link": "https://www.theverge.com/news/868078/google-assistant-lawsuit-settlement",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Apple\u2019s luxe AirPods Max have dropped to one of their lowest prices ever",
+    "summary": "If you prefer over-ear headphones to earbuds and own an iPhone or another Apple device, the AirPods Max with USB-C are worth a look, especially now that you can buy them at Best Buy as part of a flash deal for $429.99 ($120 off) through tomorrow, January 27th. That\u2019s $30 shy of their lowest price [&#8230;]",
+    "published": "2026-01-26T14:38:39-05:00",
+    "link": "https://www.theverge.com/gadgets/868017/apple-airpods-max-usb-c-best-buy-flash-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Even the big dick subreddit is mad about ICE",
+    "summary": "\"Fuck ICE first, second, third, and fourth. Then worry about fucking me,\" a Reddit post reads. \"Immigrants of any status are my friends, neighbors, and colleagues.\" Across the internet - and in the streets - the sentiment is unavoidable, especially after a federal immigration agent shot and killed Alex Pretti, a 37-year-old nurse, in Minneapolis [&#8230;]",
+    "published": "2026-01-26T13:31:13-05:00",
+    "link": "https://www.theverge.com/news/867967/ice-shooting-minneapolis-reddit-communities-activism",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Tattle TV has turned a Hitchcock classic into a vertical video \u2018microdrama\u2019",
+    "summary": "Most vertical video microdrama apps have been focused on putting out newly produced series meant to be watched on your phone. But Tattle TV thinks that people might also be interested in checking out bite-size pieces of cinematic history. Though Tattle TV - a UK-based streaming platform created by filmmakers Philip McGoldrick and Marina Elderton [&#8230;]",
+    "published": "2026-01-26T13:00:29-05:00",
+    "link": "https://www.theverge.com/entertainment/867844/tattle-tv-the-lodger-hitchcock",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "MCP unites Claude chat with apps like Slack, Figma, and Canva",
+    "summary": "Anthropic's Claude got a bit livelier today thanks to a new extension to MCP, the open-source protocol that allows AI agents to easily access tools and data across the internet. Users will now be able to interact with apps directly inside the Claude chatbot, letting you draft and format Slack messages to colleagues and create [&#8230;]",
+    "published": "2026-01-26T13:00:00-05:00",
+    "link": "https://www.theverge.com/news/867673/claude-mcp-app-interactive-slack-figma-canva",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "TikTokers are heading to UpScrolled following US takeover",
+    "summary": "TikTok's takeover in the US has prompted users to join an alternative social platform called UpScrolled. The app, which is available on Android and iOS, currently holds the 12th spot in Apple's App Store, and it's struggling to keep up with an influx of new traffic. \"You showed up so fast our servers tapped out,\" [&#8230;]",
+    "published": "2026-01-26T12:47:31-05:00",
+    "link": "https://www.theverge.com/news/867958/tiktok-upscrolled-app-us-takeover",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Hyundai shares fall after Trump says tariffs on South Korean autos, pharma to rise to 25%",
+    "summary": "South Korean-based automaker Hyundai Motor is the largest importer of new vehicles from that country into the United States.",
+    "published": "Tue, 27 Jan 2026 02:46:21 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/trump-south-korea-tariffs-trade-autos-pharma.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "China's industrial profits edge up in 2025, reversing three years of declines as Beijing curbs price wars",
+    "summary": "China's industrial profits rose 0.6% in 2025 from a year earlier, snapping three consecutive years of declines, as Beijing sought to rein in excessive price competition.",
+    "published": "Tue, 27 Jan 2026 03:49:24 GMT",
+    "link": "https://www.cnbc.com/2026/01/27/china-industrial-profits-2025-december-growth-factory-consumer-demand.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Meta to test premium subscription plans for Instagram, Facebook and WhatsApp",
+    "summary": "Meta Platforms is set to test new subscription models across its apps, including Instagram, Facebook and WhatsApp in the coming months.",
+    "published": "Tue, 27 Jan 2026 02:35:42 GMT",
+    "link": "https://www.cnbc.com/2026/01/27/meta-to-test-premium-subscription-plans-for-instagram-facebook-and-whatsapp.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Health insurers tumble after Trump administration proposes keeping Medicare Advantage rates flat next year",
+    "summary": "Shares of large Medicare plan providers Humana, CVS Health and UnitedHealth Group plunged in extended trading.",
+    "published": "Tue, 27 Jan 2026 00:43:00 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/health-insurers-tumble-after-trump-proposes-keeping-medicare-rates-flat.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Microsoft's plans for 15 more data centers win approval at former Wisconsin Foxconn site",
+    "summary": "Microsoft intends to expand in a place where it's been welcomed, months after backing down on a rezoning attempt in an adjacent village when residents objected.",
+    "published": "Tue, 27 Jan 2026 02:09:39 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/microsoft-wins-approval-for-15-data-centers-at-wisconsin-foxconn-site.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Treasury cancels Booz Allen contracts after employee leaked Trump tax records; stock falls",
+    "summary": "Booz Allen employee Charles Edward Littlejohn also had leaked tax records of Amazon's Jeff Bezos and Tesla chief Elon Musk to a news outlet.",
+    "published": "Mon, 26 Jan 2026 18:42:06 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/trump-tax-records-treasury-cancels-booz-allen-contracts.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "AI spending wasn't the biggest engine of U.S. economic growth in 2025, despite popular assumptions",
+    "summary": "The GDP value of AI is smaller than it might appear given that a lot of high-tech equipment is imported, according to a recent MRB Partners report.",
+    "published": "Mon, 26 Jan 2026 21:02:08 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/ai-wasnt-the-biggest-engine-of-us-gdp-growth-in-2025.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "How Trump's tax cuts will affect your return as the 2026 filing season opens",
+    "summary": "Tax season opened Jan. 26. Here's how Trump's tax cuts from 2025 could affect your return.",
+    "published": "Mon, 26 Jan 2026 22:05:35 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/tax-season-opens-trumps-tax-cuts.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "How the USA Rare Earth deal with the Trump administration came together",
+    "summary": "USA Rare Earth's CEO provided rare insight in an interview with CNBC's Brian Sullivan into how the federal government plans equity stakes in mining companies.",
+    "published": "Mon, 26 Jan 2026 20:59:39 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/how-the-usa-rare-earth-deal-with-the-trump-administration-came-together.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Nike to cut 775 employees as it accelerates 'automation' at U.S. distribution centers",
+    "summary": "Nike is cutting 775 employees, primarily from jobs at distribution centers in Tennessee and Mississippi.",
+    "published": "Mon, 26 Jan 2026 21:08:52 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/nike-to-lay-off-775-employees-at-us-distribution-centers.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "The lesson Jim Cramer wants investors to learn from Monday's market rally",
+    "summary": "\"Stocks don't go down because people are in a bad mood,\" CNBC's Jim Cramer said Monday.",
+    "published": "Mon, 26 Jan 2026 23:13:50 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/the-lesson-jim-cramer-wants-investors-to-learn-from-mondays-market-rally.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "TikTok users are deleting the app, with removals up 150% following U.S. joint venture",
+    "summary": "TikTok users have been deleting the app at a higher rate since the company announced that its U.S. operations would be housed in a new joint venture.",
+    "published": "Mon, 26 Jan 2026 22:58:54 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/tiktok-uninstalls-are-up-150percent-following-us-joint-venture.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Tech's top CEOs mum after Minneapolis killings, while leaders like Reid Hoffman, Yann LeCun speak out",
+    "summary": "While a few leaders have voiced outrage, the tech sector has stayed widely silent after the second fatal shooting by federal agents in Minneapolis this month.",
+    "published": "Mon, 26 Jan 2026 21:13:21 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/alex-pretti-killing-ice-tech-ceo-response.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Why it's the perfect time to start a position in this industrial stock",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "published": "Mon, 26 Jan 2026 16:46:39 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/its-the-perfect-time-to-start-a-position-in-this-industrial-stock.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Zoom's 'hidden gem' investment in Anthropic could be worth $2 billion to $4 billion, analysts say",
+    "summary": "Anthropic revealed that Zoom Ventures had invested in the AI startup in May 2023.",
+    "published": "Mon, 26 Jan 2026 21:00:46 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/zoom-anthropic-investment.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "GameStop shares move higher after Michael Burry says he's been buying the stock",
+    "summary": "Burry said his investment is a long-term value play rather than a wager on renewed meme stock speculation.",
+    "published": "Mon, 26 Jan 2026 19:16:12 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/gamestop-shares-move-higher-after-michael-burry-says-hes-been-buying-the-stock.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Microsoft reveals second generation of its AI chip in effort to bolster cloud business",
+    "summary": "With its newest AI chip, Microsoft plans \"wider customer availability\" after its initial product was only used for internal projects.",
+    "published": "Mon, 26 Jan 2026 16:00:01 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/microsoft-reveals-maia-200-ai-chip-will-use-it-in-house.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Target's incoming CEO calls Minneapolis violence 'incredibly painful,' does not mention Trump or shootings by federal agents",
+    "summary": "More than 60 Minnesota business leaders, including Fiddelke, signed a letter on Sunday calling for an \"immediate deescalation of tensions.\"",
+    "published": "Mon, 26 Jan 2026 17:26:02 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/alex-pretti-shooting-target-incoming-ceo-fiddelke.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "American AI coding agents are impressive. But so are China\u2019s",
+    "summary": "CNBC tested Chinese AI startup Zhipu's new coding tool. It's just as impressive as American AI coding agents.",
+    "published": "Mon, 26 Jan 2026 20:16:42 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/american-ai-coding-agents-are-impressive-but-so-are-chinas.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Tax season is here\u20144 reasons to file your return early",
+    "summary": "For taxpayers expecting a refund that averages about $3,000, filing early can mean getting that money back sooner.",
+    "published": "Mon, 26 Jan 2026 19:02:02 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/why-you-should-file-tax-return-early.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Social Security benefits are still taxed in some states. Why there's a push to change that",
+    "summary": "President Donald Trump has touted \"no tax on Social Security\" with the addition of a new senior deduction. Some states still apply levies to benefit income.",
+    "published": "Mon, 26 Jan 2026 16:57:02 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/social-security-tax-rate-benefits.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Olympian Alysa Liu's training cost up to $1 million, her dad says\u2014how experts say to approach spending on extracurriculars",
+    "summary": "Spending hundreds or thousands on your child's activities is OK, experts say, as long as you are aware of your goals and financial situation first.",
+    "published": "Mon, 26 Jan 2026 18:48:29 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/how-much-to-spend-on-kids-extracurriculars.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Fed is likely to hold interest rates steady, resisting Trump pressure. Here\u2019s what that means for borrowers",
+    "summary": "From mortgage rates to auto loans and credit cards, here\u2019s a look at how the upcoming January Fed decision may affect your finances.",
+    "published": "Mon, 26 Jan 2026 19:51:37 GMT",
+    "link": "https://www.cnbc.com/2026/01/26/fed-rates-may-hold-steady.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Border Patrol has a history of excessive force. Critics say they're out of their depth",
+    "summary": "People who study the Border Patrol say it continues to be less well prepared than big city police for handling crowds and situations involving protesters, some of whom are legally armed.",
+    "published": "Mon, 26 Jan 2026 17:29:33 -0500",
+    "link": "https://www.npr.org/2026/01/26/nx-s1-5687887/border-patrol-has-a-history-of-excessive-force-critics-say-theyre-out-of-their-depth",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "U.S. sled racer Uhlaender says she was unfairly denied sixth Olympic bid",
+    "summary": "Five-time U.S. Olympian Katie Uhlaender says a point-manipulation scheme blocked her bid to compete in Milan Cortina.  U.S. sports officials are backing her bid for a special berth at the Winter Games.",
+    "published": "Mon, 26 Jan 2026 17:04:03 -0500",
+    "link": "https://www.npr.org/2026/01/26/nx-s1-5687901/us-sled-racer-uhlaender-denied-sixth-olympic-bid",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "GOP lawyer Chris Madel ends bid for Minnesota governor, calls ICE effort a 'disaster'",
+    "summary": "Chris Madel \u2014 a Republican candidate for governor of Minnesota \u2014 has dropped out of the state's gubernatorial race, saying he no longer supports the immigration crackdown taking place in Minneapolis.",
+    "published": "Mon, 26 Jan 2026 16:43:21 -0500",
+    "link": "https://www.npr.org/2026/01/26/nx-s1-5688899/chris-madel-minnesota-governor-ice-alex-pretti",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Amid lawsuits and protests, Trump signals changes to Minnesota immigration surge",
+    "summary": "A federal judge on Monday considered the legality of the Trump administration's immigration crackdown in Minneapolis, where backlash has intensified after federal agents shot and killed two U.S. citizens this month.",
+    "published": "Mon, 26 Jan 2026 16:33:42 -0500",
+    "link": "https://www.npr.org/2026/01/26/nx-s1-5688835/minnesota-officials-lawsuits-protests-immigration-changes",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Treasury cancels Booz Allen contracts over leaks about wealthy taxpayers",
+    "summary": "A Booz Allen contractor had leaked confidential tax information that showed how wealthy people like Donald Trump, Elon Musk and Jeff Bezos manage to minimize their tax obligations.",
+    "published": "Mon, 26 Jan 2026 16:08:26 -0500",
+    "link": "https://www.npr.org/2026/01/26/nx-s1-5689010/treasury-cancels-booz-allen-contracts-irs-leak",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Josh Shapiro sees light in his constituents, even in dark times",
+    "summary": "NPR's Scott Detrow talks with Democratic Gov. Josh Shapiro of Pennsylvania about his memoir, <em>Where We Keep the Light,</em> immigration raids and the upcoming elections in 2026 and 2028.",
+    "published": "Mon, 26 Jan 2026 15:53:01 -0500",
+    "link": "https://www.npr.org/2026/01/26/nx-s1-5581252/josh-shapiro-memoir-immigration-midterm-elections",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Minnesota officials rebuff DOJ's data demands after latest shooting by federal agents",
+    "summary": "Minnesota officials are rebuffing demands from U.S. Attorney General Pam Bondi, as the state continues its clash with the Trump administration over the surge of federal immigration enforcement.",
+    "published": "Mon, 26 Jan 2026 15:02:40 -0500",
+    "link": "https://www.npr.org/2026/01/26/nx-s1-5688964/minnesota-data-bondi-letter",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Hundreds of thousands without power in the U.S. after a powerful winter storm",
+    "summary": "A powerful winter storm walloped a huge swath of the U.S., killing at least 25 people. Electricity is out for hundreds of thousands, and freezing rain and snow have coated streets.",
+    "published": "Mon, 26 Jan 2026 14:09:47 -0500",
+    "link": "https://www.npr.org/2026/01/26/nx-s1-5688918/winter-storm-power-outages-airports",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Ukrainians are sharing hacks online on how to survive winter power cuts",
+    "summary": "After repeated Russian attacks on Ukraine's energy grid, Ukrainians face long outages during a cold winter at war. On social media, Ukrainians share tips for keeping warm at home.",
+    "published": "Mon, 26 Jan 2026 13:24:44 -0500",
+    "link": "https://www.npr.org/2026/01/26/nx-s1-5686455/ukraine-winter-power-outage",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Maxwell signs new two-year deal with Melbourne Stars",
+    "summary": "Left hander Campbell Kellaway has also extended for two more seasons",
+    "published": "Tue, 27 Jan 2026 01:29:00 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1521082.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Scotland bank on ICC assurances over Sharif visa after naming T20 World Cup squad",
+    "summary": "Cricket Scotland hoping to avoid delays amid short turnaround to start of tournament",
+    "published": "Tue, 27 Jan 2026 00:55:16 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1521073.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Hope: 'Sampson certainly one of the cleaner ball strikers I've seen'",
+    "summary": "WI captain said he'll have a \"flexible\" position as they look to address dot-ball issues",
+    "published": "Mon, 26 Jan 2026 19:10:36 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1521075.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Don Bradman baggy green sold for AU$460,000",
+    "summary": "Cap worn during India's maiden tour as independent nation auctioned after being hidden for 75 years",
+    "published": "Mon, 26 Jan 2026 18:55:59 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1521081.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "'Didn't want to replicate that' - Nat Sciver-Brunt breaks WPL hundred barrier",
+    "summary": "Her hundred powered Mumbai Indians to 199 for 4 against Royal Challengers Bengaluru",
+    "published": "Mon, 26 Jan 2026 18:20:22 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1521061.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Sciver-Brunt's maiden WPL ton lifts MI to second despite Ghosh heroics",
+    "summary": "RCB have now lost two in a row after kicking off the season with five wins on the bounce",
+    "published": "Mon, 26 Jan 2026 18:16:11 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1521072.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "South Africa hope 'trump card' Brevis carries SA20 form into T20 World Cup",
+    "summary": "Brevis finished the SA20 with scores of 53, 75* and 101*, and could slot in at No. 4 for South Africa",
+    "published": "Mon, 26 Jan 2026 17:40:27 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1521069.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "South Africa, West Indies look to sharpen up ahead of T20 World Cup",
+    "summary": "Both teams have been in patchy form in T20Is, and will be looking to build momentum ahead of the big event",
+    "published": "Mon, 26 Jan 2026 16:44:56 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1521057.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "'We do feel for Bangladesh' - Scotland chief exec on last-minute World Cup invite",
+    "summary": "Trudy Lindblade says board working round the clock to make sure Scotland can compete in tournament",
+    "published": "Mon, 26 Jan 2026 15:07:18 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1521051.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
   }
 ]
