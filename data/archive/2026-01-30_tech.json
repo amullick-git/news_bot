@@ -1,0 +1,562 @@
+[
+  {
+    "title": "How Sequoia-backed Ethos reached the public market while rivals fell short",
+    "summary": "The profitable life-insurance platform was one of the first major tech companies to test the 2026 public markets.",
+    "published": "Fri, 30 Jan 2026 01:33:13 +0000",
+    "link": "https://techcrunch.com/2026/01/29/how-sequoia-backed-ethos-reached-the-public-market-while-rivals-fell-short/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "The iPhone just had its best quarter ever",
+    "summary": "Growth in regions like China and India are credited with pushing Apple's phone sales higher than ever.",
+    "published": "Thu, 29 Jan 2026 23:57:21 +0000",
+    "link": "https://techcrunch.com/2026/01/29/the-iphone-just-had-its-best-quarter-ever/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Guys, I don\u2019t think Tim Cook knows how to monetize AI",
+    "summary": "One intrepid Morgan Stanley analyst dared to ask how Apple will make money on its AI investments. The answer will not shock you.",
+    "published": "Thu, 29 Jan 2026 23:51:17 +0000",
+    "link": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Elon Musk\u2019s SpaceX, Tesla, and xAI in talks to merge, according to reports",
+    "summary": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation.",
+    "published": "Thu, 29 Jan 2026 22:47:42 +0000",
+    "link": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Amazon is reportedly in talks to invest $50B in OpenAI",
+    "summary": "If a deal materializes, it would mean Amazon is backing competing startups in the race for AI supremacy.",
+    "published": "Thu, 29 Jan 2026 22:11:09 +0000",
+    "link": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Medium gives employees Friday off to participate in national strike protesting ICE",
+    "summary": "Activists behind the general strike are calling for \"no work, no school, and no shopping\" amid a push to defund ICE, which has escalated raids in U.S. cities, killing several people, including two U.S. citizens earlier this month in Minneapolis.",
+    "published": "Thu, 29 Jan 2026 21:49:15 +0000",
+    "link": "https://techcrunch.com/2026/01/29/medium-gives-employees-friday-off-to-participate-in-national-strike-protesting-ice/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Microsoft won\u2019t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",
+    "summary": "Microsoft says its own chip leapfrogs those made by other cloud providers like Amazon and Google. But it needs more.",
+    "published": "Thu, 29 Jan 2026 21:21:46 +0000",
+    "link": "https://techcrunch.com/2026/01/29/microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Fintech firm Marquis blames hack at firewall provider SonicWall for its data breach",
+    "summary": "The fintech giant said it plans to \"seek recoupment of any expenses\" from its firewall provider SonicWall after a 2025 data breach exposed customer firewall configurations.",
+    "published": "Thu, 29 Jan 2026 20:31:43 +0000",
+    "link": "https://techcrunch.com/2026/01/29/fintech-firm-marquis-blames-hack-at-firewall-provider-sonicwall-for-its-data-breach/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Satya Nadella insists people are using Microsoft\u2019s Copilot AI a lot",
+    "summary": "With Microsoft spending many billions on data centers, and rumors that no one is using its AI, CEO Satya Nadella shared some usage numbers.",
+    "published": "Thu, 29 Jan 2026 20:06:56 +0000",
+    "link": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Apple buys Israeli startup Q.ai as the AI race heats up",
+    "summary": "Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments.",
+    "published": "Thu, 29 Jan 2026 18:58:07 +0000",
+    "link": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Waymo robotaxis are now giving rides to and from San Francisco International Airport",
+    "summary": "Waymo's SFO win comes as the company faces criticism and concerns about safety in some of the cities it operates.",
+    "published": "Thu, 29 Jan 2026 17:55:43 +0000",
+    "link": "https://techcrunch.com/2026/01/29/waymo-sfo-airport-robotaxis/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "I built marshmallow castles in Google\u2019s new AI-world generator",
+    "summary": "Starting Thursday, Google AI Ultra subscribers in the U.S. can play around with Project Genie, which is powered by a combination of Google\u2019s latest world model Genie 3, its image generation model Nano Banana Pro, and Gemini.",
+    "published": "Thu, 29 Jan 2026 17:29:11 +0000",
+    "link": "https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "OpenAI\u2019s Sora app is struggling after its stellar launch",
+    "summary": "New data suggests the app is seeing declines in both app downloads and consumer spending, as the early hype about the AI video social network wears off.",
+    "published": "Thu, 29 Jan 2026 16:48:44 +0000",
+    "link": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Music publishers sue Anthropic for $3B over \u2018flagrant piracy\u2019 of 20,000 works",
+    "summary": "Originally, these music publishers had filed a lawsuit against Anthropic over its use of about 500 copyrighted works.",
+    "published": "Thu, 29 Jan 2026 16:30:29 +0000",
+    "link": "https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "India is teaching Google how AI in education can scale",
+    "summary": "With the highest global usage of Gemini for learning, India is emerging as a key market shaping Google's approach to AI in education.",
+    "published": "Thu, 29 Jan 2026 15:29:31 +0000",
+    "link": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Flapping Airplanes and the promise of research-driven AI",
+    "summary": "A new AI lab called Flapping Airplanes launched yesterday, and a Sequoia partner has an interesting take on why they stand out.",
+    "published": "Thu, 29 Jan 2026 15:22:29 +0000",
+    "link": "https://techcrunch.com/2026/01/29/flapping-airplanes-and-the-promise-of-research-driven-ai/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Tesla\u2019s energy storage business is growing faster than any other part of the company",
+    "summary": "Energy storage products like the Megapack, Megablock, and Powerwall drove nearly a quarter of Tesla\u2019s gross profit.",
+    "published": "Thu, 29 Jan 2026 14:58:47 +0000",
+    "link": "https://techcrunch.com/2026/01/29/teslas-energy-storage-business-is-growing-faster-than-any-other-part-of-the-company/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Spotify rolls out group chats",
+    "summary": "Spotify users can now share the podcasts, playlists, and audiobooks they're listening to with up to 10 people.",
+    "published": "Thu, 29 Jan 2026 14:52:13 +0000",
+    "link": "https://techcrunch.com/2026/01/29/spotify-rolls-out-group-chats/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Apple\u2019s new iPhone and iPad security feature limits cell networks from collecting precise location data",
+    "summary": "The new security feature makes it more difficult for police and malicious hackers to obtain a person's precise location data from a cell phone company.",
+    "published": "Thu, 29 Jan 2026 14:50:57 +0000",
+    "link": "https://techcrunch.com/2026/01/29/apples-new-iphone-and-ipad-security-feature-limits-cell-networks-from-collecting-precise-location-data/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Google Maps now lets you access Gemini while walking and cycling",
+    "summary": "When you're walking around and navigating with Maps, you can now ask Gemini questions like \"What neighborhood am I in?\" or \"What are top-rated restaurants nearby?\"",
+    "published": "Thu, 29 Jan 2026 14:30:00 +0000",
+    "link": "https://techcrunch.com/2026/01/29/google-maps-now-lets-you-access-gemini-while-walking-and-cycling/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "I wear lots of technology for a living, ask me anything",
+    "summary": "Hello, friends. It's time for another exclusive AMA for Verge subscribers, and this time, I'll be your host. I cover everything from wearables to dystopian cursed tech like at-home urine labs and belligerent AI companions. At times, my job calls for flirting with Grok's AI girlfriend for 24 hours or coercing weird AI video apps [&#8230;]",
+    "published": "2026-01-30T09:00:00-05:00",
+    "link": "https://www.theverge.com/column/870394/i-wear-lots-of-technology-for-a-living-ask-me-anything",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Parenting in ICE-occupied Minneapolis",
+    "summary": "Last Saturday, I received an email from the Children's Theatre Company of Minnesota. They explained that they were canceling the weekend's performances of Go, Dog. Go! \"for the safety of our patrons, staff, and artists.\" Earlier that morning, federal agents had killed Alex Pretti in the streets, about nine blocks away from the theater's doors. [&#8230;]",
+    "published": "2026-01-30T09:00:00-05:00",
+    "link": "https://www.theverge.com/policy/870720/ice-minneapolis-parenting-liam-conejo-ramos",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Melania documentary creators say its big price tag wasn&#8217;t bribery",
+    "summary": "The makers of Amazon's Melania documentary have defended its exorbitant cost following accusations of bribery to appease the Trump empire. Amazon paid $40 million to Melania Trump's production company for the film rights and another $35 million for marketing - making it one of the most expensive documentaries ever produced. \"I think it's silly because [&#8230;]",
+    "published": "2026-01-30T08:10:29-05:00",
+    "link": "https://www.theverge.com/entertainment/870713/melania-amazon-documentary-bribe-accusations",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The small film that answers the big questions",
+    "summary": "Anna and Magnus built a life together. They had a home with three kids and a dog. Then they separated. This is where The Love That Remains begins, but as time passes and the reality of their divorce sets in, they're left to move through a future strained by their unraveling. Icelandic director Hlynur P&#225;lmason's [&#8230;]",
+    "published": "2026-01-30T07:00:00-05:00",
+    "link": "https://www.theverge.com/entertainment/870138/hlynur-palmason-the-love-that-remains-interview",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Microsoft is experimenting with a top menu bar for Windows 11",
+    "summary": "Microsoft's PowerToys team is contemplating building a top menu bar for Windows 11, much like Linux, macOS, or older versions of Windows. The menu bar, or Command Palette Dock as Microsoft calls it, would be a new optional UI that provides quick access to tools, monitoring of system resources, and much more. Microsoft has provided [&#8230;]",
+    "published": "2026-01-30T06:22:06-05:00",
+    "link": "https://www.theverge.com/news/870663/microsoft-windows-11-top-menu-bar-powertoy-experiment",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "One of the biggest manga piracy networks has been shut down",
+    "summary": "Japan's anti-piracy coalition says that one of the world's largest manga piracy networks has been shut down following a coordinated investigation between Japanese publishers and Chinese authorities. The Content Overseas Distribution Association (CODA) announced the arrest of an individual on suspicion of copyright infringement on November 19th, who \"has admitted to operating\" Bato.to and approximately [&#8230;]",
+    "published": "2026-01-30T05:31:31-05:00",
+    "link": "https://www.theverge.com/tech/870643/bato-manga-piracy-site-shut-down",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "It\u2019s a new heyday for gas thanks to data centers",
+    "summary": "The US is now leading a global surge in new gas power plants being built in large part to satisfy growing energy demand for data centers. And more gas means more planet-heating pollution. Gas-fired power generation in development globally rose by 31 percent in 2025. Almost a quarter of that added capacity is slated for [&#8230;]",
+    "published": "2026-01-29T17:12:49-05:00",
+    "link": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Apple just had a record-breaking iPhone quarter",
+    "summary": "Apple says the iPhone had its \"best-ever\" quarter, with revenue hitting more than $85.3 billion over the past few months. The company announced the news as part of its Q1 2026 earnings report, which also revealed record-breaking revenue of $143.8 billion, up 16 percent when compared to the same time last year. \"The demand for [&#8230;]",
+    "published": "2026-01-29T16:54:56-05:00",
+    "link": "https://www.theverge.com/news/870319/apple-iphone-best-revenue-ai-q1-2026",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The weirdest headphones at CES will launch on Kickstarter next month",
+    "summary": "There's never a shortage of weird tech debuting at CES every year. A new company called Tomorrow Doesn't Matter, or TDM, announced a peculiar pair of headphones at the show earlier this month with a feature no one has tried before. The Neo headphones can be rolled up like a hedgehog, which turns them into [&#8230;]",
+    "published": "2026-01-29T16:03:11-05:00",
+    "link": "https://www.theverge.com/news/870416/tdm-neo-wireless-headphones-bluetooth-speaker-kickstarter-february",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The best foldable phone you can buy",
+    "summary": "A foldable phone isn\u2019t for the faint of heart. They\u2019re generally heavier, pricier, and have less capable cameras than a standard slab-style phone. They\u2019re also still not as durable as regular smartphones, though they\u2019re not nearly as fragile as they once were. In fact, thanks to Google, we finally have a foldable phone we can [&#8230;]",
+    "published": "2026-01-29T15:18:26-05:00",
+    "link": "https://www.theverge.com/tech/635839/best-foldable-phone",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Rocket Report: How a 5-ton satellite fell off a booster; will SpaceX and xAI merge?",
+    "summary": "\"We\u2019re seeing remarkable growth year after year.\"",
+    "published": "Fri, 30 Jan 2026 12:00:41 +0000",
+    "link": "https://arstechnica.com/space/2026/01/rocket-report-how-a-5-ton-satellite-fell-off-a-booster-will-spacex-and-xai-merge/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Inside Nvidia's 10-year effort to make the Shield TV the most updated Android device ever",
+    "summary": "\"Selfishly a little bit, we built Shield for ourselves.\"",
+    "published": "Fri, 30 Jan 2026 12:00:35 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Having that high-deductible health plan might kill you, literally",
+    "summary": "With ACA tax credits gone, more people are turning to high-deductible plans.",
+    "published": "Thu, 29 Jan 2026 23:22:58 +0000",
+    "link": "https://arstechnica.com/health/2026/01/having-that-high-deductible-health-plan-might-kill-you-literally/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "US spy satellite agency declassifies high-flying Cold War listening post",
+    "summary": "The JUMPSEAT satellites loitered over the North Pole to spy on the Soviet Union.",
+    "published": "Thu, 29 Jan 2026 23:07:05 +0000",
+    "link": "https://arstechnica.com/space/2026/01/us-spy-satellite-agency-declassifies-high-flying-cold-war-listening-post/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "People complaining about Windows 11 hasn't stopped it from hitting 1 billion users",
+    "summary": "Windows 11 clears a milestone as Windows 10 continues its slow fade.",
+    "published": "Thu, 29 Jan 2026 22:46:59 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/01/windows-11-has-hit-1-billion-users-just-a-hair-faster-than-windows-10-did/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "How often do AI chatbots lead users down a harmful path?",
+    "summary": "Anthropic's latest paper on \"user disempowerment\" has some troubling findings.",
+    "published": "Thu, 29 Jan 2026 22:05:59 +0000",
+    "link": "https://arstechnica.com/ai/2026/01/how-often-do-ai-chatbots-lead-users-down-a-harmful-path/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Google Project Genie lets you create interactive worlds from a photo or prompt",
+    "summary": "Project Genie lets you generate new worlds 60 seconds at a time, but only if you pay for AI Ultra.",
+    "published": "Thu, 29 Jan 2026 20:26:50 +0000",
+    "link": "https://arstechnica.com/google/2026/01/google-project-genie-lets-you-create-interactive-worlds-from-a-photo-or-prompt/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Comcast keeps losing customers despite price guarantee and unlimited data",
+    "summary": "Comcast overhauled Internet plans to stop customer losses. It isn't working yet.",
+    "published": "Thu, 29 Jan 2026 19:51:45 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/01/comcast-keeps-losing-customers-despite-price-guarantee-and-unlimited-data/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "She'll mess with Texas: Nurse keeps mailing abortion pills, despite Paxton lawsuit",
+    "summary": "Texas sues Delaware nurse practitioner shipping out hundreds of abortion pills each month.",
+    "published": "Thu, 29 Jan 2026 19:19:11 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/01/i-dont-fear-ken-paxton-nurse-vows-to-keep-shipping-abortion-pills-to-texas/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "What ice fishing can teach us about making foraging decisions",
+    "summary": "Social density increases likelihood of sticking with a location. Environmental factors had little influence.",
+    "published": "Thu, 29 Jan 2026 19:00:41 +0000",
+    "link": "https://arstechnica.com/science/2026/01/what-ice-fishing-can-teach-us-about-making-foraging-decisions/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "County pays $600,000 to pentesters it arrested for assessing courthouse security",
+    "summary": "Settlement comes more than 6 years after Gary DeMercurio and Justin Wynn's ordeal began.",
+    "published": "Thu, 29 Jan 2026 18:30:52 +0000",
+    "link": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "New OpenAI tool renews fears that \u201cAI slop\u201d will overwhelm scientific research",
+    "summary": "New \"Prism\" workspace launches just as studies show AI-assisted papers are flooding journals with diminished quality.",
+    "published": "Thu, 29 Jan 2026 17:51:49 +0000",
+    "link": "https://arstechnica.com/ai/2026/01/new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Custom machine kept man alive without lungs for 48 hours",
+    "summary": "Infections had turned his lungs to soup and had to be cleared before transplant.",
+    "published": "Thu, 29 Jan 2026 17:26:08 +0000",
+    "link": "https://arstechnica.com/health/2026/01/custom-machine-kept-man-alive-without-lungs-for-48-hours/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
+    "summary": "We have no proof that AI models suffer, but Anthropic acts like they might for training purposes.",
+    "published": "Thu, 29 Jan 2026 15:19:56 +0000",
+    "link": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Do you have ideas about how to improve America's space program?",
+    "summary": "\"Any time there\u2019s dynamic change, there\u2019s the opportunity for new ideas.\"",
+    "published": "Thu, 29 Jan 2026 15:18:44 +0000",
+    "link": "https://arstechnica.com/space/2026/01/do-you-have-ideas-about-how-to-improve-americas-space-program/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Tesla kills Models S and X to build humanoid robots instead",
+    "summary": "EVs that were once industry-leading have long since been left behind.",
+    "published": "Thu, 29 Jan 2026 14:39:47 +0000",
+    "link": "https://arstechnica.com/cars/2026/01/tesla-kills-models-s-and-x-to-build-humanoid-robots-instead/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "States want to tax fossil fuel companies to create climate change superfunds",
+    "summary": "As climate costs rise, states are passing legislation so fossil fuel can pay their share.",
+    "published": "Thu, 29 Jan 2026 14:14:29 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/01/states-want-to-charge-fossil-fuel-companies-for-climate-change-superfunds/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Early Universe's supermassive black holes grew in cocoons like butterflies",
+    "summary": "During cocoon phase, young, supermassive black holes are surrounded by high-density gas.",
+    "published": "Thu, 29 Jan 2026 12:00:33 +0000",
+    "link": "https://arstechnica.com/science/2026/01/early-universes-supermassive-black-holes-grew-in-cocoons-like-butterflies/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Tesla: 2024 was bad, 2025 was worse as profit falls 46 percent",
+    "summary": "More than half its profit came from emissions credits as sales fell 8.6 percent.",
+    "published": "Wed, 28 Jan 2026 22:28:19 +0000",
+    "link": "https://arstechnica.com/cars/2026/01/2025-sees-teslas-annual-revenue-fall-for-the-first-time/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Site catering to online criminals has been seized by the FBI",
+    "summary": "One of the last holdouts for ransomware discussions, RAMP is taken down.",
+    "published": "Wed, 28 Jan 2026 22:06:41 +0000",
+    "link": "https://arstechnica.com/security/2026/01/site-catering-to-online-criminals-has-been-seized-by-the-fbi/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The Download: US immigration agencies\u2019 AI videos, and inside the Vitalism movement",
+    "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. DHS is using Google and Adobe AI to make videos The news: The US Department of Homeland Security is using AI video generators from Google and Adobe to make and edit content shared&#8230;",
+    "published": "Fri, 30 Jan 2026 13:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/01/30/1132022/the-download-us-immigration-agencies-ai-videos-and-inside-the-vitalism-movement/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "How the sometimes-weird world of lifespan extension is gaining influence",
+    "summary": "For the last couple of years, I\u2019ve been following the progress of a group of individuals who believe death is humanity\u2019s \u201ccore problem.\u201d Put simply, they say death is wrong\u2014for everyone. They\u2019ve even said it\u2019s morally wrong. They established what they consider a new philosophy, and\u00a0they called it Vitalism. Vitalism is more than a philosophy,&#8230;",
+    "published": "Fri, 30 Jan 2026 10:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/01/30/1131933/weird-world-lifespan-extension-gaining-influence-oneill-arpa-h/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The AI Hype Index: Grok makes porn, and Claude Code nails your job",
+    "summary": "Everyone is panicking because AI is very bad; everyone is panicking because AI is very good. It\u2019s just that you never know which one you\u2019re going to get. Grok is a pornography machine. Claude Code can do anything from building websites to reading your MRI. So of course Gen Z is spooked by what this&#8230;",
+    "published": "Thu, 29 Jan 2026 20:56:23 +0000",
+    "link": "https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "DHS is using Google and Adobe AI to make videos",
+    "summary": "The US Department of Homeland Security is using AI video generators from Google and Adobe to make and edit content shared with the public, a new document reveals. It comes as immigration agencies have flooded social media with content to support President Trump&#8217;s mass deportation agenda\u2014some of which appears to be made with AI\u2014and as&#8230;",
+    "published": "Thu, 29 Jan 2026 18:57:11 +0000",
+    "link": "https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: inside the Vitalism movement, and why AI\u2019s \u201cmemory\u201d is a privacy problem",
+    "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the Vitalists: the hardcore longevity enthusiasts who believe death is \u201cwrong\u201d Last April, an excited crowd gathered at a compound in Berkeley, California, for a three-day event called the Vitalist Bay Summit.&#8230;",
+    "published": "Thu, 29 Jan 2026 13:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/01/29/1131925/the-download-inside-the-vitalism-movement-and-why-ais-memory-is-a-privacy-problem/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "How the grid can ride out winter storms",
+    "summary": "The eastern half of the US saw a monster snowstorm over the weekend. The good news is the grid has largely been able to keep up with the freezing temperatures and increased demand. But there were some signs of strain, particularly for fossil-fuel plants. One analysis found that PJM, the nation\u2019s largest grid operator, saw&#8230;",
+    "published": "Thu, 29 Jan 2026 11:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/01/29/1131863/grid-winter-storms/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Meet the Vitalists: the hardcore longevity enthusiasts who believe death is \u201cwrong\u201d",
+    "summary": "\u201cWho here believes involuntary death is a good thing?\u201d&#160; Nathan Cheng has been delivering similar versions of this speech over the last couple of years, so I knew what was coming. He was about to try to convince the 80 or so people in the audience that death is bad. And that defeating it should&#8230;",
+    "published": "Thu, 29 Jan 2026 10:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/01/29/1131815/vitalism-longevity-enthusiasts-influence/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear",
+    "summary": "AI is driving unprecedented investment for massive data centers and an energy supply that can support its huge computational appetite. One potential source of electricity for these facilities is next-generation nuclear power plants, which could be cheaper to construct and safer to operate than their predecessors. Watch a discussion with our editors and reporters on&#8230;",
+    "published": "Wed, 28 Jan 2026 16:23:00 +0000",
+    "link": "https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "What AI \u201cremembers\u201d about you is privacy\u2019s next frontier",
+    "summary": "The ability to remember you and your preferences is rapidly becoming a big selling point for AI chatbots and agents.&#160; Earlier this month, Google announced Personal Intelligence, a new way for people to interact with the company\u2019s Gemini chatbot that draws on their Gmail, photos, search, and YouTube histories to make Gemini \u201cmore personal, proactive,&#8230;",
+    "published": "Wed, 28 Jan 2026 14:57:37 +0000",
+    "link": "https://www.technologyreview.com/2026/01/28/1131835/what-ai-remembers-about-you-is-privacys-next-frontier/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Rules fail at the prompt, succeed at the boundary",
+    "summary": "From the Gemini Calendar prompt-injection attack of 2026 to the September 2025 state-sponsored hack using Anthropic\u2019s Claude code as an automated intrusion engine, the coercion of human-in-the-loop agentic actions and fully autonomous agentic workflows are the new attack vector for hackers. In the Anthropic case, roughly 30 organizations across tech, finance, manufacturing, and government were&#8230;",
+    "published": "Wed, 28 Jan 2026 14:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Former CNN journalist Don Lemon arrested in connection with Minnesota protest",
+    "summary": "<p>Article URL: <a href=\"https://abcnews.go.com/US/don-lemon-arrested-connection-minnesota-protest-sources/story?id=129699476\">https://abcnews.go.com/US/don-lemon-arrested-connection-minnesota-protest-sources/story?id=129699476</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46824558\">https://news.ycombinator.com/item?id=46824558</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
+    "published": "Fri, 30 Jan 2026 14:08:58 +0000",
+    "link": "https://abcnews.go.com/US/don-lemon-arrested-connection-minnesota-protest-sources/story?id=129699476",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Wisconsin communities signed secrecy deals for billion-dollar data centers",
+    "summary": "<p>Article URL: <a href=\"https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers\">https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46824098\">https://news.ycombinator.com/item?id=46824098</a></p>\n<p>Points: 73</p>\n<p># Comments: 50</p>",
+    "published": "Fri, 30 Jan 2026 13:23:53 +0000",
+    "link": "https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Norway EV Push Nears 100 Percent: What's Next?",
+    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/norway-ev-policy-electric-vehicles\">https://spectrum.ieee.org/norway-ev-policy-electric-vehicles</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46824017\">https://news.ycombinator.com/item?id=46824017</a></p>\n<p>Points: 60</p>\n<p># Comments: 55</p>",
+    "published": "Fri, 30 Jan 2026 13:13:11 +0000",
+    "link": "https://spectrum.ieee.org/norway-ev-policy-electric-vehicles",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)",
+    "summary": "<p>Article URL: <a href=\"https://docs.pangolin.net/careers/join-us\">https://docs.pangolin.net/careers/join-us</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46823544\">https://news.ycombinator.com/item?id=46823544</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Fri, 30 Jan 2026 12:11:49 +0000",
+    "link": "https://docs.pangolin.net/careers/join-us",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Cicada \u2013 a scripting language that integrates with C",
+    "summary": "<p>I wrote a lightweight scripting language that runs together with C. Specifically, it's a C library, you run it through a C function call, and it can callback your own C functions. Compiles to ~250 kB. No dependencies beyond the C standard library.<p>Key language features:\n* Uses aliases not pointers, so it's memory-safe\n* Arrays are N-dimensional and resizable\n* Runs scripts or its own 'shell'\n* Error trapping\n* Methods, inheritance, etc.\n* Customizable syntax</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46823498\">https://news.ycombinator.com/item?id=46823498</a></p>\n<p>Points: 19</p>\n<p># Comments: 2</p>",
+    "published": "Fri, 30 Jan 2026 12:07:26 +0000",
+    "link": "https://github.com/heltilda/cicada",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Code is cheap. Show me the talk",
+    "summary": "<p>Article URL: <a href=\"https://nadh.in/blog/code-is-cheap/\">https://nadh.in/blog/code-is-cheap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46823485\">https://news.ycombinator.com/item?id=46823485</a></p>\n<p>Points: 24</p>\n<p># Comments: 7</p>",
+    "published": "Fri, 30 Jan 2026 12:05:50 +0000",
+    "link": "https://nadh.in/blog/code-is-cheap/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "BoldVoice (YC S21) Is Hiring Fullstack and Machine Learning Engineers",
+    "summary": "<p>Article URL: <a href=\"https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&amp;pm=s\">https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&amp;pm=s</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46823430\">https://news.ycombinator.com/item?id=46823430</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Fri, 30 Jan 2026 12:00:12 +0000",
+    "link": "https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&pm=s",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Track Your Routine \u2013 Open-source app for task management",
+    "summary": "<p>Article URL: <a href=\"https://github.com/MSF01/TYR\">https://github.com/MSF01/TYR</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46823358\">https://news.ycombinator.com/item?id=46823358</a></p>\n<p>Points: 23</p>\n<p># Comments: 13</p>",
+    "published": "Fri, 30 Jan 2026 11:52:46 +0000",
+    "link": "https://github.com/MSF01/TYR",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor",
+    "summary": "<p>Article URL: <a href=\"https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/\">https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46822632\">https://news.ycombinator.com/item?id=46822632</a></p>\n<p>Points: 256</p>\n<p># Comments: 105</p>",
+    "published": "Fri, 30 Jan 2026 10:14:31 +0000",
+    "link": "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
+    "summary": "<p>Article URL: <a href=\"https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/\">https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46821774\">https://news.ycombinator.com/item?id=46821774</a></p>\n<p>Points: 322</p>\n<p># Comments: 169</p>",
+    "published": "Fri, 30 Jan 2026 08:09:41 +0000",
+    "link": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris",
+    "summary": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9\">https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46821326\">https://news.ycombinator.com/item?id=46821326</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Fri, 30 Jan 2026 07:00:08 +0000",
+    "link": "https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
+    "summary": "<p>Article URL: <a href=\"https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/\">https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46821134\">https://news.ycombinator.com/item?id=46821134</a></p>\n<p>Points: 222</p>\n<p># Comments: 25</p>",
+    "published": "Fri, 30 Jan 2026 06:19:36 +0000",
+    "link": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "How AI assistance impacts the formation of coding skills",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/AI-assistance-coding-skills\">https://www.anthropic.com/research/AI-assistance-coding-skills</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46820924\">https://news.ycombinator.com/item?id=46820924</a></p>\n<p>Points: 170</p>\n<p># Comments: 64</p>",
+    "published": "Fri, 30 Jan 2026 05:41:23 +0000",
+    "link": "https://www.anthropic.com/research/AI-assistance-coding-skills",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "OpenClaw \u2013 Moltbot Renamed Again",
+    "summary": "<p>Article URL: <a href=\"https://openclaw.ai/blog/introducing-openclaw\">https://openclaw.ai/blog/introducing-openclaw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46820783\">https://news.ycombinator.com/item?id=46820783</a></p>\n<p>Points: 321</p>\n<p># Comments: 149</p>",
+    "published": "Fri, 30 Jan 2026 05:14:48 +0000",
+    "link": "https://openclaw.ai/blog/introducing-openclaw",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Moltbook",
+    "summary": "<p>Article URL: <a href=\"https://www.moltbook.com/\">https://www.moltbook.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46820360\">https://news.ycombinator.com/item?id=46820360</a></p>\n<p>Points: 645</p>\n<p># Comments: 351</p>",
+    "published": "Fri, 30 Jan 2026 03:55:34 +0000",
+    "link": "https://www.moltbook.com/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Stargaze: SpaceX's Space Situational Awareness System",
+    "summary": "<p>Article URL: <a href=\"https://starlink.com/updates/stargaze\">https://starlink.com/updates/stargaze</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46820113\">https://news.ycombinator.com/item?id=46820113</a></p>\n<p>Points: 126</p>\n<p># Comments: 51</p>",
+    "published": "Fri, 30 Jan 2026 03:11:43 +0000",
+    "link": "https://starlink.com/updates/stargaze",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
+    "summary": "<p>Article URL: <a href=\"https://grid.space/stem/\">https://grid.space/stem/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46817813\">https://news.ycombinator.com/item?id=46817813</a></p>\n<p>Points: 331</p>\n<p># Comments: 107</p>",
+    "published": "Thu, 29 Jan 2026 22:38:57 +0000",
+    "link": "https://grid.space/stem/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Backseat Software",
+    "summary": "<p>Article URL: <a href=\"https://blog.mikeswanson.com/backseat-software/\">https://blog.mikeswanson.com/backseat-software/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46817452\">https://news.ycombinator.com/item?id=46817452</a></p>\n<p>Points: 138</p>\n<p># Comments: 36</p>",
+    "published": "Thu, 29 Jan 2026 22:10:07 +0000",
+    "link": "https://blog.mikeswanson.com/backseat-software/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/retiring-gpt-4o-and-older-models/\">https://openai.com/index/retiring-gpt-4o-and-older-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46816539\">https://news.ycombinator.com/item?id=46816539</a></p>\n<p>Points: 238</p>\n<p># Comments: 308</p>",
+    "published": "Thu, 29 Jan 2026 21:02:31 +0000",
+    "link": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The WiFi only works when it's raining (2024)",
+    "summary": "<p>Article URL: <a href=\"https://predr.ag/blog/wifi-only-works-when-its-raining/\">https://predr.ag/blog/wifi-only-works-when-its-raining/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46816357\">https://news.ycombinator.com/item?id=46816357</a></p>\n<p>Points: 244</p>\n<p># Comments: 85</p>",
+    "published": "Thu, 29 Jan 2026 20:47:36 +0000",
+    "link": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
+    "source_name": "Hacker News"
+  }
+]
