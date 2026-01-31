@@ -1,0 +1,119 @@
+HOST: Good morning and welcome to Weekly News Round-up! I'm Arjav, and joining me as always is our stellar reporter, Arohi, bringing us the latest from around the globe. Before we dive into today's headlines, let's take a quick look back. On this day in history, January 31st, back in 1996, IBM's supercomputer Deep Blue made history by defeating reigning chess world champion Garry Kasparov in their first game. A significant milestone in the journey of artificial intelligence, which we'll certainly be discussing today.
+
+We have a packed show for you, covering everything from international sports to the latest in tech, business, and politics. Our news desk has been sifting through reports from BBC News, ESPN Cricinfo.com, NPR Topics, The New York Times, and many other reputable sources to bring you the most important stories. Arohi, let's start on the cricket pitch, where England has secured a significant victory.
+
+REPORTER: That's right. In international cricket, England’s bowlers and batters, notably Rew, led them to a Super Sixes victory, an important step in their campaign. This win comes as Sri Lanka also opened up their group with a crucial win of their own. Meanwhile, in other related news, the USA also clinched the 16th Place Play-off against Scotland, rounding out some exciting recent action on the field.
+
+HOST: And it wasn't just England making headlines in the cricket world, was it? We saw some news about Pakistan.
+
+REPORTER: Indeed. Pakistan found itself under scrutiny, having to fall in line following an ICC warning, though specific details of the warning remain under wraps. It underscores the constant oversight in international sports.
+
+HOST: From sports to the media landscape, which seems to be undergoing some significant shifts. Rupert Murdoch and News Corp are making a major move on the West Coast, correct?
+
+REPORTER: That's a big story. Murdoch's News Corp is expanding its tabloid footprint from its New York roots to the West Coast with the launch of The California Post. This move signals the outlet's growing national ambitions and a clear push into new markets.
+
+HOST: And speaking of major media outlets, there are reports of significant restructuring at The Washington Post.
+
+REPORTER: Yes, The Washington Post is planning cuts to reshape its newsroom. These changes are expected to include significant layoffs, particularly impacting areas such as sports and international coverage, as the publication adapts to evolving priorities and economic pressures.
+
+HOST: Another major news organization, CBS News, is also seeing changes under Editor-in-Chief Bari Weiss. What's happening there?
+
+REPORTER: Bari Weiss, who came in with a mandate to reshape coverage at CBS News, is set to announce plans for staff reductions. Simultaneously, she intends to bring in a substantial number of new commentators, indicating a strategic shift in the network's editorial direction following what has been described as a rocky start to her tenure.
+
+HOST: Shifting gears now to domestic news, particularly regarding immigration. There's been a significant push to rein in ICE, and some concerning messaging emerging from the government.
+
+REPORTER: Yes, there's a growing movement to scrutinize and potentially rein in Immigration and Customs Enforcement, or ICE. This comes amidst concerns that the government is echoing messaging reminiscent of white supremacist rhetoric, raising significant questions about immigration policies and their presentation.
+
+HOST: And this issue has been brought into sharp focus by a tragic incident in Minneapolis.
+
+REPORTER: Exactly. The shooting death of Alex Pretti in Minneapolis has ignited a broader conversation about immigration raids and the current state of affairs. Three columnists have weighed in, suggesting that we are creating the conditions for a catastrophe, urging a re-evaluation of current approaches.
+
+HOST: The Alex Pretti shooting also reportedly led to a shift in President Trump's course in Minneapolis.
+
+REPORTER: BBC analysis indicates that the high tensions in Minneapolis surrounding the Pretti shooting were a critical factor. The incident prompted President Trump to reconsider and shift his approach in the city, highlighting the profound impact of individual events on national policy and public sentiment.
+
+HOST: Moving now to the world of finance. It sounds like some investors are souring on the United States economy.
+
+REPORTER: That's an emerging trend. The sentiment of "Sell America" is gaining traction on Wall Street. Investors are increasingly showing skepticism towards the United States, evidenced by a declining dollar, a stalled stock market, and rising government borrowing costs. This suggests a potential shift in global investment patterns.
+
+HOST: It's been a wild week on Wall Street, with some significant drops in the markets recently.
+
+REPORTER: Indeed. The S&P 500 and Nasdaq experienced their worst sessions since October, following President Trump's threats of Greenland-related tariffs. This volatility reflects how geopolitical statements can directly impact market stability, prompting investors to navigate uncertain waters by buying low and selling high where possible.
+
+HOST: And despite the widespread buzz around AI, it wasn't the biggest driver of U.S. economic growth last year, was it?
+
+REPORTER: No, that's a common misconception. According to an MRB Partners report, AI spending, while significant, was not the primary engine of U.S. economic growth in 2025. This is partly due to a substantial portion of high-tech equipment being imported, meaning its GDP value within the U.S. isn't as large as many might assume.
+
+HOST: From economic impact to its very nature, the quest to build AI that can improve itself is rapidly advancing.
+
+REPORTER: Absolutely. Silicon Valley is heavily investing in what's called "recursive intelligence" – AI designed to improve other AI on its own. Companies like Ricursive Intelligence, founded by former Google researchers and already valued at $4 billion, are at the forefront of this effort to automate the creation and enhancement of artificial intelligence, marking a new frontier in tech development.
+
+HOST: This development raises questions about the craft of software and coding itself, doesn't it?
+
+REPORTER: It certainly does. The increasing sophistication of AI in generating code has sparked discussions about the future of software craft. While AI can produce functional code, the nuances of human-driven software architecture and design remain a critical topic of debate and research.
+
+HOST: And how is AI assistance specifically impacting the formation of coding skills in humans?
+
+REPORTER: Research from Anthropic is exploring exactly that. It suggests that while AI tools can expedite coding tasks, their impact on the fundamental development of coding skills in learners and professionals is complex. There's a balance to strike between leveraging AI for efficiency and fostering deep human understanding and problem-solving abilities.
+
+HOST: It's not just American companies making waves in this space either. China's AI coding agents are proving to be quite impressive.
+
+REPORTER: That's correct. CNBC recently tested Chinese AI startup Zhipu's new coding tool, finding it to be just as impressive as its American counterparts. This highlights the global race in AI development and China's strong emergence as a formidable player in the field of AI-driven coding.
+
+HOST: And speaking of Chinese AI firms, they're accelerating their new model releases.
+
+REPORTER: Yes, companies like Alibaba and Moonshot are racing to release new AI models. This accelerated development comes one year after DeepSeek's launch and is timed ahead of China's biggest holiday, as firms strive to gain a crucial edge in the competitive global AI application market.
+
+HOST: The Allen Institute for AI is also making strides with what they call "Open Coding Agents.".
+
+REPORTER: That initiative from AI2 focuses on developing and making available open-source coding agents. This approach aims to democratize access to advanced AI tools for software development, fostering innovation and collaboration across the AI and programming communities by providing foundational models and resources.
+
+HOST: In the commercial real estate sector, Fundrise is leveraging AI for public analysis.
+
+REPORTER: Yes, Fundrise has launched a new AI tool designed to bring high-level commercial real estate analysis to the public. Co-founder and CEO Ben Miller asserts that this tool goes significantly beyond the capabilities of more generalized AI models like ChatGPT, offering specialized insights for investors and the public.
+
+HOST: And for individuals looking for their own AI assistant, Clawdbot has emerged as an open-source option.
+
+REPORTER: Clawdbot is an exciting development for those seeking personalized AI. It's an open-source personal AI assistant, which allows for greater transparency and customization. This reflects a growing trend towards more accessible and adaptable AI technologies for everyday users.
+
+HOST: All these developments point to what some are calling "The Adolescence of Technology.".
+
+REPORTER: That phrase, coined by Dario Amodei, refers to the current stage of technological development, particularly in AI. It suggests that while technology is rapidly advancing, it's still in a formative, sometimes unpredictable phase, much like adolescence, with immense growth potential and challenges ahead.
+
+HOST: Now, let's explore the societal impact of this rapidly evolving AI. It seems young people are using AI to bypass some of the harder parts of growing up.
+
+REPORTER: That's a thought-provoking observation. Artificial intelligence is increasingly stepping in to replace some of the social intuitions traditionally developed during youth. This raises concerns about how AI might influence the development of critical social skills and relationship-building among younger generations.
+
+HOST: In the workplace, CEOs are already integrating AI agents. How are they preparing customers and employees for this?
+
+REPORTER: As companies boost their AI investments, chatbots and AI agents are often the first points of deployment. CEOs are focusing on transparent communication and training programs to prepare both employees for working alongside AI and customers for interacting with these new AI-driven interfaces, aiming for a smooth transition.
+
+HOST: An interesting application of AI involves an AI conversation partner designed to practice speaking new languages.
+
+REPORTER: This innovative app, called TalkBits, aims to fill a gap in language learning by focusing on natural, real-time spoken conversations with an AI acting as a native speaker. Users can choose scenarios and practice fluid conversation, aiming to replicate the experience of speaking with a real person rather than just doing exercises.
+
+HOST: AI is also making its way into the art world, with one individual trapping an AI model inside an art installation.
+
+REPORTER: That's a unique creative exploration. This project involves an AI model confined within an art installation, allowing for an interactive and thought-provoking display. It challenges our perceptions of AI's presence and sentience, blending technology with artistic expression in an unconventional way.
+
+HOST: Meanwhile, the UK government's 'AI Skills Hub' cost quite a bit.
+
+REPORTER: Yes, the UK Government's 'AI Skills Hub' initiative was delivered by PwC, reportedly at a cost of 4.1 million pounds. This investment highlights the government's push to enhance AI capabilities within the workforce, though the cost has drawn some attention.
+
+HOST: With all this AI integration into coding, the question inevitably arises: Is coding dead?
+
+REPORTER: That's a question many in the tech industry are grappling with. While AI has certainly taken over many routine coding tasks, the consensus among experts is that coding is not dead, but evolving. The role of human programmers is shifting towards higher-level problem-solving, AI supervision, and complex architectural design.
+
+HOST: In a strategic move towards AI, Pinterest is undergoing significant workforce changes.
+
+REPORTER: Pinterest is indeed laying off 15% of its workforce. The company stated this is part of a broader effort to "reallocate resources" towards roles and teams specifically focused on artificial intelligence. This signals a clear strategic pivot towards embedding AI deeper into their platform and operations.
+
+HOST: Finally, bringing us full circle to the classroom, one high school English teacher has opted for an analog approach to keep AI out of her lessons.
+
+REPORTER: That's a fascinating counter-trend. Forth Worth teacher Chanea Bond made a conscious decision to stick with pen and paper in her American literature classes. Her rationale is to prevent students from relying on generative artificial intelligence, ensuring they develop their own critical thinking and writing skills without AI assistance.
+
+HOST: Arohi, thank you for that comprehensive overview of the week's top stories. From cricket victories and media shake-ups to the evolving landscape of AI and its impact on everything from finance to education, it's clear there's no shortage of fascinating developments.
+
+Before we sign off, here's a surprising fun fact for you: The world's first industrial robot, named Unimate, was installed in 1961 at a General Motors factory in New Jersey. It was used to transport die castings from a machine and weld them onto auto bodies, marking the true beginning of robotics in manufacturing, long before the AI revolution we see today.
+
+That's all the time we have for today's Weekly News Round-up. Thank you for tuning in. We hope you have a fantastic rest of your day. I'm Arjav, and we'll be back next week with more news that matters.
