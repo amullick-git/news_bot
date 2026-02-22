@@ -1,0 +1,190 @@
+HOST: Good Morning! And welcome to News Briefing, your daily dive into the headlines shaping our world. I'm Arjav.
+
+REPORTER: And I'm Arohi, ready to bring you the stories that matter from across the globe, from politics and technology to international affairs and the markets.
+
+HOST: Absolutely, Arohi. Before we jump into today's top stories, let's take a quick look at "On This Day in History." Today, February 22nd, marks a significant moment in the history of computing. In 1990, the first version of the popular image editing software, Adobe Photoshop, was released. From its humble beginnings, it revolutionized digital art and design, changing how we interact with images forever.
+
+REPORTER: A perfect example of technology's evolving impact, Arjav. And speaking of impact, we're covering news today from BBC News, Hacker News, NDTV News, NPR Topics, CNBC, The New York Times, and others, bringing you a comprehensive overview.
+
+HOST: Let's start with a deep dive into US domestic politics, specifically the influence of past strategies on current policy and the upcoming election landscape. Arohi, a lot of attention is on "Project 2025" and its role in the current administration.
+
+REPORTER: That's right. Just a year into the current administration's second term, observers note that roughly half of Project 2025's policies have already been implemented. This comprehensive roadmap has guided decisions across various sectors, from immigration crackdowns to foreign policy shifts concerning nations like Venezuela. It underscores a strategic, pre-planned approach to governance.
+
+HOST: That sounds like a significant influence on the policy direction. And it seems even communication and media are falling under this broad umbrella, with the FCC making some notable calls.
+
+REPORTER: Indeed. The Federal Communications Commission has launched what it calls the "Pledge America Campaign." This initiative actively urges broadcasters to focus on programming that promotes what they term "patriotic, pro-America" content. The FCC's explicit goal is to highlight the nation's historic accomplishments, tracing a line from its founding right through to the current administration.
+
+HOST: A clear push for a specific narrative. Now, let's pivot to the mechanics of elections, particularly the competitiveness of House seats. The landscape appears to be shifting, driven by a key factor.
+
+REPORTER: It certainly is. Only a fraction of House seats are truly competitive, and this number is being driven even lower by redistricting efforts. Specifically, the mid-decade redistricting initiatives, particularly those initiated during the previous administration, have played an outsized role. This means that primary voters in a very small number of districts are increasingly the decisive factor in who ultimately wins congressional races, rather than the general electorate.
+
+HOST: That gives primary elections even greater significance. Now, from domestic policy to international economic strategy, particularly around trade. The previous administration's approach to tariffs caused quite a stir, and it seems the current administration is doubling down.
+
+REPORTER: That's correct, Arjav. The administration has announced an immediate hike in global tariffs, increasing them from 10% to 15%. This move comes with a clear warning: "During the next short number of months, the administration will determine and issue the new and legally permissible Tariffs." It signals a continued aggressive stance on international trade.
+
+HOST: And what about the ripple effects of these policies, especially on countries that had previously made concessions under tariff threats?
+
+REPORTER: Many nations that made significant commitments, such as enormous investment pledges, under the explicit threat of tariffs, are now facing a harsh reality. They are discovering they might have been better off waiting. These countries are effectively stuck, realizing their proactive deals may not have shielded them from the escalating trade tensions, potentially leaving them at a disadvantage.
+
+HOST: A complex web of international trade and consequences. Let's shift our focus now to global security and conflict hotspots. We have some concerning developments from South Asia and the Middle East. Arohi, starting with Pakistan and Afghanistan, there's been a significant escalation.
+
+REPORTER: Yes, Pakistan has launched deadly strikes on Afghanistan. According to Pakistani authorities, these strikes were carried out in direct retaliation for recent suicide bombings within Pakistan's borders, escalating an already tense relationship between the two nations.
+
+HOST: And closer to home for India, we have news regarding counter-terrorism operations in Jammu & Kashmir.
+
+REPORTER: In a significant operation in Jammu & Kashmir, three terrorists were shot dead, including a high-profile Jaish-e-Mohammed operative named Saifullah. Saifullah was particularly notorious for having evaded capture in at least 20 previous encounters, marking this as a crucial success for security forces.
+
+HOST: Turning our attention to the Middle East, Iran appears to be making serious preparations amid rising regional tensions.
+
+REPORTER: Indeed. Ayatollah Ali Khamenei has reportedly entrusted Ali Larijani, Iran's top national security official, with a critical mandate: to ensure the Islamic Republic can endure any potential military attacks and targeted killings. This move signals a strategic effort to fortify Iran against external threats and ensure the regime's survival in a volatile region.
+
+HOST: And internally, Iran has also seen renewed unrest from its student population.
+
+REPORTER: That's right. Iranian students have staged the first large-scale anti-government protests since the deadly crackdown last month. These recent demonstrations were specifically held to honor the thousands of individuals killed when nationwide mass protests were brutally suppressed by Iranian authorities, indicating a resurgence of dissent.
+
+HOST: From Iran, let's look at another tragic incident in the West Bank involving an American citizen.
+
+REPORTER: The family of Nasrallah Abu Siyam, a Palestinian-American man killed in the West Bank, is demanding accountability. Abu Siyam is the sixth American citizen to have been killed by either Israeli settlers or soldiers in the West Bank over the past two years, raising serious concerns about the safety of civilians in the region.
+
+HOST: And finally, a disturbing report from Ukraine, outside the direct conflict zones.
+
+REPORTER: Officials in western Ukraine are investigating what they're calling a terror attack after overnight explosions killed a police officer and injured twenty-five other individuals. The incident underscores the pervasive threat of violence even in areas not directly on the front lines of the conflict.
+
+HOST: A grim reminder of global instability. Let's transition to the exciting and sometimes challenging world of technology and artificial intelligence. Arohi, there's a fascinating development regarding the physical implementation of large language models.
+
+REPORTER: Absolutely, Arjav. Taalas is reportedly innovating ways to "print" Large Language Models, or LLMs, directly onto a chip. This represents a significant leap in AI hardware development, potentially leading to more efficient, powerful, and localized AI processing capabilities, reducing reliance on cloud infrastructure.
+
+HOST: That's a major step for AI deployment. And when it comes to applying AI, there's new insight into effective strategies, particularly with tools like Claude Code.
+
+REPORTER: Yes, one effective methodology highlighted for using AI tools like Claude Code emphasizes the separation of planning and execution. By first strategizing the approach and then allowing the AI to execute the plan, users can achieve more precise and reliable results, making AI a more powerful problem-solving partner.
+
+HOST: These advancements always bring philosophical questions to the forefront, especially regarding AI's potential future. What's Vishal Sikka's take on this?
+
+REPORTER: Vishal Sikka, a prominent entrepreneur, shared his insights with NDTV, stating, "The Best Way To Predict Future Is To Invent It." He also addressed growing concerns about AI developing agency, offering a perspective that balances innovation with responsible development.
+
+HOST: Moving from advanced AI to the foundational infrastructure of the internet, we have a curious case of an accidental disruption.
+
+REPORTER: Indeed. In a rather unexpected turn of events, a botnet accidentally destroyed I2P, the Invisible Internet Project. This incident underscores the fragility and potential vulnerabilities of decentralized, anonymous network infrastructure, even from unintended malicious activity.
+
+HOST: That's a stark reminder of cybersecurity challenges. Shifting gears to how we consume information online, there's a nuanced discussion about "attention media" versus "social networks.".
+
+REPORTER: The distinction is critical. The argument is that "attention media" and "social networks" are not the same. While social networks leverage user connections, attention media are designed specifically to capture and monetize user focus, often through algorithmic feeds, highlighting fundamental differences in their operational models and societal impacts.
+
+HOST: And to cap off our tech segment, a story from New York regarding a halted technological rollout.
+
+REPORTER: New York has decided to kill its robotaxi plan, but the analysis suggests the real problem isn't the technology itself. Instead, the primary obstacle is identified as a "trust gap" – a significant lack of public and regulatory confidence in the safety and reliability of autonomous vehicles.
+
+HOST: A crucial hurdle for autonomous tech. Now, let's turn our attention to the financial markets, where volatility has been a recurring theme. Arohi, there are warnings for investors.
+
+REPORTER: Yes, analysts are highlighting what they call a "market volatility trap." They caution that an income-first investment strategy, particularly during periods of market turbulence, might "leave a lot on the table" for retail investors, potentially sacrificing long-term growth for short-term gains.
+
+HOST: Despite these warnings, Wall Street recently saw a comeback. What were the driving forces behind that?
+
+REPORTER: The stock market did stage a comeback week, propelled by three primary forces. These included stronger-than-expected corporate earnings reports, some positive economic indicators, and a perceived easing of inflation concerns. These factors helped lift investor sentiment, even as Wall Street navigated a flurry of mixed headlines.
+
+HOST: And finally, a look at one of the giants of the investment world, Berkshire Hathaway, and their activity under Warren Buffett in his final quarter as CEO.
+
+REPORTER: In what marked Warren Buffett's final quarter at the helm, Berkshire Hathaway was a net seller of stocks. The conglomerate continued to significantly whittle down its substantial stakes in companies like Apple and Bank of America and notably slashed its already modest holding in Amazon.com, signaling a strategic shift in its equity portfolio.
+
+HOST: Fascinating insights into market movements and investment strategies. Arohi, thank you for those comprehensive reports.
+
+REPORTER: My pleasure, Arjav.
+
+HOST: Before we wrap up today's News Briefing, here's a surprising fun fact for you: Did you know that the world's first computer programmer was a woman? Ada Lovelace, daughter of the poet Lord Byron, is widely recognized for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine. She realized the machine could do more than just pure calculation and published the first algorithm intended to be carried out by such a machine back in the mid-1800s. A true pioneer of the digital age!
+
+HOST: And that's all for today's News Briefing. Thank you for joining us. We'll be back tomorrow with more essential news from around the globe. Until then, have a fantastic day.
+HOST: Good Morning! And welcome to News Briefing, your daily dive into the headlines shaping our world. I'm Arjav.
+
+REPORTER: And I'm Arohi, ready to bring you the stories that matter from across the globe, from politics and technology to international affairs and the markets.
+
+HOST: Absolutely, Arohi. Before we jump into today's top stories, let's take a quick look at "On This Day in History." Today, February 22nd, marks a significant moment in the history of computing. In 1990, the first version of the popular image editing software, Adobe Photoshop, was released. From its humble beginnings, it revolutionized digital art and design, changing how we interact with images forever.
+
+REPORTER: A perfect example of technology's evolving impact, Arjav. And speaking of impact, we're covering news today from BBC News, Hacker News, NDTV News, NPR Topics, CNBC, The New York Times, and others, bringing you a comprehensive overview.
+
+HOST: Let's start with a deep dive into US domestic politics, specifically the influence of past strategies on current policy and the upcoming election landscape. Arohi, a lot of attention is on "Project 2025" and its role in the current administration.
+
+REPORTER: That's right. Just a year into the current administration's second term, observers note that roughly half of Project 2025's policies have already been implemented. This comprehensive roadmap has guided decisions across various sectors, from immigration crackdowns to foreign policy shifts concerning nations like Venezuela. It underscores a strategic, pre-planned approach to governance.
+
+HOST: That sounds like a significant influence on the policy direction. And it seems even communication and media are falling under this broad umbrella, with the FCC making some notable calls.
+
+REPORTER: Indeed. The Federal Communications Commission has launched what it calls the "Pledge America Campaign." This initiative actively urges broadcasters to focus on programming that promotes what they term "patriotic, pro-America" content. The FCC's explicit goal is to highlight the nation's historic accomplishments, tracing a line from its founding right through to the current administration.
+
+HOST: A clear push for a specific narrative. Now, let's pivot to the mechanics of elections, particularly the competitiveness of House seats. The landscape appears to be shifting, driven by a key factor.
+
+REPORTER: It certainly is. Only a fraction of House seats are truly competitive, and this number is being driven even lower by redistricting efforts. Specifically, the mid-decade redistricting initiatives, particularly those initiated during the previous administration, have played an outsized role. This means that primary voters in a very small number of districts are increasingly the decisive factor in who ultimately wins congressional races, rather than the general electorate.
+
+HOST: That gives primary elections even greater significance. Now, from domestic policy to international economic strategy, particularly around trade. The previous administration's approach to tariffs caused quite a stir, and it seems the current administration is doubling down.
+
+REPORTER: That's correct, Arjav. The administration has announced an immediate hike in global tariffs, increasing them from 10% to 15%. This move comes with a clear warning: "During the next short number of months, the administration will determine and issue the new and legally permissible Tariffs." It signals a continued aggressive stance on international trade.
+
+HOST: And what about the ripple effects of these policies, especially on countries that had previously made concessions under tariff threats?
+
+REPORTER: Many nations that made significant commitments, such as enormous investment pledges, under the explicit threat of tariffs, are now facing a harsh reality. They are discovering they might have been better off waiting. These countries are effectively stuck, realizing their proactive deals may not have shielded them from the escalating trade tensions, potentially leaving them at a disadvantage.
+
+HOST: A complex web of international trade and consequences. Let's shift our focus now to global security and conflict hotspots. We have some concerning developments from South Asia and the Middle East. Arohi, starting with Pakistan and Afghanistan, there's been a significant escalation.
+
+REPORTER: Yes, Pakistan has launched deadly strikes on Afghanistan. According to Pakistani authorities, these strikes were carried out in direct retaliation for recent suicide bombings within Pakistan's borders, escalating an already tense relationship between the two nations.
+
+HOST: And closer to home for India, we have news regarding counter-terrorism operations in Jammu & Kashmir.
+
+REPORTER: In a significant operation in Jammu & Kashmir, three terrorists were shot dead, including a high-profile Jaish-e-Mohammed operative named Saifullah. Saifullah was particularly notorious for having evaded capture in at least 20 previous encounters, marking this as a crucial success for security forces.
+
+HOST: Turning our attention to the Middle East, Iran appears to be making serious preparations amid rising regional tensions.
+
+REPORTER: Indeed. Ayatollah Ali Khamenei has reportedly entrusted Ali Larijani, Iran's top national security official, with a critical mandate: to ensure the Islamic Republic can endure any potential military attacks and targeted killings. This move signals a strategic effort to fortify Iran against external threats and ensure the regime's survival in a volatile region.
+
+HOST: And internally, Iran has also seen renewed unrest from its student population.
+
+REPORTER: That's right. Iranian students have staged the first large-scale anti-government protests since the deadly crackdown last month. These recent demonstrations were specifically held to honor the thousands of individuals killed when nationwide mass protests were brutally suppressed by Iranian authorities, indicating a resurgence of dissent.
+
+HOST: From Iran, let's look at another tragic incident in the West Bank involving an American citizen.
+
+REPORTER: The family of Nasrallah Abu Siyam, a Palestinian-American man killed in the West Bank, is demanding accountability. Abu Siyam is the sixth American citizen to have been killed by either Israeli settlers or soldiers in the West Bank over the past two years, raising serious concerns about the safety of civilians in the region.
+
+HOST: And finally, a disturbing report from Ukraine, outside the direct conflict zones.
+
+REPORTER: Officials in western Ukraine are investigating what they're calling a terror attack after overnight explosions killed a police officer and injured twenty-five other individuals. The incident underscores the pervasive threat of violence even in areas not directly on the front lines of the conflict.
+
+HOST: A grim reminder of global instability. Let's transition to the exciting and sometimes challenging world of technology and artificial intelligence. Arohi, there's a fascinating development regarding the physical implementation of large language models.
+
+REPORTER: Absolutely, Arjav. Taalas is reportedly innovating ways to "print" Large Language Models, or LLMs, directly onto a chip. This represents a significant leap in AI hardware development, potentially leading to more efficient, powerful, and localized AI processing capabilities, reducing reliance on cloud infrastructure.
+
+HOST: That's a major step for AI deployment. And when it comes to applying AI, there's new insight into effective strategies, particularly with tools like Claude Code.
+
+REPORTER: Yes, one effective methodology highlighted for using AI tools like Claude Code emphasizes the separation of planning and execution. By first strategizing the approach and then allowing the AI to execute the plan, users can achieve more precise and reliable results, making AI a more powerful problem-solving partner.
+
+HOST: These advancements always bring philosophical questions to the forefront, especially regarding AI's potential future. What's Vishal Sikka's take on this?
+
+REPORTER: Vishal Sikka, a prominent entrepreneur, shared his insights with NDTV, stating, "The Best Way To Predict Future Is To Invent It." He also addressed growing concerns about AI developing agency, offering a perspective that balances innovation with responsible development.
+
+HOST: Moving from advanced AI to the foundational infrastructure of the internet, we have a curious case of an accidental disruption.
+
+REPORTER: Indeed. In a rather unexpected turn of events, a botnet accidentally destroyed I2P, the Invisible Internet Project. This incident underscores the fragility and potential vulnerabilities of decentralized, anonymous network infrastructure, even from unintended malicious activity.
+
+HOST: That's a stark reminder of cybersecurity challenges. Shifting gears to how we consume information online, there's a nuanced discussion about "attention media" versus "social networks.".
+
+REPORTER: The distinction is critical. The argument is that "attention media" and "social networks" are not the same. While social networks leverage user connections, attention media are designed specifically to capture and monetize user focus, often through algorithmic feeds, highlighting fundamental differences in their operational models and societal impacts.
+
+HOST: And to cap off our tech segment, a story from New York regarding a halted technological rollout.
+
+REPORTER: New York has decided to kill its robotaxi plan, but the analysis suggests the real problem isn't the technology itself. Instead, the primary obstacle is identified as a "trust gap" – a significant lack of public and regulatory confidence in the safety and reliability of autonomous vehicles.
+
+HOST: A crucial hurdle for autonomous tech. Now, let's turn our attention to the financial markets, where volatility has been a recurring theme. Arohi, there are warnings for investors.
+
+REPORTER: Yes, analysts are highlighting what they call a "market volatility trap." They caution that an income-first investment strategy, particularly during periods of market turbulence, might "leave a lot on the table" for retail investors, potentially sacrificing long-term growth for short-term gains.
+
+HOST: Despite these warnings, Wall Street recently saw a comeback. What were the driving forces behind that?
+
+REPORTER: The stock market did stage a comeback week, propelled by three primary forces. These included stronger-than-expected corporate earnings reports, some positive economic indicators, and a perceived easing of inflation concerns. These factors helped lift investor sentiment, even as Wall Street navigated a flurry of mixed headlines.
+
+HOST: And finally, a look at one of the giants of the investment world, Berkshire Hathaway, and their activity under Warren Buffett in his final quarter as CEO.
+
+REPORTER: In what marked Warren Buffett's final quarter at the helm, Berkshire Hathaway was a net seller of stocks. The conglomerate continued to significantly whittle down its substantial stakes in companies like Apple and Bank of America and notably slashed its already modest holding in Amazon.com, signaling a strategic shift in its equity portfolio.
+
+HOST: Fascinating insights into market movements and investment strategies. Arohi, thank you for those comprehensive reports.
+
+REPORTER: My pleasure, Arjav.
+
+HOST: Before we wrap up today's News Briefing, here's a surprising fun fact for you: Did you know that the "Internet of Things" is far older than most people realize? The first internet-connected appliance was a Coca-Cola vending machine at Carnegie Mellon University in the early 1980s. Programmers could remotely check the machine to see if new drinks had been loaded and if they were cold, long before the term "IoT" even existed.
+
+HOST: And that's all for today's News Briefing. Thank you for joining us. We'll be back tomorrow with more essential news from around the globe. Until then, have a fantastic day.
