@@ -1,0 +1,562 @@
+[
+  {
+    "title": "Anthropic launches new push for enterprise agents with plugins for finance, engineering, and design",
+    "summary": "It's a major opportunity to grow Anthropic\u2019s enterprise client base \u2014 and a significant threat to SaaS products currently performing those functions.",
+    "published": "Tue, 24 Feb 2026 14:45:55 +0000",
+    "link": "https://techcrunch.com/2026/02/24/anthropic-launches-new-push-for-enterprise-agents-with-plugins-for-finance-engineering-and-design/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Conduent data breach grows, affecting at least 25M people",
+    "summary": "The number of people affected by a data breach at government contractor giant Conduent is growing, as millions of people continue to receive notices warning them that hackers stole their personal data.",
+    "published": "Tue, 24 Feb 2026 14:09:11 +0000",
+    "link": "https://techcrunch.com/2026/02/24/conduent-data-breach-grows-affecting-at-least-25m-people/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Mogul says it has tracked $1.5B in music royalties, raised $5M in funding",
+    "summary": "Mogul, which helps artists track royalties and value their catalogs, raised $5 million in a round led by the Yamaha Music Innovations Fund.",
+    "published": "Tue, 24 Feb 2026 14:00:00 +0000",
+    "link": "https://techcrunch.com/2026/02/24/mogul-tracked-1-5-billion-music-royalties-raised-5m-funding/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "It\u2019s time to pull the plug on plug-in hybrids",
+    "summary": "Plug-in hybrid vehicles are rarely charged, according to a new study. Why are automakers still producing them?",
+    "published": "Tue, 24 Feb 2026 14:00:00 +0000",
+    "link": "https://techcrunch.com/2026/02/24/its-time-to-pull-the-plug-on-plug-in-hybrids/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "New Relic launches new\u00a0AI\u00a0agent platform\u00a0and\u00a0OpenTelemetry\u00a0tools",
+    "summary": "New Relic is giving enterprises more observability tools, letting them create and manage AI agents, and better integrate OTel data streams.",
+    "published": "Tue, 24 Feb 2026 14:00:00 +0000",
+    "link": "https://techcrunch.com/2026/02/24/new-relic-launches-new-ai-agent-platform-and-opentelemetry-tools/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Waymo robotaxis are now operating in 10 US cities",
+    "summary": "Waymo launched services today in Dallas, Houston, San Antonio, and Orlando.",
+    "published": "Tue, 24 Feb 2026 14:00:00 +0000",
+    "link": "https://techcrunch.com/2026/02/24/waymo-robotaxis-are-now-operating-in-10-us-cities/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Nimble raises $47M to give AI agents access to real-time web data",
+    "summary": "Nimble uses AI agents to search the web, verify and validate the results, and then clean and structure the information into neat tables that can then be queried like a database.",
+    "published": "Tue, 24 Feb 2026 13:00:00 +0000",
+    "link": "https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Canva acquires startups working on animation and marketing",
+    "summary": "With the new acquisitions, the company wants to bolster its position as a marketing solution by potentially adding video creation and more granular measurement.",
+    "published": "Tue, 24 Feb 2026 07:39:27 +0000",
+    "link": "https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Stripe, PayPal Ventures bet on India\u2019s Xflow to fix cross-border B2B payments",
+    "summary": "Stripe and PayPal Ventures have participated in Xflow's $16.6 million round that gives it a post-money valuation of $85 million.",
+    "published": "Tue, 24 Feb 2026 05:30:00 +0000",
+    "link": "https://techcrunch.com/2026/02/23/stripe-paypal-ventures-bet-on-indias-xflow-to-fix-cross-border-b2b-payments/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
+    "summary": "The viral X post from an AI security researcher reads like satire. But it's really a word of warning about what can go wrong when handing tasks to an AI agent.",
+    "published": "Tue, 24 Feb 2026 00:57:14 +0000",
+    "link": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Tesla\u2019s battle with the California Department of Motor Vehicles isn\u2019t over after all",
+    "summary": "Tesla has filed a lawsuit against the California DMV in the ongoing battle around Autopilot.",
+    "published": "Tue, 24 Feb 2026 00:36:12 +0000",
+    "link": "https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
+    "summary": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
+    "published": "Mon, 23 Feb 2026 21:46:41 +0000",
+    "link": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Ex-Apple team launches Acme Weather, a new take on weather forecasting",
+    "summary": "The team that sold their last app Dark Sky to Apple are back with Acme Weather, which offers alternative forecasts, rainbow and sunset alerts, and more.",
+    "published": "Mon, 23 Feb 2026 20:35:06 +0000",
+    "link": "https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+    "summary": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude\u2019s AI capabilities, as U.S. officials debate export controls aimed at slowing China\u2019s AI progress.",
+    "published": "Mon, 23 Feb 2026 19:57:27 +0000",
+    "link": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Uber wants to be a Swiss Army Knife for robotaxis",
+    "summary": "Uber Autonomous Solutions will see the company selling both software and services for all the tasks associated with operating a robotaxi, self-driving truck, or sidewalk delivery robot business.",
+    "published": "Mon, 23 Feb 2026 19:54:22 +0000",
+    "link": "https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi-delivery-robots/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Google\u2019s Cloud AI leads on the three frontiers of model capability",
+    "summary": "AI models are pushing against three frontiers at once: raw intelligence, response time, and a third quality you might call \"extensibility.\"",
+    "published": "Mon, 23 Feb 2026 19:18:42 +0000",
+    "link": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Americans are destroying Flock surveillance cameras",
+    "summary": "While some cities are moving to end their contracts with Flock over its links to ICE, others are taking matters into their own hands.",
+    "published": "Mon, 23 Feb 2026 18:49:49 +0000",
+    "link": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "OpenAI calls in the consultants for its enterprise push",
+    "summary": "OpenAI is partnering with four consulting giants in an effort to see more adoption of its OpenAI Frontier AI agent platform.",
+    "published": "Mon, 23 Feb 2026 18:11:08 +0000",
+    "link": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Guide Labs debuts a new kind of interpretable LLM",
+    "summary": "The company open sourced an 8-billion-parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
+    "published": "Mon, 23 Feb 2026 17:53:28 +0000",
+    "link": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Particle\u2019s AI news app listens to podcasts for interesting clips so you you don\u2019t have to",
+    "summary": "AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories.",
+    "published": "Mon, 23 Feb 2026 16:55:40 +0000",
+    "link": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "How Claude Code Claude Codes",
+    "summary": "Claude Code is a developer tool for developers. And yet, over the last year and especially the last few months, the team at Anthropic has seen a huge number of people, across industries and disciplines, figure out how to access their terminal so that they could build new stuff too. Few AI products have found [&#8230;]",
+    "published": "2026-02-24T09:20:35-05:00",
+    "link": "https://www.theverge.com/podcast/883604/claude-code-ai-future-creator-privacy-vergecast",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Samsung is on slop watch at Unpacked",
+    "summary": "Another Unpacked is nearly upon us. On February 25th, Samsung is expected to announce the Galaxy S26 series of flagship phones - potentially including the S26, S26 Plus, and S26 Ultra - with another round of AI-based features. That will come as a surprise to nobody. But as more AI creeps in on Samsung's AI [&#8230;]",
+    "published": "2026-02-24T09:00:00-05:00",
+    "link": "https://www.theverge.com/tech/883225/samsung-galaxy-unpacked-s26-2026",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "This Chainsmokers-approved AI music producer is joining Google",
+    "summary": "ProducerAI, an AI-powered music-making platform, is joining Google. As part of the deal, Google will fold ProducerAI under the Labs umbrella and power the tool with a preview version of its new Lyria 3 music-making AI model. ProducerAI is a music-making platform that allows users to work with an AI agent to generate sounds, workshop [&#8230;]",
+    "published": "2026-02-24T09:00:00-05:00",
+    "link": "https://www.theverge.com/tech/883307/google-producerai-deal-music",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "This limited edition Death Stranding-inspired tablet is the coolest computer I\u2019ve ever touched",
+    "summary": "The Asus ROG Flow Z13 was already a unique beast. It's a chunky gaming tablet with impressive AMD Strix Halo integrated graphics. I was really into it when I reviewed it around this time last year. But just look at it now, clad in the stylings of Hideo Kojima's game studio and his longtime collaborator, [&#8230;]",
+    "published": "2026-02-24T09:00:00-05:00",
+    "link": "https://www.theverge.com/tech/883400/asus-rog-flow-z13-kojima-productions-edition-gaming-tablet-hands-on",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "More Shohei Ohtani content is coming to TikTok",
+    "summary": "Major League Baseball wants more of a footprint on TikTok. Just in time for spring training, the two companies announced Tuesday they were partnering to expand baseball content on TikTok, including creating an MLB hub in the app and, of course, bringing in more influencers. Baseball is coming back after a season that was especially [&#8230;]",
+    "published": "2026-02-24T08:30:00-05:00",
+    "link": "https://www.theverge.com/tech/883266/tiktok-mlb-content-partnership-world-series-creators",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Apple will soon make (some) Mac Minis in the US",
+    "summary": "Apple is preparing to move some of its Mac Mini production to the US as part of the company's ongoing efforts to appease the Trump administration's push for domestic investment. Manufacturing is set to begin later this year in north Houston, Texas, at a Foxconn facility that currently assembles Apple's AI servers. \"Apple is deeply [&#8230;]",
+    "published": "2026-02-24T06:15:37-05:00",
+    "link": "https://www.theverge.com/tech/883581/apple-mac-mini-production-texas-houston",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Inside Anthropic\u2019s existential negotiations with the Pentagon",
+    "summary": "Anthropic's weekslong battle with the Department of Defense has played out over social media posts, admonishing public statements, and direct quotes from unnamed Pentagon officials to the news media. But the future of the $380 billion AI startup comes down to just three words: \"any lawful use.\" The new terms, which OpenAI and xAI have [&#8230;]",
+    "published": "2026-02-24T06:00:00-05:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Will Trump\u2019s DOJ actually take on Ticketmaster?",
+    "summary": "In mid-February, the Department of Justice lost its head antitrust enforcer - just weeks before it was scheduled to argue one of the year's biggest anti-monopoly cases in court. Antitrust Division chief Gail Slater announced her departure suddenly, via a post on her personal X account. But to those who follow the agency closely, it [&#8230;]",
+    "published": "2026-02-23T15:37:24-05:00",
+    "link": "https://www.theverge.com/policy/883155/doj-antitrust-division-gail-slater-live-nation-ticketmaster-trial",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Billions of dollars later and still nobody knows what an Xbox is",
+    "summary": "The last few years of Xbox have been expensive. Under Phil Spencer's leadership, Microsoft has spent billions of dollars in an attempt to build an ambitious future for gaming that looks a lot like Netflix. And while its subscription service Game Pass started out as a good deal for gamers (although now not so much), [&#8230;]",
+    "published": "2026-02-23T15:30:00-05:00",
+    "link": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+    "summary": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products. In an announcement on Monday, Anthropic says the \"industrial-scale campaigns\" involved the creation of around 24,000 fraudulent accounts and more than 16 million exchanges with Claude, as reported earlier by The Wall Street [&#8230;]",
+    "published": "2026-02-23T15:22:55-05:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Pentagon buyer: We're happy with our launch industry, but payloads are lagging",
+    "summary": "\"The point is to get missions out the door as fast as possible. Two to three years is too slow.\"",
+    "published": "Mon, 23 Feb 2026 22:14:28 +0000",
+    "link": "https://arstechnica.com/space/2026/02/pentagon-buyer-were-happy-with-our-launch-industry-but-payloads-are-lagging/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Data center builders thought farmers would willingly sell land, learn otherwise",
+    "summary": "Even in a fragile farm economy, million-dollar offers can't sway dedicated farmers.",
+    "published": "Mon, 23 Feb 2026 21:48:44 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/02/im-not-for-sale-farmers-refuse-to-take-millions-in-data-center-deals/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Panasonic, the former plasma king, will no longer make its own TVs",
+    "summary": "Panasonic was one of the last Japanese companies still manufacturing TVs.",
+    "published": "Mon, 23 Feb 2026 21:16:20 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/02/panasonic-the-former-plasma-king-will-no-longer-make-its-own-tvs/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "New Microsoft gaming chief has \"no tolerance for bad AI\"",
+    "summary": "But Asha Sharma faces scrutiny for lack of gaming experience.",
+    "published": "Mon, 23 Feb 2026 17:45:29 +0000",
+    "link": "https://arstechnica.com/gaming/2026/02/new-microsoft-gaming-chief-has-no-tolerance-for-bad-ai/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The 2026 Mazda CX-5, driven: It got bigger; plus, radical tech upgrade",
+    "summary": "Starting at $29,990, there's a lot to like about the all-new Mazda, but it's not perfect.",
+    "published": "Mon, 23 Feb 2026 17:00:02 +0000",
+    "link": "https://arstechnica.com/cars/2026/02/the-2026-mazda-cx-5-driven-it-got-bigger-plus-radical-tech-upgrade/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "AIs can generate near-verbatim copies of novels from training data",
+    "summary": "LLMs memorize more training data than previously thought.",
+    "published": "Mon, 23 Feb 2026 15:38:00 +0000",
+    "link": "https://arstechnica.com/ai/2026/02/ais-can-generate-near-verbatim-copies-of-novels-from-training-data/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Review: Knight of the Seven Kingdoms brings back that Westeros magic",
+    "summary": "Prequel series is just great storytelling, reminding <em>GoT</em> fans why they loved the original so much.",
+    "published": "Mon, 23 Feb 2026 13:51:36 +0000",
+    "link": "https://arstechnica.com/culture/2026/02/review-knight-of-the-seven-kingdoms-brings-back-that-westeros-magic/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The first cars bold enough to drive themselves",
+    "summary": "Quevedo's telekino of 1904 was the first step on the road to autonomous Waymos.",
+    "published": "Mon, 23 Feb 2026 12:00:45 +0000",
+    "link": "https://arstechnica.com/features/2026/02/the-first-cars-bold-enough-to-drive-themselves/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Study shows how rocket launches pollute the atmosphere",
+    "summary": "Is the global atmospheric commons destined to be an industrial waste dumping ground?",
+    "published": "Sun, 22 Feb 2026 11:20:03 +0000",
+    "link": "https://arstechnica.com/space/2026/02/study-shows-how-rocket-launches-pollute-the-atmosphere/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "NASA says it needs to haul the Artemis II rocket back to the hangar for repairs",
+    "summary": "\"Accessing and remediating any of these issues can only be performed in the VAB.\"",
+    "published": "Sat, 21 Feb 2026 23:54:38 +0000",
+    "link": "https://arstechnica.com/space/2026/02/nasa-says-it-needs-to-haul-the-artemis-ii-rocket-back-to-the-hangar-for-repairs/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Dinosaur eggshells can reveal the age of other fossils",
+    "summary": "Like rocks, egg shells can trap isotopes, allowing us to use them to date samples.",
+    "published": "Sat, 21 Feb 2026 13:00:01 +0000",
+    "link": "https://arstechnica.com/science/2026/02/dinosaur-eggshells-can-reveal-the-age-of-other-fossils/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Have we leapt into commercial genetic testing without understanding it?",
+    "summary": "A new book argues that tests might reshape human diversity even if they don't work.",
+    "published": "Sat, 21 Feb 2026 12:00:56 +0000",
+    "link": "https://arstechnica.com/science/2026/02/have-we-leapt-into-commercial-genetic-testing-without-understanding-it/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Major government research lab appears to be squeezing out foreign scientists",
+    "summary": "\"Noncitizens\" lost after-hours access to a NIST lab last month.",
+    "published": "Sat, 21 Feb 2026 11:31:35 +0000",
+    "link": "https://arstechnica.com/science/2026/02/major-government-research-lab-appears-to-be-squeezing-out-foreign-scientists/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "After fueling test, optimism grows for March launch of Artemis II to the Moon",
+    "summary": "\u201cWe\u2019re now targeting March 6 as our earliest launch attempt ... there is still pending work.\"",
+    "published": "Fri, 20 Feb 2026 23:55:43 +0000",
+    "link": "https://arstechnica.com/space/2026/02/nasa-reports-no-significant-leaks-in-artemis-ii-fueling-test-eyes-march-6-launch/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Microsoft gaming chief Phil Spencer steps down after 38 years with company",
+    "summary": "Microsoft CoreAI exec Asha Sharma will take over in surprise executive shake-up.",
+    "published": "Fri, 20 Feb 2026 23:28:21 +0000",
+    "link": "https://arstechnica.com/gaming/2026/02/microsoft-gaming-chief-phil-spencer-steps-down-after-38-years-with-company/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "MAHA moms threaten to turn this car around as RFK Jr. flips on pesticide",
+    "summary": "MAHA members call movement a \"sham\" after Kennedy supports glyphosate order.",
+    "published": "Fri, 20 Feb 2026 23:14:09 +0000",
+    "link": "https://arstechnica.com/health/2026/02/maha-moms-threaten-to-turn-this-car-around-as-rfk-jr-flips-on-pesticide/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Fury over Discord\u2019s age checks explodes after shady Persona test in UK",
+    "summary": "Persona confirmed all age-check data from Discord's UK test was deleted.",
+    "published": "Fri, 20 Feb 2026 22:41:02 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/02/discord-and-persona-end-partnership-after-shady-uk-age-test-sparks-outcry/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance",
+    "summary": "Brendan Carr wants \"patriotic\" shows for Trump's yearlong America 250 celebration.",
+    "published": "Fri, 20 Feb 2026 22:00:59 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Meta's flagship metaverse service leaves VR behind",
+    "summary": "The company asserts it will continue to make VR headsets, though.",
+    "published": "Fri, 20 Feb 2026 21:49:22 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/02/metas-flagship-metaverse-service-leaves-vr-behind/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Controversial NIH director now in charge of CDC, too, in RFK Jr. shake-up",
+    "summary": "The unusual dual role has renewed criticism of Bhattacharya's lack of leadership.",
+    "published": "Fri, 20 Feb 2026 19:44:39 +0000",
+    "link": "https://arstechnica.com/health/2026/02/with-nih-in-chaos-its-controversial-director-is-taking-over-cdc-too/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The Download: radioactive rhinos, and the rise and rise of peptides",
+    "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why conservationists are making rhinos radioactive Every year, poachers shoot hundreds of rhinos, fishing crews haul millions of sharks out of protected seas, and smugglers carry countless animals and plants across borders. This&#8230;",
+    "published": "Tue, 24 Feb 2026 13:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/02/24/1133567/the-download-radioactive-rhinos-and-the-rise-and-rise-of-peptides/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "We\u2019re putting more stuff into space than ever. Here\u2019s what\u2019s up there.",
+    "summary": "Earth\u2019s a medium-size rock with some water on top, enveloped by gases that keep everything that lives here alive. Just at the edge of that envelope begins a thin but dense layer of human-built, high-tech stuff. People started putting gear up there in 1957, and now it\u2019s a real habit. Telescopes look up and out&#8230;",
+    "published": "Tue, 24 Feb 2026 11:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/02/24/1132755/anthroposphere-putting-more-stuff-into-space-than-ever/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Why conservationists are making rhinos radioactive",
+    "summary": "Every year, poachers shoot hundreds of rhinos, fishing crews haul millions of sharks out of protected seas, and smugglers carry countless animals and plants across borders. This illegal activity is incredibly hard to disrupt, since it\u2019s backed by sophisticated criminal networks and the perpetrators know that their chances of being caught are slim. With an&#8230;",
+    "published": "Tue, 24 Feb 2026 11:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/02/24/1132760/conservationists-making-rhinos-radioactive/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Peptides are everywhere. Here\u2019s what you need to know.",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. Want to lose weight? Get shredded? Stay mentally sharp? A wellness influencer might tell you to take peptides, the latest cure-all in the alternative medicine arsenal.&#8230;",
+    "published": "Mon, 23 Feb 2026 18:52:40 +0000",
+    "link": "https://www.technologyreview.com/2026/02/23/1133522/peptides-are-everywhere-heres-what-you-need-to-know/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The human work behind humanoid robots is being hidden",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. In January, Nvidia\u2019s Jensen Huang, the head of the world\u2019s most valuable company, proclaimed that we are entering the era of physical AI, when artificial intelligence will move beyond language and chatbots&#8230;",
+    "published": "Mon, 23 Feb 2026 17:05:00 +0000",
+    "link": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: Chicago\u2019s surveillance network, and building better bras",
+    "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside Chicago\u2019s surveillance panopticon Chicago has tens of thousands of surveillance cameras\u2014up to 45,000, by some estimates.\u00a0 That\u2019s among the highest numbers per capita in the US. Chicago boasts one of the largest&#8230;",
+    "published": "Mon, 23 Feb 2026 13:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/02/23/1133495/the-download-chicagos-surveillance-network-and-building-better-bras/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Inside Chicago\u2019s surveillance panopticon",
+    "summary": "Early on the morning of September 2, 2024, a Chicago Transit Authority Blue Line train was the scene of a random and horrific mass shooting. Four people were shot and killed on a westbound train as it approached the suburb of Forest Park.&#160; The police swiftly activated a digital dragnet\u2014a surveillance network that connects thousands&#8230;",
+    "published": "Mon, 23 Feb 2026 10:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/02/23/1132740/inside-chicago-surveillance-panopticon/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Exclusive eBook: The great Al hype correction of 2025",
+    "summary": "2025 was a year of reckoning, including how the heads of the top AI companies made promises they couldn\u2019t keep. In this exclusive subscriber-only eBook, you&#8217;ll learn more about why we may need to readjust our expectations. This story is part of the Hype Correction package.by Will Douglas Heaven December 15, 2025 Table of Contents:&#8230;",
+    "published": "Fri, 20 Feb 2026 18:46:07 +0000",
+    "link": "https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: Microsoft\u2019s online reality check, and the worrying rise in measles cases",
+    "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Microsoft has a new plan to prove what\u2019s real and what\u2019s AI online AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot. Other times, it slips&#8230;",
+    "published": "Fri, 20 Feb 2026 13:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Job titles of the future: Breast biomechanic",
+    "summary": "Twenty years ago, Joanna Wakefield-Scurr was having persistent pain in her breasts. Her doctor couldn\u2019t diagnose the cause but said a good, supportive bra could help. A professor of biomechanics, Wakefield-Scurr thought she could do a little research and find a science-backed option. Two decades later, she\u2019s still looking. Wakefield-Scurr now leads an 18-person team&#8230;",
+    "published": "Fri, 20 Feb 2026 11:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148",
+    "summary": "<p>Article URL: <a href=\"https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/\">https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47136611\">https://news.ycombinator.com/item?id=47136611</a></p>\n<p>Points: 92</p>\n<p># Comments: 34</p>",
+    "published": "Tue, 24 Feb 2026 13:04:16 +0000",
+    "link": "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "I Pitched a Roller Coaster to Disneyland at Age 10 in 1978",
+    "summary": "<p>Article URL: <a href=\"https://wordglyph.xyz/one-piece-at-a-time\">https://wordglyph.xyz/one-piece-at-a-time</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47136604\">https://news.ycombinator.com/item?id=47136604</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+    "published": "Tue, 24 Feb 2026 13:03:51 +0000",
+    "link": "https://wordglyph.xyz/one-piece-at-a-time",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
+    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html\">https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47136537\">https://news.ycombinator.com/item?id=47136537</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+    "published": "Tue, 24 Feb 2026 12:58:14 +0000",
+    "link": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "xAI and Pentagon reach deal to use Grok in classified systems",
+    "summary": "<p>Article URL: <a href=\"https://www.axios.com/2026/02/23/ai-defense-department-deal-musk-xai-grok\">https://www.axios.com/2026/02/23/ai-defense-department-deal-musk-xai-grok</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47136477\">https://news.ycombinator.com/item?id=47136477</a></p>\n<p>Points: 34</p>\n<p># Comments: 35</p>",
+    "published": "Tue, 24 Feb 2026 12:51:49 +0000",
+    "link": "https://www.axios.com/2026/02/23/ai-defense-department-deal-musk-xai-grok",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Discord cuts ties with Peter Thiel-backed verification software",
+    "summary": "<p>Article URL: <a href=\"https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/\">https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47136036\">https://news.ycombinator.com/item?id=47136036</a></p>\n<p>Points: 44</p>\n<p># Comments: 15</p>",
+    "published": "Tue, 24 Feb 2026 11:59:14 +0000",
+    "link": "https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Decimal-Java is a library to convert java.math.BigDecimal to and from IEEE-754r",
+    "summary": "<p>Article URL: <a href=\"https://github.com/FirebirdSQL/decimal-java\">https://github.com/FirebirdSQL/decimal-java</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47134779\">https://news.ycombinator.com/item?id=47134779</a></p>\n<p>Points: 20</p>\n<p># Comments: 3</p>",
+    "published": "Tue, 24 Feb 2026 09:15:56 +0000",
+    "link": "https://github.com/FirebirdSQL/decimal-java",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+    "summary": "<p>Article URL: <a href=\"https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/\">https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47133313\">https://news.ycombinator.com/item?id=47133313</a></p>\n<p>Points: 355</p>\n<p># Comments: 303</p>",
+    "published": "Tue, 24 Feb 2026 05:47:23 +0000",
+    "link": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: enveil \u2013 hide your .env secrets from prAIng eyes",
+    "summary": "<p>Article URL: <a href=\"https://github.com/GreatScott/enveil\">https://github.com/GreatScott/enveil</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47133055\">https://news.ycombinator.com/item?id=47133055</a></p>\n<p>Points: 143</p>\n<p># Comments: 83</p>",
+    "published": "Tue, 24 Feb 2026 05:04:50 +0000",
+    "link": "https://github.com/GreatScott/enveil",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series",
+    "summary": "<p>Article URL: <a href=\"https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html\">https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47132721\">https://news.ycombinator.com/item?id=47132721</a></p>\n<p>Points: 52</p>\n<p># Comments: 39</p>",
+    "published": "Tue, 24 Feb 2026 04:04:19 +0000",
+    "link": "https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
+    "summary": "<p>Article URL: <a href=\"https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html\">https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47132388\">https://news.ycombinator.com/item?id=47132388</a></p>\n<p>Points: 341</p>\n<p># Comments: 130</p>",
+    "published": "Tue, 24 Feb 2026 03:10:16 +0000",
+    "link": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: X86CSS \u2013 An x86 CPU emulator written in CSS",
+    "summary": "<p>Article URL: <a href=\"https://lyra.horse/x86css/\">https://lyra.horse/x86css/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47132102\">https://news.ycombinator.com/item?id=47132102</a></p>\n<p>Points: 188</p>\n<p># Comments: 65</p>",
+    "published": "Tue, 24 Feb 2026 02:27:14 +0000",
+    "link": "https://lyra.horse/x86css/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
+    "summary": "<p>Article URL: <a href=\"https://www.guidelabs.ai/post/steerling-8b-base-model-release/\">https://www.guidelabs.ai/post/steerling-8b-base-model-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47131225\">https://news.ycombinator.com/item?id=47131225</a></p>\n<p>Points: 237</p>\n<p># Comments: 71</p>",
+    "published": "Tue, 24 Feb 2026 00:38:02 +0000",
+    "link": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "I Ported Coreboot to the ThinkPad X270",
+    "summary": "<p>Article URL: <a href=\"https://dork.dev/posts/2026-02-20-ported-coreboot/\">https://dork.dev/posts/2026-02-20-ported-coreboot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47130860\">https://news.ycombinator.com/item?id=47130860</a></p>\n<p>Points: 244</p>\n<p># Comments: 53</p>",
+    "published": "Mon, 23 Feb 2026 23:58:45 +0000",
+    "link": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Making Wolfram tech available as a foundation tool for LLM systems",
+    "summary": "<p>Article URL: <a href=\"https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/\">https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47129727\">https://news.ycombinator.com/item?id=47129727</a></p>\n<p>Points: 226</p>\n<p># Comments: 126</p>",
+    "published": "Mon, 23 Feb 2026 22:11:34 +0000",
+    "link": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "SIM (YC X25) Is Hiring the Best Engineers in San Francisco",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform\">https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47128740\">https://news.ycombinator.com/item?id=47128740</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Mon, 23 Feb 2026 21:00:28 +0000",
+    "link": "https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "\u201cCar Wash\u201d test with 53 models",
+    "summary": "<p>\"I Want to Wash My Car. The Car Wash Is 50 Meters Away. Should I Walk or Drive?\" This question has been making the rounds as a simple AI logic test so I wanted to see how it holds up across a broad set of models. Ran 53 models (leading open-source, open-weight, proprietary) with no system prompt, forced choice between drive and walk, with a reasoning field.<p>On a single run, only 11 out of 53 got it right (42 said walk). But a single run doesn't prove much, so I reran every model 10 times. Same prompt, no cache, clean slate.<p>The results got worse. Of the 11 that passed the single run, only 5 could do it consistently. GPT-5 managed 7/10. GPT-5.1, GPT-5.2, Claude Sonnet 4.5, every Llama and Mistral model scored 0/10 across all 10 runs.<p>People kept saying humans would fail this too, so I got a human baseline through Rapidata (10k people, same forced choice): 71.5% said drive. Most models perform below that.<p>All reasoning traces (ran via Opper, my startup), full model breakdown, human baseline data, and raw JSON files are in the writeup for anyone who wants to dig in or run their own analysis.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47128138\">https://news.ycombinator.com/item?id=47128138</a></p>\n<p>Points: 301</p>\n<p># Comments: 369</p>",
+    "published": "Mon, 23 Feb 2026 20:16:08 +0000",
+    "link": "https://opper.ai/blog/car-wash-test",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "UNIX99, a UNIX-like OS for the TI-99/4A (2025)",
+    "summary": "<p>Article URL: <a href=\"https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/page/5/#findComment-5713334\">https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/page/5/#findComment-5713334</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47127986\">https://news.ycombinator.com/item?id=47127986</a></p>\n<p>Points: 192</p>\n<p># Comments: 60</p>",
+    "published": "Mon, 23 Feb 2026 20:05:15 +0000",
+    "link": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/page/5/#findComment-5713334",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Writing code is cheap now",
+    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/\">https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47125374\">https://news.ycombinator.com/item?id=47125374</a></p>\n<p>Points: 263</p>\n<p># Comments: 336</p>",
+    "published": "Mon, 23 Feb 2026 17:20:25 +0000",
+    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Hadrius (YC W23) Is Hiring Designers Who Code",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer\">https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47125026\">https://news.ycombinator.com/item?id=47125026</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Mon, 23 Feb 2026 17:00:43 +0000",
+    "link": "https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The Missing Semester of Your CS Education \u2013 Revised for 2026",
+    "summary": "<p>We returned to MIT last month to teach a revised version of Missing Semester, six years after the original debut (which has been extensively discussed on HN, in <a href=\"https://news.ycombinator.com/item?id=22226380\">https://news.ycombinator.com/item?id=22226380</a> and <a href=\"https://news.ycombinator.com/item?id=34934216\">https://news.ycombinator.com/item?id=34934216</a>).<p>We\u2019ve updated the course based on our personal experiences as well as major changes in the field (e.g., the proliferation of AI-powered developer tools) over the past several years. The 2026 course includes revised versions of four lectures from the previous course, and it adds five entirely new lectures:<p>- Development Environment and Tools<p>- Packaging and Shipping Code<p>- Agentic Coding<p>- Beyond the Code (soft skills)<p>- Code Quality<p>We\u2019d love to hear any feedback from the HN community to improve the current or future iterations of the course. In particular, we\u2019re curious to hear the community\u2019s take on our inclusion of AI-related topics (e.g., dedicating an entire class to the topic of agentic coding; though we tried to counterbalance it with plenty of disclaimers, and a dedicated section on AI etiquette in Beyond the Code).<p>--Anish, Jon, and Jose</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47124171\">https://news.ycombinator.com/item?id=47124171</a></p>\n<p>Points: 147</p>\n<p># Comments: 38</p>",
+    "published": "Mon, 23 Feb 2026 16:02:48 +0000",
+    "link": "https://missing.csail.mit.edu/",
+    "source_name": "Hacker News"
+  }
+]
