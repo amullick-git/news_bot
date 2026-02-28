@@ -1,3 +1,21 @@
+## Run: 2026-02-28 07:14 (Type: tech_weekly)
+**Links File**: [links_tech_weekly_2026-02-28_07.html](episodes/links_tech_weekly_2026-02-28_07.html)
+
+**Total Fetched**: 493 -> **Stage 1 (Local AI)**: 50 -> **Stage 2 (Gemini Final)**: 30
+
+**TTS Usage**: 26091 chars (Model: wavenet) -> **Running Total**: 3075628 chars
+
+### Breakdown by Source
+| Source | Fetched | Stage 1 (Local AI) | Selected |
+|---|---|---|---|
+| Ars Technica | 76 | 11 | 8 |
+| Hacker News | 169 | 11 | 5 |
+| MIT Technology Review | 35 | 6 | 4 |
+| TechCrunch | 136 | 22 | 13 |
+| The Verge | 77 | 0 | 0 |
+
+----------------------------------------
+
 ## Run: 2026-02-28 06:46 (Type: general_daily)
 **Links File**: [links_general_daily_2026-02-28_06.html](episodes/links_general_daily_2026-02-28_06.html)
 
