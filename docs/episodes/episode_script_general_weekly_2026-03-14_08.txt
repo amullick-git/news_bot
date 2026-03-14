@@ -1,0 +1,53 @@
+HOST: Good Morning! And welcome to Weekly News Round-up, your essential briefing on the week's most impactful stories. I'm your host, Arjav.
+
+REPORTER: And I'm Arohi, ready to dive into the details.
+
+HOST: Today, we're covering the crucial developments shaping our world, from the ongoing Middle East conflict and its economic ripples to the ever-evolving landscape of AI and domestic political shifts. And on this day in history, March 14th, 1867, the first stock ticker machine was patented by Edward Calahan, an invention that revolutionized how market information was disseminated, laying groundwork for the rapid-fire financial updates we follow daily. A fitting connection to some of our market stories today. We’re drawing from top sources like Hacker News, NDTV News, NPR Topics, CNBC, The New York Times, and many others to bring you a comprehensive look at the week. Arohi, let's start with the Middle East conflict, which continues to dominate headlines and has far-reaching implications. What's the latest?
+
+REPORTER: Indeed, the situation remains fluid. President Trump has hailed recent successes in the region but offered no end date for the conflict. Meanwhile, Lebanon is expressing a desire for talks with Israel, indicating some diplomatic movement amidst the ongoing tensions. Separately, two teenagers have been charged in New York City for an attack attempt, though details are still emerging.
+
+HOST: And how is this conflict impacting the global economy and trade routes?
+
+REPORTER: The ripple effects are significant. The retail industry, for instance, could soon face disruptions to the global supply chain, potentially leading to increased consumer prices here in the U.S. We're already seeing Asia-Pacific markets trade higher as investors weigh these developments, indicating a cautious optimism balanced against the underlying uncertainty.
+
+HOST: India has a unique position here, given its energy needs and trade aspirations. What's the view from Delhi?
+
+REPORTER: India is certainly feeling the pressure. Prime Minister Modi has reportedly reached out to Iran as fears of an energy crunch grip the nation, particularly concerning a prolonged closure of the Strait of Hormuz, a vital chokepoint. Experts are now suggesting that of India's two grand connectivity bets, only the IMEC route, the India-Middle East-Europe Economic Corridor, has a real future in this volatile environment. Domestically, while the government assures the public that India's crude situation is normal and advises against panic-buying, local impacts are already being felt. A sting operation in Bhopal, for example, exposed a black market for LPG, triggered by perceived supply shortages stemming from the conflict, highlighting vulnerabilities at the consumer level.
+
+HOST: And the broader market reaction to this global instability? We’ve seen quite a bit of volatility.
+
+REPORTER: That's right. Earlier in the week, stock markets plunged. We saw over 9.5 lakh crore investor wealth wiped out as oil shocks rattled markets, with both the Sensex and Nifty experiencing significant declines. There were fears of further pressure as oil prices rallied above critical levels, prompting equities sell-offs. However, we have also seen some recovery with oil prices easing, offering a key relief for markets, allowing the Sensex and Nifty to eye a recovery later in the week. This indicates how acutely sensitive global markets are to energy prices and geopolitical shifts.
+
+HOST: From the global stage, let's turn our attention to domestic politics here in the U.S. There's been some interesting movement in election dynamics, particularly in Texas.
+
+REPORTER: Absolutely. Texas Democrats have set a turnout record in their primary, largely fueled by Latino voters. This has reignited discussions about whether this could finally be the year the traditionally red state begins to turn blue, a long-held ambition for the party. Simultaneously, former President Trump has voiced intentions for Republicans to control voting procedures in parts of the United States, indicating a focus on election mechanisms in certain states.
+
+HOST: And in the current election season, we're seeing another technological player entering the political arena: AI.
+
+REPORTER: That’s correct. The rise of AI political campaign ads is a significant new development. Voters are now encountering ads that feature sophisticated deepfakes, raising questions about authenticity and the potential for misinformation. Identifying what's real and what's AI-generated has become a new challenge for campaigns and voters alike.
+
+HOST: Speaking of AI, it seems to be everywhere, permeating various industries and raising new questions about its impact on work and society. What's new in the world of artificial intelligence and technology this week?
+
+REPORTER: The AI landscape is certainly buzzing. Oracle, for example, is making substantial bets on AI cloud computing, having struck a 300 billion dollar deal with OpenAI. Their upcoming earnings will likely show whether this expensive venture is beginning to pay off, placing them alongside giants like Amazon, Google, and Microsoft in the AI cloud race. In a related development, Google is deepening its push into the Pentagon by rolling out features that allow civilian and military personnel to build custom AI agents for unclassified work on the Department of Defense's enterprise AI portal. This comes amidst some controversy, as Anthropic, once a Pentagon choice for AI, is now reportedly banned, causing concern among industry experts due to its previous partnerships with Amazon and Palantir.
+
+HOST: So, we have big tech players vying for defense contracts and investing heavily in AI infrastructure. What about AI's impact on our daily lives and its development itself?
+
+REPORTER: On the consumer front, Meta has acquired Moltbook, a social network specifically designed for AI bots, and its creator is joining Meta’s Superintelligence Lab. This move highlights the growing ecosystem around AI agents and their interactions. For developers, a recent analysis of over 1,500 Claude Code sessions revealed that "skills" were only used in 4% of sessions, and 26% were abandoned, mostly within the first minute, suggesting challenges in AI agent efficiency. In a more collaborative vein, a new project called "Autoresearch@home" is emerging, where AI agents share GPU resources to collectively improve language models, akin to the SETI@home project, allowing agents to build on each other's experimental results.
+
+HOST: That's fascinating. But with all this rapid development, are we seeing any downsides or new challenges with AI in practice?
+
+REPORTER: Absolutely. A start-up called Axiom, valued at 1.6 billion dollars, is working to fix a critical issue: AI-generated code often contains bugs. They are building AI systems specifically to check for these mistakes. This aligns with a growing sentiment among some experts who suggest that AI, rather than simplifying software engineering, may have inadvertently made bad engineering easier. It’s a paradox in the development space. And for the general public, while more travelers are turning to AI to plan their trips, concerns about accuracy and "hallucinations" – where AI generates incorrect information – along with general trust gaps, continue to shadow its rapid adoption in tourism.
+
+HOST: And what about the broader societal implications, particularly for jobs?
+
+REPORTER: Career experts are pointing towards "AI-proof" skilled trades as a refuge from potential AI-driven job cuts. Areas requiring hands-on dexterity, complex problem-solving in dynamic physical environments, and human-centric roles are considered more insulated from automation. It's a key consideration for future workforce planning.
+
+HOST: Before we wrap up, we have one more international story that caught our eye. What's happening in Nepal?
+
+REPORTER: In a surprising turn in Nepal's political landscape, a new political party led by an ex-rapper is set for a landslide victory in the country's first parliamentary election since Gen Z protests ousted the old leadership. It marks a significant generational shift and a fascinating entry into power for a non-traditional political figure.
+
+HOST: Arohi, thank you for those insights. A truly packed week of news across the globe and here at home.
+
+REPORTER: My pleasure.
+
+HOST: And before we go, here's a fun fact for you: Did you know that the earliest known example of a programmable machine was a set of automata designed by the Muslim polymath Al-Jazari in the 12th century, centuries before the modern concept of computing? It goes to show that the drive for intelligent automation has a very long and surprising history! That’s all for this edition of Weekly News Round-up. From Arohi and myself, Arjav, thank you for tuning in. We’ll be back next week with more stories shaping our world. Have a great day!
