@@ -2063,5 +2063,663 @@
     "published": "Sat, 07 Mar 2026 11:48:29 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1527230.html?ex_cid=OTC-RSS",
     "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
+    "summary": "The BBC's International News correspondent, Barbara Plett Usher, visits Doha's Souq Waqif market as strikes in the region continue.",
+    "published": "Sun, 15 Mar 2026 23:14:40 GMT",
+    "link": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "How US groups are driving a new generation of anti-abortion activism in the UK",
+    "summary": "The killing of Charlie Kirk galvanised a transatlantic campaign against abortion. But will it succeed in shifting Britain's pro-choice consensus?",
+    "published": "Mon, 16 Mar 2026 00:31:48 GMT",
+    "link": "https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Ukraine's urgent fight on the financial frontline",
+    "summary": "The war-torn country is battling to secure crucial funding from the IMF and EU, as well as putting up taxes.",
+    "published": "Mon, 16 Mar 2026 00:06:14 GMT",
+    "link": "https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "French police detain brothers over 'lethal and antisemitic' plot",
+    "summary": "A loaded gun, hydrochloric acid and an Islamic State flag were found in their car, prosecutors say.",
+    "published": "Sun, 15 Mar 2026 16:12:34 GMT",
+    "link": "https://www.bbc.com/news/articles/ckgl5d3d3kjo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Sweden detains captain of Russian shadow fleet ship",
+    "summary": "The skipper of the Sea Owl One is suspected of producing forged documents when it was boarded by coast guard.",
+    "published": "Sun, 15 Mar 2026 18:40:59 GMT",
+    "link": "https://www.bbc.com/news/articles/cpqwg0yej04o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "How passenger planes keep flying during a war",
+    "summary": "Airspace over Iran and the Gulf remains severely restricted following missile strikes, putting additional pressure on airlines.",
+    "published": "Mon, 16 Mar 2026 00:05:11 GMT",
+    "link": "https://www.bbc.com/news/articles/cn4gne35kvno?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Race on to establish globally recognised 'AI-free' logo",
+    "summary": "The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally.",
+    "published": "Mon, 16 Mar 2026 00:32:50 GMT",
+    "link": "https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "What Iranians are being told about the war",
+    "summary": "Iranian state media's coverage of the war includes inflations of enemy casualties and digital manipulation intended to glorify Iran.",
+    "published": "Mon, 16 Mar 2026 00:05:01 GMT",
+    "link": "https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "'We will go wherever they hide': Rooting out IS in Somalia",
+    "summary": "Somalia became a key part of IS's global network after fighters were driven out of strongholds in Syria and Iraq.",
+    "published": "Mon, 16 Mar 2026 00:05:40 GMT",
+    "link": "https://www.bbc.com/news/articles/cj32d8e2m5eo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Oscars 2026: Winners list in full",
+    "summary": "Find out which films and stars have won the famous golden statuettes at the ceremony in Los Angeles.",
+    "published": "Mon, 16 Mar 2026 03:43:48 GMT",
+    "link": "https://www.bbc.com/news/articles/c33jkvmzl4ko?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "How Iranians are evading internet blocks to contact family abroad",
+    "summary": "Iranians are finding tech-savvy ways to get through the regime's restrictions on phone and internet connections.",
+    "published": "Sun, 15 Mar 2026 18:09:20 GMT",
+    "link": "https://www.bbc.com/news/articles/ckgl58y5943o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "How did Oscar winner Kpop Demon Hunters win hearts the world over?",
+    "summary": "We find out how the award-winning, demon-busting crooners have cast a spell world over.",
+    "published": "Mon, 16 Mar 2026 02:39:01 GMT",
+    "link": "https://www.bbc.com/news/articles/c4g4n1dyepdo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Entering War\u2019s Third Week, Trump Faces Stark Choices",
+    "summary": "As the conflict with Iran expands and intensifies, President Trump\u2019s options \u2014 to fight on, or to move toward declaring victory and pulling back \u2014 both carry deeply problematic consequences.",
+    "published": "Sun, 15 Mar 2026 22:25:53 +0000",
+    "link": "https://www.nytimes.com/2026/03/15/us/politics/trump-stark-choices-iran-war.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "The War Is Making It Harder to Keep the Lights On, 2,000 Miles Away",
+    "summary": "Bangladesh is taking steps to conserve electricity, which its factories need to keep stitching together the world\u2019s clothing.",
+    "published": "Mon, 16 Mar 2026 04:01:05 +0000",
+    "link": "https://www.nytimes.com/2026/03/16/business/iran-bangladesh-imported-gas.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
+    "summary": "Six members of a Palestinian family went out for a ride in the car. Only two made it back home.",
+    "published": "Mon, 16 Mar 2026 04:26:57 +0000",
+    "link": "https://www.nytimes.com/2026/03/15/world/middleeast/palestinian-family-killed-west-bank.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Markwayne Mullin, Trump\u2019s Homeland Security Pick, Got Wealthier Stock Trading in Congress",
+    "summary": "Markwayne Mullin\u2019s financial dealings take on new importance as the Senate considers his nomination to lead an agency whose budget has vastly expanded.",
+    "published": "Sun, 15 Mar 2026 17:25:25 +0000",
+    "link": "https://www.nytimes.com/2026/03/15/us/politics/trump-markwayne-mullin-homeland-security-stocks.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Confidential Report Calls for Sweeping Changes to Track Covid Vaccine Harms",
+    "summary": "A federal work group says Covid vaccine injuries deserve urgent attention, even as Health Secretary Robert F. Kennedy Jr. shifts away from talking about vaccine policy.",
+    "published": "Sun, 15 Mar 2026 23:56:35 +0000",
+    "link": "https://www.nytimes.com/2026/03/15/health/covid-vaccine-side-effects-cdc-acip.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Kennedy Center Board to Vote Monday on Trump\u2019s Proposed Closure",
+    "summary": "The planned vote to close the center for renovations was listed on an agenda circulated to the center\u2019s board of trustees on Sunday, less than a day before the meeting.",
+    "published": "Mon, 16 Mar 2026 02:33:10 +0000",
+    "link": "https://www.nytimes.com/2026/03/15/us/politics/trump-kennedy-center-board-closure.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "State Department Cuts Price of Renouncing U.S. Citizenship to $450",
+    "summary": "The fee had been increased to $2,350 in 2015, prompting criticism and legal challenges from advocacy groups and Americans living abroad.",
+    "published": "Sun, 15 Mar 2026 20:59:27 +0000",
+    "link": "https://www.nytimes.com/2026/03/15/us/us-citizenship-renounce-price-cut.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Our Favorite Oscars Red Carpet Photos Featuring Jessie Buckley and More",
+    "summary": "Grand entrances, statement-making fashion and the occasional candid moment, on a night geared for gold.",
+    "published": "Mon, 16 Mar 2026 02:54:29 +0000",
+    "link": "https://www.nytimes.com/2026/03/15/arts/2026-oscars-red-carpet-fashion-looks.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Oscars 2026 Winners List: \u2018One Battle After Another,\u2019 \u2018Sinners\u2019 and More",
+    "summary": "The winning actors, directors, pictures and more at the 98th annual Academy Awards.",
+    "published": "Mon, 16 Mar 2026 03:44:38 +0000",
+    "link": "https://www.nytimes.com/2026/03/15/movies/oscars-winners-list.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Desperation in Cuba Ignites Unusual Acts of Defiance",
+    "summary": "A protest in the city of Mor\u00f3n in central Cuba culminated in fiery vandalism at the local Communist Party headquarters.",
+    "published": "Sun, 15 Mar 2026 22:48:52 +0000",
+    "link": "https://www.nytimes.com/2026/03/15/world/americas/desperation-in-cuba-ignites-unusual-acts-of-defiance.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Is Latin America Ready to Abandon Cuba?",
+    "summary": "Latin America\u2019s left saw Cuba as its lodestar. Now leaders across the spectrum are hesitant to aid a nation in the Trump administration\u2019s cross hairs.",
+    "published": "Sun, 15 Mar 2026 22:50:20 +0000",
+    "link": "https://www.nytimes.com/2026/03/14/world/americas/cuba-support-latin-america-conservative.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "In Illinois, Clashes Over AIPAC Erupt As House Campaign Closes",
+    "summary": "In a Democratic primary, accusations are flying that allies of a hard-line pro-Israel group are trying to divide progressives, exploiting a broader rift in the party.",
+    "published": "Mon, 16 Mar 2026 02:25:10 +0000",
+    "link": "https://www.nytimes.com/2026/03/15/us/politics/illinois-democrats-ad-israel-congress-aipac.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Guerrilla Battle Over Padlocks and Tourist Trash on the Brooklyn Bridge",
+    "summary": "Love Locks left behind were one thing. But when actual garbage (like tampons and condoms) started appearing, a righteous quest to remove it was born.",
+    "published": "Sat, 14 Mar 2026 14:37:44 +0000",
+    "link": "https://www.nytimes.com/2026/03/14/nyregion/brooklyn-bridge-locks-garbage-removal.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Powerful Winter Storm Disrupts Travel and Knocks Out Power in the Upper Midwest",
+    "summary": "Officials in Minnesota and Wisconsin warned drivers to stay off the roads as more blowing and drifting snow was expected on Sunday.",
+    "published": "Sun, 15 Mar 2026 21:02:56 +0000",
+    "link": "https://www.nytimes.com/2026/03/15/weather/snow-storm-blizzard-minnesota-wisconsin.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Severe Snowstorm Disrupts Travel and Power in Minnesota, Wisconsin and Upper Midwest",
+    "summary": "Memphis is among the cities most at risk of tornadoes on Sunday. On Monday, the storm system will shift east.",
+    "published": "Sun, 15 Mar 2026 17:10:01 +0000",
+    "link": "https://www.nytimes.com/2026/03/15/weather/tornado-warning-severe-weather-storm.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "In Ski Towns, a Bad Snow Year Is Worsening Wildfire Fears",
+    "summary": "A record-breaking snow drought has residents worried about much more than slushy slopes.",
+    "published": "Sun, 15 Mar 2026 09:00:18 +0000",
+    "link": "https://www.nytimes.com/2026/03/15/climate/snow-drought-ski-wildfire-risk.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "\u2018Nobody Owns Us\u2019: How Plans for a Google Data Center Divided an Oklahoma Town",
+    "summary": "The volunteer fire department serving a rural area near Sand Springs declined a $250,000 donation from the tech giant. Now some residents are suing to block the proposed development.",
+    "published": "Sun, 15 Mar 2026 17:17:22 +0000",
+    "link": "https://www.nytimes.com/2026/03/14/us/rock-fire-department-google-donation-oklahoma.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "\u2018One Battle After Another,\u2019 an Antifascist Movie at a Fascist Moment",
+    "summary": "\u201cOne Battle After Another\u201d defies Trumpian taboos.",
+    "published": "Mon, 16 Mar 2026 02:36:24 +0000",
+    "link": "https://www.nytimes.com/2025/09/29/opinion/one-battle-after-another-fascism.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Why \u2018KPop Demon Hunters\u2019 Is a Good Movie",
+    "summary": "The Netflix animated blockbuster might be proof that we are finally living in a post-multicultural world.",
+    "published": "Mon, 16 Mar 2026 02:09:58 +0000",
+    "link": "https://www.nytimes.com/2025/08/16/opinion/kpop-demon-hunters-globalism.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Pakistani-Afghan War Takes Heavy Toll on Civilians",
+    "summary": "Pakistani airstrikes have killed at least 75 civilians and displaced 115,000 in Afghanistan, with both sides vowing escalation and no talks in sight.",
+    "published": "Sun, 15 Mar 2026 19:49:56 +0000",
+    "link": "https://www.nytimes.com/2026/03/15/world/asia/afghanistan-pakistan-war.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "\u2018Doctor Who\u2019 Fans Have Fresh Chance to Time Travel With Found Episodes",
+    "summary": "Two unearthed episodes, which were discovered in film canisters wrapped in plastic bags among the possessions of a dead collector in England, were restored by BBC archivists.",
+    "published": "Sun, 15 Mar 2026 22:16:20 +0000",
+    "link": "https://www.nytimes.com/2026/03/15/arts/television/doctor-who-found-episodes.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "In a Wild Corner of the West, Elk Are Everywhere and Causing Conflict",
+    "summary": "Where Washington, Idaho and Oregon meet, elk are straying from public to private lands, causing conflict and concern. If the Trump administration opens national forests further, it could get worse.",
+    "published": "Sun, 15 Mar 2026 09:00:40 +0000",
+    "link": "https://www.nytimes.com/2026/03/15/us/elk-pacific-northwest.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Stock Market LIVE Updates: Markets Open Flat Amid Mixed Global Cues",
+    "summary": "Stock Market, Sensex Today, Nifty, Share Market Live News Updates: Markets opened flat on Monday.",
+    "published": "Mon, 16 Mar 2026 09:22:24 +0530",
+    "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-gift-nifty-signals-positive-open-even-as-oil-rallies-asia-markets-tank-11220583#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "'Forgive All, Time To Go Now': Family's Emotional Farewell To Harish Rana",
+    "summary": "A Brahma Kumaris sister was seen applying 'tilak' on his forehead in the video.",
+    "published": "Mon, 16 Mar 2026 09:20:42 +0530",
+    "link": "https://www.ndtv.com/india-news/harish-ranas-emotional-farewell-with-family-before-life-support-withdrawal-forgive-all-time-to-go-now-euthanasia-supreme-court-11220617#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "What's Behind Iran's Hormuz Pass For 2 Indian Tankers? S Jaishankar Explains",
+    "summary": "S Jaishankar has said he is talks with Iran over the Strait of Hormuz blockade",
+    "published": "Mon, 16 Mar 2026 09:11:58 +0530",
+    "link": "https://www.ndtv.com/india-news/strait-of-hormuz-iran-war-middle-east-war-whats-behind-irans-hormuz-pass-for-2-indian-tankers-s-jaishankar-explains-11220746#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Awaiting CBSE Class 10 Result 2026? Know When To Expect It, How To Check",
+    "summary": "CBSE Class 10 Board Exam 2026 Result Date: Around 25 lakh students appeared this year.",
+    "published": "Mon, 16 Mar 2026 08:48:22 +0530",
+    "link": "https://www.ndtv.com/education/cbse-class-10-board-exam-2026-ends-heres-when-to-expect-results-how-to-check-11210932#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "CBSE Class 10 Board Exams 2026: Check Expected Result Date, Past Year Trends",
+    "summary": "the first paper was Mathematics (Basic) and Mathematics (Standard).",
+    "published": "Mon, 16 Mar 2026 08:42:56 +0530",
+    "link": "https://www.ndtv.com/education/cbse-class-10-board-exams-2026-check-expected-result-date-past-year-trends-11220657#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Rajya Sabha Elections LIVE Updates:  Rajya Sabha Elections LIVE Updates: Voting Begins Today For 37 Seats Across 10 States",
+    "summary": "Rajya Sabha Polls LIVE Updates",
+    "published": "Mon, 16 Mar 2026 08:23:36 +0530",
+    "link": "https://www.ndtv.com/india-news/rajya-sabha-elections-live-updates-nitish-kumar-nitin-nabin-in-fray-parliament-voting-begins-today-for-37-seats-across-10-states-11220598#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Global Supply Hit, Russia Is Still Earning Every Day From Oil Amid Iran War",
+    "summary": "US-Israel-Iran conflict: Imports to China and India from Russia have increased by around 22 per cent.",
+    "published": "Mon, 16 Mar 2026 08:08:47 +0530",
+    "link": "https://www.ndtv.com/india-news/global-supply-hit-russia-is-still-earning-every-day-from-oil-amid-iran-war-11220502#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "10 Patients Killed In Major Fire At SCB Medical College Hospital In Odisha's Cuttack",
+    "summary": "Multiple fire engines are engaged in rescue operations.",
+    "published": "Mon, 16 Mar 2026 07:35:40 +0530",
+    "link": "https://www.ndtv.com/india-news/10-patients-killed-in-major-fire-at-scb-medical-college-hospital-in-odishas-cuttack-11220411#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "26 Elected To Rajya Sabha Unopposed. Big Fight In Three States",
+    "summary": "Rajya Sabha Election: There is deadlock in Bihar, Odisha, and Haryana.",
+    "published": "Mon, 16 Mar 2026 00:59:28 +0530",
+    "link": "https://www.ndtv.com/india-news/26-elected-to-rajya-sabha-unopposed-big-fight-in-three-states-11219790#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Arvind Kejriwal In Supreme Court, Challenges Decision In Excise Policy Case",
+    "summary": "Arvind Kejriwal has also challenged the order by the Chief Justice of the High Court.",
+    "published": "Mon, 16 Mar 2026 00:48:00 +0530",
+    "link": "https://www.ndtv.com/india-news/arvind-kejriwal-in-supreme-court-challenges-decision-in-excise-policy-case-11219831#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Ladakh Groups Say Will Go Ahead With Shutdown Today To Demand Statehood",
+    "summary": "It's after a gap of six months that they are resuming protests",
+    "published": "Mon, 16 Mar 2026 00:01:23 +0530",
+    "link": "https://www.ndtv.com/india-news/ladakh-groups-say-will-go-ahead-with-shutdown-today-to-demand-statehood-11219766#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "17-Page Suicide Note By AIIMS Rajkot Student Leads To Arrest Of 5 Students",
+    "summary": "The victim, a native of Jaisalmer, Rajasthan, was found dead near a railway track (Representational)",
+    "published": "Sun, 15 Mar 2026 23:41:58 +0530",
+    "link": "https://www.ndtv.com/india-news/17-page-suicide-note-by-aiims-rajkot-student-leads-to-arrest-of-5-students-11219718#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "2026 Assembly Elections See Sharp Rise In Booths, Changing Voter Landscape",
+    "summary": "Counting for all five regions is scheduled for 4 May.",
+    "published": "Sun, 15 Mar 2026 23:23:53 +0530",
+    "link": "https://www.ndtv.com/india-news/2026-assembly-elections-see-sharp-rise-in-booths-changing-voter-landscape-11219688#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "\"Win-Win\" For Ladakh: Sonam Wangchuk's Wife On Revocation Of NSA",
+    "summary": "Image Credit: Special Arrangement",
+    "published": "Sun, 15 Mar 2026 23:21:08 +0530",
+    "link": "https://www.ndtv.com/india-news/win-win-for-ladakh-sonam-wangchuks-wife-on-revocation-of-nsa-11219675#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Tale Of 2 Phases: Why Bengal's Poll Schedule Helps Trinamool, Challenges BJP",
+    "summary": "The high-voltage election in West Bengal will be held in two phases, on April 23 and April 29.",
+    "published": "Sun, 15 Mar 2026 22:53:38 +0530",
+    "link": "https://www.ndtv.com/india-news/west-bengal-election-tale-of-2-phases-why-bengals-poll-schedule-helps-trinamool-challenge-bjp-11219604#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Will Himanta Sarma's Son Join Politics? What Assam Chief Minister Said",
+    "summary": "Himanta Biswa Sarma at the NDTV Assam Power Play",
+    "published": "Sun, 15 Mar 2026 22:46:43 +0530",
+    "link": "https://www.ndtv.com/india-news/ndtv-assam-power-play-will-himanta-biswa-sarma-son-join-politics-what-assam-chief-minister-said-11219594#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "\"Will Bring Hindu Leaders From Congress\": Himanta Sarma Charts Path To Polls",
+    "summary": "\"We will bring all Hindu leaders from the Congress to BJP,\" he said at an event today, claiming that 70 per cent of Congress leaders still follow him.",
+    "published": "Sun, 15 Mar 2026 22:45:01 +0530",
+    "link": "https://www.ndtv.com/india-news/will-bring-hindu-leaders-from-congress-himanta-sarma-charts-path-to-polls-11219583#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "All About Key Constituencies, Star Candidates In Tamil Nadu Ahead Of Assembly Polls",
+    "summary": "TVK founder chief, Joseph Vijay Chandrasekhar is the most popular among the young voters",
+    "published": "Sun, 15 Mar 2026 22:01:46 +0530",
+    "link": "https://www.ndtv.com/india-news/all-about-key-constituencies-star-candidates-in-tamil-nadu-ahead-of-assembly-polls-11219429#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "All Eyes On Himanta Sarma, Gaurav Gogoi In Assam Assembly Polls",
+    "summary": "Himanta Biswa Sarma has been the main strategist for most assembly polls since 2006.",
+    "published": "Sun, 15 Mar 2026 22:01:27 +0530",
+    "link": "https://www.ndtv.com/india-news/assam-assembly-polls-all-eyes-on-himanta-sarma-gaurav-gogoi-in-assam-assembly-polls-11219438#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Federal Right to Privacy Act \u2013 Draft legislation",
+    "summary": "<p>Article URL: <a href=\"https://righttoprivacyact.github.io\">https://righttoprivacyact.github.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47394264\">https://news.ycombinator.com/item?id=47394264</a></p>\n<p>Points: 45</p>\n<p># Comments: 23</p>",
+    "published": "Mon, 16 Mar 2026 01:58:56 +0000",
+    "link": "https://righttoprivacyact.github.io",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "How I write software with LLMs",
+    "summary": "<p>Article URL: <a href=\"https://www.stavros.io/posts/how-i-write-software-with-llms/\">https://www.stavros.io/posts/how-i-write-software-with-llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47394022\">https://news.ycombinator.com/item?id=47394022</a></p>\n<p>Points: 47</p>\n<p># Comments: 6</p>",
+    "published": "Mon, 16 Mar 2026 01:24:09 +0000",
+    "link": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Quillx is an open standard for disclosing AI involvement in software projects",
+    "summary": "<p>Article URL: <a href=\"https://github.com/QAInsights/AIx\">https://github.com/QAInsights/AIx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47394004\">https://news.ycombinator.com/item?id=47394004</a></p>\n<p>Points: 11</p>\n<p># Comments: 9</p>",
+    "published": "Mon, 16 Mar 2026 01:21:39 +0000",
+    "link": "https://github.com/QAInsights/AIx",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "What is agentic engineering?",
+    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/\">https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47393908\">https://news.ycombinator.com/item?id=47393908</a></p>\n<p>Points: 98</p>\n<p># Comments: 58</p>",
+    "published": "Mon, 16 Mar 2026 01:07:47 +0000",
+    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "An experiment to use GitHub Actions as a control plane for a PaaS",
+    "summary": "<p>Article URL: <a href=\"https://towlion.github.io\">https://towlion.github.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47393805\">https://news.ycombinator.com/item?id=47393805</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+    "published": "Mon, 16 Mar 2026 00:51:18 +0000",
+    "link": "https://towlion.github.io",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)",
+    "summary": "<p>Article URL: <a href=\"https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/\">https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47393619\">https://news.ycombinator.com/item?id=47393619</a></p>\n<p>Points: 85</p>\n<p># Comments: 51</p>",
+    "published": "Mon, 16 Mar 2026 00:22:48 +0000",
+    "link": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The Linux Programming Interface as a university course text",
+    "summary": "<p>Article URL: <a href=\"https://man7.org/tlpi/academic/index.html\">https://man7.org/tlpi/academic/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47393388\">https://news.ycombinator.com/item?id=47393388</a></p>\n<p>Points: 59</p>\n<p># Comments: 4</p>",
+    "published": "Sun, 15 Mar 2026 23:51:26 +0000",
+    "link": "https://man7.org/tlpi/academic/index.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Nasdaq's Shame",
+    "summary": "<p>Article URL: <a href=\"https://keubiko.substack.com/p/nasdaqs-shame\">https://keubiko.substack.com/p/nasdaqs-shame</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47392550\">https://news.ycombinator.com/item?id=47392550</a></p>\n<p>Points: 237</p>\n<p># Comments: 79</p>",
+    "published": "Sun, 15 Mar 2026 22:16:09 +0000",
+    "link": "https://keubiko.substack.com/p/nasdaqs-shame",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
+    "summary": "<p>Article URL: <a href=\"https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px\">https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47392547\">https://news.ycombinator.com/item?id=47392547</a></p>\n<p>Points: 57</p>\n<p># Comments: 42</p>",
+    "published": "Sun, 15 Mar 2026 22:15:50 +0000",
+    "link": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+    "summary": "<p><a href=\"https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-reading\" rel=\"nofollow\">https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-r...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47392084\">https://news.ycombinator.com/item?id=47392084</a></p>\n<p>Points: 507</p>\n<p># Comments: 138</p>",
+    "published": "Sun, 15 Mar 2026 21:22:16 +0000",
+    "link": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "LLMs can be exhausting",
+    "summary": "<p>Article URL: <a href=\"https://tomjohnell.com/llms-can-be-absolutely-exhausting/\">https://tomjohnell.com/llms-can-be-absolutely-exhausting/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47391803\">https://news.ycombinator.com/item?id=47391803</a></p>\n<p>Points: 133</p>\n<p># Comments: 104</p>",
+    "published": "Sun, 15 Mar 2026 20:56:21 +0000",
+    "link": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The 49MB web page",
+    "summary": "<p>Article URL: <a href=\"https://thatshubham.com/blog/news-audit\">https://thatshubham.com/blog/news-audit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47390945\">https://news.ycombinator.com/item?id=47390945</a></p>\n<p>Points: 387</p>\n<p># Comments: 195</p>",
+    "published": "Sun, 15 Mar 2026 19:25:18 +0000",
+    "link": "https://thatshubham.com/blog/news-audit",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Chrome DevTools MCP (2025)",
+    "summary": "<p>Article URL: <a href=\"https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session\">https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47390817\">https://news.ycombinator.com/item?id=47390817</a></p>\n<p>Points: 404</p>\n<p># Comments: 181</p>",
+    "published": "Sun, 15 Mar 2026 19:12:53 +0000",
+    "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Stop Sloppypasta",
+    "summary": "<p>Article URL: <a href=\"https://stopsloppypasta.ai/\">https://stopsloppypasta.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47389570\">https://news.ycombinator.com/item?id=47389570</a></p>\n<p>Points: 186</p>\n<p># Comments: 98</p>",
+    "published": "Sun, 15 Mar 2026 17:25:00 +0000",
+    "link": "https://stopsloppypasta.ai/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "LLM Architecture Gallery",
+    "summary": "<p>Article URL: <a href=\"https://sebastianraschka.com/llm-architecture-gallery/\">https://sebastianraschka.com/llm-architecture-gallery/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47388676\">https://news.ycombinator.com/item?id=47388676</a></p>\n<p>Points: 304</p>\n<p># Comments: 22</p>",
+    "published": "Sun, 15 Mar 2026 16:01:09 +0000",
+    "link": "https://sebastianraschka.com/llm-architecture-gallery/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "In Memoriam: John W. Addison, my PhD advisor",
+    "summary": "<p>Article URL: <a href=\"https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/\">https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47388531\">https://news.ycombinator.com/item?id=47388531</a></p>\n<p>Points: 108</p>\n<p># Comments: 4</p>",
+    "published": "Sun, 15 Mar 2026 15:46:19 +0000",
+    "link": "https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Learning athletic humanoid tennis skills from imperfect human motion data",
+    "summary": "<p>Article URL: <a href=\"https://zzk273.github.io/LATENT/\">https://zzk273.github.io/LATENT/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47388273\">https://news.ycombinator.com/item?id=47388273</a></p>\n<p>Points: 135</p>\n<p># Comments: 27</p>",
+    "published": "Sun, 15 Mar 2026 15:21:04 +0000",
+    "link": "https://zzk273.github.io/LATENT/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "What makes Intel Optane stand out (2023)",
+    "summary": "<p>Article URL: <a href=\"https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/\">https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47388141\">https://news.ycombinator.com/item?id=47388141</a></p>\n<p>Points: 192</p>\n<p># Comments: 130</p>",
+    "published": "Sun, 15 Mar 2026 15:09:41 +0000",
+    "link": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Separating the Wayland compositor and window manager",
+    "summary": "<p>Article URL: <a href=\"https://isaacfreund.com/blog/river-window-management/\">https://isaacfreund.com/blog/river-window-management/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47388137\">https://news.ycombinator.com/item?id=47388137</a></p>\n<p>Points: 250</p>\n<p># Comments: 120</p>",
+    "published": "Sun, 15 Mar 2026 15:09:24 +0000",
+    "link": "https://isaacfreund.com/blog/river-window-management/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Glassworm is back: A new wave of invisible Unicode attacks hits repositories",
+    "summary": "<p>Article URL: <a href=\"https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode\">https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47387047\">https://news.ycombinator.com/item?id=47387047</a></p>\n<p>Points: 240</p>\n<p># Comments: 150</p>",
+    "published": "Sun, 15 Mar 2026 13:08:02 +0000",
+    "link": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Aether OS is a computer in a browser built for the AT Protocol",
+    "summary": "Aether OS puts a full-fledged desktop in your browser that ties directly into the AT Protocol. That means it connects to your Bluesky account and other public records. It offers a pretty full suite of apps, 42 in total, covering text editing, task management, and social media. There's even a rudimentary tracker for making chiptunes, [&#8230;]",
+    "published": "2026-03-15T15:35:57-04:00",
+    "link": "https://www.theverge.com/tech/895083/aether-os-browser-at-protocol",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Sotomayor\u2019s Wabi Sabi is the funnest record of 2026",
+    "summary": "Shout out to subscriber N_Gorski for today's pick. They popped into the comments on last week's recommendation to ask what I thought of the new Sotomayor record. Well, I hadn't actually heard it yet, but now I'm obsessed. The group consists of siblings Raul and Paulina Sotomayor from Mexico City. Wabi Sabi is their first [&#8230;]",
+    "published": "2026-03-15T12:45:00-04:00",
+    "link": "https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz",
+    "summary": "The remarks came as Treasury Secretary Scott Bessent met his Chinese counterpart He Lifeng in Paris, paving the way for the summit scheduled for late March.",
+    "published": "Mon, 16 Mar 2026 04:16:51 GMT",
+    "link": "https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "U.S. oil prices stay elevated as Trump threatens strikes on Iran's crude export facilities",
+    "summary": "The U.S. strikes on Kharg Island and Trump's threat to hit Iran's oil infrastructure mark a major escalation in the war, according to JPMorgan.",
+    "published": "Mon, 16 Mar 2026 02:32:03 GMT",
+    "link": "https://www.cnbc.com/2026/03/15/oil-prices-today-iran-war.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Why Trump has his sights on Iran's Kharg Island \u2014 and what it means for the oil market",
+    "summary": "Trump's decision to order strikes on Kharg Island has pushed one of the world's most critical oil hubs into the center of the escalating U.S.-Iran conflict.",
+    "published": "Mon, 16 Mar 2026 03:22:25 GMT",
+    "link": "https://www.cnbc.com/2026/03/16/trump-iran-kharg-island-strikes-oil-exports.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Holiday spending, export demand drive China\u2019s early year economic momentum as Iran war headwinds loom",
+    "summary": "Beijing tamped down its GDP growth target this year to a range of 4.5% to 5%, the least ambitious goal on record going back to the early 1990s.",
+    "published": "Mon, 16 Mar 2026 04:32:29 GMT",
+    "link": "https://www.cnbc.com/2026/03/16/china-data-today-retail-sales-property-industrial-production.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Asia-Pacific markets fall as oil prices stay elevated amid escalating U.S.-Iran tensions",
+    "summary": "Asia-Pacific markets fell as investors continued to monitor elevated oil prices and the latest developments in the escalating U.S.-Iran conflict.",
+    "published": "Mon, 16 Mar 2026 02:16:28 GMT",
+    "link": "https://www.cnbc.com/2026/03/16/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Democrats blast FCC Chair Carr's broadcast license threats as anti-First Amendment, 'totalitarian'",
+    "summary": "Carr on Saturday\u00a0blasted broadcasters\u00a0shortly after President\u00a0Donald Trump\u00a0called reports that Iran struck five U.S. tanker planes \"fake news.\"",
+    "published": "Sun, 15 Mar 2026 21:09:45 GMT",
+    "link": "https://www.cnbc.com/2026/03/15/trump-iran-war-fcc-carr-broadcast-license.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Senate Democrats oppose SAVE America Act as Republicans prepare for floor vote. What to know",
+    "summary": "Senate Democrats remain opposed to SAVE America Act as Republicans prepare for floor vote this week. Here's what to know.",
+    "published": "Sun, 15 Mar 2026 21:37:47 GMT",
+    "link": "https://www.cnbc.com/2026/03/15/trump-save-america-act-senate-2026-elections.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Why the private equity crunch is not a prelude to the next big economic crisis",
+    "summary": "Everybody is clueless, and when you are clueless, you are scared.",
+    "published": "Mon, 16 Mar 2026 00:50:47 GMT",
+    "link": "https://www.cnbc.com/2026/03/15/cramer-the-private-equity-crunch-is-not-a-prelude-to-the-next-crisis.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Why the United Arab Emirates is a target for Iran's aggression",
+    "summary": "Iran is looking to test a state that has positioned itself as the Gulf's safest bridge between East and West \u2014 and the future of the region.",
+    "published": "Sun, 15 Mar 2026 19:17:46 GMT",
+    "link": "https://www.cnbc.com/2026/03/15/iran-us-war-uae-target-aggression.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Bank stocks have been crushed this year. 2 of our names should weather the storm",
+    "summary": "The businesses of Goldman Sachs and Wells Fargo should be largely insulated from the three major headwinds facing the industry.",
+    "published": "Sun, 15 Mar 2026 17:33:47 GMT",
+    "link": "https://www.cnbc.com/2026/03/15/bank-stocks-have-been-crushed-this-year-2-of-our-names-should-weather-the-storm.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump fundraising pitch features U.S. soldiers killed in Iran war",
+    "summary": "The email solicitation to benefit Trump\u2019s PAC also offers donors \u201cprivate national security briefings.\u201d",
+    "published": "Sat, 14 Mar 2026 22:53:36 GMT",
+    "link": "https://www.cnbc.com/2026/03/14/trump-iran-war-fundraising-us-soldiers.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "5 takeaways from an Oscars night that spread the love",
+    "summary": "It's thrilling to see the Academy recognize a weird, funny, scary performance like Amy Madigan's in <em>Weapons</em>. Here's what NPR critic Linda Holmes thought of the awards.",
+    "published": "Mon, 16 Mar 2026 00:34:40 -0400",
+    "link": "https://www.npr.org/2026/03/16/nx-s1-5739288/oscars-2026-takeaways-winners-best-picture-actor",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "'One Battle After Another' takes best picture. Here's the full list of Oscar winners",
+    "summary": "Michael B. Jordan and Jessie Buckley won best actor and best actress<em>.</em> Paul Thomas Anderson received best director<em>.</em> Cassandra Kulukundis won the Academy's first ever casting award.",
+    "published": "Sun, 15 Mar 2026 19:24:24 -0400",
+    "link": "https://www.npr.org/2026/03/15/nx-s1-5739287/oscars-2026-winners-list-best-picture-actor-actress",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Selection Sunday: Duke No. 1 overall in men's tournament, UConn women get top seed",
+    "summary": "Duke will be the top overall seed in the men's NCAA basketball tournament. In the women's, the top-ranked UConn Huskies are undefeated and hope to repeat as champions for the first time in a decade.",
+    "published": "Sun, 15 Mar 2026 17:09:34 -0400",
+    "link": "https://www.npr.org/2026/03/15/g-s1-113846/selection-sunday-march-madness-duke-uconn-ucla",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Snow and wind batter parts of US, with threat of thunderstorms and tornadoes",
+    "summary": "A broad and erratic patchwork of severe weather rumbled across much of the U.S. on Sunday, dumping heavy snow in the Upper Midwest while damaging high winds swept across the Plains.",
+    "published": "Sun, 15 Mar 2026 13:41:04 -0400",
+    "link": "https://www.npr.org/2026/03/15/g-s1-113841/snow-and-wind-batter-parts-of-us-with-threat-of-thunderstorms-and-tornadoes",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Sodhi ruled out of South Africa series with broken thumb",
+    "summary": "The legspinner was struck during training ahead of the opening match",
+    "published": "Sun, 15 Mar 2026 23:34:44 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528081.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Pakistan lodge official complaint about Bangladesh's review at end of chase",
+    "summary": "Pakistan's contention is that Bangladesh took the review after the replay of the delivery flashed on the big screen at the ground",
+    "published": "Sun, 15 Mar 2026 18:50:35 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528079.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Gill: 2027 ODI World Cup is the 'ultimate goal'",
+    "summary": "T20I captain Suryakumar calls 2024 T20 World Cup triumph as the \"spark\" that inspired the women team and men's teams to recent ICC titles",
+    "published": "Sun, 15 Mar 2026 17:41:28 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528076.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Samson on World Cup win: 'India is going to do this more and more often'",
+    "summary": "Samson says coming back in the team in the middle of the tournament was when he \"mentally flipped a bit\"",
+    "published": "Sun, 15 Mar 2026 15:42:59 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1528070.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
   }
 ]
