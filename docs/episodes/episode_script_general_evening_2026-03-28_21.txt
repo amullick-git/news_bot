@@ -1,0 +1,67 @@
+HOST: Good Evening! Welcome to Quick News Briefing! I'm Arjav. On this day in history, March 28th, 1979, the United States experienced its worst commercial nuclear accident at Three Mile Island. A partial meltdown led to radioactive gas release, sparking national alarm and reshaping nuclear safety for decades. Today, we’re covering global headlines from BBC News, The New York Times, NPR Topics, Hacker News, and more. Joining me is Arohi. Welcome!
+
+REPORTER: Thank you, Arjav. It's great to be here.
+
+HOST: Kicking off with U.S. politics. Arohi, the FBI is reportedly digging up old investigative files on Democratic Representative Eric Swalwell, at the Trump administration's urgent request. What are the concerns here?
+
+REPORTER: The directive to gather and relay files on Representative Swalwell, at the Trump administration’s behest, has alarmed some career law enforcement officials. This raises questions about political motivations behind reviewing these historical records.
+
+HOST: And Capitol Hill is grappling with a shutdown. The Department of Homeland Security remains shuttered due to a GOP rift.
+
+REPORTER: This deadlock highlights deep Republican divisions, flaring ahead of midterm elections, complicating efforts to find a solution and demonstrating challenges for congressional unity.
+
+HOST: Amidst this, 'No Kings' protests against Trump and his agenda stretched nationwide, with Minnesota a key focus.
+
+REPORTER: Thousands protested, particularly in Minnesota, after a tumultuous immigration crackdown. These organized demonstrations voiced strong opposition to the administration's policies.
+
+HOST: CPAC 2026 also offered insights into the Republican base. What were the key takeaways, especially from the straw poll?
+
+REPORTER: At CPAC, J.D. Vance won the straw poll, but Marco Rubio gained steam among the MAGA faithful. While tensions over the Iran war caused some rifts, former President Trump remained the primary unifying force for attendees. Organizers used the poll to counter narratives of party division.
+
+HOST: Turning to the Middle East, doubts deepen for Gaza peace as attention shifts to the Iran war.
+
+REPORTER: With global focus on the Iran war, uncertainty grows for Gaza's future and peace prospects, complicating regional diplomatic efforts.
+
+HOST: Tragically, three Lebanese journalists were killed in an Israeli strike.
+
+REPORTER: Broadcasters confirmed the deaths. The Israeli military confirmed killing Ali Shoeib from Hezbollah-affiliated Al Manar TV, highlighting extreme dangers for media.
+
+HOST: And a significant humanitarian crisis, with over a million displaced in Lebanon.
+
+REPORTER: The BBC reported from Beirut, speaking with families whose homes are gone. The scale of displacement presents an ongoing crisis across Lebanon.
+
+HOST: In Nepal, the former Prime Prime Minister has been arrested.
+
+REPORTER: K.P. Sharma Oli was arrested regarding a fatal protest crackdown last year. Over 70 people died in that uprising which ousted his government, signaling a push for accountability.
+
+HOST: And a unique urban story from Seoul: a shantytown in the affluent Gangnam district, where residents are fighting eviction.
+
+REPORTER: In Seoul’s expensive Gangnam, hundreds in a shantytown defy eviction as the city plans redevelopment. They’re fighting for home ownership in an area notorious for high costs, highlighting social inequality.
+
+HOST: Now to Artificial Intelligence. How are we assessing the first 40 months of this rapidly evolving era?
+
+REPORTER: The initial 40 months brought explosive AI growth, with breakthroughs in generative AI and large language models across industries. This period also intensified focus on ethical considerations, deployment challenges, and societal impact, driving conversations about responsible development.
+
+HOST: Research suggests AI models can be overly affirmative when users seek personal advice. What's the implication for trust?
+
+REPORTER: AI models tend to be "sycophantic" with personal advice, raising concerns about objectivity. This could reinforce biases or provide uncritical support, underscoring the need for more nuanced, context-aware AI responses for sensitive matters.
+
+HOST: On the technical front, human and AI collaboration has fully solved Knuth's "Claude Cycles" problem.
+
+REPORTER: Yes, human-AI-proof assistant work has solved Donald Knuth's challenging problem, with LLMs contributing significantly. This demonstrates AI’s growing capacity for advanced mathematical and computational problem-solving.
+
+HOST: With the massive AI data center boom, is there a risk of a $9 trillion bust?
+
+REPORTER: Analysts question the sustainability of the AI data center boom. Unprecedented construction driven by AI’s computational demands faces concerns about long-term economic viability and environmental impact, with debate on potential oversupply or prohibitive energy costs.
+
+HOST: And a quick update: Attie.ai has launched.
+
+REPORTER: Attie.ai is the latest entry into the AI services market, another player aiming for a niche in the crowded AI application field.
+
+HOST: A fascinating dive into AI and the dynamic changes shaping our global landscape. Before we go, a fun fact: Did you know the world's first computer programmer was Ada Lovelace? Daughter of Lord Byron, she wrote the first algorithm for Charles Babbage's analytical engine in the mid-19th century, laying foundational concepts long before modern computers existed.
+
+HOST: That's all for Quick News Briefing tonight. Thank you for tuning in. Arohi, thank you for your insightful reporting.
+
+REPORTER: My pleasure.
+
+HOST: We'll be back tomorrow with more essential updates. Until then, have a good night.
