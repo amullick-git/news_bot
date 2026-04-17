@@ -1,3 +1,24 @@
+## Run: 2026-04-16 20:42 (Type: general_evening)
+**Links File**: [links_general_evening_2026-04-16_20.html](episodes/links_general_evening_2026-04-16_20.html)
+
+**Total Fetched**: 238 -> **Stage 1 (Local AI)**: 50 -> **Stage 2 (Gemini Final)**: 15
+
+**TTS Usage**: 9386 chars (Model: wavenet) -> **Running Total**: 5013615 chars
+
+### Breakdown by Source
+| Source | Fetched | Stage 1 (Local AI) | Selected |
+|---|---|---|---|
+| BBC News | 53 | 5 | 0 |
+| Cricket news from ESPN Cricinfo.com | 50 | 2 | 2 |
+| Hacker News | 20 | 9 | 0 |
+| NDTV News | 20 | 9 | 0 |
+| NPR Topics | 10 | 2 | 2 |
+| NYT | 45 | 8 | 5 |
+| The Verge | 10 | 0 | 0 |
+| US Top News and Analysis | 30 | 15 | 6 |
+
+----------------------------------------
+
 ## Run: 2026-04-16 13:41 (Type: motivational_daily)
 **Links File**: [links_motivational_daily_2026-04-16_13.html](episodes/links_motivational_daily_2026-04-16_13.html)
 
