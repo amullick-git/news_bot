@@ -2350,5 +2350,908 @@
     "published": "Sat, 25 Apr 2026 18:34:17 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1533611.html?ex_cid=OTC-RSS",
     "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Violence in Australian town after arrest of man over girl's murder",
+    "summary": "Unrest took place outside hospital where man suspected of murdering a five-year-old girl was being treated.",
+    "published": "Fri, 01 May 2026 02:21:03 GMT",
+    "link": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+    "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
+    "published": "Thu, 30 Apr 2026 16:38:58 GMT",
+    "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Venice Biennale jury resigns days before start of exhibition",
+    "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
+    "published": "Thu, 30 Apr 2026 23:44:00 GMT",
+    "link": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Britney Spears charged in California with driving under influence",
+    "summary": "The pop star is facing one misdemeanour count of driving under the influence of any alcohol and drug.",
+    "published": "Thu, 30 Apr 2026 21:46:18 GMT",
+    "link": "https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "China scraps tariffs for all but one African nation",
+    "summary": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
+    "published": "Fri, 01 May 2026 00:02:57 GMT",
+    "link": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
+    "summary": "At least nine people - including two children - were killed, according to Lebanon's health ministry.",
+    "published": "Thu, 30 Apr 2026 20:14:48 GMT",
+    "link": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Belgium plans to nationalise nuclear power plants",
+    "summary": "Prime Minister Bart De Wever said the move would see \"less dependence on fossil fuel imports and more control over our own supply\".",
+    "published": "Thu, 30 Apr 2026 19:50:29 GMT",
+    "link": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Trump signs bill to end record shutdown over immigration enforcement",
+    "summary": "The shutdown caused chaos in airports across the US as politicians feuded over funds for Trump's immigration crackdown.",
+    "published": "Fri, 01 May 2026 02:21:47 GMT",
+    "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Man sentenced to death for murder of toddlers at Ugandan nursery",
+    "summary": "Christopher Okello Onyum had pleaded insanity but this was dismissed by the judge.",
+    "published": "Thu, 30 Apr 2026 15:56:04 GMT",
+    "link": "https://www.bbc.com/news/articles/c3d2vzmgekjo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "BBC Inside Science",
+    "summary": "We explore the mechanisms causing Europe's warming twice as fast as the global average.",
+    "published": "Thu, 30 Apr 2026 20:00:00 GMT",
+    "link": "https://www.bbc.co.uk/sounds/play/w3ct977j?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Elon Musk\u2019s A.I. Claims of Danger Face Limits in OpenAI Trial",
+    "summary": "One of Elon Musk\u2019s abiding fears is that A.I. could one day threaten humans. But the jurors deciding his suit against OpenAI probably won\u2019t hear about it.",
+    "published": "Thu, 30 Apr 2026 23:24:17 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Apple Reports 17% Sales Jump, Powered by iPhones",
+    "summary": "John Ternus, who will take over in September, spoke publicly on an investor call for the first time since his new job was announced.",
+    "published": "Thu, 30 Apr 2026 23:22:26 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/technology/iphones-apple-sales.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Musk vs. Altman: What Is This Really About?",
+    "summary": "In a landmark trial between Elon Musk and OpenAI\u2019s Sam Altman, the origins of OpenAI are being examined. The Times\u2019s technology reporter Cade Metz explains what\u2019s behind it all.",
+    "published": "Fri, 01 May 2026 00:01:39 +0000",
+    "link": "https://www.nytimes.com/video/technology/100000010865043/musk-vs-altman-what-is-this-really-about.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Elon Musk suffered a rare loss in his last jury trial.",
+    "summary": "",
+    "published": "Thu, 30 Apr 2026 15:14:16 +0000",
+    "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/elon-musk-suffered-a-rare-loss-in-his-last-jury-trial",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Supreme Court Voting Rights Ruling Could Fuel New Era of Redistricting Wars",
+    "summary": "The expected flood of new congressional maps is likely to produce fewer competitive districts, fewer ways for voters to hold elected officials accountable and more polarized politics.",
+    "published": "Thu, 30 Apr 2026 19:56:03 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "How the Voting Rights Decision May Block the Rise of Young Black Leaders",
+    "summary": "Black Democrats in the South already face steep challenges when seeking political office. But the Supreme Court\u2019s ruling could be felt for a generation.",
+    "published": "Thu, 30 Apr 2026 16:39:29 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/us/politics/voting-rights-act-young-black-democrats.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "The Homeland Security Shutdown Ends",
+    "summary": "Also, Maine\u2019s governor bows out of a crucial Senate race. Here\u2019s the latest at the end of Thursday.",
+    "published": "Thu, 30 Apr 2026 22:11:36 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/briefing/homeland-security-shutdown-ends.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "FEMA Is Reversing Job Cuts Made Under Kristi Noem",
+    "summary": "The agency said staff members who had been let go or placed on administrative leave were now needed to prepare for hurricanes and the World Cup.",
+    "published": "Fri, 01 May 2026 01:12:05 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/climate/fema-job-cuts-reverse.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Comey Indictment Shows Justice Dept. Got the Message From Bondi\u2019s Firing",
+    "summary": "In naming only an interim successor as acting attorney general, President Trump has established even greater incentives to execute his most extreme demands, current and former officials say.",
+    "published": "Thu, 30 Apr 2026 22:46:32 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/us/politics/james-comey-indictment-trump.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "House Passes DHS Funding Bill, Ending Shutdown",
+    "summary": "Republicans were forced to use a special maneuver to steer around opposition in their own party and speed the measure to the floor, relying on Democratic cooperation to push it through.",
+    "published": "Thu, 30 Apr 2026 21:21:55 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/us/politics/house-homeland-security-funding-bill.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Hegseth Says Iran Cease-Fire Stops Clock for Congressional Approval",
+    "summary": "The defense secretary testified on the eve of the 60-day mark of the war, a major statutory deadline for the president to withdraw forces or seek approval from Congress to continue the fight.",
+    "published": "Thu, 30 Apr 2026 22:18:25 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/us/politics/hegseth-iran-cease-fire-congress.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Takeaways From Hegseth\u2019s Second Day of Testimony on the Iran War",
+    "summary": "The secretary was also questioned over civilian deaths, an accusation of antisemitic remarks and women in combat.",
+    "published": "Fri, 01 May 2026 01:30:12 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/us/politics/hegseth-senate-hearing-takeaways.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "How Trump\u2019s Iran Blockade Is Complicating a High-Stakes Trip to China",
+    "summary": "If President Trump flies to China as planned in May, the primary topic will clearly be the rippling economic effects of a war that Beijing has made clear it viewed as unnecessary.",
+    "published": "Thu, 30 Apr 2026 16:23:27 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/us/politics/trump-china-iran.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Hezbollah Using Fiber-Optic Drones Against Israeli Targets",
+    "summary": "The Lebanese militant group is attacking Israeli troops with explosive drones controlled by fiber-optic cables, like those commonly used in the war in Ukraine.",
+    "published": "Thu, 30 Apr 2026 21:10:18 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/world/middleeast/hezbollah-fiber-optic-drones.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Decoding the King: Brits Hear Subtle Rebuke to Trump that Americans Might Miss",
+    "summary": "Royal watchers in Britain called the visit of King Charles III to America a master class in understated criticism.",
+    "published": "Fri, 01 May 2026 02:43:01 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/world/europe/king-charles-visit-trump-messages.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Last on King Charles\u2019s U.S. Tour: A Potluck and a Win for Scottish Whisky",
+    "summary": "King Charles III and Queen Camilla had a ceremonial farewell at the White House before attending a block party in Front Royal, Va.",
+    "published": "Fri, 01 May 2026 02:18:43 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/us/politics/king-charles-trump-potluck-whisky.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Even Mainers Who Love Janet Mills Are Relieved to See Her Leave Race",
+    "summary": "Voters who watched Gov. Janet Mills struggle to gain traction in the Democratic Senate primary said they were unsurprised \u2014 and in many cases, ready \u2014 to see her exit.",
+    "published": "Fri, 01 May 2026 01:13:08 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/us/elections/maine-janet-mills-reaction.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Schumer and Platner Talk After Mills Suspends Her Campaign",
+    "summary": "The top Senate Democrat and the Maine contender had what was described as a cordial conversation despite Schumer\u2019s backing of his primary opponent.",
+    "published": "Fri, 01 May 2026 01:05:21 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/us/politics/schumer-platner-mills-maine-senate.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Jeffrey Epstein\u2019s Possible Suicide Note Hidden From Public View",
+    "summary": "An inmate said he discovered the note after Mr. Epstein was found injured in his jail cell, weeks before his death. It\u2019s now locked in a courthouse.",
+    "published": "Thu, 30 Apr 2026 21:55:18 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/us/jeffrey-epstein-suicide-note-sealed.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Epstein Victims\u2019 Pursuit of Justice Finds a New Venue: Albany, N.Y.",
+    "summary": "Two victims of Jeffrey Epstein will testify at the State Capitol next week in support of a bill that would enable them to seek punitive damages from his estate.",
+    "published": "Thu, 30 Apr 2026 16:52:50 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/nyregion/new-york-sexual-assault-laws-epstein.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Sheinbaum\u2019s Dilemma in Mexico: Defy the U.S. or Arrest an Ally",
+    "summary": "The Trump administration wants President Claudia Sheinbaum to arrest a Mexican governor. She is faced with few good options in response.",
+    "published": "Thu, 30 Apr 2026 20:34:54 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/world/americas/mexico-rocha-indictment-sheinbaum.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Is Yoko Ono Still Our Most Radical Artist?",
+    "summary": "In the 1960s, she invited an audience to cut off her clothes. As attacks on women\u2019s rights escalate, \u201cCut Piece\u201d and other decades-old works of feminist art feel more relevant than ever.",
+    "published": "Thu, 30 Apr 2026 18:35:46 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/t-magazine/feminist-performance-art-yoko-ono.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Nigerian Military Runs a Fulani \u2018Concentration Camp,\u2019 Group Says",
+    "summary": "Amnesty International said about 1,500 people have been detained by the military for three months and that many of those who have died from disease and starvation have been children.",
+    "published": "Fri, 01 May 2026 02:02:25 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/world/africa/nigeria-fulani-camp-amnesty.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Chonkers the \u2018Food-Motivated\u2019 Sea Lion Plops Into San Francisco",
+    "summary": "Wildlife experts have been tracking the Steller sea lion since he appeared last month at a popular tourist spot near the end of Fisherman\u2019s Wharf.",
+    "published": "Thu, 30 Apr 2026 20:21:37 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/us/chonkers-sea-lion-san-francisco.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Don\u2019t Underestimate the Fury of Democratic Voters",
+    "summary": "A Democratic vision of the Tea Party is emerging.",
+    "published": "Thu, 30 Apr 2026 23:58:54 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/opinion/graham-platner-janet-mills-susan-collins-senate.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Why Are We Still Driving?",
+    "summary": "Confronting the weirdness of a Waymo future.",
+    "published": "Thu, 30 Apr 2026 09:02:49 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/opinion/waymo-self-driving-cars-andrew-miller.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "California Police Can Start Ticketing Driverless Cars",
+    "summary": "The Department of Motor Vehicles says it could suspend or revoke permits for Waymo taxis and other driverless cars for continued violations.",
+    "published": "Fri, 01 May 2026 00:39:49 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/us/california-ticket-driverless-car-violations.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "N.Y. Archdiocese Offers $800 Million to Settle Sex Abuse Claims",
+    "summary": "Lawyers representing the abuse survivors warned their clients that the archdiocese would most likely file for bankruptcy if they did not agree to the settlement.",
+    "published": "Thu, 30 Apr 2026 23:29:46 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/nyregion/archdiocese-ny-settlement-abuse.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "New Banksy Statue Causes Stir in Central London",
+    "summary": "The statue depicts a man marching with a flag that covers his face. It appeared in a section of London near statues of 19th-century British military and colonial figures.",
+    "published": "Thu, 30 Apr 2026 21:35:06 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/world/europe/banksy-london-statue.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Man Visited Odisha Bank With Sister's Skeleton After He Was Told 'No' 4 Times",
+    "summary": "Jitu Munda carried his sister's skeleton to Odisha bank to withdraw money.",
+    "published": "Fri, 01 May 2026 08:27:28 +0530",
+    "link": "https://www.ndtv.com/india-news/man-visited-odisha-bank-with-sisters-skeleton-after-he-was-told-no-4-times-odisha-grameen-bank-11434071#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Odisha 10th Result 2026 Date Confirmed: Matric Results Releasing Tomorrow At 4 PM",
+    "summary": "Odisha 10th Result 2026 will be declared on May 02 at 4 PM.",
+    "published": "Fri, 01 May 2026 08:24:25 +0530",
+    "link": "https://www.ndtv.com/education/odisha-10th-result-2026-date-confirmed-matric-results-releasing-tomorrow-at-4-pm-11434003#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Mamata Banerjee's Visit To Strongroom, Trinamool's Protest: Late-Night EVM Drama In Bengal",
+    "summary": "The Election Commission dismissed Trinamool's claims.",
+    "published": "Fri, 01 May 2026 08:10:40 +0530",
+    "link": "https://www.ndtv.com/india-news/mamata-banerjees-visit-trinamool-protest-late-night-evm-drama-in-bengal-bjp-responds-ballot-boxes-opened-west-bengal-elections-11434024#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Commercial LPG Prices Hiked By Rs 993 Amid War, Petrol, Diesel Rates Steady",
+    "summary": "The price of commercial LPG has been raised for the third time since the Iran war.",
+    "published": "Fri, 01 May 2026 08:06:20 +0530",
+    "link": "https://www.ndtv.com/india-news/commercial-lpg-prices-hiked-by-rs-993-amid-iran-us-war-no-changes-in-domestic-rates-petrol-diesel-prices-11433884#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "No Dual Gas, OTP Delivery, Prices Revised: New LPG Rules Take Effect Today",
+    "summary": "The new rules ban dual LPG-PNG ownership, extend cylinder booking intervals.",
+    "published": "Fri, 01 May 2026 07:51:02 +0530",
+    "link": "https://www.ndtv.com/india-news/lpg-rules-change-from-may-1-dual-connections-barred-commercial-cylinder-prices-increased-11433957#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Trinamool Holds Sit-In, Alleges Ballot Boxes Opened. \"Pure Rumours,\" Says BJP",
+    "summary": "At the centre of the protest was Bengal minister Shashi Panja and Trinamool spokesperson Kunal Ghosh.",
+    "published": "Fri, 01 May 2026 07:09:08 +0530",
+    "link": "https://www.ndtv.com/india-news/2026-bengal-elections-bengal-exit-polls-mamata-banerjee-kolkata-trinamool-holds-sit-in-alleges-ballot-boxes-opened-pure-rumours-says-bjp-11432614#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Maharashtra HSC Result 2026 Date Out: Class 12 Results Tomorrow At 1 PM",
+    "summary": "Maharashtra HSC Result 2026 will be declared on May 02 at 1 PM.",
+    "published": "Fri, 01 May 2026 06:42:01 +0530",
+    "link": "https://www.ndtv.com/education/maharashtra-hsc-result-2026-date-out-class-12-results-tomorrow-at-1-pm-11433905#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Karnataka Cabinet Ratified Decisions On Internal Quota For Scheduled Castes",
+    "summary": "The Karnataka Cabinet ratified its earlier decisions on internal reservation for Scheduled Caste.",
+    "published": "Fri, 01 May 2026 06:09:48 +0530",
+    "link": "https://www.ndtv.com/india-news/karnataka-cabinet-ratified-decisions-on-internal-quota-for-scheduled-castes-11433860#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Mamata Banerjee Visits Bhabanipur Strongroom, Flags Counting Irregularities",
+    "summary": "Mamata Banerjee reached the Bhabanipur Assembly segment counting centre on Thursday night.",
+    "published": "Fri, 01 May 2026 01:11:16 +0530",
+    "link": "https://www.ndtv.com/india-news/mamata-banerjee-visits-bhabanipur-strongroom-flags-counting-irregularities-11433463#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "UP Man Who Murdered 3 In Gym Over Birthday Cake Killed In Encounter",
+    "summary": "Two police personnel were injured in the exchange.",
+    "published": "Fri, 01 May 2026 00:14:35 +0530",
+    "link": "https://www.ndtv.com/india-news/up-man-who-murdered-3-in-gym-over-birthday-cake-killed-in-encounter-11433356#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Delivery Agent, New To Delhi, Dies After Fall From Flyover As Car Rams Bike",
+    "summary": "The car driver fled from the spot, polcie said. (Representational)",
+    "published": "Fri, 01 May 2026 00:03:36 +0530",
+    "link": "https://www.ndtv.com/india-news/hit-by-car-delivery-agent-new-to-delhi-dies-after-falling-from-dabri-flyover-11433328#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Will Sabarimala Case Pave Way For Uniform Civil Code? Call For 9-Judge Bench",
+    "summary": "A Uniform Civil Code was the dream of the Constitution makers",
+    "published": "Thu, 30 Apr 2026 23:58:51 +0530",
+    "link": "https://www.ndtv.com/india-news/will-sabarimala-case-pave-way-for-uniform-civil-code-call-for-9-judge-bench-11433297#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Gurugram Man Racks Up Rs 1 Lakh In Challans, More Than Cost Of His Bike",
+    "summary": "(AI-generated image)",
+    "published": "Thu, 30 Apr 2026 23:58:50 +0530",
+    "link": "https://www.ndtv.com/india-news/gurugram-man-racks-up-rs-1-lakh-in-challans-more-than-price-of-his-bike-11433270#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Mizoram's Last Militant Group Lays Down Arms, State Declared Insurgency-Free",
+    "summary": "CM Lalduhoma said that the shadow of HPC(D) insurgency remained in mind when peace was spoken of.",
+    "published": "Thu, 30 Apr 2026 23:54:09 +0530",
+    "link": "https://www.ndtv.com/india-news/mizorams-last-militant-group-lays-down-arms-state-declared-insurgency-free-11433282#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "'Central Staff Can Be Counting Supervisors': Court Rejects Trinamool Appeal",
+    "summary": "The bench termed Trinamool's apprehensions as speculative.",
+    "published": "Thu, 30 Apr 2026 23:22:55 +0530",
+    "link": "https://www.ndtv.com/india-news/central-staff-can-be-counting-supervisors-court-rejects-trinamool-appeal-11433147#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "UP Judge Duped Of Rs 23.99 Lakh Pretext Of Arranging Haj Pilgrimage: Cops",
+    "summary": "Futher investigation is underway (Representational)",
+    "published": "Thu, 30 Apr 2026 23:20:45 +0530",
+    "link": "https://www.ndtv.com/india-news/up-judge-duped-of-rs-23-99-lakh-pretext-of-arranging-haj-pilgrimage-cops-11433138#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "\"Only Way Out\": Rape Survivor Sets Self Afire Near Gurugram Top Cop's Office",
+    "summary": "Gurugram Police said the accused in the case would be arrested soon. (Representational)",
+    "published": "Thu, 30 Apr 2026 23:13:36 +0530",
+    "link": "https://www.ndtv.com/india-news/only-way-out-rape-survivor-sets-self-afire-near-gurugram-top-cops-office-11433104#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Odisha Woman Raped, Face Slashed, Taken To Hospital On Cart",
+    "summary": "Locals alleged that the accused is from the same village and has a history of misbehaviour.",
+    "published": "Thu, 30 Apr 2026 23:08:59 +0530",
+    "link": "https://www.ndtv.com/india-news/odisha-woman-raped-face-slashed-taken-to-hospital-on-cart-11432846#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Show HN: Winpodx \u2013 run Windows apps on Linux as native windows",
+    "summary": "<p>Article URL: <a href=\"https://github.com/kernalix7/winpodx\">https://github.com/kernalix7/winpodx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47970690\">https://news.ycombinator.com/item?id=47970690</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
+    "published": "Fri, 01 May 2026 02:23:43 +0000",
+    "link": "https://github.com/kernalix7/winpodx",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "OpenWarp",
+    "summary": "<p>Article URL: <a href=\"https://openwarp.zerx.dev\">https://openwarp.zerx.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47970622\">https://news.ycombinator.com/item?id=47970622</a></p>\n<p>Points: 44</p>\n<p># Comments: 41</p>",
+    "published": "Fri, 01 May 2026 02:10:46 +0000",
+    "link": "https://openwarp.zerx.dev",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The Hearts of the Super Nintendo",
+    "summary": "<p>Article URL: <a href=\"https://fabiensanglard.net/snes_hearts/\">https://fabiensanglard.net/snes_hearts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47970578\">https://news.ycombinator.com/item?id=47970578</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
+    "published": "Fri, 01 May 2026 02:02:11 +0000",
+    "link": "https://fabiensanglard.net/snes_hearts/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "ClawIRC \u2013 IRC Chat for Agents",
+    "summary": "<p>Article URL: <a href=\"https://clawirc.com/\">https://clawirc.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47970089\">https://news.ycombinator.com/item?id=47970089</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+    "published": "Fri, 01 May 2026 00:29:57 +0000",
+    "link": "https://clawirc.com/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "CPanel and WHM Authentication Bypass \u2013 CVE-2026-41940",
+    "summary": "<p>Article URL: <a href=\"https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/\">https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47969288\">https://news.ycombinator.com/item?id=47969288</a></p>\n<p>Points: 57</p>\n<p># Comments: 18</p>",
+    "published": "Thu, 30 Apr 2026 22:48:51 +0000",
+    "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
+    "summary": "<p>Article URL: <a href=\"https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html\">https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47968982\">https://news.ycombinator.com/item?id=47968982</a></p>\n<p>Points: 50</p>\n<p># Comments: 6</p>",
+    "published": "Thu, 30 Apr 2026 22:18:57 +0000",
+    "link": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Can I disable all data collection from my vehicle?",
+    "summary": "<p>Article URL: <a href=\"https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle\">https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47967786\">https://news.ycombinator.com/item?id=47967786</a></p>\n<p>Points: 533</p>\n<p># Comments: 207</p>",
+    "published": "Thu, 30 Apr 2026 20:27:22 +0000",
+    "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Vercel\u2019s pricing page",
+    "summary": "<p>Article URL: <a href=\"https://theupsellgame.com/\">https://theupsellgame.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47967508\">https://news.ycombinator.com/item?id=47967508</a></p>\n<p>Points: 136</p>\n<p># Comments: 29</p>",
+    "published": "Thu, 30 Apr 2026 20:02:35 +0000",
+    "link": "https://theupsellgame.com/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Follow-up to Carrot disclosure: Forgejo",
+    "summary": "<p>Article URL: <a href=\"https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html\">https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47967069\">https://news.ycombinator.com/item?id=47967069</a></p>\n<p>Points: 51</p>\n<p># Comments: 7</p>",
+    "published": "Thu, 30 Apr 2026 19:22:55 +0000",
+    "link": "https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Does Postgres Scale?",
+    "summary": "<p>Article URL: <a href=\"https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres\">https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47966625\">https://news.ycombinator.com/item?id=47966625</a></p>\n<p>Points: 98</p>\n<p># Comments: 45</p>",
+    "published": "Thu, 30 Apr 2026 18:45:22 +0000",
+    "link": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Full-Text Search with DuckDB",
+    "summary": "<p>Article URL: <a href=\"https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html\">https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47966254\">https://news.ycombinator.com/item?id=47966254</a></p>\n<p>Points: 104</p>\n<p># Comments: 23</p>",
+    "published": "Thu, 30 Apr 2026 18:14:18 +0000",
+    "link": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "I built a Game Boy emulator in F#",
+    "summary": "<p>Article URL: <a href=\"https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/\">https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965503\">https://news.ycombinator.com/item?id=47965503</a></p>\n<p>Points: 233</p>\n<p># Comments: 49</p>",
+    "published": "Thu, 30 Apr 2026 17:14:21 +0000",
+    "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+    "summary": "<p>Recent: <i>Copy Fail</i> - <a href=\"https://news.ycombinator.com/item?id=47952181\">https://news.ycombinator.com/item?id=47952181</a> - April 2026 (466 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965108\">https://news.ycombinator.com/item?id=47965108</a></p>\n<p>Points: 400</p>\n<p># Comments: 319</p>",
+    "published": "Thu, 30 Apr 2026 16:43:47 +0000",
+    "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+    "summary": "<p>Article URL: <a href=\"https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/\">https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965060\">https://news.ycombinator.com/item?id=47965060</a></p>\n<p>Points: 466</p>\n<p># Comments: 151</p>",
+    "published": "Thu, 30 Apr 2026 16:41:00 +0000",
+    "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "summary": "<p>Article URL: <a href=\"https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/\">https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47964617\">https://news.ycombinator.com/item?id=47964617</a></p>\n<p>Points: 340</p>\n<p># Comments: 116</p>",
+    "published": "Thu, 30 Apr 2026 16:09:26 +0000",
+    "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+    "summary": "<p>Article URL: <a href=\"https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/\">https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47964034\">https://news.ycombinator.com/item?id=47964034</a></p>\n<p>Points: 425</p>\n<p># Comments: 176</p>",
+    "published": "Thu, 30 Apr 2026 15:31:40 +0000",
+    "link": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Durable queues, streams, pub/sub, and a cron scheduler \u2013 inside your SQLite file",
+    "summary": "<p>Article URL: <a href=\"https://honker.dev/\">https://honker.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47963316\">https://news.ycombinator.com/item?id=47963316</a></p>\n<p>Points: 186</p>\n<p># Comments: 51</p>",
+    "published": "Thu, 30 Apr 2026 14:43:02 +0000",
+    "link": "https://honker.dev/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
+    "summary": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big. Jared \"James Brickhouse\" Birchall, Musk's finance guy and all-around fixer, took the stand after Musk today. Most of his testimony was [&#8230;]",
+    "published": "2026-04-30T18:59:51-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Roblox\u2019s daily users continue to drop as age checks slow growth",
+    "summary": "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, down from 144 million at the end of last year, which was a drop from 152 million in Q3 [&#8230;]",
+    "published": "2026-04-30T17:25:15-04:00",
+    "link": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Congress keeps kicking surveillance reform down the road",
+    "summary": "Congress has reauthorized Section 702 of the Foreign Intelligence Surveillance Act - but only for another 45 days. The extension is meant to give legislators more time to negotiate reforms to the controversial wiretapping bill. If the past few weeks are any indication of how future debates will go, however, we're in for a bumpy [&#8230;]",
+    "published": "2026-04-30T16:59:58-04:00",
+    "link": "https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Apple&#8217;s iPhone revenue jumps to $57 billion despite chip shortages",
+    "summary": "Apple's iPhone revenue jumped 22 percent to $57 billion over the past few months, despite supply chain issues impacting the device's processor. In an interview with Reuters, Apple CEO Tim Cook said iPhone \"demand was off the charts,\" but there's \"a little less flexibility at the moment for getting more parts.\" Cook added during an [&#8230;]",
+    "published": "2026-04-30T16:58:22-04:00",
+    "link": "https://www.theverge.com/tech/921527/apple-iphone-revenue-q2-2026-earnings",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Rivian\u2019s revenue is up as R2 production kicks into gear",
+    "summary": "Rivian reported its first quarter earnings of 2026, providing us a closer look at the company's financial health as it kicks off production for the crucial R2 electric vehicle. We've already got Rivian's production and delivery statement from the first three months of the year. The company sold 10,365 vehicles in Q1, representing 20 percent [&#8230;]",
+    "published": "2026-04-30T16:05:00-04:00",
+    "link": "https://www.theverge.com/transportation/921295/rivian-q1-2026-earnings-revenue-profit-r2",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Rivian downsizes new EV factory after Trump\u2019s DOE slashes loan agreement",
+    "summary": "Rivian announced some changes today with regard to the factory its building in the state of Georgia. The company was planning to build the facility in two phases, each resulting in 200,000 vehicles of annual production capacity, for a total of 400,000 units. Rivian held a ground breaking ceremony late last year. Now the company [&#8230;]",
+    "published": "2026-04-30T16:05:00-04:00",
+    "link": "https://www.theverge.com/transportation/921585/rivian-georgia-factory-capacity-doe-loan",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The logic of the racist Supreme Court isn\u2019t adding up",
+    "summary": "Close watchers of the Supreme Court knew that the conservative supermajority was about to murder what was left of the Voting Rights Act. Wednesday's decision in Louisiana v. Callais took down Section 2 of the law, clearing the way for racist gerrymandering, because it is now racist to remedy racism. The decision is an affront [&#8230;]",
+    "published": "2026-04-30T15:52:29-04:00",
+    "link": "https://www.theverge.com/policy/921597/callais-louisiana-voting-rights-act",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Microsoft\u2019s Xbox mode is now available for all Windows 11 PCs",
+    "summary": "Microsoft is now rolling out its Xbox mode to all Windows 11 PCs. The new Xbox mode adds a full-screen interface to the Xbox PC app, much like Steam's Big Picture Mode, and originally debuted as the Xbox Full Screen Experience (FSE) with Asus' Xbox Ally devices. \"Some players in select markets will be able [&#8230;]",
+    "published": "2026-04-30T15:14:23-04:00",
+    "link": "https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Meta threatens to pull its apps from New Mexico if forced to make \u2018technologically impractical\u2019 changes",
+    "summary": "Meta says it may be forced to pull Facebook, Instagram, and WhatsApp from New Mexico if the attorney general gets his way. The state is demanding a host of changes that the company says are impossible to achieve. After winning a $375 million jury award against Meta in a trial that argued the company misled [&#8230;]",
+    "published": "2026-04-30T15:05:01-04:00",
+    "link": "https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "With Saros, Housemarque makes a case for doing next-gen games differently",
+    "summary": "It is generally frowned upon to care too much about appearances. We have a lot of little aphorisms discouraging this - books and their covers, beauty being skin deep, style over substance, that sort of thing. Vanity is a risk. Should one put a disproportionate effort into how a thing looks, then said work may [&#8230;]",
+    "published": "2026-04-30T15:00:45-04:00",
+    "link": "https://www.theverge.com/games/921391/housemarque-interview-saros-ps5",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Apple revenue guidance tops estimates on booming iPhone, Mac demand",
+    "summary": "Apple reported 17% revenue growth, topping estimates, even as iPhone sales came up short.",
+    "published": "Thu, 30 Apr 2026 23:06:23 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/apple-aapl-q2-2026-earnings-report.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump signs DHS funding bill, ending shutdown for most of agency, including TSA",
+    "summary": "Trump on Thursday signed legislation to fund the Department of Homeland Security after the House approved the bill earlier in the afternoon.",
+    "published": "Thu, 30 Apr 2026 20:54:05 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/congress-dhs-tsa-funding.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Video shows Cole Allen casing hotel, storming checkpoint in alleged Trump assassination attempt",
+    "summary": "U.S. Attorney Jeanine Pirro said there is no evidence that a Secret Service shot during the incident was the victim of friendly fire.",
+    "published": "Fri, 01 May 2026 01:22:10 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/cole-allen-video-trump-attempted-assassination-pirro.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Oil rises as Trump faces crucial 60-day deadline for Iran war",
+    "summary": "Under the 1973 War Powers Resolution, a U.S. president needs to withdraw troops 60 days after reporting their deployment to Congress",
+    "published": "Fri, 01 May 2026 03:08:17 GMT",
+    "link": "https://www.cnbc.com/2026/05/01/oil-prices-today-brent-wti-us-iran-war-trump-war-powers-deadline.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Australia and Japan markets climb, looking past Iran war escalation fears",
+    "summary": "This comes as investors took in strong earnings stateside, looking past weaker-than-expected economic data and threats of escalation in Iran.",
+    "published": "Fri, 01 May 2026 03:17:21 GMT",
+    "link": "https://www.cnbc.com/2026/05/01/asia-markets-today-asx-200-nikkei-225-labor-day-live-updates.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Japan Airlines begins humanoid robot trials at Tokyo's Haneda airport as labor shortages bite",
+    "summary": "Tokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.",
+    "published": "Fri, 01 May 2026 02:49:23 GMT",
+    "link": "https://www.cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Intel's stock more than doubles in April for best month in chipmaker's 55 years on Nasdaq",
+    "summary": "Intel's market cap more than doubled in April, boosted by a blowout earnings report and optimism that the chipmaker is in the midst of a revival.",
+    "published": "Thu, 30 Apr 2026 20:10:36 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/intel-has-best-month-ever-after-years-of-losing-to-tsmc-and-nvidia.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Reddit reports 69% jump in revenue, topping analyst estimates",
+    "summary": "Reddit reported first-quarter earnings and revenue that exceeded Wall Street expectations.",
+    "published": "Thu, 30 Apr 2026 22:57:54 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/reddit-rddt-q1-2026-earnings-report.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump signs executive order expanding retirement account access for workers",
+    "summary": "The president's executive order expands retirement account access for workers and will be integrated with the Saver's Match.",
+    "published": "Thu, 30 Apr 2026 22:20:45 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/trump-executive-order-expanding-retirement-account-access.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "House strips MAHA-hated pesticide provisions from farm bill",
+    "summary": "MAHA advocates said the language that was stripped could have provided liability protection for Bayer in lawsuits involving its Roundup weedkiller.",
+    "published": "Thu, 30 Apr 2026 17:29:01 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/congress-house-maha-pesticide-farm-bill-roundup-bayer-glyphosate.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Jim Cramer says the market\u2019s biggest winners all have one thing in common",
+    "summary": "CNBC's Jim Cramer said he only sees two sectors in the market these days \u2014 the data center stocks and everything else.",
+    "published": "Thu, 30 Apr 2026 22:16:50 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/jim-cramer-markets-biggest-winners.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Apple delivers a nearly perfect quarter, with a CEO change and an AI update ahead",
+    "summary": "In fact, it was the best March quarter in company history, and Apple stock jumped 4% in after-hours trading.",
+    "published": "Thu, 30 Apr 2026 23:43:06 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/apple-delivers-a-nearly-perfect-quarter-with-a-ceo-change-and-an-ai-update-ahead.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "China\u2019s self-driving truck leaders say AI breakthroughs won\u2019t accelerate rollout \u2014 here\u2019s why",
+    "summary": "Rapid advances in AI for coding and chatbots doesn't change the timeline for getting self-driving vehicles on the road, industry executives in China said.",
+    "published": "Fri, 01 May 2026 01:10:28 GMT",
+    "link": "https://www.cnbc.com/2026/05/01/chinas-self-driving-truck-leaders-say-ai-breakthroughs-wont-accelerate-rollout-heres-why.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Veeva Systems to join S&P 500 index, replacing Coterra Energy",
+    "summary": "Veeva's stock has been hit this year along with the rest of cloud software as investors fear the impact of AI.",
+    "published": "Thu, 30 Apr 2026 22:40:57 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/veeva-systems-will-join-sp-500-index-replacing-coterra-energy.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "FISA Section 702: Congress passes short-term surveillance program extension just before deadline",
+    "summary": "The controversial foreign surveillance program was due to expire by the end of Thursday.",
+    "published": "Thu, 30 Apr 2026 21:09:18 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/fisa-section-702-congress-extension.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand",
+    "summary": "Amazon, Google and Microsoft all reported better-than-expected first-quarter cloud results, signaling an acceleration of AI demand",
+    "published": "Thu, 30 Apr 2026 20:00:59 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/google-microsoft-and-amazon-all-report-cloud-beats-in-earnings.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Inside the Fed: Powell vows he won't be a 'shadow chair,' but a Warsh clash will be tough to avoid",
+    "summary": "When the Fed gathers again, it will mark the first time a sitting and former chair conduct business together in nearly 80 years.",
+    "published": "Thu, 30 Apr 2026 19:25:06 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/inside-the-fed-powell-and-warsh-set-to-clash.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Rivian renegotiates DOE loan down to $4.5 billion, adjusts capacity plans for Georgia plant",
+    "summary": "The DOE loan was previously set to support two phases of production for a total of 400,000 units annually.",
+    "published": "Thu, 30 Apr 2026 22:21:00 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/rivian-renegotiates-doe-loan-adjusts-capacity-plans-for-georgia-plant.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump says 'I don't think about' another assassination attempt",
+    "summary": "Trump also said he was not inclined to wear a bulletproof vest, as some people have suggested after the arrest of a gunman over the weekend.",
+    "published": "Thu, 30 Apr 2026 21:39:33 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/trump-assassination-attempt.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Apple's stock has gone nowhere for 6 months. Traders expect a wild ride Thursday night",
+    "summary": "Implied volatility in the stock suggests a 3.5% swing after earnings tonight, compared to an average move of just 1.8% following the last four quarterly reports.",
+    "published": "Thu, 30 Apr 2026 17:38:34 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/apples-stock-has-gone-nowhere-for-6-months-traders-expect-a-wild-ride-thursday-night.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "AI boom: Big Tech capital expenditures now seen topping $1 trillion in 2027",
+    "summary": "The overall cost has been causing heads to spin, but analysts say they're seeing flowthrough from investments to revenue.",
+    "published": "Thu, 30 Apr 2026 18:26:43 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "U.S. senators ban themselves from prediction markets trading",
+    "summary": "The move came after Democratic lawmakers asked the Commodity Futures Trading Commission to prohibit event contracts on elections, war and military actions.",
+    "published": "Thu, 30 Apr 2026 21:37:12 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/senate-prediction-markets-trading-ban-kalshi-polymarket.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump taps Nicole Saphier for surgeon general after pulling Casey Means nomination",
+    "summary": "Means' nomination had stalled in the Senate over concerns about her controversial stances on vaccines, birth control, pesticides and psychedelics.",
+    "published": "Thu, 30 Apr 2026 18:38:33 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/trump-taps-nicole-saphier-for-surgeon-general-after-pulling-casey-means.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump administration finalizes federal student loan caps\u2014what it means for borrowers",
+    "summary": "The final regulation keeps a narrow definition of professional degrees that are subject to the higher annual and lifetime graduate loan limits.",
+    "published": "Thu, 30 Apr 2026 20:01:56 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/grad-school-loan-caps-final-rule.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Inside Wealth: Markets are underpricing the risk of Middle East pullback in AI, says tech investor Jack Selby",
+    "summary": "Middle East investors account for roughly a quarter of global AI investments over the next 5 years, said Jack Selby, managing director of Thiel Capital.",
+    "published": "Thu, 30 Apr 2026 21:06:01 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/investor-jack-selby-markets-underpricing-middle-east-ai-pullback-risk.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump admin. faces critical 60-day Iran war deadline, but floats ceasefire loophole",
+    "summary": "The U.S. and Israel began their war against Iran Feb. 28, and U.S. law requires congressional authorization for a war to go beyond 60 days.",
+    "published": "Thu, 30 Apr 2026 20:59:06 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/trump-iran-war-centcom-hormuz-congress.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per traders on Kalshi",
+    "summary": "Apple is set to report earnings after the bell on Thursday, with its conference call scheduled for 5:00 pm ET.",
+    "published": "Thu, 30 Apr 2026 17:56:28 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Blue Owl shares surge after private credit firm cites 10X gains from SpaceX",
+    "summary": "Blue Owl said it's made 10 times its investment in SpaceX, which is headed for a record IPO later this year.",
+    "published": "Thu, 30 Apr 2026 19:36:55 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/blue-owl-shares-private-credit-spacex-gains.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "California gas prices hit $6 per gallon as fuel costs jump nearly 30 cents in a week across the U.S.",
+    "summary": "Fuel costs are rising after it gas became clear that Iran is not reopening the Strait of Hormuz, one of the most important oil export corridors in the world.",
+    "published": "Thu, 30 Apr 2026 15:44:08 GMT",
+    "link": "https://www.cnbc.com/2026/04/30/california-gas-price-iran-war-oil.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump gives the go-ahead for a major new Canada-U.S. oil pipeline",
+    "summary": "More state and federal approvals are needed for the 3-foot-wide Bridger Pipeline Expansion, which would stretch from the Canadian border with Montana down through eastern Montana and Wyoming, where it would link up with another pipeline.",
+    "published": "Thu, 30 Apr 2026 19:18:15 -0400",
+    "link": "https://www.npr.org/2026/04/30/g-s1-119648/trump-canada-us-oil-bridger-pipeline-expansion",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Will.i.am wants to future-proof a new generation",
+    "summary": "The Black Eyed Peas co-founder turned entrepreneur is now teaching a class on \"agentic AI\" for Arizona State.",
+    "published": "Thu, 30 Apr 2026 16:00:00 -0400",
+    "link": "https://www.npr.org/2026/04/30/nx-s1-5803133/black-eyed-peas-will-i-am-profile-arizona-state-ai-agent",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Trump pulls Casey Means' stalled surgeon general nomination, announces new pick",
+    "summary": "President Trump says he's nominating former Fox News Channel contributor Dr. Nicole Saphier for surgeon general after Dr. Casey Means' path forward stalled in the Senate over questions about her experience and her stance on vaccines.",
+    "published": "Thu, 30 Apr 2026 15:33:04 -0400",
+    "link": "https://www.npr.org/2026/04/30/g-s1-119571/nicole-saphier-trump-casey-means-surgeon-general-nomination",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "U.S. House primaries in Louisiana are suspended after Voting Rights Act ruling",
+    "summary": "Louisiana suspended its upcoming primaries for the U.S. House, following Wednesday's U.S. Supreme Court ruling that the state's congressional map is an \"unconstitutional racial gerrymander.\"",
+    "published": "Thu, 30 Apr 2026 15:08:44 -0400",
+    "link": "https://www.npr.org/2026/04/30/nx-s1-5806000/louisiana-suspends-house-primaries-supreme-court",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "In real-world test, an AI model did better than ER doctors at diagnosing patients",
+    "summary": "Researchers evaluated how well an AI model could diagnose and make decisions about patient care.",
+    "published": "Thu, 30 Apr 2026 14:00:35 -0400",
+    "link": "https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "The Onion's bid to take over Infowars moves to the Texas Supreme Court",
+    "summary": "The state's highest court will now consider a deal that would allow the Onion to license the Infowars brand name and turn the show into a mockery of itself.",
+    "published": "Thu, 30 Apr 2026 13:56:17 -0400",
+    "link": "https://www.npr.org/2026/04/30/nx-s1-5806038/the-onion-infowars-alex-jones-texas-supreme-court",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Congress ends record shutdown at the Department of Homeland Security",
+    "summary": "Thursday's vote in the House provides funding for DHS after a more than two-month shutdown,  but does not include dollars for Immigration and Customs Enforcement and Customs and Border Protection.",
+    "published": "Thu, 30 Apr 2026 13:36:46 -0400",
+    "link": "https://www.npr.org/2026/04/30/nx-s1-5806054/congress-dhs-shutdown",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Myanmar junta says Suu Kyi moved to house arrest, doubts linger",
+    "summary": "The secrecy surrounding Suu Kyi's new location has alarmed her son, Kim Aris, who says he has received no authoritative confirmation of her wellbeing.",
+    "published": "Thu, 30 Apr 2026 13:26:23 -0400",
+    "link": "https://www.npr.org/2026/04/30/g-s1-119543/myanmar-junta-says-suu-kyi-moved-to-house-arrest-doubts-linger",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Craig Venter, pioneering human genome decoder, dies at 79",
+    "summary": "Pioneering scientist J. Craig Venter has died at 79. His \"whole genome shotgun method\" helped genome sequencing become faster and cheaper.",
+    "published": "Thu, 30 Apr 2026 11:13:42 -0400",
+    "link": "https://www.npr.org/2026/04/30/nx-s1-5805891/craig-venter-decoding-human-genome-dies-79",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Du Plessis, Rhodes, Klaasen join forces in 'easy business decision' to co-own ETPL team",
+    "summary": "Steve Waugh, Glenn Maxwell and Chris Gayle are among the others to be part of the ownership groups of the franchises at the European T20 Premier League, which will be launched in August",
+    "published": "Fri, 01 May 2026 02:01:23 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534670.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Helmot steps down as Melbourne Renegades WBBL coach",
+    "summary": "Simon Helmot steps down to pursue new opportunities despite having two years to run on his contract",
+    "published": "Fri, 01 May 2026 01:50:49 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534669.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Two SL U-19 cricketers arrested for allegedly filming women in a hotel",
+    "summary": "Having been produced at the Aluthkade Magistrate's Court for their initial hearing, the players are next due back in court on May 25",
+    "published": "Fri, 01 May 2026 02:38:23 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534645.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Holder, Rashid and Arshad give Gujarat Titans NRR-boosting win",
+    "summary": "RCB were bowled for 155 before Gill and Buttler helped GT chase down the total with 25 balls to spare",
+    "published": "Fri, 01 May 2026 01:31:41 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534656.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Sangakkara: Controversies not a positive reflection of the team",
+    "summary": "The RR head coach says the controversies \"have been addressed\" and \"the constant reminder to the players is to make sure they're responsible to the franchise\"",
+    "published": "Thu, 30 Apr 2026 19:26:29 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534663.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Bhuvneshwar leads IPL 2026 Purple Cap table after fifth three-for of the season",
+    "summary": "There was no change in the top three of the Orange Cap table, but Virat Kohli consolidated his place at No. 4 and Shubman Gill moved past KL Rahul to No. 5",
+    "published": "Thu, 30 Apr 2026 18:27:52 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534657.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Jamaica Kingsmen to get first pick of Jamaican players in CPL draft",
+    "summary": "New franchise will be able to sign the likes of Andre Russell and Rovman Powell unchallenged",
+    "published": "Thu, 30 Apr 2026 16:07:34 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1534646.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
   }
 ]
