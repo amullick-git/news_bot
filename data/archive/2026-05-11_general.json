@@ -2231,5 +2231,845 @@
     "published": "Thu, 07 May 2026 13:12:56 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1535741.html?ex_cid=OTC-RSS",
     "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Trump says Iran ceasefire is on 'massive life support'",
+    "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+    "published": "Tue, 12 May 2026 00:59:12 GMT",
+    "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "How the Trump-Xi summit could set superpower relations for many years to come",
+    "summary": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
+    "published": "Mon, 11 May 2026 23:20:53 GMT",
+    "link": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "US in closely-guarded talks to open new bases in Greenland",
+    "summary": "It is seeking to open three bases in the south of the Arctic territory, according to multiple officials familiar with the talks.",
+    "published": "Mon, 11 May 2026 23:56:11 GMT",
+    "link": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "EU agrees sanctions on Israeli settlers over West Bank violence",
+    "summary": "The EU's foreign policy chief said \"extremism and violence carry consequences\", while Israel branded the move \"arbitrary\".",
+    "published": "Mon, 11 May 2026 19:37:17 GMT",
+    "link": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "'Britain at the heart of Europe': How Starmer's plans are going down in the EU",
+    "summary": "Sir Keir Starmer pledged to rebuild the UK's relationship with Europe in a defiant speech on Monday.",
+    "published": "Mon, 11 May 2026 17:15:52 GMT",
+    "link": "https://www.bbc.com/news/articles/cwy2k7re9jdo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "South African president says he will not step down after impeachment call",
+    "summary": "President Cyril Ramaphosa said he would not resign on Monday evening after days of speculation.",
+    "published": "Mon, 11 May 2026 21:44:20 GMT",
+    "link": "https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
+    "summary": "Two people are being monitored in Atlanta, 16 in Nebraska and another six passengers in Canada.",
+    "published": "Mon, 11 May 2026 23:31:37 GMT",
+    "link": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "China should stop hoarding food and fertiliser, says former World Bank chief",
+    "summary": "David Malpass also said that Beijing's claim to be a developing nation is no longer credible.",
+    "published": "Tue, 12 May 2026 03:40:29 GMT",
+    "link": "https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Watch: Alaska town sees its last sunset until August",
+    "summary": "Residents of Utqiagvik, the United States' northernmost city, will experience 84 days of midnight sun and uninterrupted daylight.",
+    "published": "Mon, 11 May 2026 21:05:29 GMT",
+    "link": "https://www.bbc.com/news/videos/cgjpg20xgy5o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
+    "summary": "A total of 17 US executives are set to join the president on his visit, where he will meet his Chinese counterpart Xi Jinping.",
+    "published": "Mon, 11 May 2026 18:26:20 GMT",
+    "link": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "I led hikers up an Indonesian volcano - and then it erupted",
+    "summary": "An Indonesian guide who led hikers up Mount Dukono has described the moment of Friday's eruption which killed three people.",
+    "published": "Mon, 11 May 2026 22:10:48 GMT",
+    "link": "https://www.bbc.com/news/articles/cz623qjqjd6o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Why welfare isn't winning elections in India like it used to",
+    "summary": "India's welfare politics still matters, but voters increasingly want jobs, growth and dignity too.",
+    "published": "Mon, 11 May 2026 22:12:16 GMT",
+    "link": "https://www.bbc.com/news/articles/cn0pwy944pwo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "'Total lack of respect': Macron interrupts speaker to ask for silence",
+    "summary": "The French president stood up during a conference in Kenya to tell the audience to quieten down, saying it was \u201cimpossible\u201d for speakers to be heard.",
+    "published": "Mon, 11 May 2026 16:10:18 GMT",
+    "link": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Microsoft\u2019s C.E.O. Intervened When OpenAI Fired Sam Altman, Musk\u2019s Lawyer Claims",
+    "summary": "Elon Musk\u2019s lawyer argued that Microsoft\u2019s Satya Nadella played a role in getting Mr. Altman his job back at OpenAI when he was briefly fired in 2023.",
+    "published": "Tue, 12 May 2026 00:25:06 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/technology/satya-nadella-openai-sam-altman.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "RFK Jr. Is Driving a Vast Inquiry Into Vaccines, Despite His Public Silence",
+    "summary": "Health Secretary Robert F. Kennedy Jr. has toned down his public criticism of vaccines, under orders from the White House. But inside his department, a sprawling research effort is a top priority.",
+    "published": "Mon, 11 May 2026 20:02:04 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump Proposes Suspending Federal Gas Tax",
+    "summary": "Also, Kennedy is pushing a vast inquiry into vaccines. Here\u2019s the latest at the end of Monday.",
+    "published": "Mon, 11 May 2026 21:38:16 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/briefing/trump-gas-tax-iran-truce.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Supreme Court Clears Path for Alabama to Use New Voting Map",
+    "summary": "A majority of the justices sided with Alabama in a move that could speed up efforts to put in place a congressional district map that would eliminate a majority-Black district.",
+    "published": "Tue, 12 May 2026 00:33:02 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "The Voting Rights Decision Might Silence Black People in Fayette County, Tennessee",
+    "summary": "Black residents, who make up 25 percent of Fayette County, Tenn., won a new electoral map last year to change an all-white board of commissioners. They worry the Supreme Court\u2019s ruling could threaten that.",
+    "published": "Mon, 11 May 2026 19:49:37 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/us/fayette-county-tennessee-voting-rights.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Virginia Officials Ask Supreme Court to Restore Voting Map Drawn by Democrats",
+    "summary": "State officials asked the justices to overturn a Virginia Supreme Court decision that struck down a congressional map, a major defeat for Democrats.",
+    "published": "Mon, 11 May 2026 23:59:20 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-virginia-redistricting.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Why Republicans Are Still Drawing House Maps, While Democrats Are Stuck",
+    "summary": "The G.O.P. has seized an edge on redistricting thanks to two court rulings, and it has more room to maneuver for extra seats before the midterms.",
+    "published": "Tue, 12 May 2026 01:51:32 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/us/politics/redistricting-republicans-democrats.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Justice Dept. Subpoenas Wall Street Journal in Leak Investigation",
+    "summary": "Critics raised concerns over press freedom after The Journal disclosed receiving subpoenas related to an article on deliberations on the risks of military action in Iran.",
+    "published": "Tue, 12 May 2026 02:16:58 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/us/politics/subpoenas-wall-street-journal-trump.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Reflecting Pool Repairs to Cost $13.1 Million. Trump Had Promised $1.8 Million.",
+    "summary": "The Interior Department added $6.2 million to the no-bid contract for repairs to the Lincoln Memorial pool late last week.",
+    "published": "Mon, 11 May 2026 21:09:28 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/us/politics/reflecting-pool-paint-contract-trump.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Kari Lake, Who Led Effort to Shutter Voice of America, Is Named Ambassador to Jamaica",
+    "summary": "Ms. Lake tried and failed to fire hundreds of Voice of America journalists and to cut funding for other federally funded news groups like Radio Free Europe/Radio Liberty.",
+    "published": "Tue, 12 May 2026 01:06:11 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/us/politics/kari-lake-jamaica-ambassador.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Nations Brace for Long-Term Economic Woes as Trump Calls Iran Truce Plan \u2018Garbage\u2019",
+    "summary": "President Trump said the fragile cease-fire was on \u201clife support,\u201d and India\u2019s leader urged residents to cut back on purchases and travel.",
+    "published": "Mon, 11 May 2026 21:38:00 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/world/middleeast/economic-woes-trump-iran-truce.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump Proposes Suspending Federal Gas Tax Until Prices Fall",
+    "summary": "Congress would have to agree to any suspension, and dropping federal taxes would not make up for the steep increase in prices since the war began.",
+    "published": "Mon, 11 May 2026 19:02:54 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/us/politics/trump-gas-tax.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Drilling Into the Thwaites Glacier in Antarctica",
+    "summary": "Ten people. Eight weeks. Three thousand feet to pierce a fast-melting Antarctic glacier.",
+    "published": "Mon, 11 May 2026 09:00:30 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/climate/antarctica-expedition-thwaites-glacier.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Gis\u00e8le Pelicot\u2019s Memoir Said Something Original and Taboo About Victimhood",
+    "summary": "A book by the world\u2019s most famous survivor of sexual violence has been read as a manifesto or a cry of pain. What she wrote is far more complicated.",
+    "published": "Mon, 11 May 2026 18:43:21 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/magazine/gisele-pelicot-memoir.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Israel Prepares to Prosecute First Suspects in Oct. 7 Attack Led by Hamas",
+    "summary": "Parliament passed a new law that paves the way for military trials for hundreds of Palestinians suspected of taking part in the 2023 attack that ignited the two-year war in Gaza.",
+    "published": "Mon, 11 May 2026 20:49:29 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/world/middleeast/israel-oct-7-prosecutions-palestinians-trial.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Former Hostage Calls on All of Israel\u2019s Government to Resign",
+    "summary": "Rom Braslavski, who said he had endured starvation, torture and sexual abuse during two-year captivity, demanded that members \u201ctake responsibility and get out of our lives.\u201d",
+    "published": "Tue, 12 May 2026 00:22:09 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/world/middleeast/israel-hostage-demands-government-resign.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Putin Said the War \u2018Is Coming to a Close,\u2019 but That\u2019s Not All He Said",
+    "summary": "The Russian leader is walking a tightrope: acknowledging public discontent while offering no indication that he might give up on his demands.",
+    "published": "Mon, 11 May 2026 21:53:26 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/world/europe/putin-russia-ukraine-war.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Former Top Zelensky Aide Is Accused in Corruption Inquiry",
+    "summary": "Ukrainian news outlets named the suspect as Andriy Yermak, who resigned last year amid a sweeping scandal.",
+    "published": "Mon, 11 May 2026 21:20:20 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/world/europe/ukraine-corruption-yermak-zelensky.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "In This Nazi-Era Restitution Dispute, the Focus Turns to a Missing Cow",
+    "summary": "A family is vying for the return of a painting it thought was by Rubens. But an expert says it\u2019s a copy because it does not include the artist\u2019s depiction of a peeing cow.",
+    "published": "Mon, 11 May 2026 09:02:14 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/arts/design/rubens-painting-cow-nazi-restitution-dispute.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Democrats Can\u2019t Let This Antisemitic Sex Therapist Win Her Runoff",
+    "summary": "Maureen Galindo\u2019s rise demonstrates how even justified rage and despair can curdle into hateful paranoia.",
+    "published": "Tue, 12 May 2026 02:11:01 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/opinion/maureen-galindo-antisemitic-conspiracies.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Judge Again Delays Guant\u00e1namo\u2019s First Death-Penalty Terror Trial",
+    "summary": "The 2000 terrorism case has been going on for so long that the parents of fallen sailors and shipmates who survived the attack have died.",
+    "published": "Tue, 12 May 2026 03:06:26 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/us/politics/guantanamo-cole-death-penalty.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Supreme Court Continues Access to Abortion Pill by Mail, for a Few Days",
+    "summary": "Justice Samuel A. Alito Jr. has paused until at least Thursday a federal appeals court ruling against the Food and Drug Administration that would restrict access by mail to mifepristone.",
+    "published": "Mon, 11 May 2026 20:03:14 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-abortion-pill-mifepristone.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Bezos Family Gives $100 Million for Preschool Education in New York",
+    "summary": "Free child care is one of Mayor Zohran Mamdani\u2019s top goals. Now the Bezos Foundation is giving Robin Hood, a favorite philanthropy of wealthy New Yorkers, big money for early childhood education.",
+    "published": "Tue, 12 May 2026 01:20:16 +0000",
+    "link": "https://www.nytimes.com/2026/05/11/nyregion/bezos-donation-nyc-education-robin-hood.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Suvendu Adhikari's Aide Murder Case Handed Over To CBI Day After 3 Arrests",
+    "summary": "A Special Investigation Team (SIT) will be constituted to handle the case",
+    "published": "Tue, 12 May 2026 09:05:14 +0530",
+    "link": "https://www.ndtv.com/india-news/west-bengal-chief-minister-suvendu-adhikaris-aide-chandranath-rath-murder-case-handed-over-to-cbi-day-after-3-arrests-11481797#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "CBSE 12th Result 2026 Live: Result Today? DigiLocker, UMANG App Hint At Imminent Release",
+    "summary": "CBSE Class 12th Result 2026 Live Updates: More than 18 lakh students are awaiting their scorecards.",
+    "published": "Tue, 12 May 2026 08:50:13 +0530",
+    "link": "https://www.ndtv.com/education/cbse-class-12th-result-2026-live-updates-date-time-direct-link-official-websites-pass-percentage-top-regions-11481639#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Haryana HPSC Post Graduate Teacher Computer Science Exam Admit Card Out, Download Link Here",
+    "summary": "This year's recruitment drive aims to fill 1,672 vacancies.",
+    "published": "Tue, 12 May 2026 08:42:49 +0530",
+    "link": "https://www.ndtv.com/education/haryana-hpsc-post-graduate-teacher-computer-science-exam-admit-card-out-download-link-here-11481791#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "4 Ministers, Including NDA Allies, To Take Oath With Himanta Sarma Today",
+    "summary": "Himanta Sarma will be appointed as the chief minister of Assam for second term",
+    "published": "Tue, 12 May 2026 08:40:29 +0530",
+    "link": "https://www.ndtv.com/india-news/assam-cm-oath-ceremony-4-ministers-atul-bora-ajanta-neog-rameswar-teli-charan-boro-including-nda-allies-to-take-oath-with-himanta-biswa-sarma-today-11481656#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "CBSE 12th Result 2026: Mandatory Certificates And Documents Students Must Collect",
+    "summary": "CBSE 12th Result 2026:  The board issues the Class 12 documents to all students who pass the exams.",
+    "published": "Tue, 12 May 2026 08:31:05 +0530",
+    "link": "https://www.ndtv.com/education/cbse-12th-result-2026-mandatory-certificates-and-documents-students-must-collect-11481760#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Trusted Congress Face To Key BJP Strategist: Himanta Sarma's Political Journey",
+    "summary": "In 2021, Sarma became the Assam Chief Minister for the first time.",
+    "published": "Tue, 12 May 2026 07:59:01 +0530",
+    "link": "https://www.ndtv.com/india-news/assam-trusted-congress-face-to-key-bjp-strategist-himanta-sarmas-political-journey-11481698#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Assam Chief Minister Oath Ceremony LIVE Updates: Himanta Biswa Sarma To Be Sworn In",
+    "summary": "Assam, Himanta Biswa Sarma Oath Ceremony LIVE Updates",
+    "published": "Tue, 12 May 2026 07:58:10 +0530",
+    "link": "https://www.ndtv.com/india-news/assam-cm-himanta-biswa-sarma-oath-taking-ceremony-live-updates-assam-government-formation-bjp-nda-pm-modi-news-guwahati-agp-bpf-11481608#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "\"This Incident Traumatised Me\": Woman Alleges Rapido Rider Video-Called And Harassed Her After Trip, Company Apologises",
+    "summary": "Reacting to the viral post, Rapido issued a response expressing concern over the incident.",
+    "published": "Tue, 12 May 2026 07:02:19 +0530",
+    "link": "https://www.ndtv.com/india-news/this-incident-traumatised-me-woman-alleges-rapido-rider-video-called-and-harassed-her-after-trip-company-apologises-11481549#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "IP University Launches 7 New Paramedical Programmes, Apply By May 31",
+    "summary": "GGSIPU started 7 new paramedical and allied healthcare programmes.",
+    "published": "Tue, 12 May 2026 06:50:22 +0530",
+    "link": "https://www.ndtv.com/education/ip-university-launches-7-new-paramedical-programmes-apply-by-may-31-11481577#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Madhya Pradesh Youth Arrested For Killing Man Over Online Gaming Dispute",
+    "summary": "According to the police, Sameer Patel (32) was found dead in the Betma police station area on May 7.",
+    "published": "Tue, 12 May 2026 01:59:29 +0530",
+    "link": "https://www.ndtv.com/india-news/madhya-pradesh-youth-arrested-for-killing-man-over-online-gaming-dispute-11481329#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "PM Modi, Other Dignitaries Arrive In Guwahati For NDA Government's Oath Taking",
+    "summary": "PM Modi arrived in Guwahati on Monday night to attend oath taking ceremony of NDA government.",
+    "published": "Tue, 12 May 2026 01:51:53 +0530",
+    "link": "https://www.ndtv.com/india-news/pm-modi-other-dignitaries-arrive-in-guwahati-for-nda-governments-oath-taking-11481319#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Can IUML Support For VD Satheesan Backfire? Congress Decision Likely Soon",
+    "summary": "Picking Satheesan for the top job could also have internal repercussions, sources said.",
+    "published": "Tue, 12 May 2026 00:30:14 +0530",
+    "link": "https://www.ndtv.com/india-news/kerala-chief-minister-post-kc-venugopal-ramesh-chennithala-can-iuml-support-for-vd-satheesan-backfire-congress-decision-likely-soon-11481178#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "N Rangasamy To Take Oath As Puducherry Chief Minister On Wednesday",
+    "summary": "The AIADMK and the Lakshiya Jananayaga Katchi won one seat each",
+    "published": "Mon, 11 May 2026 23:53:35 +0530",
+    "link": "https://www.ndtv.com/india-news/rangasamy-to-take-oath-as-chief-minister-of-puducherry-on-may-13-11481076#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Former Bengal Minister Sujit Bose Arrested In Money Laundering Case",
+    "summary": "Bose is suspected to have played a direct role in providing jobs to about 150 employees. (PTI)",
+    "published": "Mon, 11 May 2026 23:51:52 +0530",
+    "link": "https://www.ndtv.com/india-news/former-bengal-minister-sujit-bose-arrested-in-money-laundering-case-11481099#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "What Next For Tamil Nadu Chief Minister Vijay? Trust Vote Date Yet To Be Fixed",
+    "summary": "The breakthrough for Vijay came after CPI and CPM decided to extend outside support.",
+    "published": "Mon, 11 May 2026 23:21:40 +0530",
+    "link": "https://www.ndtv.com/india-news/what-next-for-tamil-nadu-chief-minister-vijay-trust-vote-date-yet-to-be-fixed-11480805#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Watch: Rare Waterspout Forms Off Odisha's Puri Coast, Stuns Tourists",
+    "summary": "In the local dialect, this phenomenon is referred to as 'Hatisunda' (Elephant's Trunk).",
+    "published": "Mon, 11 May 2026 23:01:07 +0530",
+    "link": "https://www.ndtv.com/india-news/watch-rare-waterspout-forms-off-odishas-puri-coast-stuns-tourists-11480817#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Teen Dead, 3 Children Sick After Eating Watermelon In Chhattisgarh: Cops",
+    "summary": "The incident took place in Ghurkot village",
+    "published": "Mon, 11 May 2026 22:14:24 +0530",
+    "link": "https://www.ndtv.com/india-news/teen-dead-3-children-sick-after-eating-watermelon-in-chhattisgarh-cops-11480684#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "School Assembly News Headlines (May 12): Top National, World, Business, Sports News",
+    "summary": "School Assembly News Headlines (May 12)",
+    "published": "Mon, 11 May 2026 21:42:28 +0530",
+    "link": "https://www.ndtv.com/education/school-assembly-news-headlines-may-12-top-national-world-business-sports-news-11480524#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Software Internals Book Club",
+    "summary": "<p>Article URL: <a href=\"https://eatonphil.com/bookclub.html\">https://eatonphil.com/bookclub.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48103511\">https://news.ycombinator.com/item?id=48103511</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+    "published": "Tue, 12 May 2026 02:28:11 +0000",
+    "link": "https://eatonphil.com/bookclub.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Fake building: Claude wrote 3k lines instead of import pywikibot",
+    "summary": "<p>Article URL: <a href=\"https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/\">https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48103459\">https://news.ycombinator.com/item?id=48103459</a></p>\n<p>Points: 29</p>\n<p># Comments: 12</p>",
+    "published": "Tue, 12 May 2026 02:22:04 +0000",
+    "link": "https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Claude Platform on AWS",
+    "summary": "<p>Article URL: <a href=\"https://claude.com/blog/claude-platform-on-aws\">https://claude.com/blog/claude-platform-on-aws</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48103042\">https://news.ycombinator.com/item?id=48103042</a></p>\n<p>Points: 45</p>\n<p># Comments: 23</p>",
+    "published": "Tue, 12 May 2026 01:24:29 +0000",
+    "link": "https://claude.com/blog/claude-platform-on-aws",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "They Live (1988) inspired Adblocker",
+    "summary": "<p>Article URL: <a href=\"https://github.com/davmlaw/they_live_adblocker\">https://github.com/davmlaw/they_live_adblocker</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48102700\">https://news.ycombinator.com/item?id=48102700</a></p>\n<p>Points: 30</p>\n<p># Comments: 1</p>",
+    "published": "Tue, 12 May 2026 00:37:54 +0000",
+    "link": "https://github.com/davmlaw/they_live_adblocker",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Safe-install \u2013 safer NPM installs with trusted build dependencies",
+    "summary": "<p>In light of the ongoing npm supply chain compromises, I built safe-install:<p><a href=\"https://www.npmjs.com/package/@gkiely/safe-install\" rel=\"nofollow\">https://www.npmjs.com/package/@gkiely/safe-install</a><p>It brings a couple of protections I wanted from npm but are not built in.<p>Similar to Bun\u2019s trusted dependencies, it lets you disable install scripts by default and define a list of dependencies that are allowed to run build/install scripts:<p><a href=\"https://bun.com/docs/guides/install/trusted\" rel=\"nofollow\">https://bun.com/docs/guides/install/trusted</a><p>It also supports blocking exotic sub-dependencies, similar to pnpm\u2019s `blockExoticSubdeps` setting:<p><a href=\"https://gajus.com/blog/3-pnpm-settings-to-protect-yourself-from-supply-chain-attacks#2-set-blockexoticsubdeps\" rel=\"nofollow\">https://gajus.com/blog/3-pnpm-settings-to-protect-yourself-f...</a><p>I was hoping npm would eventually add something like this, but it does not seem to be happening soon, so I made a small package for it.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48102636\">https://news.ycombinator.com/item?id=48102636</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+    "published": "Tue, 12 May 2026 00:30:10 +0000",
+    "link": "https://www.npmjs.com/package/@gkiely/safe-install",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Griffin PowerMate driver for modern macOS",
+    "summary": "<p>Article URL: <a href=\"https://github.com/jameslockman/Griffin-PowerMate-Driver\">https://github.com/jameslockman/Griffin-PowerMate-Driver</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48100970\">https://news.ycombinator.com/item?id=48100970</a></p>\n<p>Points: 54</p>\n<p># Comments: 19</p>",
+    "published": "Mon, 11 May 2026 21:35:38 +0000",
+    "link": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Postmortem: TanStack npm supply-chain compromise",
+    "summary": "<p><a href=\"https://github.com/TanStack/router/issues/7383\" rel=\"nofollow\">https://github.com/TanStack/router/issues/7383</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48100706\">https://news.ycombinator.com/item?id=48100706</a></p>\n<p>Points: 600</p>\n<p># Comments: 224</p>",
+    "published": "Mon, 11 May 2026 21:08:25 +0000",
+    "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "I let AI build a tool to help me figure out what was waking me up at night",
+    "summary": "<p>Article URL: <a href=\"https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/\">https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48100662\">https://news.ycombinator.com/item?id=48100662</a></p>\n<p>Points: 96</p>\n<p># Comments: 106</p>",
+    "published": "Mon, 11 May 2026 21:04:10 +0000",
+    "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Interaction Models",
+    "summary": "<p>Article URL: <a href=\"https://thinkingmachines.ai/blog/interaction-models/\">https://thinkingmachines.ai/blog/interaction-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48100524\">https://news.ycombinator.com/item?id=48100524</a></p>\n<p>Points: 117</p>\n<p># Comments: 12</p>",
+    "published": "Mon, 11 May 2026 20:53:37 +0000",
+    "link": "https://thinkingmachines.ai/blog/interaction-models/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "GitLab announces workforce reduction and end of their CREDIT values",
+    "summary": "<p>Article URL: <a href=\"https://about.gitlab.com/blog/gitlab-act-2/\">https://about.gitlab.com/blog/gitlab-act-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48100500\">https://news.ycombinator.com/item?id=48100500</a></p>\n<p>Points: 369</p>\n<p># Comments: 369</p>",
+    "published": "Mon, 11 May 2026 20:51:57 +0000",
+    "link": "https://about.gitlab.com/blog/gitlab-act-2/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "If AI writes your code, why use Python?",
+    "summary": "<p>Article URL: <a href=\"https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055\">https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48100433\">https://news.ycombinator.com/item?id=48100433</a></p>\n<p>Points: 240</p>\n<p># Comments: 249</p>",
+    "published": "Mon, 11 May 2026 20:45:55 +0000",
+    "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: OpenGravity \u2013 A zero-install, BYOK vanilla JS clone of Antigravity",
+    "summary": "<p>Hi. I\u2019m a high school student studying for my GCSEs. I was using Google Antigravity heavily for my side projects, but I kept hitting the usage limits, and getting random \"agent terminated\" errors. So I decided to try build my own version of the IDE. I love the UI, so I copied it as accurately as possible, and then hooked up some logic into it, including the INCREDIBLY finicky webcontainer api.<p>I tried to keep it super lightweight, no build steps, or dependencies, and now that its open source, I'm hoping people can build things on top of it that arent possible with closed source tools, like complex custom agent workflows.<p>Some screenshots: - <a href=\"https://github.com/ab-613/OpenGravity/blob/main/examples/screenshot.png?raw=true\" rel=\"nofollow\">https://github.com/ab-613/OpenGravity/blob/main/examples/scr...</a> - <a href=\"https://github.com/ab-613/OpenGravity/blob/main/examples/html%20site%20example.png?raw=true\" rel=\"nofollow\">https://github.com/ab-613/OpenGravity/blob/main/examples/htm...</a><p>What it's made from:<p>- Pure Vanilla JS: no react, vue, or build step. Built entirely in plain HTML/CSS/JS to keep it super lightweight.<p>- WebContainer API and xterm.js: Instead of faking a terminal, I (after much pain) hooked up the WebContainer API so the AI agent has a real, in browser linux environment to run shell commands, install dependencies, and edit local files.<p>- BYOK (Bring Your Own Key): API key ALWAYS stays in localStorage.<p>Whats currently happening:<p>- It works, but it's an alpha. The AI can proactively start projects going properly and edit files, but because I built this over a few days before my exams, a lot of the UI dropdowns and buttons are currently just hardcoded placeholders.<p>- I\u2019m open sourcing it early because I think the foundation of a Vanilla JS + WebContainer IDE is really strong, and I'd love to see where the community takes it while I'm doing my exams.<p>- Live demo: <a href=\"https://opengravity.pages.dev\" rel=\"nofollow\">https://opengravity.pages.dev</a> (Zoom out to 80% if not full screen. It will prompt for a gemini api key on load). Start by uploading a folder, then you can fiddle with the terminal and agent, and see how it goes!<p>Would love to hear feedback on the code, the WebContainer integration, or how to improve the agent loop!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48100192\">https://news.ycombinator.com/item?id=48100192</a></p>\n<p>Points: 62</p>\n<p># Comments: 19</p>",
+    "published": "Mon, 11 May 2026 20:23:25 +0000",
+    "link": "https://github.com/ab-613/opengravity",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Library for fast mapping of Java records to native memory",
+    "summary": "<p>Article URL: <a href=\"https://github.com/mamba-studio/TypedMemory\">https://github.com/mamba-studio/TypedMemory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48099616\">https://news.ycombinator.com/item?id=48099616</a></p>\n<p>Points: 116</p>\n<p># Comments: 26</p>",
+    "published": "Mon, 11 May 2026 19:33:31 +0000",
+    "link": "https://github.com/mamba-studio/TypedMemory",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+    "summary": "<p>Article URL: <a href=\"https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage\">https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48098261\">https://news.ycombinator.com/item?id=48098261</a></p>\n<p>Points: 265</p>\n<p># Comments: 52</p>",
+    "published": "Mon, 11 May 2026 17:53:08 +0000",
+    "link": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+    "summary": "<p>Article URL: <a href=\"https://bild.ai/jobs\">https://bild.ai/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48098122\">https://news.ycombinator.com/item?id=48098122</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Mon, 11 May 2026 17:43:12 +0000",
+    "link": "https://bild.ai/jobs",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Interfaze: A new model architecture built for high accuracy at scale",
+    "summary": "<p>Article URL: <a href=\"https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale\">https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48097078\">https://news.ycombinator.com/item?id=48097078</a></p>\n<p>Points: 118</p>\n<p># Comments: 31</p>",
+    "published": "Mon, 11 May 2026 16:22:31 +0000",
+    "link": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+    "summary": "<p>Article URL: <a href=\"https://nvlabs.github.io/cuda-oxide/index.html\">https://nvlabs.github.io/cuda-oxide/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48096692\">https://news.ycombinator.com/item?id=48096692</a></p>\n<p>Points: 373</p>\n<p># Comments: 108</p>",
+    "published": "Mon, 11 May 2026 15:55:07 +0000",
+    "link": "https://nvlabs.github.io/cuda-oxide/index.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+    "summary": "<p>Article URL: <a href=\"https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html\">https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48085685\">https://news.ycombinator.com/item?id=48085685</a></p>\n<p>Points: 222</p>\n<p># Comments: 11</p>",
+    "published": "Sun, 10 May 2026 17:05:05 +0000",
+    "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "OpenAI just released its answer to Claude Mythos",
+    "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher [&#8230;]",
+    "published": "2026-05-11T19:05:01-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
+    "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the first place, co-founder [&#8230;]",
+    "published": "2026-05-11T18:40:20-04:00",
+    "link": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
+    "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way we naturally collaborate with each other - they continuously take in audio, video, [&#8230;]",
+    "published": "2026-05-11T18:19:15-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Govee\u2019s new portable smart lamp is on sale for the first time",
+    "summary": "If you\u2019ve always liked the idea of the Philips Hue Go portable lamp but couldn\u2019t justify the $100+ price tag, Govee recently released a much cheaper alternative, the Govee Table Lamp Classic, and it\u2019s already receiving its first discount. Right now, you can pick the rechargeable smart lamp up at Amazon for $63.99 ($16 off), [&#8230;]",
+    "published": "2026-05-11T15:56:28-04:00",
+    "link": "https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Palantir&#8217;s true believers are wearing this jacket",
+    "summary": "In late April, Palantir - the software company that, in recent years, has perhaps become best known for its defense industry contracts and work with Immigration and Customs Enforcement - announced that it would be adding new products to its merch store. The latest offering was a cotton chore coat. At $239 and in bright [&#8230;]",
+    "published": "2026-05-11T14:26:04-04:00",
+    "link": "https://www.theverge.com/report/928026/palantir-chore-coat",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Apple brings encrypted RCS chats to iPhone",
+    "summary": "Apple now lets you have encrypted RCS conversations with Android users through the Messages app on iOS. As part of iOS 26.5, which was released on Monday, Apple added support for end-to-end encrypted RCS messaging in beta, meaning that Apple and Google can't see your messages while they're sent. With iOS 26.5, you'll see a [&#8230;]",
+    "published": "2026-05-11T13:57:56-04:00",
+    "link": "https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Texas sues Netflix for advertising &#8216;bait and switch&#8217; and spying",
+    "summary": "Texas Attorney General Ken Paxton has filed a lawsuit against Netflix, accusing the company of turning its back on its promise to remain ad-free and safe for kids. The lawsuit, filed on Monday, claims Netflix has \"opened Texans' data for inspection by the same Big Ad Tech community it once criticized for exploiting users in [&#8230;]",
+    "published": "2026-05-11T13:04:22-04:00",
+    "link": "https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Google stopped a zero-day hack that it says was developed with AI",
+    "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed them to bypass two-factor authentication on an unnamed [&#8230;]",
+    "published": "2026-05-11T12:09:42-04:00",
+    "link": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "A million baby monitors and security cameras were easily viewable by hackers",
+    "summary": "A baby's eyes peer directly into the camera lens. A kid with a striped shirt looks up, then away. A boy in a policeman's costume, a gold star on his chest. A messy bedroom that reminds me of my own daughters, with an unmade bunk bed, a little girl's hat and headband, and Hello Kitty [&#8230;]",
+    "published": "2026-05-11T12:00:00-04:00",
+    "link": "https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "7 of our favorite deals from Amazon\u2019s Pet Days sale",
+    "summary": "A big part of my job here at The Verge is to find deals on tech that readers will like. But in my personal life, I\u2019m not spending anywhere near as much money on tech as I am on food, litter, and other supplies for our two cats. Sad, but true. If your life is [&#8230;]",
+    "published": "2026-05-11T11:45:32-04:00",
+    "link": "https://www.theverge.com/gadgets/927788/amazon-pet-days-tech-gadgets-cat-dog-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Trump puts Taiwan arms sales, Hong Kong jailed activist Lai on agenda ahead of meeting with Xi",
+    "summary": "Trump said Monday that U.S. arms sales to Taiwan and the imprisonment of Hong Kong media tycoon Jimmy Lai would be among the issues at the summit in Beijing.",
+    "published": "Tue, 12 May 2026 01:37:46 GMT",
+    "link": "https://www.cnbc.com/2026/05/12/trump-xi-china-summit-taiwan-arms-sale-jimmy-lai-.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment",
+    "summary": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
+    "published": "Mon, 11 May 2026 23:30:35 GMT",
+    "link": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Five things to watch in Asia as Trump prepares to meet China's Xi this week",
+    "summary": "The U.S. and Chinese presidents are scheduled to gather in Beijing on Thursday and Friday amid a packed week of diplomatic meetings.",
+    "published": "Tue, 12 May 2026 02:47:29 GMT",
+    "link": "https://www.cnbc.com/2026/05/12/tump-xi-china-summit-taiwan-iran-trade.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Oil prices extend gains as Trump comments diminish hopes for a U.S.-Iran peace deal",
+    "summary": "Oil prices rose Tuesday amid concerns over a prolonged Middle East conflict after President Trump's comments that the ceasefire with Iran is on \"life support\"",
+    "published": "Tue, 12 May 2026 02:57:52 GMT",
+    "link": "https://www.cnbc.com/2026/05/12/oil-prices-today-brent-wti-trump-iran-war-hormuz.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Asia markets trade mixed as investors weigh Trump\u2019s ceasefire warning",
+    "summary": "Asia-Pacific markets trade mixed as investors weighed fresh doubts over the fragile U.S.-Iran ceasefire.",
+    "published": "Tue, 12 May 2026 02:02:28 GMT",
+    "link": "https://www.cnbc.com/2026/05/12/asia-markets-today-live-updates-kospi-hang-seng-index-nikkei-225-sensex-csi-300.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump invites Elon Musk, Tim Cook, Larry Fink and other CEOs to join China trip for Xi summit",
+    "summary": "Trump invited Tesla's Elon Musk, Apple's Tim Cook and Blackrock's Larry Fink to join his China trip for talks with Xi Jinping on trade, AI and geopolitics.",
+    "published": "Mon, 11 May 2026 17:24:05 GMT",
+    "link": "https://www.cnbc.com/2026/05/11/trump-ceos-elon-musk-tim-cook-larry-fink-xi-china-summit.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "CNBC's The China Connection newsletter: Trump and Xi face a test over AI control",
+    "summary": "The stakes for AI security have risen sharply in the runup to the first trip to China by a sitting U.S. president in nearly a decade.",
+    "published": "Mon, 11 May 2026 23:00:01 GMT",
+    "link": "https://www.cnbc.com/2026/05/11/trump-and-xi-face-a-test-over-ai-control.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump, congressional Republicans float suspending federal gas tax amid Iran war",
+    "summary": "Voters are souring on Trump's economy ahead of the 2026 midterm elections, and high gas prices are only adding to consumer discontent.",
+    "published": "Mon, 11 May 2026 18:45:07 GMT",
+    "link": "https://www.cnbc.com/2026/05/11/trump-congress-gop-gas-tax-iran-war.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Redistricting war isn't over, Democrats say as Jeffries calls a meeting this week",
+    "summary": "Democrats are vowing to fight on after being dealt a series of blows in the partisan fight to redraw congressional maps ahead of the 2026 midterms.",
+    "published": "Mon, 11 May 2026 20:34:56 GMT",
+    "link": "https://www.cnbc.com/2026/05/11/elections-redistricting-congress-house-democrats.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Google says it likely thwarted effort by hacker group to use AI for 'mass exploitation event'",
+    "summary": "Hackers are rapidly adopting AI to find previously unknown software flaws even without the help of Anthropic's powerful Mythos model.",
+    "published": "Mon, 11 May 2026 21:13:21 GMT",
+    "link": "https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "OpenAI revenue chief Dresser says enterprise AI adoption is 'at a tipping point'",
+    "summary": "The OpenAI Development Company is a partnership with 19 investment and consultancy firms and is majority-owned and controlled by the startup.",
+    "published": "Mon, 11 May 2026 20:04:09 GMT",
+    "link": "https://www.cnbc.com/2026/05/11/open-ai-dresser-enterprise-business.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Parabolic AI rally has bulls eyeing a comeback for this one-time meme metal trade",
+    "summary": "Silver prices surged 7% Monday to the highest since March.",
+    "published": "Mon, 11 May 2026 18:49:52 GMT",
+    "link": "https://www.cnbc.com/2026/05/11/parabolic-ai-rally-has-bulls-eyeing-a-comeback-for-this-one-time-meme-metal-trade.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Saudi Aramco CEO says oil market won't normalize until 2027 if Hormuz disruption persists",
+    "summary": "Oil inventories are rapidly drawing down as the Strait of Hormuz remains closed, Saudi Aramco CEO Amin Nasser said.",
+    "published": "Mon, 11 May 2026 18:17:02 GMT",
+    "link": "https://www.cnbc.com/2026/05/11/saudi-aramco-oil-iran-war-strait-hormuz.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "GM cutting hundreds of salaried IT workers as it trims costs, evaluates needs",
+    "summary": "General Motors is laying off hundreds of salaried employees in its information technology operations.",
+    "published": "Mon, 11 May 2026 23:32:38 GMT",
+    "link": "https://www.cnbc.com/2026/05/11/gm-layoffs.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "A beat-and-raise is key for Qnity \u2014 plus, high stakes for CEOs on Trump China trip",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "published": "Mon, 11 May 2026 18:22:50 GMT",
+    "link": "https://www.cnbc.com/2026/05/11/a-beat-and-raise-is-key-for-qnity-plus-ceos-on-trump-china-trip.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "JPMorgan Chase-led bank group reins in credit line to troubled KKR private credit fund as losses mount",
+    "summary": "The KKR fund, often referred to by its ticker, FSK, has become one of the most visible fault lines in the private credit story.",
+    "published": "Mon, 11 May 2026 19:32:25 GMT",
+    "link": "https://www.cnbc.com/2026/05/11/kkr-private-credit-fund-fsk-jpmorgan-chase-credit.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Former Tesla CFO Deepak Ahuja joins EV battery recycler Redwood Materials",
+    "summary": "Before joining Redwood Materials, Ahuja served as chief financial and business officer at the drone delivery startup Zipline for about three years.",
+    "published": "Mon, 11 May 2026 19:42:56 GMT",
+    "link": "https://www.cnbc.com/2026/05/11/redwood-materials-deepak-ahuja-tesla-straubel.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Chip stocks continue to surge. Here's how to buy one for less",
+    "summary": "The immediate impulse might be to jump in the chip rally. If you're in that camp, a more measured approach might be to use options and risk less capital.",
+    "published": "Mon, 11 May 2026 15:58:54 GMT",
+    "link": "https://www.cnbc.com/2026/05/11/chip-stocks-continue-to-surge-heres-how-to-buy-one-for-less.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "The wealthy keep buying Manhattan real estate despite potential pied-\u00e0-terre tax",
+    "summary": "Real estate sales in Manhattan worth $4 million or more increased in the past month, according to Olshan Realty.",
+    "published": "Mon, 11 May 2026 15:43:07 GMT",
+    "link": "https://www.cnbc.com/2026/05/11/luxury-real-estate-manhattan-mamdani-pied-a-terre-tax.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump taps former FEMA director to lead the disaster agency again",
+    "summary": "Cameron Hamilton led FEMA briefly in 2025. He was removed by the Trump administration after telling Congress that the agency should continue to exist. Now, he's been nominated to lead it once again.",
+    "published": "Mon, 11 May 2026 20:59:14 -0400",
+    "link": "https://www.npr.org/2026/05/11/nx-s1-5818675/trump-fema-disaster-emergency-hamilton-nominate",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Nonprofit sues the federal government over plans to paint Lincoln Memorial Reflecting Pool blue",
+    "summary": "The Cultural Landscape Foundation, a nonprofit advocacy organization, is asking a federal judge to halt President Trump's plans to resurface the reflecting pool on the National Mall.",
+    "published": "Mon, 11 May 2026 20:10:36 -0400",
+    "link": "https://www.npr.org/2026/05/11/g-s1-121548/a-nonprofit-has-sued-the-federal-government-over-its-plans-to-paint-the-lincoln-memorial-reflecting-pool-blue",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Why cruise ship passengers with possible hantavirus exposure went to Nebraska",
+    "summary": "The University of Nebraska is home to the only federally funded quarantine unit in the U.S. and a separate biocontainment unit that can treat people exposed to infectious diseases.",
+    "published": "Mon, 11 May 2026 18:19:18 -0400",
+    "link": "https://www.npr.org/2026/05/11/nx-s1-5818277/hantavirus-quarantine-cruise-ship",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "New poll finds a majority of Americans unsure if attempts on Trump's life were real",
+    "summary": "When given the options of \"true,\" \"false\" or \"not sure,\" and asked whether each of the incidents \"was staged,\" a majority of respondents said they thought each event was either staged or were unsure.",
+    "published": "Mon, 11 May 2026 17:17:55 -0400",
+    "link": "https://www.npr.org/2026/05/11/nx-s1-5818557/poll-trump-assassination-attempts-conspiracy-theories",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Abortion pill by mail allowed for at least 3 more days, the Supreme Court says",
+    "summary": "Full access to the abortion pill mifepristone, including through telemedicine and the mail, will continue for at least three more days, the high court said on Monday.",
+    "published": "Mon, 11 May 2026 17:14:36 -0400",
+    "link": "https://www.npr.org/2026/05/11/nx-s1-5818316/supreme-court-mifepristone-telemedicine-alito-delay",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Can Chinese AI solve inequality? + How dementia comes for your bank account",
+    "summary": "",
+    "published": "Mon, 11 May 2026 14:42:50 -0400",
+    "link": "https://www.npr.org/2026/05/11/g-s1-121351/can-chinese-ai-solve-inequality-how-dementia-comes-for-your-bank-account",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Trump wants to suspend the federal gas tax as prices soar amid war with Iran",
+    "summary": "Suspending the federal gas tax would require an act of Congress.",
+    "published": "Mon, 11 May 2026 12:59:38 -0400",
+    "link": "https://www.npr.org/2026/05/11/nx-s1-5818446/trump-gas-tax",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Abhinav puts forward Chahal gamble that Punjab Kings might have missed",
+    "summary": "Spinner did not bowl a single over in the loss to DC",
+    "published": "Tue, 12 May 2026 02:51:31 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536371.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "KL Rahul steps up a spot to No. 2 on the Orange Cap table",
+    "summary": "DC opener has 477 runs from 12 innings at a strike rate of 177.98",
+    "published": "Tue, 12 May 2026 01:53:13 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536369.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Miller, Axar and Ashutosh keep DC's IPL alive",
+    "summary": "PBKS' 210 was not enough as they succumbed to a fourth consecutive defeat of the season",
+    "published": "Tue, 12 May 2026 03:23:33 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536360.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Tawanda Muyeye century drives Kent to back-to-back wins",
+    "summary": "Surrey loanee James Taylor struck the winning runs against Gloucestershire after 10 wickets on debut",
+    "published": "Mon, 11 May 2026 19:42:01 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536336.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "'I'm 100% bowler and 100% batter' - Madhav Tiwari makes a splash for DC",
+    "summary": "He followed up figures of 2 for 40 with a vital cameo with the bat to help DC chase 211",
+    "published": "Mon, 11 May 2026 19:33:15 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536359.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Chappell, Bashir combine as Derbyshire claim overdue first win",
+    "summary": "Rearguard fifties from McSweeney and Bartlett in vain as Northants beaten by an innings",
+    "published": "Mon, 11 May 2026 17:29:59 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536304.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Bangladesh government asks committee to look into 2026 T20 World Cup fiasco",
+    "summary": "The three-man committee will look into all aspects of the decision that led to Bangladesh being removed from the tournament by the ICC",
+    "published": "Mon, 11 May 2026 17:20:32 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536347.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Rahul Dravid unveiled as owner of ETPL's Dublin Guardians",
+    "summary": "The league, co-owned by Bollywood star Abhishek Bachchan, features franchises owned by several former and current international cricketers",
+    "published": "Mon, 11 May 2026 17:17:47 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536343.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Hadley heroics steer Glamorgan to famous win over Somerset",
+    "summary": "Nightwatcher Ryan Hadley faces 231 balls for unbeaten fifty, as partnership with Sean Dickson confounds Somerset",
+    "published": "Mon, 11 May 2026 17:10:52 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536322.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Tim David accumulates two demerit points for code of conduct breach",
+    "summary": "RCB batter will be suspended for one match if he accumulates one more demerit point",
+    "published": "Mon, 11 May 2026 16:54:21 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536340.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Sussex beat Leicestershire and the rain for third win of the season",
+    "summary": "Ollie Robinson's wickets were followed by clean hitting from Dan Ibrahim and Tom Clark to chase 131",
+    "published": "Mon, 11 May 2026 16:28:09 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536294.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Duckett double-century guides Notts to high-scoring draw",
+    "summary": "England opener converts form into substance with fourth-day knock",
+    "published": "Mon, 11 May 2026 16:24:01 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536297.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
   }
 ]
