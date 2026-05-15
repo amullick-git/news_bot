@@ -2364,5 +2364,943 @@
     "published": "Tue, 12 May 2026 12:40:29 GMT",
     "link": "https://www.espncricinfo.com/ci/content/story/1536054.html?ex_cid=OTC-RSS",
     "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Giant new dinosaur identified from fossils in Thailand",
+    "summary": "The nagatitan is the largest dinosaur found in South-East Asia and weighs as much as nine elephants.",
+    "published": "Thu, 14 May 2026 17:28:56 GMT",
+    "link": "https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Five Italians die during cave dive in Maldives",
+    "summary": "Italy says the incident happened at a depth of 50m. Maldivian rescuers have so far found one body.",
+    "published": "Thu, 14 May 2026 20:48:26 GMT",
+    "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "War criminal Ratko Mladi\u0107's jail release request denied",
+    "summary": "A UN judge admits the 84-year-old is \"in the final stages of his life\", but says prison conditions in The Hague ensure his maximum comfort.",
+    "published": "Thu, 14 May 2026 17:45:39 GMT",
+    "link": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "'Pretty miraculous' - 11 rescued after pilot ditches plane in Atlantic",
+    "summary": "The survivors spent about five hours on a life raft before being rescued by the US Air Force off Florida's coast.",
+    "published": "Thu, 14 May 2026 18:38:42 GMT",
+    "link": "https://www.bbc.com/news/articles/ckgpj0m3wr2o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Warning of record global temperatures",
+    "summary": "Warning of record global temperatures as chance of very strong El Ni\u00f1o grows",
+    "published": "Thu, 14 May 2026 15:29:02 GMT",
+    "link": "https://www.bbc.com/news/videos/cy420k2y34lo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Hundreds of illegal motorbikes bulldozed in New York City crime crackdown",
+    "summary": "A moped had been used in the deadly stray-bullet shooting of a 7-month-old in Brooklyn last month, officials said.",
+    "published": "Thu, 14 May 2026 20:17:03 GMT",
+    "link": "https://www.bbc.com/news/videos/c1m2p42v847o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "BBC Inside Science",
+    "summary": "What do we know about the disease following its outbreak on a cruise ship this month?",
+    "published": "Thu, 14 May 2026 20:00:00 GMT",
+    "link": "https://www.bbc.co.uk/sounds/play/w3ct977l?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "OpenAI Trial Heads to Jury After Closing Arguments in Musk vs. Altman Case",
+    "summary": "Lawyers for Elon Musk and OpenAI made their closing arguments in the blockbuster federal trial on Thursday. Nine jurors are set to begin deliberations next week.",
+    "published": "Fri, 15 May 2026 01:47:03 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/technology/openai-trial-elon-musk-sam-altman.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up",
+    "summary": "Cerebras, a Silicon Valley maker of artificial intelligence chips, began trading on the stock market on Thursday, as SpaceX, OpenAI and Anthropic also take steps to go public.",
+    "published": "Thu, 14 May 2026 20:23:32 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Why A.I. Safety Controls Are Not Very Effective",
+    "summary": "Three years after the debut of ChatGPT, fooling A.I. systems into bad behavior is almost trivial.",
+    "published": "Thu, 14 May 2026 17:28:21 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/technology/artificial-intelligence-safety-controls.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "OpenAI Considers Legal Action Against Apple in Strained Relationship",
+    "summary": "The A.I. company, which is in the middle of a court fight with Elon Musk, has been unhappy with how Apple has integrated ChatGPT into its devices.",
+    "published": "Fri, 15 May 2026 00:48:15 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/technology/openai-apple-legal-action.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "What the jury must weigh to decide the case.",
+    "summary": "",
+    "published": "Thu, 14 May 2026 22:19:42 +0000",
+    "link": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/what-the-jury-must-weigh-to-decide-the-case",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Microsoft\u2019s C.E.O. testified about the company\u2019s OpenAI investments.",
+    "summary": "",
+    "published": "Thu, 14 May 2026 19:42:03 +0000",
+    "link": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/microsofts-ceo-testified-about-the-companys-openai-investments",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Elon Musk\u2019s lawyer asked Sam Altman on the stand: Are you trustworthy?",
+    "summary": "",
+    "published": "Thu, 14 May 2026 15:18:29 +0000",
+    "link": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/elon-musks-lawyer-asks-sam-altman-on-the-stand-are-you-trustworthy",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump Was Flattering, Xi Was Resolute. The Difference Spoke Volumes.",
+    "summary": "In contrast to his rhetoric about China at home, President Trump spoke in conciliatory terms with Xi Jinping, the Chinese leader.",
+    "published": "Fri, 15 May 2026 02:26:18 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump\u2019s and Xi\u2019s Body Language at the Summit Mirrored Their Styles",
+    "summary": "Although at odds over issues like trade and Taiwan, the U.S. and Chinese leaders met in Beijing with a show of friendly gestures.",
+    "published": "Thu, 14 May 2026 20:31:42 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-body-language.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Justices Allow Abortion Pill Access by Mail to Continue",
+    "summary": "Also, this is a big week for the art market. Here\u2019s the latest at the end of Thursday.",
+    "published": "Thu, 14 May 2026 22:08:30 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/briefing/supreme-court-abortion-pills.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Supreme Court Allows Abortion Pill Access by Mail to Continue",
+    "summary": "A federal appeals court ruling against the Food and Drug Administration would have restricted access by mail to mifepristone.",
+    "published": "Thu, 14 May 2026 22:51:53 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/us/politics/supreme-court-abortion-pill.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Mail-Order Abortions Have Quickly Become Common",
+    "summary": "Pills shipped to states with bans are a reason abortion has increased since Roe v. Wade was overturned.",
+    "published": "Thu, 14 May 2026 22:44:03 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/upshot/abortion-pills-court.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "House Again Blocks War Powers Vote to Halt Iran Conflict",
+    "summary": "But two vulnerable Republicans joined Democrats in the effort to force President Trump to win authorization from Congress, in the latest sign of G.O.P. jitters over the war.",
+    "published": "Thu, 14 May 2026 22:59:38 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/us/politics/war-powers-vote-house-trump-iran.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "A Top U.S. Commander Dismisses Reports of Civilian Deaths in Iran",
+    "summary": "Adm. Brad Cooper said a strike on an Iranian school may have been the only civilian casualty incident of the war.",
+    "published": "Thu, 14 May 2026 22:49:53 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/us/politics/civilian-deaths-strikes-iran.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "C.I.A. Director Visits Cuba as Tensions Rise and Island Runs Out of Oil",
+    "summary": "John Ratcliffe, the C.I.A. director, is the highest-ranking official in the Trump administration to visit the country.",
+    "published": "Fri, 15 May 2026 01:08:25 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/us/politics/cia-director-visits-cuba.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Mystery Grows Around Representative Thomas Kean Jr.\u2019s Absence",
+    "summary": "Representative Thomas Kean Jr. last voted in Washington on March 5, citing a medical issue. An appearance planned for late May has been canceled.",
+    "published": "Thu, 14 May 2026 23:43:35 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/nyregion/tom-kean-congress-missing.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "James Talarico\u2019s Taco Order Sparks Debate in Texas Senate Race",
+    "summary": "What started as a taco stop with former President Barack Obama quickly turned into a very Texas debate over the proper breakfast taco order.",
+    "published": "Thu, 14 May 2026 22:48:44 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/us/james-talarico-breakfast-taco-debate-texas.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Green Card Holders Targeted for Deportation by New \u2018Removal Apparatus\u2019",
+    "summary": "The Department of Homeland Security recently formed a unit tasked with revetting thousands of immigrants with permanent residency.",
+    "published": "Thu, 14 May 2026 19:58:36 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/us/politics/green-cards-immigration-deportation-trump.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Vance Blames Democrats as U.S. Halts Some Medicaid Payments, Claiming Fraud",
+    "summary": "Vice President JD Vance traveled to Maine for a speech, making a midterm election pitch that only Republicans could root out fraud in public benefits.",
+    "published": "Fri, 15 May 2026 00:25:45 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/us/politics/medicaid-fraud-vance-republicans-maine.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Why Trump\u2019s Reflecting Pool Repairs Are in Trouble",
+    "summary": "Federal records show that the no-bid contract to repair the Lincoln Memorial Reflecting Pool and paint it blue now costs $13.1 million. That\u2019s about seven times the amount President Trump initially said it would cost.",
+    "published": "Fri, 15 May 2026 01:26:50 +0000",
+    "link": "https://www.nytimes.com/video/us/100000010897413/why-trumps-reflecting-pool-repairs-are-in-trouble.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump-Ordered Citizenship Lists for Voting Are Likely Unreliable, Justice Dept. Says",
+    "summary": "At a court hearing over a presidential order seeking to exert more control over elections, a government lawyer said no \u201cresponsible state\u201d should rely on the lists to update their voter rolls.",
+    "published": "Fri, 15 May 2026 01:10:02 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/us/politics/trump-citizenship-list-voting.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "U.S. Border Patrol Chief Resigns in Latest Homeland Security Shake-Up",
+    "summary": "Michael Banks is the latest high-profile official to leave the Department of Homeland Security amid President Trump\u2019s immigration crackdown.",
+    "published": "Thu, 14 May 2026 23:12:03 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/us/politics/michael-banks-border-patrol-resign.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Inside the Secret Mission to Fly Taiwan\u2019s President to Africa",
+    "summary": "From satellite phone check-ins to a borrowed royal plane, new details show how Taiwan\u2019s leader\u2019s team outwitted China and pulled off an audacious journey to southern Africa.",
+    "published": "Thu, 14 May 2026 09:53:18 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/world/asia/taiwan-eswatini-china-flight.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "UCF Commencement Speaker Draws Boos After A.I. Remarks",
+    "summary": "Humanities students made their displeasure known at the University of Central Florida.",
+    "published": "Thu, 14 May 2026 17:05:58 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/style/ucf-commencement-ai-booed-gloria-caulfield.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Is Musk Running an Illegal Power Plant? The D.O.J. Says It Might Weigh In.",
+    "summary": "In a court filing, the administration signaled support for Elon Musk\u2019s artificial intelligence company in a lawsuit challenging xAI\u2019s generators at a huge Mississippi data center.",
+    "published": "Thu, 14 May 2026 22:25:55 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/climate/elon-musk-xai-data-center-doj.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Hantavirus Doesn\u2019t Spread Easily, but Officials May Be Downplaying Risks",
+    "summary": "The virus is clearly far less contagious than the coronavirus, scientists agree, but they have found cases where it spread among people without direct contact.",
+    "published": "Thu, 14 May 2026 19:53:09 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/health/hantavirus-spread-risk.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "16 More People in the U.S. Are Being Monitored for Hantavirus, C.D.C. Says",
+    "summary": "They were passengers on a plane to Johannesburg with an infected Dutch woman who later died.",
+    "published": "Thu, 14 May 2026 21:09:59 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/health/hantavirus-outbreak-quarantine.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Will Her Daughter Be Safe at Pali High as It Rebuilds From LA Wildfires?",
+    "summary": "It\u2019s a nightmare faced by families all around Los Angeles: After wildfire smoke blanketed homes, schools and offices with toxic chemicals, when is it OK to go back?",
+    "published": "Thu, 14 May 2026 15:54:36 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/us/palisades-high-school-la-wildfires.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Australian Jews Testify on Experiences of Antisemitism in Bondi Beach Inquiry",
+    "summary": "As part of a public inquiry into the massacre at Bondi Beach, dozens have described being targeted for their Jewish identity in their daily lives.",
+    "published": "Fri, 15 May 2026 00:50:53 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/world/australia/jews-antisemitism-bondi-beach.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Bumble Is Killing the Swipe Feature. What\u2019s Next for Dating Apps?",
+    "summary": "Bumble is losing the feature that reshaped how we look for love. Daters may be ready for something more intentional.",
+    "published": "Thu, 14 May 2026 19:18:29 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/well/bumble-swipe-feature-online-dating-apps.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Thomas Massie Is One of a Vanishing Breed: A Republican Who Will Stand Up to Trump",
+    "summary": "An individual with principles and quirks and an aversion to being told what to do.",
+    "published": "Thu, 14 May 2026 19:19:09 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/opinion/thomas-massie-trump-republicans.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Another Trump Appointee Learns It\u2019s Easier to Be a Critic Than a Leader",
+    "summary": "We have no F.D.A. director, no permanent C.D.C. director and no surgeon general.",
+    "published": "Thu, 14 May 2026 21:04:47 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/opinion/public-health-leaders-fda-cdc-surgeon-general.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "What Are Your Evening Rituals? We Want to Know.",
+    "summary": "Do you meditate? Play Wordle? Wear soft pajamas and sip chamomile tea? We\u2019d like to hear about the little routines that help you wind down.",
+    "published": "Thu, 14 May 2026 09:01:49 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/well/evening-rituals-sleep.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Former Oklahoma Death Row Prisoner Freed Before Retrial in a 1997 Killing",
+    "summary": "A lawyer for Richard Glossip said the ruling provided a step forward in his client\u2019s efforts to escape a \u201cdecades-long nightmare\u201d in a case that has faced substantial criticism.",
+    "published": "Fri, 15 May 2026 01:50:55 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/us/richard-glossip-release-death-row-bond.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "G. Robert Blakey Dies at 90; Drafted the RICO Anti-Racketeering Statute",
+    "summary": "He was also the chief counsel to the House Select Committee on Assassinations in the late 1970s and spent years as a Notre Dame law professor.",
+    "published": "Fri, 15 May 2026 00:18:49 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/us/george-robert-blakey-dead.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Dallas Asks Its Residents: What Should We Do With City Hall?",
+    "summary": "Faced with a billion-dollar repair bill and a desire to find a new arena for the Mavericks, the city is considering options that include demolishing the building. Residents submitted their own ideas.",
+    "published": "Fri, 15 May 2026 00:47:38 +0000",
+    "link": "https://www.nytimes.com/2026/05/14/us/dallas-city-hall-mavericks-submissions.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "PM Modi On UAE, 4-Nation Europe Tour For Energy, Tech Ties Amid Iran War",
+    "summary": "The six-day trip, which will include visits to the Netherlands, Sweden, Norway and Italy, comes after India and the European Union sealed a free trade agreement in January, dubbed by Modi as the \"mother of all deals\".",
+    "published": "Fri, 15 May 2026 08:50:44 +0530",
+    "link": "https://www.ndtv.com/india-news/pm-modi-on-uae-4-nation-europe-tour-for-energy-tech-ties-amid-iran-war-11498066#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "CHSE Odisha 12th Result 2026 Soon: Check Expected Date, And Time Here",
+    "summary": "CHSE, Odisha, is expected to announce the Odisha Class 12 Result 2026 soon.",
+    "published": "Fri, 15 May 2026 08:41:24 +0530",
+    "link": "https://www.ndtv.com/education/chse-odisha-12th-result-2026-soon-check-expected-date-and-time-here-11497983#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Petrol, Diesel Prices Hiked By Rs 3 Amid Iran War, CNG Up By Rs 2",
+    "summary": "Centre Hikes Petrol, Diesel Prices Amid Iran War",
+    "published": "Fri, 15 May 2026 08:27:26 +0530",
+    "link": "https://www.ndtv.com/india-news/centre-hikes-petrol-diesel-prices-amid-iran-war-11497808#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "After Petrol, Diesel, CNG Prices Hiked In Delhi By Rs 2 Amid Hormuz Blockade",
+    "summary": "The hike in CNG prices directly hits public transportation.",
+    "published": "Fri, 15 May 2026 08:25:43 +0530",
+    "link": "https://www.ndtv.com/india-news/after-petrol-diesel-cng-prices-hiked-in-delhi-amid-hormuz-blockade-iran-war-fuel-price-hike-11497891#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "CBSE Class 10 Second Board Exams 2026 Begin Today With Mathematics Paper, Check Result Date",
+    "summary": "CBSE Class 10 Second Board Exams 2026: The second board examination cycle will end on May 21.",
+    "published": "Fri, 15 May 2026 08:23:41 +0530",
+    "link": "https://www.ndtv.com/education/cbse-class-10-second-board-exams-2026-begin-mathematics-paper-today-check-full-schedule-result-date-11497998#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Petrol Diesel Prices Hike LIVE: Petrol To Now Cost Rs 97 In Delhi, Rs 106 In Mumbai",
+    "summary": "Petrol, Diesel Price Hiked in India: Diesel will now be sold at Rs 90.67 per litre in Delhi",
+    "published": "Fri, 15 May 2026 08:16:53 +0530",
+    "link": "https://www.ndtv.com/india-news/petrol-diesel-price-hike-news-live-updates-pm-modi-latest-rates-delhi-mumbai-india-fuel-rates-hiked-by-rs-3-in-delhi-mumbai-amid-us-iran-war-11497853#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Kerala SSLC Class 10th Result 2026 Out Today: Check Timing, Download Link Here",
+    "summary": "Kerala SSLC Result 2026 will be announced today, May 15.",
+    "published": "Fri, 15 May 2026 07:43:52 +0530",
+    "link": "https://www.ndtv.com/education/kerala-sslc-result-2026-out-today-check-timing-here-11497827#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "CBSE Class 10th Second Exam 2026 Begins Today: Check Exam Dates, Important Instructions",
+    "summary": "CBSE Class 10 second board exams 2026 begin today with Mathematics paper across centres.",
+    "published": "Fri, 15 May 2026 07:34:04 +0530",
+    "link": "https://www.ndtv.com/education/cbse-class-10th-second-exam-2026-begins-today-check-exam-dates-important-instructions-11497883#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Petrol Now Costs Rs 108 In Kolkata: Know Price In Your City",
+    "summary": "The hike, which comes into effect today, breaks the four-year-long freeze in rate revision.",
+    "published": "Fri, 15 May 2026 07:18:33 +0530",
+    "link": "https://www.ndtv.com/india-news/petrol-diesel-price-hike-news-centre-hikes-petrol-diesel-price-by-rs-3-know-fuel-price-in-your-city-delhi-mumbai-kolkata-chennai-us-iran-war-11497870#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Russia's Lavrov Meets PM Modi In Delhi, Discusses Ukraine, Middle East Conflict",
+    "summary": "As per the Prime Minister's Office, Foreign Minister Lavrov briefed PM Modi on the progress achieved in bilateral cooperation since the meeting of the two leaders in December 2025 for the 23rd India-Russia Annual Summit.",
+    "published": "Fri, 15 May 2026 05:05:18 +0530",
+    "link": "https://www.ndtv.com/india-news/india-reiterates-support-for-peaceful-resolution-of-conflicts-as-pm-modi-meets-lavrov-11497653#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "How VD Satheesan Was Picked For Kerala Top Job: Behind The Scenes",
+    "summary": "Rahul Gandhi had changed his mind about appointing Venugopal after he met Kerala leaders",
+    "published": "Fri, 15 May 2026 04:28:02 +0530",
+    "link": "https://www.ndtv.com/india-news/rahul-gandhi-kc-venugopal-how-vd-satheesan-was-picked-for-kerala-top-job-behind-the-scenes-11497669#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Noida Protest Accused Got Over Rs 1 Crore From Foreign Countries: Cops",
+    "summary": "The law and order situation had deteriorated during violent protest in Noida in April.",
+    "published": "Fri, 15 May 2026 03:38:43 +0530",
+    "link": "https://www.ndtv.com/india-news/noida-labour-protest-accused-got-over-rs-1-crore-from-foreign-countries-cops-11497613#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Mumbai Man Invites Wife's Lover Home For Drinks, Then Kills Him: Cops",
+    "summary": "The accused was arrested three hours following a chase. (Representational)",
+    "published": "Fri, 15 May 2026 02:41:56 +0530",
+    "link": "https://www.ndtv.com/india-news/mumbai-man-invites-wifes-lover-home-for-drinks-then-kills-him-cops-11497539#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Haryana Woman Murdered, Body Burnt In Himachal To Hide Evidence",
+    "summary": "The victim's family said after her father's death last year, the woman had been supporting her family.",
+    "published": "Fri, 15 May 2026 02:12:48 +0530",
+    "link": "https://www.ndtv.com/india-news/haryana-woman-murdered-body-burnt-in-himachal-to-hide-evidence-11497312#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "5 Killed, 23 Injured After Blast At Firecracker Factory In Madhya Pradesh",
+    "summary": "At least 23 people also injured in the incident. (Representational)",
+    "published": "Fri, 15 May 2026 01:30:54 +0530",
+    "link": "https://www.ndtv.com/india-news/5-killed-23-injured-after-blast-at-firecracker-factory-in-madhya-pradesh-11497414#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Amid NEET Paper Leak Row, Dharmendra Pradhan Chairs 1st Meeting On Re-Exam",
+    "summary": "This was the first such high-level review chaired by Dharmendra Pradhan.",
+    "published": "Fri, 15 May 2026 01:11:45 +0530",
+    "link": "https://www.ndtv.com/india-news/amid-neet-paper-leak-row-dharmendra-pradhan-chairs-1st-meeting-on-re-exam-11497390#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "'Petrol Prices Should Be Allowed To Rise': Economist Arvind Panagariya On PM Modi's Forex Appeal",
+    "summary": "Arvind Panagariya said the US-Iran war might come to an end soon.",
+    "published": "Fri, 15 May 2026 00:41:40 +0530",
+    "link": "https://www.ndtv.com/india-news/arvind-panagariya-on-pm-modis-appeal-petrol-prices-should-be-allowed-to-rise-11497256#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "How Sonia Gandhi, AK Antony Solved Kerala Stalemate: Inside Story",
+    "summary": "It was decided that Sonia Gandhi would also be involved in this selection process.",
+    "published": "Fri, 15 May 2026 00:06:09 +0530",
+    "link": "https://www.ndtv.com/india-news/how-sonia-gandhi-ak-antony-solved-kerala-stalemate-inside-story-11497245#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Farooq Abdullah Welcomes RSS Leader's Pak Talks Remark, Then Takes A Jibe",
+    "summary": "Abdullah said the RSS leader's remark provides an opportunity to start a dialogue with Pakistan",
+    "published": "Fri, 15 May 2026 00:03:01 +0530",
+    "link": "https://www.ndtv.com/india-news/farooq-abdullah-welcomes-rss-leaders-pak-talks-remark-then-takes-a-jibe-11497257#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Uttarakhand Files Chargesheet In First Triple Talaq Case Under Uniform Code",
+    "summary": "This marks thefirstmajor enforcement ofUCCprovisions regarding marriage and remarriage.",
+    "published": "Fri, 15 May 2026 00:00:39 +0530",
+    "link": "https://www.ndtv.com/india-news/uttarakhand-files-chargesheet-in-first-triple-talaq-case-under-uniform-code-11497248#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Mullvad exit IPs are surprisingly identifying",
+    "summary": "<p>Article URL: <a href=\"https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/\">https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48143880\">https://news.ycombinator.com/item?id=48143880</a></p>\n<p>Points: 77</p>\n<p># Comments: 17</p>",
+    "published": "Fri, 15 May 2026 02:35:35 +0000",
+    "link": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Find vendors used by any company",
+    "summary": "<p>Article URL: <a href=\"https://sub-processors.com/subprocessor/elasticsearch\">https://sub-processors.com/subprocessor/elasticsearch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48143617\">https://news.ycombinator.com/item?id=48143617</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "published": "Fri, 15 May 2026 01:55:57 +0000",
+    "link": "https://sub-processors.com/subprocessor/elasticsearch",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "UFerris a Versatile Learner Board for Rust Embedded Beginners",
+    "summary": "<p>Article URL: <a href=\"https://www.theembeddedrustacean.com/uferris\">https://www.theembeddedrustacean.com/uferris</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48143256\">https://news.ycombinator.com/item?id=48143256</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+    "published": "Fri, 15 May 2026 01:04:13 +0000",
+    "link": "https://www.theembeddedrustacean.com/uferris",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Velonus \u2013 Open-source AppSec scanner that deduplicates SAST noise",
+    "summary": "<p>Article URL: <a href=\"https://github.com/AliAmmar15/Velonus\">https://github.com/AliAmmar15/Velonus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48143235\">https://news.ycombinator.com/item?id=48143235</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+    "published": "Fri, 15 May 2026 01:02:05 +0000",
+    "link": "https://github.com/AliAmmar15/Velonus",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "LLM Policy for Rust Compiler",
+    "summary": "<p>Article URL: <a href=\"https://github.com/rust-lang/rust-forge/pull/1040\">https://github.com/rust-lang/rust-forge/pull/1040</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48142650\">https://news.ycombinator.com/item?id=48142650</a></p>\n<p>Points: 16</p>\n<p># Comments: 2</p>",
+    "published": "Thu, 14 May 2026 23:37:21 +0000",
+    "link": "https://github.com/rust-lang/rust-forge/pull/1040",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "More than sixty percent of the United States is experiencing drought conditions",
+    "summary": "<p>Article URL: <a href=\"https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html\">https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48142193\">https://news.ycombinator.com/item?id=48142193</a></p>\n<p>Points: 122</p>\n<p># Comments: 56</p>",
+    "published": "Thu, 14 May 2026 22:38:18 +0000",
+    "link": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771\">https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48142188\">https://news.ycombinator.com/item?id=48142188</a></p>\n<p>Points: 144</p>\n<p># Comments: 65</p>",
+    "published": "Thu, 14 May 2026 22:37:40 +0000",
+    "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "A few words on DS4",
+    "summary": "<p>Article URL: <a href=\"https://antirez.com/news/165\">https://antirez.com/news/165</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48142108\">https://news.ycombinator.com/item?id=48142108</a></p>\n<p>Points: 195</p>\n<p># Comments: 61</p>",
+    "published": "Thu, 14 May 2026 22:29:12 +0000",
+    "link": "https://antirez.com/news/165",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: GridTravel- A community based travel app for users to share routes",
+    "summary": "<p>Hey HN,<p>My co-founders and I have been building GridTravel, a free iOS app for planning and sharing travel routes with turn-by-turn GPS nav. We just launched yesterday after App Store approval.<p>We're three 21-year-old cofounders and best friends since middle school. We built GridTravel after years of frustration navigating new cities on every trip we took together.<p>The idea: most people either search Google for \"top 10 places to visit in\u2026\" lists or go on social media to get inspiration on where to go. GridTravel is built around user-generated routes \u2014 actual paths someone walked, that you can follow, save, download, and discover from other travelers. Users also have the ability to create private routes and collaborate with their friends.<p>Tech stack: Mapbox (Nav SDK + maps), Supabase (auth, DB, storage), and Swift. Native iOS for now, Android coming soon.<p>Our two real cost drivers are Mapbox Search (hit when users create routes) and Mapbox Navigation (hit when users use live navigation). Both have free tiers, then scale with MAU. We launched fully free to remove the barrier to entry. Revisiting pricing in Year 2 once nav costs start burning a hole in our pocket.<p>Current state: we're in the UGC cold-start hole. The app's value scales with route density in a given city, but route density requires users, who require routes. Classic chicken and egg. Our current plan:\n1. Manually seed 25\u201330 routes per city, starting with 5-10 priority cities where we have personal networks rather than spreading ourselves thin.\n2. Short-form content as the primary social channel (TikTok, reels, shorts). Doing A/B testing: whether route walkthroughs convert better than informational/skit videos.\n3. Partnering with micro-influencers in those cities (5k-50k following) for in-app routes plus cross-posts on their channels<p>Curious what HN thinks. Especially anyone who's shipped a UGC product. What worked for you on cold start? What do you wish you'd done differently? Happy to answer any questions about the app, costs, etc.<p>App link: <a href=\"https://apps.apple.com/us/app/gridtravel-local-routes/id6762578245\">https://apps.apple.com/us/app/gridtravel-local-routes/id6762...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48141902\">https://news.ycombinator.com/item?id=48141902</a></p>\n<p>Points: 27</p>\n<p># Comments: 13</p>",
+    "published": "Thu, 14 May 2026 22:05:30 +0000",
+    "link": "https://www.gridtravel.app",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
+    "summary": "<p>Article URL: <a href=\"https://www.openvehicles.com/home\">https://www.openvehicles.com/home</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48141732\">https://news.ycombinator.com/item?id=48141732</a></p>\n<p>Points: 47</p>\n<p># Comments: 5</p>",
+    "published": "Thu, 14 May 2026 21:50:17 +0000",
+    "link": "https://www.openvehicles.com/home",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate\">https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48141191\">https://news.ycombinator.com/item?id=48141191</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Thu, 14 May 2026 21:00:37 +0000",
+    "link": "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+    "summary": "<p>Article URL: <a href=\"https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing\">https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48140953\">https://news.ycombinator.com/item?id=48140953</a></p>\n<p>Points: 71</p>\n<p># Comments: 28</p>",
+    "published": "Thu, 14 May 2026 20:41:48 +0000",
+    "link": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "New arXiv policy: 1-year ban for hallucinated references",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/tdietterich/status/2055000956144935055\">https://twitter.com/tdietterich/status/2055000956144935055</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48140922\">https://news.ycombinator.com/item?id=48140922</a></p>\n<p>Points: 350</p>\n<p># Comments: 113</p>",
+    "published": "Thu, 14 May 2026 20:39:12 +0000",
+    "link": "https://twitter.com/tdietterich/status/2055000956144935055",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Amazonbot is finally respecting robots.txt",
+    "summary": "<p>Article URL: <a href=\"https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/\">https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48140730\">https://news.ycombinator.com/item?id=48140730</a></p>\n<p>Points: 145</p>\n<p># Comments: 33</p>",
+    "published": "Thu, 14 May 2026 20:22:35 +0000",
+    "link": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "RISC-V Router",
+    "summary": "<p>Article URL: <a href=\"https://router.start9.com/\">https://router.start9.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48140541\">https://news.ycombinator.com/item?id=48140541</a></p>\n<p>Points: 86</p>\n<p># Comments: 51</p>",
+    "published": "Thu, 14 May 2026 20:06:53 +0000",
+    "link": "https://router.start9.com/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Codex is now in the ChatGPT mobile app",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/work-with-codex-from-anywhere/\">https://openai.com/index/work-with-codex-from-anywhere/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48140529\">https://news.ycombinator.com/item?id=48140529</a></p>\n<p>Points: 219</p>\n<p># Comments: 107</p>",
+    "published": "Thu, 14 May 2026 20:06:14 +0000",
+    "link": "https://openai.com/index/work-with-codex-from-anywhere/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The Power of a Free Popsicle (2018)",
+    "summary": "<p>Article URL: <a href=\"https://www.gsb.stanford.edu/insights/power-free-popsicle\">https://www.gsb.stanford.edu/insights/power-free-popsicle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48139316\">https://news.ycombinator.com/item?id=48139316</a></p>\n<p>Points: 78</p>\n<p># Comments: 33</p>",
+    "published": "Thu, 14 May 2026 18:33:47 +0000",
+    "link": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "First public macOS kernel memory corruption exploit on Apple M5",
+    "summary": "<p>Article URL: <a href=\"https://blog.calif.io/p/first-public-kernel-memory-corruption\">https://blog.calif.io/p/first-public-kernel-memory-corruption</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48139219\">https://news.ycombinator.com/item?id=48139219</a></p>\n<p>Points: 291</p>\n<p># Comments: 54</p>",
+    "published": "Thu, 14 May 2026 18:25:09 +0000",
+    "link": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "DIY open-source ultrasound hardware on the rp2040/rp2350",
+    "summary": "<p>Article URL: <a href=\"http://un0rick.cc/pic0rick\">http://un0rick.cc/pic0rick</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48138913\">https://news.ycombinator.com/item?id=48138913</a></p>\n<p>Points: 70</p>\n<p># Comments: 6</p>",
+    "published": "Thu, 14 May 2026 18:01:17 +0000",
+    "link": "http://un0rick.cc/pic0rick",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "What's in a GGUF, besides the weights \u2013 and what's still missing?",
+    "summary": "<p>Article URL: <a href=\"https://nobodywho.ooo/posts/whats-in-a-gguf/\">https://nobodywho.ooo/posts/whats-in-a-gguf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48138332\">https://news.ycombinator.com/item?id=48138332</a></p>\n<p>Points: 111</p>\n<p># Comments: 42</p>",
+    "published": "Thu, 14 May 2026 17:21:49 +0000",
+    "link": "https://nobodywho.ooo/posts/whats-in-a-gguf/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Honda&#8217;s hybrid future starts with new Accord and RDX prototypes",
+    "summary": "Honda revealed prototypes of two new hybrid models, an Accord sedan and the Acura RDX SUV, during its annual business briefing this week, built on a platform that it says will begin launching next year. The RDX was announced earlier this year as Honda's first SUV to feature the next-gen version of its two-motor hybrid [&#8230;]",
+    "published": "2026-05-14T18:46:55-04:00",
+    "link": "https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Closing time",
+    "summary": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk wasn't asking for money and [&#8230;]",
+    "published": "2026-05-14T18:21:46-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Metroid Prime 4: Beyond got its first big discount",
+    "summary": "The most graphically-impressive first-person shooter made for the Nintendo Switch is $20 off at Best Buy. Right now, you can buy the physical version of Metroid Prime 4: Beyond for $39.99 ($20 off). The game looks surprisingly good on the 2017 hardware, but runs way better on the Switch 2 with the additional $10 upgrade [&#8230;]",
+    "published": "2026-05-14T17:38:45-04:00",
+    "link": "https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses",
+    "summary": "Meta is rolling out new features to its Meta Ray-Ban Display smart glasses, including bringing the ability to write messages just with hand gestures to all users. You'll be able to use the feature in WhatsApp, Messenger, Instagram and with \"native Android and iOS messaging,\" Meta says. The feature, which relies on the Meta Ray-Ban [&#8230;]",
+    "published": "2026-05-14T17:08:46-04:00",
+    "link": "https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Behold, the Elon Musk jackass trophy",
+    "summary": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI employees bought for [&#8230;]",
+    "published": "2026-05-14T16:59:23-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Leaked images reveal Xbox Elite 3 controller with mysterious new buttons",
+    "summary": "Hours after a smaller Xbox Cloud Gaming controller appeared online, Brazil's Anatel regulator has also accidentally published images of what appears to be Microsoft's upcoming Xbox Elite 3 controller. Tecnoblog has posted images that show the successor to the Elite 2 controller, with an interchangeable D-Pad, paddles, and two new mysterious buttons. The Elite 3 [&#8230;]",
+    "published": "2026-05-14T16:52:19-04:00",
+    "link": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "OpenAI\u2019s Codex is now in the ChatGPT mobile app",
+    "summary": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side quests,\" [&#8230;]",
+    "published": "2026-05-14T16:00:00-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Meta\u2019s summer sale drops Ray-Ban\u2019s new smart glasses to record-low prices",
+    "summary": "If you\u2019ve been curious about Ray-Ban\u2019s Meta smart glasses, right now they\u2019re on sale in Meta\u2019s biggest deal event outside Black Friday. As part of the company\u2019s Summer Sale event, which runs through May 26th, the original model is on sale starting at $224.25 ($74 off) at Amazon, Best Buy, and directly from Meta, matching [&#8230;]",
+    "published": "2026-05-14T15:44:17-04:00",
+    "link": "https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Microsoft starts canceling Claude Code licenses",
+    "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and other employees to experiment with coding for the first time, and sources tell me that Claude Code has proved [&#8230;]",
+    "published": "2026-05-14T15:00:00-04:00",
+    "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Linux devs are fighting the new age-gated internet",
+    "summary": "In January, Colorado lawmakers introduced a proposal to make operating systems collect users' ages and pass them to app developers. The bill, SB26-051, had clearly been designed for commercial platforms like iOS and Android - one of numerous plans to age-gate the internet through users' devices. It was intended to provide information that would let [&#8230;]",
+    "published": "2026-05-14T14:58:00-04:00",
+    "link": "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Cerebras pops 68% in Nasdaq debut, pushing the AI chipmaker's market cap to $95 billion",
+    "summary": "Cerebras is taking advantage of a bull market for silicon, as the chipmaker becomes one of the most notable pureplay AI IPOs to date.",
+    "published": "Thu, 14 May 2026 20:07:17 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "China to buy U.S. oil to feed its 'insatiable appetite,' Trump tells Fox News",
+    "summary": "Trump and Chinese President Xi Jinping are scheduled to meet Friday to close out a two-day summit that has featured pageantry and dealmaking.",
+    "published": "Fri, 15 May 2026 03:17:40 GMT",
+    "link": "https://www.cnbc.com/2026/05/15/trump-xi-summit-energy-purchase-china-iran-war-oil-shock-.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Oil prices jump after Trump says China agreed to buy U.S. crude following Xi talks",
+    "summary": "Oil prices rose Friday on news that China has agreed to purchase oil from America",
+    "published": "Fri, 15 May 2026 02:52:28 GMT",
+    "link": "https://www.cnbc.com/2026/05/15/oil-prices-china-us-iran-strait-of-hormuz-middle-east.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Supreme Court allows mail-order of abortion pill mifepristone pending appeal",
+    "summary": "Two drugmakers, Danco Laboratories and GenBioPro, had asked the Supreme Court to lift an appeals court ban on mifepristone being distributed via mail.",
+    "published": "Thu, 14 May 2026 23:00:05 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/supreme-court-abortion-mifepristone-mail-order-appeal.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "South Korea\u2019s Kospi retreats from 8,000 milestone as Trump-Xi talks enter second day",
+    "summary": "Asia-Pacific markets fell as investors tracked the second day of high-stakes talks between Donald Trump and Xi Jinping.",
+    "published": "Fri, 15 May 2026 01:42:28 GMT",
+    "link": "https://www.cnbc.com/2026/05/15/asia-markets-live-updates-today-trump-xi-nikkei-225-kospi-hang-seng-index.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Closing arguments conclude in Musk v. Altman, jury to deliberate next week",
+    "summary": "The jury's verdict in Musk v. Altman will be advisory, and deliberations are set to begin on Monday.",
+    "published": "Fri, 15 May 2026 01:02:39 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/closing-arguments-jury-openai-musk-altman.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Gemini surges after Winklevoss Capital Fund invests $100 million in the crypto exchange",
+    "summary": "The company also topped revenue expectations for the quarter and posted a narrower-than-expected loss than analysts anticipated, according to FactSet.",
+    "published": "Thu, 14 May 2026 22:23:40 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/gemini-surges-after-winklevoss-capital-invests-100-million-in-the-crypto-exchange.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Analysis: Trump finally gets his man at the Fed. Will Kevin Warsh disappoint him?",
+    "summary": "Kevin Warsh received the fewest votes of any Fed chair in history. Will it cripple him?",
+    "published": "Wed, 13 May 2026 23:22:51 GMT",
+    "link": "https://www.cnbc.com/2026/05/13/warsh-trump-congress-senate-analysis.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "China will order 200 Boeing jets, Trump tells Fox News",
+    "summary": "President Donald Trump told Fox News that China has agreed to buy 200 Boeing jets, according to a clip that aired Thursday.",
+    "published": "Fri, 15 May 2026 01:52:07 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/china-boeing-order-airplanes-737-max-trump-says.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Ford surges nearly 20% in two days. It might be an AI 'meme' stock after energy pivot",
+    "summary": "Ford Motor shares have been on a tear the past couple days, rising on buzz over its ties to the energy storage market.",
+    "published": "Thu, 14 May 2026 20:13:50 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/ford-surges-20percent-in-two-days-it-might-be-an-ai-meme-stock-after-energy-pivot.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "SpaceX\u2019s blockbuster IPO is coming. This overlooked industrial company will be a big winner",
+    "summary": "Club name Linde has been labeled \"the Exxon of space.\"",
+    "published": "Sat, 09 May 2026 13:49:24 GMT",
+    "link": "https://www.cnbc.com/2026/05/09/spacex-ipo-jim-cramer-linde-stock-winner.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Iran war fallout forces Singapore Airlines-backed Air India to cancel 27% of international flights",
+    "summary": "Air India, a carrier co-owned by Tata Group and Singapore Airlines, plans to scale back over a quarter of its international flights from June as rising costs bite.",
+    "published": "Thu, 14 May 2026 08:51:03 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/iran-war-fallout-forces-singapore-airlines-backed-air-india-to-cancel-27percent-of-international-flights.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Dems demand Lutnick resign over Epstein interview: 'You lied'",
+    "summary": "The White House said in February that President Donald Trump, who has also faced scrutiny over his ties to Epstein, continues to stand behind Lutnick.",
+    "published": "Thu, 14 May 2026 22:26:25 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/howard-lutnick-jeffrey-epstein-commerce-trump.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Group led by Egon Durban to buy 25% of Las Vegas Raiders at $9.9 billion valuation, sources say",
+    "summary": "First Football is selling its 25% stake in the team to a group led by Egon Durban at a $9.9 billion valuation.",
+    "published": "Thu, 14 May 2026 22:02:48 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/group-led-by-egon-durban-to-buy-25percent-of-las-vegas-raiders-at-9point9-billion-valuation-sources.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Cramer urges investors to be more selective in the AI frenzy",
+    "summary": "CNBC\u2019s Jim Cramer said investors should be more selective when investing in the semiconductor rally.",
+    "published": "Thu, 14 May 2026 22:22:42 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/cramer-urges-investors-to-be-more-selective-in-the-ai-frenzy.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "What's good for Cisco is good for Broadcom. 3 reasons both stocks are soaring",
+    "summary": "Cisco investors aren't the only victors from the network company's blowout earnings.",
+    "published": "Thu, 14 May 2026 20:25:22 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/whats-good-for-cisco-is-good-for-broadcom-3-reasons-both-stocks-are-up.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Bond market believes Fed behind the curve on inflation as Warsh takes over",
+    "summary": "Bond traders are hoping that the central bank's easing bias is replaced with a skewed view toward tightening.",
+    "published": "Thu, 14 May 2026 19:26:20 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/bond-market-fed-inflation-warsh-powell.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "SpaceX IPO prospectus could land as soon as next week, sources say",
+    "summary": "Elon Musk's reusable rocket company is getting closer to what's expected to be a record stock market debut.",
+    "published": "Thu, 14 May 2026 22:39:33 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/spacex-ipo-prospectus-could-land-as-soon-as-next-week-sources-say.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
+    "summary": "Miran served as a contrarian voice on the rate-setting Federal Open Market Committee.",
+    "published": "Thu, 14 May 2026 21:47:36 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/fed-governor-miran-submits-resignation-throws-support-behind-warsh-as-new-chair.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Kash Patel appeals dismissal of defamation lawsuit against ex-FBI official Figliuzzi",
+    "summary": "Kash Patel, the FBI director, is separately suing The Atlantic for allegedly defaming him with an article that said he has abused alcohol.",
+    "published": "Thu, 14 May 2026 19:55:45 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/fbi-patel-appeal-defamation-lawsuit-frank-figliuzzi.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored",
+    "summary": "The CDC said the risk to the general public from hantavirus remains low.",
+    "published": "Thu, 14 May 2026 19:56:23 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/cdc-no-us-hantavirus-cases-people-monitored.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Chinese parts are already in U.S. cars as lawmakers warn Trump against China auto deal",
+    "summary": "Trump-Xi talks spark bipartisan warnings over Chinese automakers, U.S. auto jobs, connected vehicles and China\u2019s growing role in the supply chain.",
+    "published": "Thu, 14 May 2026 20:17:02 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/trump-china-chinese-autos.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Crypto industry scores win as Clarity Act regulation bill clears Senate hurdle",
+    "summary": "The Senate Banking Committee advanced a rules-of-the-road crypto bill known as the Clarity Act by a vote of 15-9.",
+    "published": "Thu, 14 May 2026 17:55:58 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/clarity-act-congress-crypto-senate.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Nearly 40% chances of stagflation by end of 2026, traders say",
+    "summary": "Traders are not optimistic about the state of economy by the end of this year, placing high chances of stagflation, a mix of high inflation and unemployment.",
+    "published": "Thu, 14 May 2026 19:34:02 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/nearly-40percent-chances-of-stagflation-by-end-of-2026-traders-say-.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "U.S. Border Patrol Chief Mike Banks resigns",
+    "summary": "Controversy over enforcement actions by Border Patrol and ICE led to a partial shutdown of DHS from February to late April.",
+    "published": "Thu, 14 May 2026 17:24:56 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/border-patrol-mike-banks-resigns-cbp-immigration.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Some short sellers are seeing opportunity in this tech mania. How they're spotting fake AI stocks",
+    "summary": "Hedge fund managers said the current environment \u2014 fueled by aggressive spending on AI \u2014 is creating a fertile backdrop for bearish wagers",
+    "published": "Thu, 14 May 2026 18:35:22 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/some-short-sellers-are-seeing-opportunity-in-this-tech-mania-how-theyre-spotting-fake-ai-stocks.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "UFC's Dana White urges Trump to reverse gambling tax law. His letter moved the prediction market",
+    "summary": "In the letter, Dana White said that the cap is already starting to create problems for the gambling industry.",
+    "published": "Thu, 14 May 2026 18:45:00 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/ufcs-dana-white-urges-trump-to-reverse-gambling-tax-law.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "China will work behind the scenes to help reopen the Strait of Hormuz, Bessent says",
+    "summary": "President Trump held talks with President Xi during a two-day summit in Beijing on Thursday.",
+    "published": "Thu, 14 May 2026 17:25:01 GMT",
+    "link": "https://www.cnbc.com/2026/05/14/china-xi-trump-iran-war-oil-strait-hormuz-bessent.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "The 10 best songs competing at (a very contentious) Eurovision",
+    "summary": "Glitter, vocal gymnastics, on-stage flames \u2014 the show goes on on the Eurovision stage in Vienna, even though five countries are boycotting this year's contest due to Israel's participation.",
+    "published": "Thu, 14 May 2026 17:33:15 -0400",
+    "link": "https://www.npr.org/2026/05/14/nx-s1-5813511/eurovision-2026-predictions-top-songs",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Native kids with disabilities were held in wooden boxes. Sweeping reforms are coming",
+    "summary": "State officials in New York say the Salmon River district's special education program confined young children with disabilities in wooden boxes. Parents weren't notified.",
+    "published": "Thu, 14 May 2026 17:16:48 -0400",
+    "link": "https://www.npr.org/2026/05/14/nx-s1-5821682/salmon-river-mohawk-children",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Some plants have unusual genetics, which can help them weather cataclysmic events",
+    "summary": "Unlike humans, many plants have more than two sets of chromosomes. This trait may help them adapt to environmental upheaval, such as climate change.",
+    "published": "Thu, 14 May 2026 17:07:19 -0400",
+    "link": "https://www.npr.org/2026/05/14/nx-s1-5816431/some-plants-have-unusual-genetics-which-can-help-them-weather-cataclysmic-events",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "How AI is speeding new business creation, especially among Gen Z entrepreneurs",
+    "summary": "Entrepreneurs are turning to AI to speed the creation of new businesses, with Gen Z leading the way. That's according to a new report from the payroll software firm Gusto.",
+    "published": "Thu, 14 May 2026 17:06:14 -0400",
+    "link": "https://www.npr.org/2026/05/14/nx-s1-5816229/how-ai-is-speeding-new-business-creation-especially-among-gen-z-entrepreneurs",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "The Supreme Court keeps abortion pill mifepristone available by telehealth",
+    "summary": "The Supreme Court ruled on Thursday that the abortion pill mifepristone can continue to be prescribed online or over the phone and sent through the mail.",
+    "published": "Thu, 14 May 2026 17:02:20 -0400",
+    "link": "https://www.npr.org/2026/05/14/nx-s1-5821591/mifepristone-supreme-court-louisiana-telehealth",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Linda McMahon defends dismantling the Education Department, shifting its work",
+    "summary": "The education secretary faced questions about the shrinking of her agency, limits on federal student loan borrowing and oversight of the education of students with disabilities.",
+    "published": "Thu, 14 May 2026 16:42:29 -0400",
+    "link": "https://www.npr.org/2026/05/14/nx-s1-5815213/education-secretary-linda-mcmahon-house-hearing",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Cuba's power grid collapses and plunges eastern provinces into a major blackout",
+    "summary": "Cuba's aging power grid has eroded in recent years as it faces a prolonged economic crisis, made worse by a U.S. energy blockade of the island.",
+    "published": "Thu, 14 May 2026 16:30:43 -0400",
+    "link": "https://www.npr.org/2026/05/14/nx-s1-5822583/cuba-blackout",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Jury orders Boeing to pay $49.5 million to family of 737 MAX crash victim",
+    "summary": "A federal jury in Chicago awarded $49.5 million to the family of Samya Stumo, a young woman who was killed in the second of two Boeing 737 MAX crashes within months of each other in 2018 and 2019.",
+    "published": "Thu, 14 May 2026 14:10:59 -0400",
+    "link": "https://www.npr.org/2026/05/14/nx-s1-5822441/jury-award-737-max-crash-ethiopian-airlines",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "As Trump meets with Xi, security expert says China now faces the U.S. as a peer",
+    "summary": "Former national security official Rush Doshi says President Trump's sky-high tariffs on Chinese goods sparked a clash in which China prevailed. We look at the current state of U.S.-China relations.",
+    "published": "Thu, 14 May 2026 13:58:20 -0400",
+    "link": "https://www.npr.org/2026/05/14/nx-s1-5821644/as-trump-meets-with-xi-security-expert-says-china-now-faces-the-u-s-as-a-peer",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Researchers unearth Southeast Asia's largest dinosaur",
+    "summary": "They're calling it the \"last titan\" of Thailand. The sauropod \u2014 an herbivore with a long neck and tail \u2014 comes from the late Early Cretaceous period, some 100 to 120 million years ago.",
+    "published": "Thu, 14 May 2026 12:47:27 -0400",
+    "link": "https://www.npr.org/2026/05/14/nx-s1-5819740/dinosaur-thailand-sauropod-giant-asia-paleontology",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Ashwin on Hardik: 'You should have a thick skin to survive social media'",
+    "summary": "\"He is training in Mumbai now and I expect him to be back in Kolkata and play [against KKR next Wednesday],\" says Shardul Thakur after Hardik Pandya missed his third game in a row",
+    "published": "Fri, 15 May 2026 03:28:38 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536828.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Can Kamboj or Prince get to the top of the IPL 2026 Purple Cap table?",
+    "summary": "There were no major changes at the top of the Orange and Purple Cap tables at the end of PBKS vs MI. Here's how things stand",
+    "published": "Fri, 15 May 2026 01:33:29 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536823.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
+  },
+  {
+    "title": "Tilak Varma, Shardul Thakur hand PBKS fifth successive defeat",
+    "summary": "Jasprit Bumrah enjoys success in his first IPL game as MI captain",
+    "published": "Thu, 14 May 2026 18:59:58 GMT",
+    "link": "https://www.espncricinfo.com/ci/content/story/1536810.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from ESPN Cricinfo.com"
   }
 ]
