@@ -1,0 +1,562 @@
+[
+  {
+    "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it",
+    "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+    "published": "Wed, 17 Jun 2026 15:00:00 +0000",
+    "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+    "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation \u2014 where errors can be costly and reliability is at a premium.",
+    "published": "Wed, 17 Jun 2026 14:15:22 +0000",
+    "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "SpaceX alum nabs $22M to turn rocket engines into geothermal power plants",
+    "summary": "Critical Energy is turning rocket engines into geothermal power plants, and it wants to build 300 GW per year by 2045.",
+    "published": "Wed, 17 Jun 2026 13:30:00 +0000",
+    "link": "https://techcrunch.com/2026/06/17/spacex-alum-nabs-22m-to-turn-rocket-engines-into-geothermal-power-plants/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Canadian pension giant joins race to fund India\u2019s AI-fueled data center boom",
+    "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
+    "published": "Wed, 17 Jun 2026 12:38:09 +0000",
+    "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+    "summary": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.",
+    "published": "Wed, 17 Jun 2026 12:14:44 +0000",
+    "link": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Uber will bring its premium robotaxi service to Houston in 2027",
+    "summary": "This will be the second market to have an Uber robotaxi service outfitted with Lucid EVs equipped with a self-driving system from Nuro.",
+    "published": "Wed, 17 Jun 2026 11:00:00 +0000",
+    "link": "https://techcrunch.com/2026/06/17/uber-will-bring-its-premium-robotaxi-service-to-houston-in-2027/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Pinterest launches an experimental AI shopping app called \u2018Ask Pinterest\u2019",
+    "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
+    "published": "Wed, 17 Jun 2026 11:00:00 +0000",
+    "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests",
+    "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+    "published": "Tue, 16 Jun 2026 22:34:17 +0000",
+    "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
+    "summary": "In the coming weeks, Apple will move anonymously generated emails addresses to a different domain.",
+    "published": "Tue, 16 Jun 2026 22:09:32 +0000",
+    "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+    "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+    "published": "Tue, 16 Jun 2026 20:11:00 +0000",
+    "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
+    "summary": "Qualcomm CEO Cristiano Amon said Tuesday that the company is working on over 40 different AI wearable devices \u2014 including jewelry, earbuds with cameras, pins, and watches \u2014 a sign of how aggressively the chipmaker is betting that the next major computing platform won't be a phone.",
+    "published": "Tue, 16 Jun 2026 18:22:24 +0000",
+    "link": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Bug in FIFA World Cup internal system gave anyone ability to modify TV stream",
+    "summary": "A security researcher said a flaw in FIFA\u2019s online platforms allowed her to access several internal systems, including one that could have allowed her to take control of the TV stream of every World Cup match.",
+    "published": "Tue, 16 Jun 2026 18:13:49 +0000",
+    "link": "https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+    "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google\u2019s latest AI models to its devices.",
+    "published": "Tue, 16 Jun 2026 18:00:00 +0000",
+    "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Mobileye\u2019s US robotaxi launch will put it on both sides of the AV business",
+    "summary": "Mobileye apparently wants to own some of the robotaxi market, even if that puts it in direct competition with companies it supplies its self-driving system to.",
+    "published": "Tue, 16 Jun 2026 17:50:23 +0000",
+    "link": "https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Rivian cuts hundreds of workers after R2 deliveries start",
+    "summary": "The company said the cuts were part of a restructuring meant to help scale to profitability. Rivian recently pushed back its profitability goal to invest in autonomy.",
+    "published": "Tue, 16 Jun 2026 17:48:20 +0000",
+    "link": "https://techcrunch.com/2026/06/16/rivian-cuts-hundreds-of-workers-after-r2-deliveries-start/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Snap finally debuts its long-awaited AR glasses, Specs, and, oof, they aren\u2019t cheap",
+    "summary": "For over a decade now, Snap has been working on this device. Now the glasses are finally here. So what stands out on first impression?",
+    "published": "Tue, 16 Jun 2026 17:00:00 +0000",
+    "link": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Sixty percent of US consumers say \u2018AI\u2019 in brand messaging is a turnoff, survey finds",
+    "summary": "WordPress VIP\u2019s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
+    "published": "Tue, 16 Jun 2026 16:49:44 +0000",
+    "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "SpaceX is public: Everything you need to know post-IPO",
+    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+    "published": "Tue, 16 Jun 2026 15:53:12 +0000",
+    "link": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "India orders temporary ban on Telegram over exam fraud concerns",
+    "summary": "The restrictions include a nationwide ban on Telegram until June 22 and a requirement to disable the app's message-editing feature.",
+    "published": "Tue, 16 Jun 2026 15:49:00 +0000",
+    "link": "https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
+    "summary": "African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain company Ripple as an investor and partner.",
+    "published": "Tue, 16 Jun 2026 15:35:39 +0000",
+    "link": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Paramount Plus is two dollars for two months of ad-free viewing",
+    "summary": "Paramount Plus is offering new and former subscribers a discounted rate until June 25th, 2026. You\u2019ll pay 99 cents per month for the first two months, with the Premium plan automatically renewing for $13.99 per month after that, and the more limited Essential plan renewing for $8.99.&#160; Both plans include some excellent shows, like Freaks [&#8230;]",
+    "published": "2026-06-17T10:30:00-04:00",
+    "link": "https://www.theverge.com/gadgets/950929/paramount-plus-two-month-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "In a big year for horror, Widow\u2019s Bay still stands apart",
+    "summary": "Horror is having a moment. In 2026, the genre is especially well-represented: new blood is dominating the box office through films like Backrooms and Obsession, established names like Sam Raimi and Damian McCarthy are at the top of their game, and long-running franchises like 28 Years Later and Resident Evil continue to stay relevant. But [&#8230;]",
+    "published": "2026-06-17T10:30:00-04:00",
+    "link": "https://www.theverge.com/entertainment/951391/widows-bay-season-1-finale-apple-tv-horror",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The best early Amazon Prime Day deals so far",
+    "summary": "Amazon\u2019s earlier-than-usual Prime Day doesn\u2019t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple\u2019s AirPods Pro 3 are selling at their cheapest-ever price. Also, you can grab Ring\u2019s latest battery-powered doorbell for $60 off and it includes a [&#8230;]",
+    "published": "2026-06-17T10:12:57-04:00",
+    "link": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "How to find the best deals during Amazon\u2019s Prime Day sale",
+    "summary": "Amazon\u2019s Prime Day is one of the biggest shopping events of the year, and the four-day sale for 2026 begins June 23rd at 3:01AM ET and ends at the same time on June 27th. It will grant Prime members access to some of the best prices of the year on Amazon devices, as well as [&#8230;]",
+    "published": "2026-06-17T10:00:00-04:00",
+    "link": "https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "In Toy Story 5, the problem really is these damn phones (and tablets)",
+    "summary": "The Toy Story franchise began with a story about a vintage doll feeling threatened by the arrival of an electronic action figure. Woody and Buzz's rivalry embodied a shift that was happening in the '90s as children's toys were becoming more technologically sophisticated, and while toys have gotten even more tech-focused in the years since, [&#8230;]",
+    "published": "2026-06-17T10:00:00-04:00",
+    "link": "https://www.theverge.com/entertainment/950739/toy-story-5-review",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "AI search grounded in Facebook posts? What could go wrong?",
+    "summary": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff wrong. AI Mode is a [&#8230;]",
+    "published": "2026-06-17T09:30:00-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The best Apple deals you can already get ahead of Prime Day",
+    "summary": "Amazon&#8217;s Prime Day sale kicks off on June 23rd, but already we\u2019re seeing some notable Apple deals trickle in. Whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, many retailers are offering notable discounts ahead of the shopping event. Walmart and Amazon recently surprised us with a new all-time low on [&#8230;]",
+    "published": "2026-06-17T09:21:15-04:00",
+    "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Got Thread problems? There\u2019s an app for that",
+    "summary": "The new Thread Networks Diagnostics Tools app from Thread Group, the standards body behind the wireless IoT protocol, officially launches in beta today. The app, which arrives in beta today on iOS and Android, is the first dedicated tool to provide visibility into your Thread-based smart home network. I've been testing the alpha version of [&#8230;]",
+    "published": "2026-06-17T09:00:00-04:00",
+    "link": "https://www.theverge.com/tech/949001/thread-network-diagnostic-tools-app-troubleshooting-matter-smart-home",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Jackery announces \u2018world\u2019s slimmest\u2019 fridge battery",
+    "summary": "Jackery is jumping on the fridge-battery trend with what it says is the \"world's slimmest.\" FridgeGuard also looks nice; a break from power stations that tend to look more at home at a job site than the kitchen or living room. Measuring just 2.63 inches (67mm) thick, the Jackery FridgeGuard power station is meant to [&#8230;]",
+    "published": "2026-06-17T09:00:00-04:00",
+    "link": "https://www.theverge.com/tech/949683/jackery-fridgeguard-worlds-slimmest-fridge-battery",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Thread Direct looks to solve Matter\u2019s biggest setup headache",
+    "summary": "The smart home networking protocol Thread is adding a new way to onboard devices without a Thread border router. The feature, called Thread Direct, is designed to let users set up Thread-powered devices - such as smart plugs and smart locks - using only a phone or mobile device equipped with a Thread radio. Current [&#8230;]",
+    "published": "2026-06-17T09:00:00-04:00",
+    "link": "https://www.theverge.com/tech/950732/thread-direct-thread-2-0-smart-home-apple-google",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Native NACS ports, infotainment upgrade for MY27 Porsche Taycan",
+    "summary": "The bigger battery is standard and there are now simulated \"E-Shifts.\"",
+    "published": "Wed, 17 Jun 2026 12:00:45 +0000",
+    "link": "https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
+    "summary": "What you need to know about the expiration of keys securing your machine's boot sequence.",
+    "published": "Wed, 17 Jun 2026 11:15:17 +0000",
+    "link": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+    "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
+    "published": "Tue, 16 Jun 2026 22:22:44 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Year of free HPE software a \u201cstep in the correct direction\u201d in VMware rivalry",
+    "summary": "Partner tells Ars that HPE should be giving out more free VM Essentials licenses.",
+    "published": "Tue, 16 Jun 2026 22:11:15 +0000",
+    "link": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
+    "summary": "Transferring genes across species doesn't just happen in microbes.",
+    "published": "Tue, 16 Jun 2026 21:54:41 +0000",
+    "link": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Among the large new rockets Amazon was counting on, only Europe has delivered",
+    "summary": "\"As for Arianespace, they have definitely stepped up.\"",
+    "published": "Tue, 16 Jun 2026 21:14:08 +0000",
+    "link": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+    "summary": "Move originally planned for Monday would have heavily increased power users' costs.",
+    "published": "Tue, 16 Jun 2026 21:00:35 +0000",
+    "link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "US approval of Paramount/Warner Bros. deal surprised DOJ lawyers, report says",
+    "summary": "Trump admin green-lighting $111B deal \"reeks of corruption,\" Sen. Warren says.",
+    "published": "Tue, 16 Jun 2026 18:48:45 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/06/us-approval-of-paramount-warner-bros-deal-surprised-doj-lawyers-report-says/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Pentagon boasts of using AI to write reports mandated by Congress",
+    "summary": "Pentagon also claims 1.5 million personnel are using generative AI tools.",
+    "published": "Tue, 16 Jun 2026 18:11:05 +0000",
+    "link": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Android 17 starts hitting Pixel phones and watches today",
+    "summary": "Pixels will get their OTA in the coming weeks, but don't expect monumental changes.",
+    "published": "Tue, 16 Jun 2026 18:00:08 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Trump admin abandons fight against wind energy as clean energy output surges",
+    "summary": "Legal victories have dampened the Trump admin\u2019s efforts to halt wind and solar power.",
+    "published": "Tue, 16 Jun 2026 16:49:09 +0000",
+    "link": "https://arstechnica.com/science/2026/06/trump-admin-abandons-fight-against-wind-energy-as-clean-energy-output-surges/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
+    "summary": "Separately, neither could compete. Now they hope they can.",
+    "published": "Tue, 16 Jun 2026 16:37:45 +0000",
+    "link": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+    "summary": "Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses.",
+    "published": "Tue, 16 Jun 2026 16:18:07 +0000",
+    "link": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Mobileye is entering the US robotaxi market with standalone service",
+    "summary": "The service will leverage its Moovit platform to launch in an a US city in 2027.",
+    "published": "Tue, 16 Jun 2026 14:20:51 +0000",
+    "link": "https://arstechnica.com/cars/2026/06/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The Ars Technica 2026 Reader Survey: Let your voice be heard!",
+    "summary": "Tell us how you read Ars, and what you'd like to see more (or less!) of on the front page.",
+    "published": "Tue, 16 Jun 2026 13:35:55 +0000",
+    "link": "https://arstechnica.com/staff/2026/06/the-ars-technica-2026-reader-survey-let-your-voice-be-heard/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+    "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
+    "published": "Tue, 16 Jun 2026 11:15:46 +0000",
+    "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Commodore\u2019s newest gadget is a flip phone that blocks social media and browsers",
+    "summary": "Commodore's Callback 8020 is a phone \u201cwhere the customer is not the product.\"",
+    "published": "Tue, 16 Jun 2026 09:00:51 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/06/commodores-newest-gadget-is-a-flip-phone-that-blocks-social-media-and-browsers/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Key mission for Europe's commercial space enterprise scrubbed again",
+    "summary": "Isar Aerospace is not hurting for money, but it is sorely lacking in the currency of flight experience.",
+    "published": "Mon, 15 Jun 2026 23:40:38 +0000",
+    "link": "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Heart protection from COVID shots remains amid updates, study finds",
+    "summary": "Despite continued benefits, anti-vaccine rhetoric has driven down vaccination.",
+    "published": "Mon, 15 Jun 2026 21:04:26 +0000",
+    "link": "https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "UK to ban social media for kids under 16, may impose overnight curfews",
+    "summary": "Critics say bans push kids to riskier alternatives and can be beaten with VPNs.",
+    "published": "Mon, 15 Jun 2026 20:14:04 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The Download: a reality check for geoengineering and the science of interoception",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate system to counteract global warming, is moving beyond computer simulations&#8230;",
+    "published": "Wed, 17 Jun 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Entrepreneurs in Nairobi make the case for going solar",
+    "summary": "Most of Kenya\u2019s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-\u00adimproving economics of solar technology have helped. A couple of years ago, a panel cost about&#8230;",
+    "published": "Wed, 17 Jun 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Hacking the atmosphere: Geoengineering gets a reality check",
+    "summary": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-\u00adlooking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly\u2014so high you can see the curvature of the Earth.&#8230;",
+    "published": "Wed, 17 Jun 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Exclusive eBook: How AI is becoming the next military advisor",
+    "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by James O&#8217;Donnell Choose which file format to&#8230;",
+    "published": "Tue, 16 Jun 2026 20:35:02 +0000",
+    "link": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: the first brain implant power user and South Korea\u2019s AI obsession",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This man with ALS is the first \u201cpower user\u201d of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for almost&#8230;",
+    "published": "Tue, 16 Jun 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Want to get a data center online quickly? Give it some flex.",
+    "summary": "At the end of a tense and scoreless first half of a soccer match between the English men\u2019s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#8230;",
+    "published": "Tue, 16 Jun 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Why do South Koreans love AI so much?",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,&#8230;",
+    "published": "Mon, 15 Jun 2026 18:46:08 +0000",
+    "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "This man with ALS is \u201cthe first power user\u201d of a brain implant that lets him speak",
+    "summary": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to \u201cspeak\u201d sentences with the help of a research team in 2023. Since then, Harrell has clocked thousands of hours of use. He&#8230;",
+    "published": "Mon, 15 Jun 2026 15:12:28 +0000",
+    "link": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: cutting AC emissions, and nature\u2019s drug designer",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren\u2019t so sure. After three years of record-\u00adbreaking heat and another scorcher underway, air-conditioning isn\u2019t going anywhere. That\u2019s good for our health,&#8230;",
+    "published": "Mon, 15 Jun 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "These new solid-state ACs promise a cool future. Scientists aren\u2019t so sure.",
+    "summary": "After three years of record-\u00adbreaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That\u2019s good for health\u2014one Lancet study estimated that AC prevented nearly 200,000 premature deaths in 2019 alone\u2014but bad for the planet.&#8230;",
+    "published": "Mon, 15 Jun 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Why stdx is not on crates.io",
+    "summary": "<p>Article URL: <a href=\"https://kerkour.com/stdx-cratesio\">https://kerkour.com/stdx-cratesio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48571266\">https://news.ycombinator.com/item?id=48571266</a></p>\n<p>Points: 13</p>\n<p># Comments: 3</p>",
+    "published": "Wed, 17 Jun 2026 14:45:09 +0000",
+    "link": "https://kerkour.com/stdx-cratesio",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Epic Games announces Lore version control system",
+    "summary": "<p>Article URL: <a href=\"https://lore.org/\">https://lore.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48571081\">https://news.ycombinator.com/item?id=48571081</a></p>\n<p>Points: 94</p>\n<p># Comments: 48</p>",
+    "published": "Wed, 17 Jun 2026 14:30:27 +0000",
+    "link": "https://lore.org/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "AI demands more engineering discipline. Not less",
+    "summary": "<p>Article URL: <a href=\"https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline\">https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48570948\">https://news.ycombinator.com/item?id=48570948</a></p>\n<p>Points: 40</p>\n<p># Comments: 5</p>",
+    "published": "Wed, 17 Jun 2026 14:20:44 +0000",
+    "link": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "ICE Appears to Be Buying Immigrants' Tax Identifiers from a Data Broker",
+    "summary": "<p>Article URL: <a href=\"https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/\">https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48570763\">https://news.ycombinator.com/item?id=48570763</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
+    "published": "Wed, 17 Jun 2026 14:06:09 +0000",
+    "link": "https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Want your images back? Sure... That'll be $5!",
+    "summary": "<p>Article URL: <a href=\"https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars\">https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48569954\">https://news.ycombinator.com/item?id=48569954</a></p>\n<p>Points: 297</p>\n<p># Comments: 122</p>",
+    "published": "Wed, 17 Jun 2026 13:05:03 +0000",
+    "link": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+    "summary": "<p>Article URL: <a href=\"https://wpvip.com/future-of-the-web-2026/\">https://wpvip.com/future-of-the-web-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48569278\">https://news.ycombinator.com/item?id=48569278</a></p>\n<p>Points: 482</p>\n<p># Comments: 252</p>",
+    "published": "Wed, 17 Jun 2026 12:11:27 +0000",
+    "link": "https://wpvip.com/future-of-the-web-2026/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "MicroUI \u2013 A tiny, portable, immediate-mode UI library written in ANSI C",
+    "summary": "<p>Article URL: <a href=\"https://github.com/rxi/microui\">https://github.com/rxi/microui</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48569205\">https://news.ycombinator.com/item?id=48569205</a></p>\n<p>Points: 63</p>\n<p># Comments: 23</p>",
+    "published": "Wed, 17 Jun 2026 12:04:28 +0000",
+    "link": "https://github.com/rxi/microui",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "RFC 10008: The new HTTP Query Method",
+    "summary": "<p>Article URL: <a href=\"https://www.rfc-editor.org/info/rfc10008/\">https://www.rfc-editor.org/info/rfc10008/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48568502\">https://news.ycombinator.com/item?id=48568502</a></p>\n<p>Points: 147</p>\n<p># Comments: 73</p>",
+    "published": "Wed, 17 Jun 2026 10:51:17 +0000",
+    "link": "https://www.rfc-editor.org/info/rfc10008/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: I built 184 free browser tools \u2013 PDF, image, dev, AI tasks, no upload",
+    "summary": "<p>Article URL: <a href=\"https://brevio.pro\">https://brevio.pro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48568023\">https://news.ycombinator.com/item?id=48568023</a></p>\n<p>Points: 41</p>\n<p># Comments: 11</p>",
+    "published": "Wed, 17 Jun 2026 09:48:59 +0000",
+    "link": "https://brevio.pro",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: High-Res Neural Cellular Automata",
+    "summary": "<p>Neural CAs model self-organizing pattern formation.<p>Now they can generate patterns at HD resolution in real-time, enabled by turning each CA cell into a Neural Field.<p>Try 3 demos: grow a pattern from a seed (and damage it, it heals), synthesize PBR textures that can regenerate, or create 3D textures like clouds.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48567877\">https://news.ycombinator.com/item?id=48567877</a></p>\n<p>Points: 132</p>\n<p># Comments: 31</p>",
+    "published": "Wed, 17 Jun 2026 09:28:36 +0000",
+    "link": "https://cells2pixels.github.io/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index\">https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48567759\">https://news.ycombinator.com/item?id=48567759</a></p>\n<p>Points: 454</p>\n<p># Comments: 247</p>",
+    "published": "Wed, 17 Jun 2026 09:12:00 +0000",
+    "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Most of the CVE-2026-4020 attackers are the same client",
+    "summary": "<p>Article URL: <a href=\"https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020\">https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48567574\">https://news.ycombinator.com/item?id=48567574</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "published": "Wed, 17 Jun 2026 08:47:14 +0000",
+    "link": "https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Hacker News but for Independent Blogs",
+    "summary": "<p>Article URL: <a href=\"https://bubbles.town/\">https://bubbles.town/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48567155\">https://news.ycombinator.com/item?id=48567155</a></p>\n<p>Points: 299</p>\n<p># Comments: 92</p>",
+    "published": "Wed, 17 Jun 2026 07:49:44 +0000",
+    "link": "https://bubbles.town/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "GLM 5.2 Performance Benchmarks",
+    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/glm-5-2\">https://artificialanalysis.ai/models/glm-5-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48567004\">https://news.ycombinator.com/item?id=48567004</a></p>\n<p>Points: 89</p>\n<p># Comments: 28</p>",
+    "published": "Wed, 17 Jun 2026 07:30:51 +0000",
+    "link": "https://artificialanalysis.ai/models/glm-5-2",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "From Chesterton's fence to Chesterton's gap",
+    "summary": "<p>Article URL: <a href=\"https://stephantul.github.io/blog/unfence/\">https://stephantul.github.io/blog/unfence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48566727\">https://news.ycombinator.com/item?id=48566727</a></p>\n<p>Points: 52</p>\n<p># Comments: 39</p>",
+    "published": "Wed, 17 Jun 2026 06:50:47 +0000",
+    "link": "https://stephantul.github.io/blog/unfence/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Wolfram Language and Mathematica version 15",
+    "summary": "<p>Article URL: <a href=\"https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/\">https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48563609\">https://news.ycombinator.com/item?id=48563609</a></p>\n<p>Points: 198</p>\n<p># Comments: 105</p>",
+    "published": "Tue, 16 Jun 2026 23:15:44 +0000",
+    "link": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Humiliating IIS servers for fun and jail time",
+    "summary": "<p>Article URL: <a href=\"https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/\">https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48563394\">https://news.ycombinator.com/item?id=48563394</a></p>\n<p>Points: 319</p>\n<p># Comments: 78</p>",
+    "published": "Tue, 16 Jun 2026 22:53:34 +0000",
+    "link": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "GrapheneOS has been ported to Android 17",
+    "summary": "<p>Article URL: <a href=\"https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon\">https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48561654\">https://news.ycombinator.com/item?id=48561654</a></p>\n<p>Points: 911</p>\n<p># Comments: 476</p>",
+    "published": "Tue, 16 Jun 2026 20:34:35 +0000",
+    "link": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "GPT\u2011NL: a sovereign language model for the Netherlands",
+    "summary": "<p>Article URL: <a href=\"https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/\">https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48559188\">https://news.ycombinator.com/item?id=48559188</a></p>\n<p>Points: 239</p>\n<p># Comments: 272</p>",
+    "published": "Tue, 16 Jun 2026 17:54:02 +0000",
+    "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Has AI already killed self-help nonfiction books?",
+    "summary": "<p>Article URL: <a href=\"https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/\">https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48558489\">https://news.ycombinator.com/item?id=48558489</a></p>\n<p>Points: 371</p>\n<p># Comments: 419</p>",
+    "published": "Tue, 16 Jun 2026 17:11:05 +0000",
+    "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "source_name": "Hacker News"
+  }
+]
