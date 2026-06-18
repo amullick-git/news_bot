@@ -1,0 +1,99 @@
+HOST: Good Morning! And welcome to News Briefing, your essential update on the stories shaping our world. I'm Arjav.
+
+REPORTER: And I'm Arohi, bringing you the latest from across the globe.
+
+HOST: Today is June 18th. On this day in 1983, history was made when Sally Ride became the first American woman to travel into space, aboard the Space Shuttle Challenger. A truly pioneering moment for science and exploration.
+
+REPORTER: Absolutely, a reminder of human ingenuity and pushing boundaries.
+
+HOST: And we're pushing boundaries today with our comprehensive coverage, bringing you headlines from BBC News, Cricinfo.com, NDTV News, The New York Times, CNBC, NPR, and many more. We've got a packed program, from US politics and global defense shifts to the latest in AI, and crucial developments in India.
+
+REPORTER: That's right. We'll start in the US, where recent polling indicates some significant headwinds for the current administration.
+
+HOST: Arohi, an NPR/PBS News/Marist poll suggests a challenging summer ahead for President Trump. What are the key takeaways?
+
+REPORTER: The poll reveals a record low approval rating for President Trump's job performance, especially concerning his handling of the economy, as we head into the summer months before a critical midterm election. This sentiment reflects widespread public discontent, fueled by rising gas prices and general economic anxieties, indicating a tough electoral landscape for his party.
+
+HOST: That's a significant drop in approval, especially on the economy. Shifting gears slightly, but staying with President Trump, he recently made an announcement regarding India. What can you tell us about that?
+
+REPORTER: During a recent chat, President Trump announced his intention to visit India, stating he would protect the nation. This announcement signals a potential warming of relations with Prime Minister Modi, despite previously described "frosty" dynamics. It could indicate a strategic diplomatic move as geopolitical alignments continue to shift.
+
+HOST: An interesting development to watch. On the defense front, US Secretary of Defense Hegseth has voiced strong criticism of NATO and indicated a review of the US presence in Europe. What's behind these remarks, particularly after the US scaled back its commitments to a high readiness force within the alliance?
+
+REPORTER: Hegseth's renewed criticism of NATO underscores a continued push by the administration to reassess the US's financial and military commitments to the alliance. This follows a previous decision to reduce the US contribution to NATO's rapid response forces, suggesting a broader strategy to re-evaluate military deployments and responsibilities in Europe. The administration appears keen on allies taking on a greater share of the defense burden.
+
+HOST: That's a clear signal of intent regarding alliances. Now, to domestic policy and ethics: GOP Representative Bryan Steil is advancing a bill to curb members of Congress from participating in prediction market betting. What does this proposal entail, and why is it gaining traction now?
+
+REPORTER: Representative Steil's bill aims to prohibit members of Congress from betting on prediction markets like Kalshi and Polymarket. The proposal comes amidst increasing scrutiny over the potential for conflicts of interest and insider trading, as these platforms allow individuals to bet on future events, including policy decisions or election outcomes. It's an effort to ensure ethical conduct and maintain public trust in legislative processes.
+
+HOST: Maintaining public trust is indeed crucial. On a more somber note, we turn to a story out of Seattle from the summer of 2020. The unsolved killing of Antonio Mays Jr. during the Capitol Hill Occupied Protest, or CHOP zone. What do we know about this tragic case?
+
+REPORTER: Sixteen-year-old Antonio Mays Jr. traveled a thousand miles to join the racial justice movement in Seattle's CHOP zone. Less than a week after his arrival, he was shot and killed, and his case remains unsolved. The incident highlights the volatile and complex environment within the protest area and the enduring search for justice for Mays. The NPR, KUOW, and The Seattle Times investigation, "Embedded: We Keep Us Safe," delves deep into the circumstances surrounding his death.
+
+HOST: A truly heartbreaking story, and the search for answers continues. We move now to international relations, specifically a new deal between the US and Iran. The BBC has highlighted how this agreement differs from previous ones. What are the key distinctions?
+
+REPORTER: This new deal between the US and Iran affects three crucial areas: weapons, money, and ships. BBC Verify indicates it's designed to exert significant pressure by limiting Iran's access to advanced weaponry, restricting its financial maneuverability, and curbing its maritime activities. Unlike past agreements, it seems to adopt a more comprehensive approach to constrain Iran's regional influence and nuclear ambitions.
+
+HOST: So it's a multi-faceted approach. But from Iran's perspective, how do they view this deal? Is there a sense that it leaves them stronger than before, as suggested by some analyses?
+
+REPORTER: According to Amir Azimi of BBC Persian Service, Iran believes it has emerged from this "first chapter" of conflict and negotiations stronger than many initially expected. While specific gains aren't detailed, the perception within Iran is that despite new restrictions, the country has maintained or even enhanced its strategic position. However, Azimi cautions that future challenges for Iran may be even more formidable.
+
+HOST: An interesting contrast in perspectives there. From global politics, we shift our focus to the rapidly evolving world of artificial intelligence. We heard about President Trump's involvement in the G7 meeting on AI standards. What came out of that discussion?
+
+REPORTER: At the G7 Summit, tech leaders, including the CEOs of Anthropic and Google DeepMind, met with heads of state like President Trump to discuss AI standards. They collectively called for a US-led AI coalition, emphasizing the need for global collaboration and agreed-upon norms to ensure the safe and responsible development of artificial intelligence. The goal is to set international benchmarks and prevent a fragmented regulatory landscape.
+
+HOST: A US-led coalition could set a global precedent. However, there are reports that the Trump administration has been targeting employees at Anthropic. What's behind these accusations?
+
+REPORTER: Employees at Anthropic, a prominent AI company, have expressed puzzlement and growing concern over the Trump administration's moves to limit their latest AI models. These actions are perceived by some as a direct targeting of the company, raising questions about government intervention in AI development and potential implications for innovation and free enterprise within the tech sector. The precise reasons behind the administration's stance remain subject to speculation.
+
+HOST: Those are serious allegations. The AI world is clearly seeing some significant internal disagreements as well. The "Godfather of AI," Yann LeCun, has been vocal about Elon Musk's xAI, calling it a "failure." What's fueling this public spat, and what are LeCun's broader concerns about the industry?
+
+REPORTER: Yann LeCun, a pioneering figure in AI, renewed his long-running public dispute with Elon Musk, labeling Musk's xAI as a "failure." More broadly, LeCun expressed significant concern that AI labs are risking a "big bubble explosion," echoing skepticism about the high valuations of some major AI companies. He suggests that current market expectations may be unsustainable, hinting at potential instability in the AI investment landscape.
+
+HOST: A "big bubble explosion" sounds like a stark warning from a respected voice in the field. But not everyone shares that pessimistic view. Amazon founder Jeff Bezos has offered a more optimistic outlook on AI's impact on employment. What's his take?
+
+REPORTER: Jeff Bezos, the founder of Amazon and now involved in robotics and space travel, believes AI will ultimately create more jobs for humans rather than replacing them. He envisions AI leading to a labor shortage, suggesting that its transformative capabilities will open up entirely new industries and roles, demanding human creativity, problem-solving, and oversight. His perspective is that AI will augment, not displace, the human workforce.
+
+HOST: An optimistic counter-point. Away from the high-level debates, we're also seeing AI's influence reaching down into everyday consumer products and even business models. The shoe company Allbirds, for instance, has made a dramatic pivot. Tell us about that.
+
+REPORTER: Allbirds, known for its eco-friendly footwear, has made a dramatic pivot into the AI sector. In April, the company rebranded itself as NewBird AI and announced it would be trading its traditional shoe products for AI compute infrastructure. This strategic shift, accompanied by a new CEO hire, sent its stock soaring, reflecting investor excitement about its deep dive into the burgeoning AI industry and its reorientation towards a tech-focused future.
+
+HOST: A shoe company swapping footwear for AI compute infrastructure – that’s quite a transformation. And it highlights how deeply AI is integrating into unexpected areas, including education. It seems student cheating is becoming almost impossible to detect in this AI era. What's the scope of this challenge?
+
+REPORTER: The proliferation of new AI tools is making student cheating increasingly sophisticated and difficult to detect. Both major tech companies and small startups are actively hyping AI applications on social media that allow students to easily bypass traditional detection methods, including other AI detectors designed to catch plagiarism. This creates a significant challenge for educators and institutions trying to maintain academic integrity in a rapidly evolving technological landscape.
+
+HOST: That's a real dilemma for educators. Shifting continents now, let's turn our attention to India, where we have a mix of political, social, and educational news. First, in Jharkhand, we're hearing about cross-voting that helped a BJP-backed candidate win a Rajya Sabha seat. Can you elaborate?
+
+REPORTER: In Jharkhand's Rajya Sabha election, a BJP-backed candidate secured a seat thanks to cross-voting by MLAs from the CPI and Lalu Yadav's Rashtriya Janata Dal. Sources indicate this unexpected support from opposition parties allowed the BJP-aligned candidate to triumph, highlighting internal dissent and strategic maneuvering within the state's political landscape during the electoral process.
+
+HOST: Cross-voting often shakes up political dynamics. Now, to a horrific social story coming out of Bihar. What details can you share about this incident?
+
+REPORTER: In a shocking incident reported from Bihar, a woman was gang-raped, subjected to extreme violence including a bullet inserted in her private parts, and had cuts on her body. The survivor recounted being taken to a desolate location outside her home by the attackers. This brutal crime underscores the urgent need for enhanced safety and justice for women in the region.
+
+HOST: A truly disturbing report. Our thoughts are with the survivor. Moving to education, India's Re-NEET exam is in the spotlight with new, stringent security measures. What's being done to ensure its integrity after previous issues?
+
+REPORTER: The Re-NEET 2026 exam is implementing a multi-layer safety plan described as being "From Helicopters To High-Security Strongrooms." These extensive measures include unprecedented security protocols to prevent leaks and cheating, aiming to restore confidence in the examination process. It reflects the government's serious commitment to upholding the integrity of this crucial entrance exam.
+
+HOST: Those are serious precautions. Part of those security measures reportedly involves a temporary restriction on Telegram. What's the justification for this, and why is Telegram being singled out?
+
+REPORTER: Both the NTA and IIT Madras Director V. Kamakoti have justified the temporary restriction on Telegram, stating that the platform's vulnerability, particularly its ability for users to edit messages, has been exploited in the past for sharing leaked exam materials. This measure is a direct response to previous security breaches, aiming to prevent the dissemination of sensitive information during the Re-NEET examination period.
+
+HOST: So, the Telegram curb is a direct response to past incidents. This isn't the first time Telegram has faced restrictions globally, is it? Which other countries have taken similar steps against the messaging app?
+
+REPORTER: Indeed, India joins a list of several countries that have restricted Telegram. The messaging app, while a valuable platform for dissidents and activists, has also been utilized by criminals and extremist groups due to its encryption and group messaging capabilities. Countries like China, Iran, and Russia, among others, have previously imposed restrictions or outright bans, citing national security concerns or regulating information flow.
+
+HOST: A common thread for a platform with diverse uses. Let's shift gears completely to sports, specifically international cricket. We have some good news for India from the T20 World Cup.
+
+REPORTER: In the T20 World Cup, India's Shafali Verma delivered an outstanding all-round performance, leading her team to victory over the Netherlands. She scored her first T20 World Cup fifty and followed it up with a crucial three-wicket haul in Headingley. Her exceptional batting and bowling proved instrumental in securing the win for India.
+
+HOST: A brilliant performance from Shafali Verma, making her mark on the World Cup stage. Finally, we turn to health and a concerning trend: the thriving black market for a powerful new weight loss drug. What's happening here?
+
+REPORTER: There's a burgeoning black market for what people believe to be retatrutide, a powerful new weight loss drug. Individuals are sourcing it from various channels, including WhatsApp groups, Chinese labs, and websites that market it "for research purposes." This unregulated distribution raises significant health concerns due to the lack of quality control, potential for counterfeit products, and the absence of medical supervision.
+
+HOST: That's a serious public health risk. Thank you, Arohi, for those comprehensive updates.
+
+REPORTER: My pleasure, Arjav.
+
+HOST: And that brings us to the end of today's News Briefing. Before we go, here's a unique fact for you: The longest recorded cricket match in history wasn't a Test or One Day International as we know them today, but a 'timeless' Test between England and South Africa in 1939, which lasted for 12 days before being abandoned as the English team had to catch their boat home. Imagine following that live!
+
+HOST: That's all for today's News Briefing. Thank you for tuning in. We'll be back tomorrow with more essential news. Until then, have a great day.
