@@ -1,0 +1,562 @@
+[
+  {
+    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+    "summary": "Siri\u2019s AI overhaul may have grabbed the headlines at WWDC, but some of Apple\u2019s most useful AI features are arriving elsewhere in iOS 27.",
+    "published": "Sun, 21 Jun 2026 14:40:28 +0000",
+    "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
+    "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.\u201d",
+    "published": "Sat, 20 Jun 2026 20:32:29 +0000",
+    "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "In the Weights is your new AI-centric vanity search",
+    "summary": "So ... what's your In the Weights score?",
+    "published": "Sat, 20 Jun 2026 19:41:11 +0000",
+    "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Founders Fund\u2019s outlier bet on humanely killed fish",
+    "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
+    "published": "Sat, 20 Jun 2026 18:26:02 +0000",
+    "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+    "published": "Sat, 20 Jun 2026 16:39:57 +0000",
+    "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Every new iOS 27 feature that\u2019s worth knowing about",
+    "summary": "While it's not flashy like Apple\u2019s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
+    "published": "Sat, 20 Jun 2026 15:00:00 +0000",
+    "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "He made your free video player run smoothly. Now he\u2019s doing that for robots.",
+    "summary": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.",
+    "published": "Sat, 20 Jun 2026 00:47:44 +0000",
+    "link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "From PGP to Mythos: a brief history of export controls that didn\u2019t stop anyone",
+    "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic\u2019s cybersecurity model Mythos.",
+    "published": "Fri, 19 Jun 2026 22:40:14 +0000",
+    "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Go eyes robotaxis and acquisitions after Japan\u2019s biggest IPO of 2026 \u2014 here\u2019s why it matters",
+    "summary": "Go's IPO \u2014 Japan's biggest so far this year \u2014 has done more than provide a much-needed boost to the country's languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan's shortage of drivers.",
+    "published": "Fri, 19 Jun 2026 21:45:00 +0000",
+    "link": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Aura\u2019s impressive e-ink photo frame doesn\u2019t even look digital",
+    "summary": "All of Aura's frames connect to the Aura app, which is where you can upload photos from your phone, web, email, iCloud, or Google Photos.",
+    "published": "Fri, 19 Jun 2026 21:00:34 +0000",
+    "link": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Every fusion startup that has raised over $100M",
+    "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+    "published": "Fri, 19 Jun 2026 16:50:58 +0000",
+    "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Is the US government\u2019s Anthropic ban accidentally helping the brand?",
+    "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.&#160;So&#160;is [&#8230;]",
+    "published": "Fri, 19 Jun 2026 16:08:17 +0000",
+    "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Billionaire Ambani wants AI in every call, app, and home",
+    "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+    "published": "Fri, 19 Jun 2026 15:23:28 +0000",
+    "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "The CEO of Allbirds\u2019 new AI biz has a plan, but no team",
+    "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+    "published": "Fri, 19 Jun 2026 13:00:00 +0000",
+    "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "The US says ASML\u2019s top chip tool may be in China, but how?",
+    "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+    "published": "Fri, 19 Jun 2026 07:59:12 +0000",
+    "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
+    "summary": "Telegram argues India should block specific content, not an entire platform used by millions.",
+    "published": "Fri, 19 Jun 2026 01:01:00 +0000",
+    "link": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+    "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+    "published": "Fri, 19 Jun 2026 00:51:11 +0000",
+    "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+    "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the \u201cinference gold rush\" marches on.",
+    "published": "Thu, 18 Jun 2026 21:20:13 +0000",
+    "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+    "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+    "published": "Thu, 18 Jun 2026 20:30:00 +0000",
+    "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+    "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+    "published": "Thu, 18 Jun 2026 19:59:22 +0000",
+    "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "That viral clip you saw of someone winning big on Polymarket was probably fake",
+    "summary": "According to a Wall Street Journal investigation, Polymarket has been paying people to film themselves placing fake bets and celebrating fake wins on social media. WSJ identified over 1,100 deceptive clips and talked to creators who, despite not stating as such in their videos, confirmed the company paid them to create the clips. The videos [&#8230;]",
+    "published": "2026-06-21T10:19:46-04:00",
+    "link": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "How Roomba started a robot revolution",
+    "summary": "If you had a Roomba, especially in the early days of the robot vacuum, it was in many ways a fairly unsophisticated machine. It would just bump around your house, looking for something to suck up, until its battery died or its (way too small) tank filled up. Not that it mattered, though. You probably [&#8230;]",
+    "published": "2026-06-21T08:29:01-04:00",
+    "link": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Electric air taxis are stuck in the courtroom",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on aviation, air taxis, and Wi-Fi speeds at 30,000 feet, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Last year, [&#8230;]",
+    "published": "2026-06-21T08:00:00-04:00",
+    "link": "https://www.theverge.com/column/950975/electric-air-taxis-lawsuits",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Sony\u2019s Xperia 1 VIII is still a phone for the fans",
+    "summary": "The Xperia 1 VIII marks an attempt at a step change for Sony's flagship phone line. Not only has it had an aesthetic overhaul, but Sony has also revamped the camera system, dropping the continuous optical zoom telephoto that's defined the last four generations of Xperia phone. It's not all different. Sony staples like a [&#8230;]",
+    "published": "2026-06-21T07:00:00-04:00",
+    "link": "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The Atlantic created a searchable database of the music used to train AI",
+    "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over [&#8230;]",
+    "published": "2026-06-20T14:46:48-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Musician and YouTuber Hainbach on \u2018Breath of the Wild\u2019 and Swiss Army Knives",
+    "summary": "Stefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments. He describes it as being like the \"Dark Souls of synthesis.\" Despite using \"hard mode\" production techniques that often rely on telephone line testing equipment and [&#8230;]",
+    "published": "2026-06-20T11:20:00-04:00",
+    "link": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG",
+    "summary": "From its opening minutes, Moves of the Diamond Hand is upfront about what it offers: You're going to have a lot of strange conversations, and you're going to roll a lot of dice. Get on board with this proposition, and the reward is one of the most creative roleplaying games I've seen in years, even [&#8230;]",
+    "published": "2026-06-20T10:00:00-04:00",
+    "link": "https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Toy Story has the right take on tech",
+    "summary": "Hi, friends! Welcome to Installer No. 133, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy belated Juneteenth, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Sam Bankman-Fried and PE Guy and admin nights (which we [&#8230;]",
+    "published": "2026-06-20T08:00:00-04:00",
+    "link": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "SwitchBot\u2019s Standing Circulator Fan is worth fighting for",
+    "summary": "I can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the battery-powered Standing Circulator Fan from SwitchBot. As the name indicates, the SwitchBot fan is a 3D circulator - a fancy way of saying [&#8230;]",
+    "published": "2026-06-20T03:00:00-04:00",
+    "link": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Nothing cancels this year&#8217;s CMF phone due to RAM prices",
+    "summary": "Nothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phone 2 Pro won't be coming this year: We were working on a successor but with memory prices where they are right now, we can't build [&#8230;]",
+    "published": "2026-06-19T17:28:39-04:00",
+    "link": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Review: Widow's Bay is a boldly original take on comedic horror",
+    "summary": "An eminently binge-able series that honors classic horror tropes while reinventing them in surprising ways",
+    "published": "Sun, 21 Jun 2026 10:00:11 +0000",
+    "link": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The UK will scan asylum-seekers\u2019 faces for age checks\u2014despite knowing the tech is flawed",
+    "summary": "Tests of age-verification technology show the risks of life-altering errors.",
+    "published": "Sat, 20 Jun 2026 11:15:09 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
+    "summary": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
+    "published": "Fri, 19 Jun 2026 13:36:53 +0000",
+    "link": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
+    "summary": "Researchers say these coral strongholds may help repopulate more degraded reefs.",
+    "published": "Fri, 19 Jun 2026 11:15:11 +0000",
+    "link": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "A bold satellite rescue mission came together in record time, but will it work?",
+    "summary": "\"I consider this a success already, just from the fact that we're even going to try this.\"",
+    "published": "Fri, 19 Jun 2026 00:39:30 +0000",
+    "link": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+    "summary": "Crypto Clipper spreads over USB and communicates over Tor.",
+    "published": "Thu, 18 Jun 2026 23:28:52 +0000",
+    "link": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+    "summary": "In February, a Trump official refused to review the vaccine.",
+    "published": "Thu, 18 Jun 2026 22:08:59 +0000",
+    "link": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "As China looms, Taiwan makes more drones for defense and the US military",
+    "summary": "Taiwan's drone spending plans for defense could also boost business overseas.",
+    "published": "Thu, 18 Jun 2026 21:21:26 +0000",
+    "link": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "NASA asks Northrop Grumman to stop working on lunar HALO module",
+    "summary": "\"We are reassigning most affected employees across existing opportunities and programs.\"",
+    "published": "Thu, 18 Jun 2026 20:49:55 +0000",
+    "link": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Android verification is coming: Google confirms timeline and supported app stores",
+    "summary": "A new system service will roll out this month ahead of big changes starting in September.",
+    "published": "Thu, 18 Jun 2026 19:53:33 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
+    "summary": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers.",
+    "published": "Thu, 18 Jun 2026 19:41:35 +0000",
+    "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "After Senate vote, Trump admin backs off plans to kill ocean monitoring",
+    "summary": "It's unclear whether the system is currently intact.",
+    "published": "Thu, 18 Jun 2026 18:19:44 +0000",
+    "link": "https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
+    "summary": "One previously unreported SpaceX investor has ties to Chinese military contractors.",
+    "published": "Thu, 18 Jun 2026 17:42:18 +0000",
+    "link": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
+    "summary": "Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund.",
+    "published": "Thu, 18 Jun 2026 17:02:49 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Hunter-gatherers in Siberia died of a plague outbreak 5,500 years ago",
+    "summary": "We can't blame the Neolithic Transition for the plague anymore.",
+    "published": "Thu, 18 Jun 2026 15:04:40 +0000",
+    "link": "https://arstechnica.com/science/2026/06/hunter-gatherers-in-siberia-died-of-a-plague-outbreak-5500-years-ago/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The first long-duration resident of the ISS, a cosmonaut, has died",
+    "summary": "Two expeditions, two spacewalks, 322 days in space.",
+    "published": "Thu, 18 Jun 2026 14:34:36 +0000",
+    "link": "https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Hulk, Punisher join Peter Parker in Spider-Man: Brand New Day trailer",
+    "summary": "Peter Parker to Bruce Banner: \"I didn't know you could get that big.\"",
+    "published": "Thu, 18 Jun 2026 06:37:59 +0000",
+    "link": "https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Second carcass-eating fly species cleared by FDA for maggot wound therapy",
+    "summary": "Maggot therapy lacks robust data, but it has fans and a fail-safe \"bacon therapy.\"",
+    "published": "Wed, 17 Jun 2026 22:11:20 +0000",
+    "link": "https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Sooner than expected? Useful quantum error correction promised for 2028.",
+    "summary": "Elsewhere, beyond-classical quantum hardware, plus classical computing fires back.",
+    "published": "Wed, 17 Jun 2026 20:44:32 +0000",
+    "link": "https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "California says AT&T lied to FCC in attempt to shut off old phone network",
+    "summary": "FCC considers AT&#038;T petitions to preempt state rules and discontinue phone service.",
+    "published": "Wed, 17 Jun 2026 20:07:40 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/06/california-says-att-lied-to-fcc-in-attempt-to-shut-off-old-phone-network/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The Download: AI bottleneck debates, and BCI trials take off",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that\u2019s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck&#8230;",
+    "published": "Fri, 19 Jun 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "A startup claims it broke through a bottleneck that\u2019s holding back LLMs",
+    "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the&#8230;",
+    "published": "Fri, 19 Jun 2026 10:40:24 +0000",
+    "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The inevitable weakness of metrics",
+    "summary": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lot&#8230;",
+    "published": "Fri, 19 Jun 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Brain-computer interface trials are taking off",
+    "summary": "This week, I covered the story of Casey Harrell\u2014a man with ALS who is \u201cthe first power user\u201d of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables&#8230;",
+    "published": "Fri, 19 Jun 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: a new hunt for dark matter and Kenya\u2019s case for going solar",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading candidate for dark matter. But their search has&#8230;",
+    "published": "Thu, 18 Jun 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Geoengineering still faces major practical challenges",
+    "summary": "Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet. But it might be less like a simple brake and more like a complicated, entirely unsolved puzzle. Some&#8230;",
+    "published": "Thu, 18 Jun 2026 10:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The search for dark matter has been blown wide open",
+    "summary": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought invisible substance whose gravity has sculpted&#8230;",
+    "published": "Thu, 18 Jun 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: a reality check for geoengineering and the science of interoception",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate system to counteract global warming, is moving beyond computer simulations&#8230;",
+    "published": "Wed, 17 Jun 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Entrepreneurs in Nairobi make the case for going solar",
+    "summary": "Most of Kenya\u2019s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-\u00adimproving economics of solar technology have helped. A couple of years ago, a panel cost about&#8230;",
+    "published": "Wed, 17 Jun 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Hacking the atmosphere: Geoengineering gets a reality check",
+    "summary": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-\u00adlooking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly\u2014so high you can see the curvature of the Earth.&#8230;",
+    "published": "Wed, 17 Jun 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
+    "summary": "<p>Article URL: <a href=\"https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you\">https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48619140\">https://news.ycombinator.com/item?id=48619140</a></p>\n<p>Points: 24</p>\n<p># Comments: 4</p>",
+    "published": "Sun, 21 Jun 2026 14:09:07 +0000",
+    "link": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "I was wrong about the Midjourney ultra-sound scanner",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/MattZirwas/status/2068365802491834541\">https://twitter.com/MattZirwas/status/2068365802491834541</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48618536\">https://news.ycombinator.com/item?id=48618536</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+    "published": "Sun, 21 Jun 2026 12:55:08 +0000",
+    "link": "https://twitter.com/MattZirwas/status/2068365802491834541",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "David Ahl's Basic Computer Games Ported to C",
+    "summary": "<p>Article URL: <a href=\"https://github.com/proteanthread/bcg\">https://github.com/proteanthread/bcg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48618226\">https://news.ycombinator.com/item?id=48618226</a></p>\n<p>Points: 30</p>\n<p># Comments: 10</p>",
+    "published": "Sun, 21 Jun 2026 12:11:29 +0000",
+    "link": "https://github.com/proteanthread/bcg",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+    "summary": "<p>Article URL: <a href=\"https://www.beyondallreason.info\">https://www.beyondallreason.info</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48617990\">https://news.ycombinator.com/item?id=48617990</a></p>\n<p>Points: 160</p>\n<p># Comments: 66</p>",
+    "published": "Sun, 21 Jun 2026 11:38:01 +0000",
+    "link": "https://www.beyondallreason.info",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The case against geometric algebra (2024)",
+    "summary": "<p>Article URL: <a href=\"https://alexkritchevsky.com/2024/02/28/geometric-algebra.html\">https://alexkritchevsky.com/2024/02/28/geometric-algebra.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48617782\">https://news.ycombinator.com/item?id=48617782</a></p>\n<p>Points: 79</p>\n<p># Comments: 52</p>",
+    "published": "Sun, 21 Jun 2026 11:06:55 +0000",
+    "link": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Google Hits 50% IPv6",
+    "summary": "<p>Article URL: <a href=\"https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/\">https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48616800\">https://news.ycombinator.com/item?id=48616800</a></p>\n<p>Points: 261</p>\n<p># Comments: 261</p>",
+    "published": "Sun, 21 Jun 2026 08:21:22 +0000",
+    "link": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "A 3D voxel game engine written in APL",
+    "summary": "<p>Article URL: <a href=\"https://github.com/namgyaaal/avoxelgame\">https://github.com/namgyaaal/avoxelgame</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48616713\">https://news.ycombinator.com/item?id=48616713</a></p>\n<p>Points: 99</p>\n<p># Comments: 8</p>",
+    "published": "Sun, 21 Jun 2026 08:04:54 +0000",
+    "link": "https://github.com/namgyaaal/avoxelgame",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Windows UI evolution: Clicking an unassociated file",
+    "summary": "<p>Article URL: <a href=\"https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html\">https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48616173\">https://news.ycombinator.com/item?id=48616173</a></p>\n<p>Points: 91</p>\n<p># Comments: 58</p>",
+    "published": "Sun, 21 Jun 2026 06:24:52 +0000",
+    "link": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Building reliable agentic AI systems",
+    "summary": "<p>Article URL: <a href=\"https://martinfowler.com/articles/reliable-llm-bayer.html\">https://martinfowler.com/articles/reliable-llm-bayer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48615680\">https://news.ycombinator.com/item?id=48615680</a></p>\n<p>Points: 131</p>\n<p># Comments: 34</p>",
+    "published": "Sun, 21 Jun 2026 04:28:39 +0000",
+    "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Developers don't understand CORS (2019)",
+    "summary": "<p>Article URL: <a href=\"https://fosterelli.co/developers-dont-understand-cors\">https://fosterelli.co/developers-dont-understand-cors</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48614844\">https://news.ycombinator.com/item?id=48614844</a></p>\n<p>Points: 264</p>\n<p># Comments: 199</p>",
+    "published": "Sun, 21 Jun 2026 01:35:40 +0000",
+    "link": "https://fosterelli.co/developers-dont-understand-cors",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Epoll vs. io_uring in Linux",
+    "summary": "<p>Article URL: <a href=\"https://sibexi.co/posts/epoll-vs-io_uring/\">https://sibexi.co/posts/epoll-vs-io_uring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48613872\">https://news.ycombinator.com/item?id=48613872</a></p>\n<p>Points: 203</p>\n<p># Comments: 51</p>",
+    "published": "Sat, 20 Jun 2026 23:07:09 +0000",
+    "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Renting a sewing machine from the library",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland\">https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48613755\">https://news.ycombinator.com/item?id=48613755</a></p>\n<p>Points: 278</p>\n<p># Comments: 157</p>",
+    "published": "Sat, 20 Jun 2026 22:54:11 +0000",
+    "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Slow breathing modulates brain function and risk behavior",
+    "summary": "<p>Article URL: <a href=\"https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9\">https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48613555\">https://news.ycombinator.com/item?id=48613555</a></p>\n<p>Points: 278</p>\n<p># Comments: 79</p>",
+    "published": "Sat, 20 Jun 2026 22:22:52 +0000",
+    "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Alice is impatient",
+    "summary": "<p>Article URL: <a href=\"https://brooker.co.za/blog/2026/06/19/waiting.html\">https://brooker.co.za/blog/2026/06/19/waiting.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48612740\">https://news.ycombinator.com/item?id=48612740</a></p>\n<p>Points: 123</p>\n<p># Comments: 35</p>",
+    "published": "Sat, 20 Jun 2026 20:32:54 +0000",
+    "link": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Unauthorized alert sent to cell phones across Brazil",
+    "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam\">https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48612502\">https://news.ycombinator.com/item?id=48612502</a></p>\n<p>Points: 163</p>\n<p># Comments: 119</p>",
+    "published": "Sat, 20 Jun 2026 20:05:03 +0000",
+    "link": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+    "summary": "<p>Article URL: <a href=\"https://www.lispm.net/apps/uhf-x11/\">https://www.lispm.net/apps/uhf-x11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610853\">https://news.ycombinator.com/item?id=48610853</a></p>\n<p>Points: 214</p>\n<p># Comments: 49</p>",
+    "published": "Sat, 20 Jun 2026 17:04:24 +0000",
+    "link": "https://www.lispm.net/apps/uhf-x11/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "SMPTE Makes Its Standards Freely Accessible",
+    "summary": "<p>Article URL: <a href=\"https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community\">https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610827\">https://news.ycombinator.com/item?id=48610827</a></p>\n<p>Points: 274</p>\n<p># Comments: 93</p>",
+    "published": "Sat, 20 Jun 2026 17:01:36 +0000",
+    "link": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+    "summary": "<p>Article URL: <a href=\"https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html\">https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48609766\">https://news.ycombinator.com/item?id=48609766</a></p>\n<p>Points: 267</p>\n<p># Comments: 68</p>",
+    "published": "Sat, 20 Jun 2026 15:10:03 +0000",
+    "link": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
+    "summary": "<p>Article URL: <a href=\"https://github.com/mysk-research/loupe\">https://github.com/mysk-research/loupe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608645\">https://news.ycombinator.com/item?id=48608645</a></p>\n<p>Points: 395</p>\n<p># Comments: 159</p>",
+    "published": "Sat, 20 Jun 2026 12:08:23 +0000",
+    "link": "https://github.com/mysk-research/loupe",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: TownSquare, a tiny presence layer for websites",
+    "summary": "<p><a href=\"https://cauenapier.com/blog/townsquare_release/\" rel=\"nofollow\">https://cauenapier.com/blog/townsquare_release/</a><p><a href=\"https://cauenapier.com/blog/townsquare/\" rel=\"nofollow\">https://cauenapier.com/blog/townsquare/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608570\">https://news.ycombinator.com/item?id=48608570</a></p>\n<p>Points: 213</p>\n<p># Comments: 119</p>",
+    "published": "Sat, 20 Jun 2026 11:55:03 +0000",
+    "link": "https://townsquare.cauenapier.com/",
+    "source_name": "Hacker News"
+  }
+]
