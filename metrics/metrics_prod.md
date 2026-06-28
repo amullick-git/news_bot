@@ -1,3 +1,16 @@
+## Run: 2026-06-28 13:38 (Type: motivational_daily)
+**Links File**: [links_motivational_daily_2026-06-28_13.html](episodes/links_motivational_daily_2026-06-28_13.html)
+
+**Total Fetched**: 0 -> **Stage 1 (Local AI)**: 0 -> **Stage 2 (Gemini Final)**: 0
+
+**TTS Usage**: 3540 chars (Model: wavenet) -> **Running Total**: 7750500 chars
+
+### Breakdown by Source
+| Source | Fetched | Stage 1 (Local AI) | Selected |
+|---|---|---|---|
+
+----------------------------------------
+
 ## Run: 2026-06-28 06:04 (Type: general_daily)
 **Links File**: [links_general_daily_2026-06-28_06.html](episodes/links_general_daily_2026-06-28_06.html)
 
