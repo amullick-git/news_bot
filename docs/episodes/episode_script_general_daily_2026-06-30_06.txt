@@ -1,0 +1,79 @@
+HOST: Good Morning! Welcome to News Briefing! I'm Arjav, and joining me today with top headlines is our Senior Reporter, Arohi. Always a pleasure. First, 'On This Day in History.' June 30th, 1971, the 26th Amendment to the US Constitution was ratified, lowering the national voting age to 18. A powerful democratic evolution, relevant to today's election discussions. We're sourcing from BBC News, Hacker News, NPR Topics, US Top News and Analysis, and more, bringing you crucial developments. Let's begin.
+
+HOST: We start with international news, Arohi. The United States and Iran have reportedly agreed to "stand down" after a tense weekend of strikes. What's the latest?
+
+REPORTER: Tensions escalated as both nations accused each other of violating a ceasefire. Targeted strikes from both sides raised regional instability concerns. However, diplomatic efforts succeeded, with officials confirming a mutual understanding to de-escalate and halt further military actions. This agreement is critical to prevent full confrontation and restore fragile peace, though underlying issues remain.
+
+HOST: That's vital. Staying international, a report from Belgium: a US ambassador reportedly had local police intervene to stop journalists. Details?
+
+REPORTER: This incident sparks debate on journalistic freedom. Reports indicate a US ambassador requested Belgian police intervention to halt a news crew's reporting. Specifics are emerging, but press freedom advocates criticize the alleged attempt to impede the press, calling for transparency from officials.
+
+HOST: Now, a tragic update from South America. A powerful earthquake struck Venezuela hours after 146 nationals were deported from the US. Casualties?
+
+REPORTER: A devastating turn of events. On June 24th, 146 Venezuelan individuals were deported from Texas back to Caracas. Shortly after, while housed in a guarded hotel, powerful twin earthquakes struck. Initial reports indicate fatalities among these recently deported individuals. Authorities are assessing the full extent of damage and casualties among this vulnerable group.
+
+HOST: Shifting to domestic news, the Supreme Court had a dramatic day with impactful rulings on presidential power. What were the outcomes?
+
+REPORTER: It was a mixed bag for the Trump administration. The Supreme Court expanded presidential power, particularly the executive's ability to remove and replace independent regulators, a decision celebrated by the White House. However, the same day saw three major defeats, limiting other policy initiatives and legal arguments, creating a complex legal landscape.
+
+HOST: And some rulings specifically addressed contentious mail-in ballots. What was the court's stance?
+
+REPORTER: The Supreme Court weighed in on mail-in ballots, a topic of intense debate. While full details are being analyzed, the court’s decision appears to set new parameters or affirm existing guidelines regarding their use and legality. This has significant implications for future elections, given ongoing discussions surrounding integrity and voter access.
+
+HOST: Beyond ballots, Arohi, we're seeing a coordinated strategy to reshape US immigration policy. How is the Supreme Court involved, especially regarding birthright citizenship?
+
+REPORTER: The Trump administration has pursued a comprehensive strategy to curb both illegal and legal migration. The Supreme Court is a key arena, currently weighing a significant case concerning the administration's attempt to revoke birthright citizenship. This is part of a broader campaign of policy changes and legal challenges to alter US immigration.
+
+HOST: From the highest court to local races, Colorado just held its 2026 primary. What are the key takeaways?
+
+REPORTER: Colorado’s 2026 primaries for U.S. Senate, House, and gubernatorial seats saw significant contests. Results are being finalized, revealing tight races and clear winners, setting the stage for the general election. Early analysis suggests a strong showing for certain Democratic factions, testing the anti-establishment mood seen recently.
+
+HOST: And speaking of that anti-establishment mood, what were observers watching for regarding left-wing energy in those Colorado primaries?
+
+REPORTER: Analysts keenly observed whether progressive, left-wing energy within the Democratic party would maintain its upward trend. These elections were a vital test of voter sentiment, focusing on whether progressive candidates could successfully challenge established figures. Outcomes offer valuable data on the party's direction approaching midterms.
+
+HOST: Now, moving beyond specific races, how are political campaigns, in both primaries and general elections, increasingly utilizing artificial intelligence?
+
+REPORTER: AI is rapidly transforming how politicians run for office. While AI-generated images are visible, its true impact goes deeper. Campaigns leverage AI to analyze voter data, craft targeted materials, and write custom messages. It's becoming indispensable for enhancing efficiency and precision in modern political strategy.
+
+HOST: Fascinating. And speaking of AI, a significant development: the White House crackdown on leading AI models might be inadvertently boosting China's efforts. How so?
+
+REPORTER: That's the complex concern. The Trump administration's crackdown on prominent AI models is seen by some as a potential boon for China's AI sector. Restricting leading US models could create a vacuum, allowing Chinese developers to close the technological gap more rapidly. This raises serious questions about domestic AI policy's long-term strategic implications.
+
+HOST: This ties into economic news from China, Arohi, where factory activity grew faster than expected in June. Was AI demand a contributing factor?
+
+REPORTER: Indeed, quite significantly. China's manufacturing engine showed surprising resilience, with factory activity growing faster than anticipated. Surging global demand for AI technology was a primary driver, helping to offset economic drag from Middle East turmoil. This highlights AI's pivotal role in the global supply chain.
+
+HOST: From national policy to open-source innovation, we're hearing about Ornith-1.0: self-improving models for agentic coding. What is it?
+
+REPORTER: Ornith-1.0 represents an exciting development in open-source AI. It's a suite of models for "agentic coding," meaning they autonomously generate, refine, and debug code. The "self-improving" aspect suggests these models learn and get better over time, potentially revolutionizing software development by automating complex programming tasks.
+
+HOST: Moving to the human element in the booming AI era, a report from San Francisco indicates even $180,000 tech salaries aren't enough for some workers. What's driving this?
+
+REPORTER: It highlights extreme economic pressures and widening disparity in San Francisco's tech sector. As AI companies prepare for massive public offerings, they're creating a new, ultra-wealthy "AI elite," driving up costs. Tech workers find it increasingly difficult to keep pace with escalating living costs. Many question their ability to afford to stay.
+
+HOST: And on transportation tech, Waymo and Uber ended their robotaxi pilot in Phoenix. What does this mean for autonomous vehicles?
+
+REPORTER: The Waymo and Uber robotaxi partnership in Phoenix officially concluded. While the pilot ended, Waymo's self-driving cars remain operational for autonomous deliveries with DoorDash, not passenger transport. This pivot suggests a re-evaluation of passenger services, potentially indicating a near-term shift towards logistics and delivery applications.
+
+HOST: From self-driving cars to global supply chains, let's turn to market and business news. Apple supplier Luxshare seeks a substantial share sale in Hong Kong. Value?
+
+REPORTER: Apple supplier Luxshare Precision Industry aims to raise 24.27 billion Hong Kong dollars, roughly 3.1 billion US dollars, through a Hong Kong share sale. This move could indicate strategic expansion, a need for capital to meet increasing production demands, or broadening manufacturing capabilities. It reflects ongoing strength within Apple's global supply chain.
+
+HOST: In the volatile chip sector, Micron Technology, a memory chip maker, saw its post-earnings rally almost completely erased. Why the shift?
+
+REPORTER: Micron's shares declined sharply, nearly wiping out earlier gains after its positive earnings report. Traders are divided on its future. The reversal could be due to broader market corrections, profit-taking, or new concerns about memory chip demand or pricing. It underscores volatility in the semiconductor industry.
+
+HOST: Digital Realty also dipped after announcing a $3.5 billion investment in data centers from Blackstone. Market reaction?
+
+REPORTER: Digital Realty fell about 5% after announcing its plan to acquire a $3.5 billion stake in three data centers from Blackstone. While data center investment signals growth, the market's initial reaction was cautious. This could stem from the investment's size, financing concerns, or valuation perception, leading to a temporary pullback.
+
+HOST: For investors, Jim Cramer, as always, has his latest top things to watch. Any key highlights for Tuesday's trading?
+
+REPORTER: Jim Cramer has released his top ten. Comcast received a noteworthy upgrade, signaling renewed analyst confidence. Applied Materials, a semiconductor equipment player, also saw a massive price target hike, reflecting optimism about its role in future tech growth. These suggest positive sentiment for specific companies and sectors.
+
+HOST: Finally, a bright spot: small-cap stocks enjoyed their best first half in 35 years. What's fueling this impressive turnaround?
+
+REPORTER: This is a remarkable turnaround for small-cap stocks, their strongest first half since 1991, following years of underperformance. A primary driver appears to be the expanding "AI trade." As AI investment broadens beyond mega-cap tech, it increasingly benefits smaller companies in the AI ecosystem. This diversification is broadening the market's growth base.
+
+HOST: And that wraps up our News Briefing for today. A truly packed and insightful show, Arohi. Thank you for breaking down these stories for us. Before we sign off, here's a fun and surprising tech fact: The world's first computer mouse, invented by Douglas Engelbart in 1964, was not sleek plastic, but a simple, rectangular block of wood with wheels. Quite surprising! Thank you, Arohi, for another insightful report. And thank you to all our listeners for tuning in. We'll be back tomorrow with more essential news. Until then, have a great day.
