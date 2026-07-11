@@ -1,0 +1,562 @@
+[
+  {
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+    "published": "Sat, 11 Jul 2026 14:13:00 +0000",
+    "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+    "summary": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.",
+    "published": "Sat, 11 Jul 2026 01:01:28 +0000",
+    "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Phia accused of \u2018cookie stuffing,\u2019 taking affiliate credit on purchases it didn\u2019t earn",
+    "summary": "Phia, the shopping startup founded by Bill Gates\u2019 daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as \u201ccookie stuffing,\u201d which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.",
+    "published": "Sat, 11 Jul 2026 00:29:25 +0000",
+    "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+    "published": "Fri, 10 Jul 2026 23:55:07 +0000",
+    "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Bluesky\u2019s interim CEO, Toni Schneider, drops the \u2018interim\u2019",
+    "summary": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
+    "published": "Fri, 10 Jul 2026 21:51:55 +0000",
+    "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+    "published": "Fri, 10 Jul 2026 21:00:29 +0000",
+    "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+    "summary": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
+    "published": "Fri, 10 Jul 2026 17:42:36 +0000",
+    "link": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+    "published": "Fri, 10 Jul 2026 17:17:12 +0000",
+    "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+    "summary": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
+    "published": "Fri, 10 Jul 2026 17:11:51 +0000",
+    "link": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "China is catching up to Elon Musk\u2019s reusable rockets",
+    "summary": "China's state-owned space company recovered its first orbital rocket booster after launch.",
+    "published": "Fri, 10 Jul 2026 16:51:07 +0000",
+    "link": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Disney+ is considering a free streaming tier, report says",
+    "summary": "The launch of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers\u2019 viewing time.",
+    "published": "Fri, 10 Jul 2026 16:29:05 +0000",
+    "link": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
+    "summary": "Dumb Co sells flip phones that sync to your smartphone, bridging the infinite connectivity of the iPhone and the unrealistic limitations of an early 2000s relic.",
+    "published": "Fri, 10 Jul 2026 16:06:49 +0000",
+    "link": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+    "summary": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.",
+    "published": "Fri, 10 Jul 2026 15:00:09 +0000",
+    "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Netflix could be planning \u2018always-on\u2019 live TV channels",
+    "summary": "Amid signs of slowing engagement,  Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/7.",
+    "published": "Fri, 10 Jul 2026 14:53:08 +0000",
+    "link": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
+    "summary": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said.",
+    "published": "Fri, 10 Jul 2026 14:19:40 +0000",
+    "link": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
+    "summary": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers.",
+    "published": "Fri, 10 Jul 2026 14:11:03 +0000",
+    "link": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Hugging Face\u2019s CEO on why companies are done renting their AI",
+    "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
+    "published": "Fri, 10 Jul 2026 14:00:00 +0000",
+    "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "After Apple, India\u2019s smartphone manufacturing boom enters new phase with Vivo JV",
+    "summary": "Vivo's joint venture could become a template for Chinese smartphone makers in India.",
+    "published": "Fri, 10 Jul 2026 04:36:20 +0000",
+    "link": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
+    "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+    "published": "Fri, 10 Jul 2026 00:16:54 +0000",
+    "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Don\u2019t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
+    "summary": "The new exchange-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.",
+    "published": "Fri, 10 Jul 2026 00:13:00 +0000",
+    "link": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "White House taps the guy who keeps crying \u2018aliens\u2019 to run UFO group",
+    "summary": "Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FBI, and \"the intelligence community.\" The Council will provide scientific reports and advice to the UAP Governing Board, in an effort to \"resolve the nature of UAP,\" or [&#8230;]",
+    "published": "2026-07-11T10:18:33-04:00",
+    "link": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "ICE are heavily armed killers. They\u2019re also huge losers",
+    "summary": "Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under the flimsiest of pretenses. In the other, it made house calls to people who said [&#8230;]",
+    "published": "2026-07-11T09:00:00-04:00",
+    "link": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "A tasty RPG that will make you very hungry",
+    "summary": "Roleplaying games are often defined by excess. Storylines that span dozens of hours, side quests so big they could be their own game, massive worlds that require complex maps to explore, and casts so big you start forgetting character names. That's part of what makes these games feel like epic adventures, but it can also [&#8230;]",
+    "published": "2026-07-11T08:00:00-04:00",
+    "link": "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The perfect kit for all your tiny repairs",
+    "summary": "Hi, friends! Welcome to Installer No. 135, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, crank the AC, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about cold plunges and Colson Whitehead and the food truck mafia, [&#8230;]",
+    "published": "2026-07-11T08:00:00-04:00",
+    "link": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Are you filthy enough for a $700 portable shower?",
+    "summary": "Hot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlanding all summer in the great unknown. An itchy scalp and the vague smell of warm clams suddenly make the idea [&#8230;]",
+    "published": "2026-07-11T03:00:00-04:00",
+    "link": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "No, Flock isn&#8217;t threatening people for debating surveillance",
+    "summary": "On Thursday, the Instagram account for a lecture series in Newport Beach, CA posted a photo of what appeared to be a cease and desist letter from the surveillance technology company Flock Safety. Flock has received significant backlash over its technology and work with law enforcement agencies, and this letter kicked off yet another wave [&#8230;]",
+    "published": "2026-07-10T20:10:38-04:00",
+    "link": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+    "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission. [&#8230;]",
+    "published": "2026-07-10T19:49:50-04:00",
+    "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
+    "summary": "Last year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US, and Skyrover, a brand seemingly selling DJI drones in disguise. They're just two of the many firms DJI is suspected of starting to skirt the United States' foreign drone ban. But it appears the FCC is [&#8230;]",
+    "published": "2026-07-10T18:35:18-04:00",
+    "link": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+    "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, [&#8230;]",
+    "published": "2026-07-10T17:36:51-04:00",
+    "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "A decade later, Pok\u00e9mon Go finally made good on its original promise",
+    "summary": "When Niantic dropped the first Pok&#233;mon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pok&#233;mon like Mewtwo. But this week at the game's 10th anniversary event in New York City, Pok&#233;mon Go showed the world how it's done. Almost 2,000 players (many of [&#8230;]",
+    "published": "2026-07-10T15:51:10-04:00",
+    "link": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "A Jupiter-size planet that escaped its star's death",
+    "summary": "It's unclear how the planet avoided its star's bloated red giant stage.",
+    "published": "Sat, 11 Jul 2026 12:00:58 +0000",
+    "link": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
+    "summary": "For the first time since 1995, the Bureau of Land Management is rewriting its grazing regulations.",
+    "published": "Sat, 11 Jul 2026 11:11:26 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Quantum error correction can constantly recalibrate a processor",
+    "summary": "Reinforcement learning uses error information to adjust control algorithms.",
+    "published": "Fri, 10 Jul 2026 23:02:30 +0000",
+    "link": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Increased drone surveillance of illegal July 4th fireworks led to $100K fine",
+    "summary": "More police and firefighters use drones to catch and deter illegal fireworks.",
+    "published": "Fri, 10 Jul 2026 22:37:22 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "China recovered its first reusable rocket and showed a new way to do it",
+    "summary": "\"Clearly, they admire the work that's being done by SpaceX and are trying to replicate it.\"",
+    "published": "Fri, 10 Jul 2026 21:41:43 +0000",
+    "link": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Check out the first images of Quest shipwreck",
+    "summary": "The <em>Quest</em> shipwreck is in worse shape than expected, but it has turned into a thriving marine ecosystem.",
+    "published": "Fri, 10 Jul 2026 19:59:31 +0000",
+    "link": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Ransomware negotiator hired to represent victims was working for the attackers",
+    "summary": "Six years in prison for man who \"sold out the very victims he was hired to represent.\"",
+    "published": "Fri, 10 Jul 2026 19:40:11 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Study shows how toxic RFK Jr.\u2019s change to measles vaccine is for US toddlers",
+    "summary": "The children who get a combination shot are some of the most vulnerable.",
+    "published": "Fri, 10 Jul 2026 19:25:04 +0000",
+    "link": "https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Valve's new Steam Machine verification system is silent on these Steam Deck-busters",
+    "summary": "Dozens of titles too taxing for Steam Deck are still unrated for the new hardware.",
+    "published": "Fri, 10 Jul 2026 16:53:31 +0000",
+    "link": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements",
+    "summary": "Affected users will have to configure their lights and settings all over again.",
+    "published": "Fri, 10 Jul 2026 16:36:09 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "An orbiting disco ball gave Einstein\u2019s theory its most precise test yet",
+    "summary": "The Earth may not be that massive, but it still distorts space-time.",
+    "published": "Fri, 10 Jul 2026 16:11:35 +0000",
+    "link": "https://arstechnica.com/science/2026/07/an-orbiting-disco-ball-gave-einsteins-theory-its-most-precise-test-yet/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
+    "summary": "Digital Services Act may force Meta to make big changes on its platforms.",
+    "published": "Fri, 10 Jul 2026 15:46:18 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "NASA sure seems to be asking an awful lot of private space stations",
+    "summary": "\"Industry finally knows what NASA is asking of them.\"",
+    "published": "Fri, 10 Jul 2026 15:15:58 +0000",
+    "link": "https://arstechnica.com/space/2026/07/nasa-finally-releases-a-critical-planning-document-for-private-space-stations/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Volkswagen Group tells its board how to fix it, unions disagree",
+    "summary": "VW's plan calls for half as many models but didn't mention closures or job cuts.",
+    "published": "Fri, 10 Jul 2026 13:51:10 +0000",
+    "link": "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Wally Funk, last of Mercury 13 and oldest woman in space, dies at 87",
+    "summary": "\"I have been waiting a long time to finally get up there...\"",
+    "published": "Fri, 10 Jul 2026 11:30:29 +0000",
+    "link": "https://arstechnica.com/space/2026/07/wally-funk-last-of-mercury-13-and-oldest-woman-in-space-dies-at-87/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Is an air-conditioning revolution coming to Europe?",
+    "summary": "The AC culture wars may be solved by advances in environmentally friendly technology.",
+    "published": "Fri, 10 Jul 2026 11:10:08 +0000",
+    "link": "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Rocket Report: \"Panic\" over Transporter availability; Isar to launch from Canada",
+    "summary": "\"We are delighted to actively help shape the ramp-up of the Ariane 6.\"",
+    "published": "Fri, 10 Jul 2026 11:00:43 +0000",
+    "link": "https://arstechnica.com/space/2026/07/rocket-report-panic-over-transporter-availability-isar-to-launch-from-canada/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Like a cheat code for your car: We investigate ECU tuning",
+    "summary": "Now it's an arms race between OEMs locking down chips and tuners trying to crack them.",
+    "published": "Fri, 10 Jul 2026 11:00:32 +0000",
+    "link": "https://arstechnica.com/cars/2026/07/like-a-cheat-code-for-your-car-we-investigate-ecu-tuning/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
+    "summary": "If <em>Homo floresiensis</em> wasn't a fire-using hunter, its origins could be different than we thought.",
+    "published": "Thu, 09 Jul 2026 22:29:10 +0000",
+    "link": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Michigan's explosive outbreak of diarrheal parasite jumps to over 1,200 cases",
+    "summary": "In neighboring Ohio, cases have reportedly reached over 500.",
+    "published": "Thu, 09 Jul 2026 21:56:44 +0000",
+    "link": "https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The Download: Claude\u2019s inner workings and OpenAI\u2019s \u201csuper app\u201d",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what\u2019s really going on inside large language models as they&#8230;",
+    "published": "Fri, 10 Jul 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Sperm donors need limits, says a European fertility group",
+    "summary": "Ties van der Meer doesn\u2019t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He&#8230;",
+    "published": "Fri, 10 Jul 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+    "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what\u2019s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;",
+    "published": "Thu, 09 Jul 2026 20:22:28 +0000",
+    "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US \u2014Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year&#8230;",
+    "published": "Thu, 09 Jul 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Four nuclear reactors hit a big milestone in the US",
+    "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can&#8230;",
+    "published": "Thu, 09 Jul 2026 08:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "EmTech AI 2026: The Rise of the AI Platform",
+    "summary": "",
+    "published": "Wed, 08 Jul 2026 16:26:10 +0000",
+    "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: worms fight pollution, and geoengineering faces reality",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips to&#8230;",
+    "published": "Wed, 08 Jul 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: your stake in OpenAI, and the Treasury\u2019s AI warning",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family\u2019s $300 stake in OpenAI Sam Altman\u2019s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving&#8230;",
+    "published": "Tue, 07 Jul 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The foundational elements of AI architecture that IT leaders need to scale",
+    "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture\u2014the&#8230;",
+    "published": "Tue, 07 Jul 2026 11:10:52 +0000",
+    "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+    "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family\u2019s land in Hickman, a tiny town in the state\u2019s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squirming red earthworms.&#8230;",
+    "published": "Tue, 07 Jul 2026 10:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
+    "summary": "<p>Article URL: <a href=\"https://languagelog.ldc.upenn.edu/myl/Good1964.pdf\">https://languagelog.ldc.upenn.edu/myl/Good1964.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48871932\">https://news.ycombinator.com/item?id=48871932</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
+    "published": "Sat, 11 Jul 2026 13:33:17 +0000",
+    "link": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Networking and the Internet, from First Principles",
+    "summary": "<p>Article URL: <a href=\"https://fazamhd.com/mental-models/networking/\">https://fazamhd.com/mental-models/networking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48871470\">https://news.ycombinator.com/item?id=48871470</a></p>\n<p>Points: 118</p>\n<p># Comments: 42</p>",
+    "published": "Sat, 11 Jul 2026 12:30:40 +0000",
+    "link": "https://fazamhd.com/mental-models/networking/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html\">https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48871367\">https://news.ycombinator.com/item?id=48871367</a></p>\n<p>Points: 51</p>\n<p># Comments: 46</p>",
+    "published": "Sat, 11 Jul 2026 12:12:34 +0000",
+    "link": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Your code is fast \u2013 if you're lucky",
+    "summary": "<p>Article URL: <a href=\"https://tiki.li/blog/lucky_code.html\">https://tiki.li/blog/lucky_code.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48870799\">https://news.ycombinator.com/item?id=48870799</a></p>\n<p>Points: 78</p>\n<p># Comments: 29</p>",
+    "published": "Sat, 11 Jul 2026 10:50:10 +0000",
+    "link": "https://tiki.li/blog/lucky_code.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Richest people in the world by wealth creation instead of ownership",
+    "summary": "<p>Article URL: <a href=\"https://anti-forbes-list.vercel.app\">https://anti-forbes-list.vercel.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48870472\">https://news.ycombinator.com/item?id=48870472</a></p>\n<p>Points: 14</p>\n<p># Comments: 4</p>",
+    "published": "Sat, 11 Jul 2026 09:54:14 +0000",
+    "link": "https://anti-forbes-list.vercel.app",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The vintage beauty of Soviet control rooms (2018)",
+    "summary": "<p>Article URL: <a href=\"https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/\">https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48868996\">https://news.ycombinator.com/item?id=48868996</a></p>\n<p>Points: 156</p>\n<p># Comments: 51</p>",
+    "published": "Sat, 11 Jul 2026 05:19:41 +0000",
+    "link": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+    "summary": "<p><a href=\"https://www.science.org/doi/10.1126/science.aei1285\" rel=\"nofollow\">https://www.science.org/doi/10.1126/science.aei1285</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48866134\">https://news.ycombinator.com/item?id=48866134</a></p>\n<p>Points: 314</p>\n<p># Comments: 135</p>",
+    "published": "Fri, 10 Jul 2026 22:30:44 +0000",
+    "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Moss (YC F25) Is Hiring",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk\">https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48865332\">https://news.ycombinator.com/item?id=48865332</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Fri, 10 Jul 2026 21:11:18 +0000",
+    "link": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+    "summary": "<p><a href=\"https://www.macrumors.com/2026/07/10/apple-sues-openai/\" rel=\"nofollow\">https://www.macrumors.com/2026/07/10/apple-sues-openai/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48865019\">https://news.ycombinator.com/item?id=48865019</a></p>\n<p>Points: 1297</p>\n<p># Comments: 698</p>",
+    "published": "Fri, 10 Jul 2026 20:47:09 +0000",
+    "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "An update on residential proxies and the scraper situation",
+    "summary": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/\">https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48864252\">https://news.ycombinator.com/item?id=48864252</a></p>\n<p>Points: 253</p>\n<p># Comments: 259</p>",
+    "published": "Fri, 10 Jul 2026 19:38:34 +0000",
+    "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+    "summary": "<p><a href=\"https://x.com/__eknight__/status/2075643450196971805\" rel=\"nofollow\">https://x.com/__eknight__/status/2075643450196971805</a>, <a href=\"https://xcancel.com/__eknight__/status/2075643450196971805\" rel=\"nofollow\">https://xcancel.com/__eknight__/status/2075643450196971805</a><p>Prompt: <a href=\"https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_prompt.pdf\" rel=\"nofollow\">https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863490\">https://news.ycombinator.com/item?id=48863490</a></p>\n<p>Points: 489</p>\n<p># Comments: 402</p>",
+    "published": "Fri, 10 Jul 2026 18:29:19 +0000",
+    "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "New York City to ban deceptive subscription practices",
+    "summary": "<p><a href=\"https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot\" rel=\"nofollow\">https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863464\">https://news.ycombinator.com/item?id=48863464</a></p>\n<p>Points: 577</p>\n<p># Comments: 286</p>",
+    "published": "Fri, 10 Jul 2026 18:26:24 +0000",
+    "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+    "summary": "<p>Article URL: <a href=\"https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/\">https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863064\">https://news.ycombinator.com/item?id=48863064</a></p>\n<p>Points: 233</p>\n<p># Comments: 801</p>",
+    "published": "Fri, 10 Jul 2026 17:51:07 +0000",
+    "link": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The tech of 'Terminator 2' \u2013 an oral history (2017)",
+    "summary": "<p>Article URL: <a href=\"https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/\">https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48862365\">https://news.ycombinator.com/item?id=48862365</a></p>\n<p>Points: 236</p>\n<p># Comments: 81</p>",
+    "published": "Fri, 10 Jul 2026 16:48:41 +0000",
+    "link": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+    "summary": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/\">https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48862252\">https://news.ycombinator.com/item?id=48862252</a></p>\n<p>Points: 211</p>\n<p># Comments: 159</p>",
+    "published": "Fri, 10 Jul 2026 16:37:52 +0000",
+    "link": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "QuadRF can spot drones and see WiFi through my wall",
+    "summary": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/\">https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48861717\">https://news.ycombinator.com/item?id=48861717</a></p>\n<p>Points: 652</p>\n<p># Comments: 217</p>",
+    "published": "Fri, 10 Jul 2026 15:59:53 +0000",
+    "link": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
+    "summary": "<p>Article URL: <a href=\"https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html\">https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859673\">https://news.ycombinator.com/item?id=48859673</a></p>\n<p>Points: 183</p>\n<p># Comments: 224</p>",
+    "published": "Fri, 10 Jul 2026 13:30:41 +0000",
+    "link": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Laylo (YC S20) Is Hiring a Head of Finance",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance\">https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858745\">https://news.ycombinator.com/item?id=48858745</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Fri, 10 Jul 2026 12:00:36 +0000",
+    "link": "https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Late Bronze Age Collapse",
+    "summary": "<p>Article URL: <a href=\"https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/\">https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858737\">https://news.ycombinator.com/item?id=48858737</a></p>\n<p>Points: 393</p>\n<p># Comments: 273</p>",
+    "published": "Fri, 10 Jul 2026 11:59:55 +0000",
+    "link": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Good Tools Are Invisible",
+    "summary": "<p>Article URL: <a href=\"https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/\">https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858121\">https://news.ycombinator.com/item?id=48858121</a></p>\n<p>Points: 492</p>\n<p># Comments: 223</p>",
+    "published": "Fri, 10 Jul 2026 10:32:41 +0000",
+    "link": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+    "source_name": "Hacker News"
+  }
+]
