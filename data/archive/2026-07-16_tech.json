@@ -1,0 +1,562 @@
+[
+  {
+    "title": "Yes, you can now order DoorDash from the command line",
+    "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
+    "published": "Thu, 16 Jul 2026 15:38:55 +0000",
+    "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "UK cops say arrest of two young hackers disrupted the operations of an infamous hacking group",
+    "summary": "Owen Flowers and Thalha Jubair, two members of the prolific Scattered Spider hacking group, pleaded guilty and were sentenced to five years and six months in jail for hacking London\u2019s metropolitan transit system.",
+    "published": "Thu, 16 Jul 2026 15:37:47 +0000",
+    "link": "https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Period tracker Stardust shares users\u2019 health data with analytics firm, says Mozilla research",
+    "summary": "One period tracker app tested by Mozilla was 'squeaky clean,' while another app was seen sharing users' health data with an analytics company, underscoring vast differences in user privacy among these apps.",
+    "published": "Thu, 16 Jul 2026 15:33:28 +0000",
+    "link": "https://techcrunch.com/2026/07/16/period-tracker-stardust-shares-users-health-data-with-analytics-firm-says-mozilla-research/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Why is OpenAI selling a ChatGPT basketball?",
+    "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
+    "published": "Thu, 16 Jul 2026 15:31:09 +0000",
+    "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+    "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
+    "published": "Thu, 16 Jul 2026 15:02:00 +0000",
+    "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
+    "summary": "The startup, founded in 2021, lets enterprise customers use smartphones to scan and spot vehicle damage.",
+    "published": "Thu, 16 Jul 2026 15:00:00 +0000",
+    "link": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Why AMI Labs\u2019 Alexandre LeBrun won\u2019t call his AI \u2018AGI\u2019 or \u2018superintelligence\u2019",
+    "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun\u2019s world model startup, AMI Labs, dismisses the word.",
+    "published": "Thu, 16 Jul 2026 14:40:00 +0000",
+    "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Moonshot\u2019s upcoming Kimi 3 is expected to close the gap with Anthropic\u2019s Opus 4.8",
+    "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+    "published": "Thu, 16 Jul 2026 14:26:29 +0000",
+    "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+    "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+    "published": "Thu, 16 Jul 2026 13:17:59 +0000",
+    "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Ultrahuman\u2019s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
+    "summary": "Aina is going to pilot a new device in the coming weeks.",
+    "published": "Thu, 16 Jul 2026 11:30:00 +0000",
+    "link": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
+    "summary": "The updates come as Meta and other tech companies are facing scrutiny from regulators and parents around how AI chatbots respond to users in crisis, particularly teenagers.",
+    "published": "Thu, 16 Jul 2026 11:00:00 +0000",
+    "link": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Phone maker OnePlus says it won\u2019t release new phones in the US and Europe",
+    "summary": "OnePlus could also wind down its operations in India by 2027.",
+    "published": "Thu, 16 Jul 2026 09:00:00 +0000",
+    "link": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
+    "summary": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
+    "published": "Thu, 16 Jul 2026 04:00:00 +0000",
+    "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+    "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+    "published": "Thu, 16 Jul 2026 04:00:00 +0000",
+    "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+    "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
+    "published": "Thu, 16 Jul 2026 00:20:42 +0000",
+    "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+    "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+    "published": "Wed, 15 Jul 2026 23:59:44 +0000",
+    "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+    "summary": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
+    "published": "Wed, 15 Jul 2026 20:22:52 +0000",
+    "link": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Daniel Ek\u2019s body-scanning startup Neko Health raises another $700M",
+    "summary": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
+    "published": "Wed, 15 Jul 2026 19:46:54 +0000",
+    "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+    "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+    "published": "Wed, 15 Jul 2026 19:41:38 +0000",
+    "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Microsoft patches bug in video game Age of Empires II",
+    "summary": "The vulnerability in the decades-old game could have allowed hackers to take over victims\u2019 computers with a malicious game invite.",
+    "published": "Wed, 15 Jul 2026 18:47:01 +0000",
+    "link": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Apple&#8217;s OLED iPad Mini upgrade is on the way as prices continue to rise",
+    "summary": "The iPad Mini could get an OLED display upgrade as soon as October, according to Bloomberg's Mark Gurman. It would be the most significant refresh for the Mini since its 2021 redesign. An OLED iPad Mini has been rumored for months now, with Gurman previously reporting last year that it will also come with a [&#8230;]",
+    "published": "2026-07-16T11:04:12-04:00",
+    "link": "https://www.theverge.com/tech/966535/apple-oled-ipad-mini-rumor",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "\u2018No company is going to go to jail for you\u2019: Proton\u2019s CTO on balancing privacy, policy, and trust",
+    "summary": "Today on Decoder, we\u2019ve got the first of a two-part series on the systems that run the world: I\u2019m talking with Bart Butler, the CTO of Proton, the company that makes private and secure productivity software. You probably know it best for Proton Mail, which is encrypted by default, but the company also has docs, [&#8230;]",
+    "published": "2026-07-16T10:00:00-04:00",
+    "link": "https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Ninja\u2019s microwave air fryer could be the fix for soggy reheated pizza",
+    "summary": "Ninja has added everything from ice cream makers to double-decker toaster ovens to its extensive lineup of counter-clogging appliances, but it's only now introducing its first microwave. What makes the new Ninja Crispi Microwave stand out among its many competitors is that it doubles as an air fryer. After heating your food using microwaves, you [&#8230;]",
+    "published": "2026-07-16T09:30:00-04:00",
+    "link": "https://www.theverge.com/tech/966175/ninja-crispi-microwave-air-fryer-kitchen-appliance",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Samsung&#8217;s Galaxy Z Flip 8 leaks a week before launch event",
+    "summary": "Samsung's next flip phone might be tough to tell apart from last year's Galaxy Z Flip 7. As 9to5Google points out, leaked images and specs for the upcoming Galaxy Z Flip 8 shared by WinFuture are nearly identical to Samsung's current flip phone. According to the leak, Samsung is not planning to upgrade the Z [&#8230;]",
+    "published": "2026-07-16T09:23:50-04:00",
+    "link": "https://www.theverge.com/tech/966492/samsung-galaxy-z-flip-8-design-specs-leaked",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "OnePlus never had a chance in the US",
+    "summary": "Twelve years after the launch of the OnePlus One, OnePlus announced today that it has exited the United States. It's bittersweet, as the brand has been on a comeback tour of sorts with its excellent OnePlus 15 and widely praised (though still too expensive) OnePlus Open. The writing has been on the wall for a [&#8230;]",
+    "published": "2026-07-16T09:00:00-04:00",
+    "link": "https://www.theverge.com/tech/966274/oneplus-never-had-a-chance-in-the-us",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Claude can now use your 1Password credentials for you",
+    "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login [&#8230;]",
+    "published": "2026-07-16T09:00:00-04:00",
+    "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Google ordered to open Android and Search to rivals in Europe",
+    "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech industry's most important platforms and have [&#8230;]",
+    "published": "2026-07-16T08:06:51-04:00",
+    "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Computer cops",
+    "summary": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told me [&#8230;]",
+    "published": "2026-07-16T07:00:00-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "OnePlus officially gives up on the US and Europe",
+    "summary": "OnePlus has confirmed what industry observers have long expected: it's quitting the US and European markets, and will no longer launch new products in either region. Parent company Oppo promises that it will honor existing support and warranty agreements, with devices transitioning to its ColorOS for future updates. \"Software updates and after-sale support will be [&#8230;]",
+    "published": "2026-07-16T05:00:00-04:00",
+    "link": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Skullcandy\u2019s bass-boosting Crusher headphones now come with Bose\u2019s ANC",
+    "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from the competition through the use of both full-range and dedicated bass drivers in each ear cup to boost deeper frequencies. Skullcandy admits [&#8230;]",
+    "published": "2026-07-15T20:00:00-04:00",
+    "link": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
+    "summary": "Xona aims to deploy 258 satellites into low-Earth orbit as a GPS alternative.",
+    "published": "Thu, 16 Jul 2026 11:00:21 +0000",
+    "link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
+    "summary": "Union wants to halt a \"perpetual cycle\" of layoffs, get back to contract bargaining.",
+    "published": "Wed, 15 Jul 2026 22:36:28 +0000",
+    "link": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Buzz Aldrin sells famous felt-tip pen that helped launch Apollo from the Moon",
+    "summary": "While an impressive sale, the pen and switch did not break records.",
+    "published": "Wed, 15 Jul 2026 22:10:41 +0000",
+    "link": "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
+    "summary": "The convenience store chain will use StorMagic instead.",
+    "published": "Wed, 15 Jul 2026 21:41:56 +0000",
+    "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Judge: Trump can\u2019t deport researchers just for working in content moderation",
+    "summary": "Disinformation researchers praise ruling blocking Trump visa denials and deportations.",
+    "published": "Wed, 15 Jul 2026 21:26:02 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Engineer identifies and explains every '90s computer seen in Jurassic Park",
+    "summary": "Yes, it was, in fact, a Unix system.",
+    "published": "Wed, 15 Jul 2026 21:04:22 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
+    "summary": "HiveLegacy is a \"powerful primitive\" that's likely capable of other nefarious actions.",
+    "published": "Wed, 15 Jul 2026 19:59:48 +0000",
+    "link": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "FCC to repeal 39% TV ownership cap in boost for Trump-friendly news orgs",
+    "summary": "FCC chairman claims power to repeal TV ownership limit set by Congress.",
+    "published": "Wed, 15 Jul 2026 18:52:22 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-repeal-39-tv-ownership-cap-in-boost-for-trump-friendly-news-orgs/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "In memoriam: 7 of our favorite Sam Neill films",
+    "summary": "The actor, who starred in 1993's <em>Jurassic Park</em>, died Monday in Sydney, Australia, at the age of 78.",
+    "published": "Wed, 15 Jul 2026 18:39:58 +0000",
+    "link": "https://arstechnica.com/culture/2026/07/in-memoriam-seven-of-our-favorite-sam-neill-films/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Third-party app stores coming to Google Play next week as Epic settlement withdrawn",
+    "summary": "With the settlement withdrawn, Google is now bound by the court's full antitrust remedies.",
+    "published": "Wed, 15 Jul 2026 16:55:12 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "OpenAI's first branded hardware is... a light-up keyboard?",
+    "summary": "The Codex Micro is designed to monitor multiple agentic threads at a glance.",
+    "published": "Wed, 15 Jul 2026 16:00:33 +0000",
+    "link": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "A most improbable astronaut just went to space",
+    "summary": "\"I pretty much, at that point in time, gave up on being an astronaut.\"",
+    "published": "Wed, 15 Jul 2026 11:30:07 +0000",
+    "link": "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "How hard is it to build orbital data centers, actually?",
+    "summary": "\"The ISS radiators are expensive and heavy. We're focused on making them cheap and light.\"",
+    "published": "Wed, 15 Jul 2026 11:00:09 +0000",
+    "link": "https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Sotheby's big T. rex auction raises concerns hype and wealth are upending science",
+    "summary": "Private buyers are increasingly outbidding museums for fossils.",
+    "published": "Wed, 15 Jul 2026 10:30:39 +0000",
+    "link": "https://arstechnica.com/science/2026/07/sothebys-big-t-rex-auction-raises-concerns-hype-and-wealth-are-upending-science/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Microsoft\u2019s Secure Boot has been broken for a decade and no one noticed until now",
+    "summary": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.",
+    "published": "Tue, 14 Jul 2026 22:20:48 +0000",
+    "link": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Trump admin puts Americans in Congo on \"do-not-board\" list, barring return",
+    "summary": "Citizens must now spend 21 days in a third country before they are allowed to come home.",
+    "published": "Tue, 14 Jul 2026 22:09:31 +0000",
+    "link": "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+    "summary": "Meta denies using AI to terminate workers with disabilities and medical problems.",
+    "published": "Tue, 14 Jul 2026 20:05:53 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
+    "summary": "Federal officials have not confirmed a source yet\u2014and there may be multiple sources.",
+    "published": "Tue, 14 Jul 2026 19:00:02 +0000",
+    "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "US military sent explosive drone boats into combat for the first time",
+    "summary": "US military\u2019s drone boats struck an Iranian naval port as war heats up again.",
+    "published": "Tue, 14 Jul 2026 18:00:01 +0000",
+    "link": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "These painted e-tattoos could be the future of wearable biosensors",
+    "summary": "Conductive ink is painted directly onto the skin in colorful custom designs, drying into working electrodes.",
+    "published": "Tue, 14 Jul 2026 17:31:58 +0000",
+    "link": "https://arstechnica.com/science/2026/07/these-painted-e-tattoos-could-be-the-future-of-wearable-biosensors/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other&#8230;",
+    "published": "Thu, 16 Jul 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Why heat pumps are still so hot in the US",
+    "summary": "It feels as if it should be illegal to even think about heating appliances during the height of summer\u2014seriously, these heat waves in New York have been brutal\u2014but we need to talk about heat pumps. The appliances use electricity for heating, they\u2019re incredibly efficient, and they\u2019re on the rise. (For what it\u2019s worth, many heat&#8230;",
+    "published": "Thu, 16 Jul 2026 10:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+    "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates&#8230;",
+    "published": "Wed, 15 Jul 2026 17:09:37 +0000",
+    "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data&#8230;",
+    "published": "Wed, 15 Jul 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: Claude\u2019s inner workings, and the future of world models",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic\u2019s latest AI discovery does\u2014and doesn\u2019t\u2014show \u2014James O&#8217;Donnell When Anthropic announced last week that it had found a new window into its models\u2019 \u201cinternal thoughts\u201d as they reason through answers,&#8230;",
+    "published": "Tue, 14 Jul 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+    "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.&#8230;",
+    "published": "Tue, 14 Jul 2026 08:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "What Anthropic\u2019s latest AI discovery does\u2014and doesn\u2019t\u2014show",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Anthropic\u2014currently the world\u2019s most valuable AI company, with a nearly $1 trillion valuation\u2014has a reputation for publishing strange and heady research. It\u2019s looking into whether AI models can feel pain, for example,&#8230;",
+    "published": "Mon, 13 Jul 2026 18:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: a donor conception cap and world models for AI",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn\u2019t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm&#8230;",
+    "published": "Mon, 13 Jul 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: Claude\u2019s inner workings and OpenAI\u2019s \u201csuper app\u201d",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what\u2019s really going on inside large language models as they&#8230;",
+    "published": "Fri, 10 Jul 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Sperm donors need limits, says a European fertility group",
+    "summary": "Ties van der Meer doesn\u2019t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He&#8230;",
+    "published": "Fri, 10 Jul 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Kimi K3 is now live",
+    "summary": "<p>Article URL: <a href=\"https://www.kimi.com/en\">https://www.kimi.com/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48935342\">https://news.ycombinator.com/item?id=48935342</a></p>\n<p>Points: 97</p>\n<p># Comments: 30</p>",
+    "published": "Thu, 16 Jul 2026 14:46:05 +0000",
+    "link": "https://www.kimi.com/en",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Goes-19 weather satellite enters Safe Hold mode",
+    "summary": "<p>Article URL: <a href=\"https://www.spaceweather.gov/news/goes-19-safe-hold\">https://www.spaceweather.gov/news/goes-19-safe-hold</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48934286\">https://news.ycombinator.com/item?id=48934286</a></p>\n<p>Points: 59</p>\n<p># Comments: 27</p>",
+    "published": "Thu, 16 Jul 2026 13:30:00 +0000",
+    "link": "https://www.spaceweather.gov/news/goes-19-safe-hold",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: I've built a words game based on binary search",
+    "summary": "<p>Article URL: <a href=\"https://hilogame.cc/\">https://hilogame.cc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48934092\">https://news.ycombinator.com/item?id=48934092</a></p>\n<p>Points: 25</p>\n<p># Comments: 23</p>",
+    "published": "Thu, 16 Jul 2026 13:15:49 +0000",
+    "link": "https://hilogame.cc/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Introduction to KizunaShelf: A shelf for everything you love",
+    "summary": "<p>Article URL: <a href=\"https://mudkip.me/2026/07/16/Introduction-to-KizunaShelf/\">https://mudkip.me/2026/07/16/Introduction-to-KizunaShelf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48933581\">https://news.ycombinator.com/item?id=48933581</a></p>\n<p>Points: 15</p>\n<p># Comments: 3</p>",
+    "published": "Thu, 16 Jul 2026 12:33:06 +0000",
+    "link": "https://mudkip.me/2026/07/16/Introduction-to-KizunaShelf/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c4gyg0y6yg2o\">https://www.bbc.com/news/articles/c4gyg0y6yg2o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48933464\">https://news.ycombinator.com/item?id=48933464</a></p>\n<p>Points: 47</p>\n<p># Comments: 35</p>",
+    "published": "Thu, 16 Jul 2026 12:19:30 +0000",
+    "link": "https://www.bbc.com/news/articles/c4gyg0y6yg2o",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them",
+    "summary": "<p>Article URL: <a href=\"https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/\">https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48933419\">https://news.ycombinator.com/item?id=48933419</a></p>\n<p>Points: 185</p>\n<p># Comments: 92</p>",
+    "published": "Thu, 16 Jul 2026 12:13:43 +0000",
+    "link": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The Act and the Outcome of Creation",
+    "summary": "<p>Article URL: <a href=\"https://www.ssp.sh/blog/on-creation/\">https://www.ssp.sh/blog/on-creation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48933370\">https://news.ycombinator.com/item?id=48933370</a></p>\n<p>Points: 22</p>\n<p># Comments: 4</p>",
+    "published": "Thu, 16 Jul 2026 12:05:42 +0000",
+    "link": "https://www.ssp.sh/blog/on-creation/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+    "summary": "<p>Article URL: <a href=\"https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/\">https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48933310\">https://news.ycombinator.com/item?id=48933310</a></p>\n<p>Points: 119</p>\n<p># Comments: 133</p>",
+    "published": "Thu, 16 Jul 2026 11:59:01 +0000",
+    "link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Let's Build PlanetScale from Scratch: Infrastructure",
+    "summary": "<p>Article URL: <a href=\"https://onatm.dev/2026/07/16/homescale-part-1/\">https://onatm.dev/2026/07/16/homescale-part-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48933303\">https://news.ycombinator.com/item?id=48933303</a></p>\n<p>Points: 74</p>\n<p># Comments: 13</p>",
+    "published": "Thu, 16 Jul 2026 11:58:09 +0000",
+    "link": "https://onatm.dev/2026/07/16/homescale-part-1/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "How Our Rust-to-Zig Rewrite Is Going",
+    "summary": "<p>Article URL: <a href=\"https://rtfeldman.com/rust-to-zig\">https://rtfeldman.com/rust-to-zig</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48933149\">https://news.ycombinator.com/item?id=48933149</a></p>\n<p>Points: 83</p>\n<p># Comments: 9</p>",
+    "published": "Thu, 16 Jul 2026 11:39:27 +0000",
+    "link": "https://rtfeldman.com/rust-to-zig",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "I resurrected an 8-year-old dead CSS library and gave it an engine",
+    "summary": "<p>Article URL: <a href=\"https://usevivace.dev\">https://usevivace.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48932889\">https://news.ycombinator.com/item?id=48932889</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "published": "Thu, 16 Jul 2026 11:04:27 +0000",
+    "link": "https://usevivace.dev",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Track your workout from the iPhone Lock Screen",
+    "summary": "<p>Article URL: <a href=\"https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/\">https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48932784\">https://news.ycombinator.com/item?id=48932784</a></p>\n<p>Points: 28</p>\n<p># Comments: 22</p>",
+    "published": "Thu, 16 Jul 2026 10:49:50 +0000",
+    "link": "https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Ente \u2013 Opening Our Books",
+    "summary": "<p>Article URL: <a href=\"https://ente.com/open/\">https://ente.com/open/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48932697\">https://news.ycombinator.com/item?id=48932697</a></p>\n<p>Points: 117</p>\n<p># Comments: 34</p>",
+    "published": "Thu, 16 Jul 2026 10:37:17 +0000",
+    "link": "https://ente.com/open/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "OnePlus halts operations in USA and Europe",
+    "summary": "<p>Article URL: <a href=\"https://community.oneplus.com/thread/2170715118587871237\">https://community.oneplus.com/thread/2170715118587871237</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48932539\">https://news.ycombinator.com/item?id=48932539</a></p>\n<p>Points: 322</p>\n<p># Comments: 182</p>",
+    "published": "Thu, 16 Jul 2026 10:14:04 +0000",
+    "link": "https://community.oneplus.com/thread/2170715118587871237",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+    "summary": "<p>Article URL: <a href=\"https://joinedanthropic.com\">https://joinedanthropic.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48931588\">https://news.ycombinator.com/item?id=48931588</a></p>\n<p>Points: 228</p>\n<p># Comments: 122</p>",
+    "published": "Thu, 16 Jul 2026 08:03:35 +0000",
+    "link": "https://joinedanthropic.com",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The lost joy of music piracy",
+    "summary": "<p>Article URL: <a href=\"https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming\">https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930454\">https://news.ycombinator.com/item?id=48930454</a></p>\n<p>Points: 576</p>\n<p># Comments: 373</p>",
+    "published": "Thu, 16 Jul 2026 04:46:21 +0000",
+    "link": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Reynard: A real Firefox web browser for iOS 13 or later",
+    "summary": "<p>Article URL: <a href=\"https://github.com/minh-ton/reynard-browser\">https://github.com/minh-ton/reynard-browser</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930397\">https://news.ycombinator.com/item?id=48930397</a></p>\n<p>Points: 117</p>\n<p># Comments: 31</p>",
+    "published": "Thu, 16 Jul 2026 04:36:07 +0000",
+    "link": "https://github.com/minh-ton/reynard-browser",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "If you want to create a button from scratch, you must first create the universe",
+    "summary": "<p>Article URL: <a href=\"https://madcampos.dev/blog/2026/07/accessibility-from-scratch/\">https://madcampos.dev/blog/2026/07/accessibility-from-scratch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930136\">https://news.ycombinator.com/item?id=48930136</a></p>\n<p>Points: 201</p>\n<p># Comments: 94</p>",
+    "published": "Thu, 16 Jul 2026 03:48:43 +0000",
+    "link": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Making 768 servers look like 1",
+    "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/making-768-servers-look-like-1\">https://planetscale.com/blog/making-768-servers-look-like-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930075\">https://news.ycombinator.com/item?id=48930075</a></p>\n<p>Points: 123</p>\n<p># Comments: 53</p>",
+    "published": "Thu, 16 Jul 2026 03:36:42 +0000",
+    "link": "https://planetscale.com/blog/making-768-servers-look-like-1",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+    "summary": "<p>Article URL: <a href=\"https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html\">https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48929945\">https://news.ycombinator.com/item?id=48929945</a></p>\n<p>Points: 180</p>\n<p># Comments: 30</p>",
+    "published": "Thu, 16 Jul 2026 03:12:47 +0000",
+    "link": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+    "source_name": "Hacker News"
+  }
+]
