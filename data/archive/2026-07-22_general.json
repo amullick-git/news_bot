@@ -1993,5 +1993,943 @@
     "published": "Thu, 16 Jul 2026 07:43:23 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1545845.html?ex_cid=OTC-RSS",
     "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+    "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+    "published": "Thu, 23 Jul 2026 03:48:27 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Tankers make sharp U-turns after Houthi shipping threat",
+    "summary": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
+    "published": "Wed, 22 Jul 2026 14:42:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+    "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
+    "published": "Wed, 22 Jul 2026 23:06:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Fire kills 10 members of same family in Peru, police say",
+    "summary": "Authorities are investigating the cause of the blaze in Lima as local media report\n it may have been arson.",
+    "published": "Wed, 22 Jul 2026 20:56:26 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+    "summary": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
+    "published": "Thu, 23 Jul 2026 00:15:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Google burning through cash with spiralling AI costs",
+    "summary": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
+    "published": "Wed, 22 Jul 2026 23:02:32 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
+    "summary": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings.",
+    "published": "Wed, 22 Jul 2026 15:50:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
+    "summary": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister.",
+    "published": "Wed, 22 Jul 2026 17:54:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Two Russians handed down jail terms for terrorism and spying in Angola",
+    "summary": "The two, a political consultant and a translator, denied allegations of fomenting protests last year.",
+    "published": "Wed, 22 Jul 2026 16:34:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Police formally investigate woman after Brit stabbed to death in French village",
+    "summary": "Karen Carter was found with stab wounds in the Dordogne village she had lived in for over a decade.",
+    "published": "Wed, 22 Jul 2026 19:03:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Mysterious white foam draws crowds on  Nigerian highway",
+    "summary": "The environmental agency has warned people to avoid going near the substance as it could pose a health risk.",
+    "published": "Wed, 22 Jul 2026 14:47:32 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm2g14lzy17o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Even camels can't cope: Africa's ships of the desert hit by rising temperatures",
+    "summary": "Herders and experts tell the BBC how Africa's camels are suffering because of extreme heat.",
+    "published": "Wed, 22 Jul 2026 23:22:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqlxvvw06pqo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
+    "summary": "The killing of a dog and her puppies in Guangdong has sparked outrage inside and outside the country.",
+    "published": "Wed, 22 Jul 2026 22:03:43 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "A year after deadly jet crash at Bangladesh school, families demand answers",
+    "summary": "This week marks one year since a military jet struck a school in Dhaka, killing 36, most of them children.",
+    "published": "Wed, 22 Jul 2026 22:04:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx2j7jgg1z1o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Indian police cracked down on 'cockroach' protesters. They went home and made memes about it",
+    "summary": "For 'cockroach' protesters, reels and memes became a way of documenting fear, making sense of violence and refusing to let it have the last word.",
+    "published": "Wed, 22 Jul 2026 22:13:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3ek3l9gp7go?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Watch: What we know about the US-Saudi nuclear deal",
+    "summary": "The BBC's Sarah Smith explains the implications of the landmark cooperation agreement between both countries.",
+    "published": "Wed, 22 Jul 2026 22:45:08 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Watch: Louvre reopens gallery after jewellery heist",
+    "summary": "The Louvre Museum reopens its Apollo Gallery nine months after a robbery that shocked France.",
+    "published": "Wed, 22 Jul 2026 16:54:33 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c1m15l8kgejo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "River levels approach all-time low as drought announcement looms",
+    "summary": "An announcement is expected from NRW as some river levels are reported to be nearing all-time lows.",
+    "published": "Thu, 23 Jul 2026 05:12:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c80n5rvx917o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Most sewage spills in England may be illegal, new research suggests",
+    "summary": "The new analysis from a prominent water campaigner emerged after secret court documents were leaked.",
+    "published": "Wed, 22 Jul 2026 23:47:27 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cn0nxd1jgw5o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Butterfly city blooms in shadow of office blocks",
+    "summary": "A patch of land in Hull city centre has been allowed to grow wild to create a haven for insects.",
+    "published": "Thu, 23 Jul 2026 05:03:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx2vp75q4yeo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Clarity Act Mired In Debate Over Whether to Bar President From Selling Crypto",
+    "summary": "Democrats and Republicans are haggling about the Clarity Act, a major bill pushed by the crypto industry, as it moves closer to a Senate vote.",
+    "published": "Thu, 23 Jul 2026 00:43:11 +0000",
+    "link": "https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments",
+    "summary": "Google\u2019s parent company, which has spent heavily on artificial intelligence, also showed growth across its businesses, particularly in cloud computing.",
+    "published": "Wed, 22 Jul 2026 22:18:54 +0000",
+    "link": "https://www.nytimes.com/2026/07/22/technology/alphabet-google-earnings-profit.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Tesla Profit Falls Even as Car Sales Rebound",
+    "summary": "The company is selling more cars, but the company\u2019s profit was down because of price cuts and higher expenses.",
+    "published": "Wed, 22 Jul 2026 22:45:06 +0000",
+    "link": "https://www.nytimes.com/2026/07/22/business/tesla-earnings-elon-musk.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Lawsuit Against Meta Over Social Media Addiction Is Dropped",
+    "summary": "For Meta, the move was a reprieve after it and YouTube were found guilty in another case in March of negligence and personal injury for their platforms\u2019 addictive features.",
+    "published": "Wed, 22 Jul 2026 18:47:15 +0000",
+    "link": "https://www.nytimes.com/2026/07/22/technology/meta-social-media-lawsuit.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
+    "summary": "Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.",
+    "published": "Thu, 23 Jul 2026 01:37:39 +0000",
+    "link": "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "With Saudi Deal, Trump Loosens Nuclear Standards for One Close Ally",
+    "summary": "Nuclear experts say it throws fuel on the smoldering fire of atomic proliferation, creating a destabilizing situation that could raise the risk of nuclear war.",
+    "published": "Wed, 22 Jul 2026 23:05:44 +0000",
+    "link": "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince",
+    "summary": "Saudi Arabia has for years sought a deal to obtain American nuclear technology. The agreement, signed on Wednesday, could deepen U.S.-Saudi ties for decades to come.",
+    "published": "Wed, 22 Jul 2026 20:54:10 +0000",
+    "link": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Mamdani Knew He Couldn\u2019t Arrest Netanyahu. But He Could Denounce Him.",
+    "summary": "In a video message, the mayor of New York City said he could not legally arrest Israel\u2019s prime minister but reinforced his position as a voice of the international left.",
+    "published": "Wed, 22 Jul 2026 23:42:33 +0000",
+    "link": "https://www.nytimes.com/2026/07/22/nyregion/mamdani-netanyahu-speech.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump Administration Pressures Some Immigrants to Self-Deport With Fines Up to $1.8 Million",
+    "summary": "Tens of thousands of immigrants have received letters to pay up or leave, as the government enlists debt collectors and seizes tax refunds.",
+    "published": "Wed, 22 Jul 2026 17:29:01 +0000",
+    "link": "https://www.nytimes.com/2026/07/22/us/immigration-civil-fines-self-deportation.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump\u2019s Plan for Science: More Money for A.I., Less for Universities",
+    "summary": "Michael Kratsios, President Trump\u2019s science adviser, proposed overhauling how the government funds research. Democrats said Mr. Trump\u2019s actions had weakened science.",
+    "published": "Wed, 22 Jul 2026 22:30:42 +0000",
+    "link": "https://www.nytimes.com/2026/07/22/us/politics/trump-research-funding-artificial-intelligence.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Sony Revives Cinerama Dome in Los Angeles as Box Office Sales Rebound",
+    "summary": "The iconic Cinerama Dome and adjacent 14-screen theater complex will reopen in 2028 after a renovation. The venue closed in 2020 because of the pandemic.",
+    "published": "Wed, 22 Jul 2026 18:58:20 +0000",
+    "link": "https://www.nytimes.com/2026/07/22/business/media/cinerama-dome-sony-pictures-hollywood.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Amish Shah Wins Democratic Primary in Swing Arizona House District",
+    "summary": "Dr. Amish Shah, who beat the choice of the party\u2019s House campaign arm, will face Jay Feely, a Republican, in a battleground district that covers parts of Phoenix.",
+    "published": "Thu, 23 Jul 2026 04:25:41 +0000",
+    "link": "https://www.nytimes.com/2026/07/22/us/politics/amish-shah-arizona-house-democrats.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "South Carolina and Nevada Fight to Kick Off Democrats\u2019 2028 Presidential Calendar",
+    "summary": "The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.",
+    "published": "Wed, 22 Jul 2026 20:30:40 +0000",
+    "link": "https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Massachusetts House Passes Bill That Would Loosen Late-Term Abortion Rules",
+    "summary": "The bill would leave it to physicians to decide if an abortion is necessary after 24 weeks of pregnancy. Current law allows such abortions only under certain circumstances.",
+    "published": "Wed, 22 Jul 2026 23:56:25 +0000",
+    "link": "https://www.nytimes.com/2026/07/22/us/massachusetts-late-term-abortion-rules.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Japan\u2019s Leader Invokes Her Hero, Shinzo Abe, to Drive Nationalist Agenda",
+    "summary": "Prime Minister Sanae Takaichi is leveraging her ties to Mr. Abe, the slain Japanese leader, as she pushes to reshape defense and the economy.",
+    "published": "Thu, 23 Jul 2026 04:01:09 +0000",
+    "link": "https://www.nytimes.com/2026/07/23/world/asia/japan-sanae-takaichi-shinzo-abe.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Former Head of All-Girls School Indicted, Accused of Ignoring Abuse Reports",
+    "summary": "Jean Norris, who ran Miss Hall\u2019s School in Massachusetts, was charged with reckless endangerment of a child. A former teacher under her tenure faces three rape charges.",
+    "published": "Thu, 23 Jul 2026 02:24:29 +0000",
+    "link": "https://www.nytimes.com/2026/07/22/us/head-of-miss-halls-school-indicted.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Diesel Crisis Puts Poor Farmers Around the World at Risk",
+    "summary": "The closure of the Strait of Hormuz has limited the shipment of diesel, depriving farmers of fuel for irrigation pumps and threatening the food supply.",
+    "published": "Thu, 23 Jul 2026 04:01:17 +0000",
+    "link": "https://www.nytimes.com/2026/07/23/business/bangladesh-farmers-diesel-water-iran.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "How to Eat a 2,000-Pound Fish? These Orcas Choose to Pulverize It.",
+    "summary": "Marine biologists in Mexico captured video of a strange maneuver that killer whales used to shred their meal.",
+    "published": "Thu, 23 Jul 2026 04:00:06 +0000",
+    "link": "https://www.nytimes.com/2026/07/23/science/orcas-sunfish-ramming.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Haiti Needs Stability, Not Mass Deportations",
+    "summary": "Deporting Haitian migrants will further destabilize a country in crisis.",
+    "published": "Thu, 23 Jul 2026 05:00:05 +0000",
+    "link": "https://www.nytimes.com/2026/07/23/opinion/trump-haiti-tps-immigration.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Gen Z-ers Are Ditching Sex. They Might Be Onto Something.",
+    "summary": "Is celibacy cool now?",
+    "published": "Wed, 22 Jul 2026 18:49:28 +0000",
+    "link": "https://www.nytimes.com/2026/07/22/opinion/gen-z-sex-celibacy-relationships.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Deep in This Lake, a Contagious Cancer Is Spreading",
+    "summary": "Transmissible tumors have been reported in a handful of animal species, but never before among fish. Is it possible in humans?",
+    "published": "Wed, 22 Jul 2026 19:20:20 +0000",
+    "link": "https://www.nytimes.com/2026/07/22/science/contagious-cancer-catfish.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Parliament Monsoon Session 2026 Live Updates: NDA MPs To Protest Against Congress At Parliament's Makar Dwar",
+    "summary": "Parliament Monsoon Session 2026 Live Updates: A day earlier, the BJP alleged that Congress MP and Lok Sabha Leader of Opposition (LoP), Rahul Gandhi, was running away from the duties of the Opposition and instead \"only attempting to create a ruckus\".",
+    "published": "Thu, 23 Jul 2026 10:20:37 +0530",
+    "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-lok-sabha-rajya-sabha-amit-shah-cjp-protest-neet-paper-leak-e-20-petrol-income-tax-bill-11809071#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Delhi Cop Who Slapped Woman During CJP Protest Removed From Jantar Mantar",
+    "summary": "Sandeep Lamba was removed from the Jantar Mantar protest site",
+    "published": "Thu, 23 Jul 2026 10:19:17 +0530",
+    "link": "https://www.ndtv.com/india-news/cjp-protests-senior-cop-sandeep-lamba-who-slapped-woman-protester-during-chalo-sansad-march-removed-from-jantar-mantar-11809303#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Video: Late Night Clashes, Teargas At Jantar Mantar, Senior Cops Injured",
+    "summary": "Police videos showed a large number of agitated protesters raising slogans and attacking personnel while others try to stop the crowd.",
+    "published": "Thu, 23 Jul 2026 10:02:17 +0530",
+    "link": "https://www.ndtv.com/india-news/cjp-protest-video-late-night-clashes-teargas-at-jantar-mantar-senior-cops-injured-11809059#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "PM Assures Students In First Message On Paper Leaks, Rahul Gandhi Hits Back",
+    "summary": "The Prime Minister noted that this is part of a series of steps taken by the government to bring those involved in paper leaks to justice.",
+    "published": "Thu, 23 Jul 2026 10:00:06 +0530",
+    "link": "https://www.ndtv.com/india-news/pm-modi-on-paper-leaks-wont-spare-those-who-try-to-harm-the-future-of-our-youth-11809086#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Chhattisgarh Chief Minister Says Uniform Code Bill Likely In Winter Session",
+    "summary": "He stated that two major irrigation projects are being initiated on the Indravati River.",
+    "published": "Thu, 23 Jul 2026 09:52:20 +0530",
+    "link": "https://www.ndtv.com/india-news/chhattisgarh-chief-minister-says-uniform-code-bill-likely-in-winter-session-11808170#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "CJP Protest LIVE Updates: 'Won't Spare Those Who Harm Future Of Our Youth,' Says PM Modi On Paper Leaks",
+    "summary": "CJP Protest LIVE Updates: The protesters have converged at Jantar Mantar in Delhi",
+    "published": "Thu, 23 Jul 2026 09:43:59 +0530",
+    "link": "https://www.ndtv.com/india-news/cjp-protest-live-updates-delhi-jantar-mantar-sonam-wangchuk-hunger-strike-cockroach-janta-party-abhijeet-dipke-dharmendra-pradhan-neet-paper-leak-parl-11808852#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "UPSC Central Armed Police Forces Answer Key 2026 Released; Check Download Steps",
+    "summary": "Download UPSC CAPF 2026 Answer Key For July 19 Examination Now",
+    "published": "Thu, 23 Jul 2026 09:32:53 +0530",
+    "link": "https://www.ndtv.com/education/upsc-central-armed-police-forces-answer-key-2026-released-check-download-steps-11809137#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "\"Want Better Future\": 13-Year-Old On Why She Joined CJP's Protest",
+    "summary": "A young man said he was at the protest for the nation's welfare.",
+    "published": "Thu, 23 Jul 2026 09:27:09 +0530",
+    "link": "https://www.ndtv.com/india-news/delhi-protest-13-year-old-on-why-she-joined-cjps-protest-want-better-future-11808319#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Siya Goyal, Lover Wanted To Injure Fiance, But Later Dropped 'Risky' Plan",
+    "summary": "SIya Goyal and her lover Chetan Chaudhary are currently in jail",
+    "published": "Thu, 23 Jul 2026 09:07:01 +0530",
+    "link": "https://www.ndtv.com/india-news/siya-goyal-lover-chetan-chaudhary-wanted-to-injure-husband-ketan-agarwal-but-later-dropped-risky-plan-11808996#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Maharashtra MBA CAP Round 1 Choice Filling Begins July 28; Seat Allotment On August 2",
+    "summary": "Maharashtra MBA CAP Round 1 choice filling starts July 28; check admission schedule.",
+    "published": "Thu, 23 Jul 2026 08:50:46 +0530",
+    "link": "https://www.ndtv.com/education/maharashtra-mba-cap-round-1-choice-filling-begins-july-28-seat-allotment-on-august-2-11809013#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Jharkhand Civil Services Mains Exam 2025 Postponed; New Dates Soon",
+    "summary": "JPSC has postponed the Jharkhand Civil Services Mains 2025 examination until further orders due to government directions and irregularities. Check the latest official update.",
+    "published": "Thu, 23 Jul 2026 07:56:40 +0530",
+    "link": "https://www.ndtv.com/education/jharkhand-civil-services-mains-exam-2025-postponed-new-dates-soon-11808847#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "SBI Probationary Officer Hall Ticket 2026 Out; Check Direct Download Link and Steps",
+    "summary": "Only candidates who qualify the preliminary exam will be shortlisted for the mains examination",
+    "published": "Thu, 23 Jul 2026 07:56:29 +0530",
+    "link": "https://www.ndtv.com/education/sbi-po-hall-ticket-2026-out-check-direct-download-link-and-steps-11808875#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Uttarakhand Nurse, Seeking A Job, Consumes Phenyl Outside Minister's House",
+    "summary": "The woman was taken to a hospital on Wednesday after her condition deteriorated.",
+    "published": "Thu, 23 Jul 2026 07:40:52 +0530",
+    "link": "https://www.ndtv.com/india-news/unemployed-nurse-consumes-phenyl-outside-uttarakhand-health-ministers-house-11808666#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Delhi-Dehradun Expressway Had 2 Potholes, Contractor Repaired Them: Centre",
+    "summary": "Prime Minister Narendra Modi inaugurated the Delhi-Dehradun Expressway on April 14, 2026",
+    "published": "Thu, 23 Jul 2026 07:22:33 +0530",
+    "link": "https://www.ndtv.com/india-news/delhi-dehradun-expressway-had-2-potholes-contractor-repaired-them-centre-11808796#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Over 37,000 Killed On India's 6,358 Highway \"Black Corridors\" In 3 Years",
+    "summary": "Tamil Nadu has the highest number of black corridors at 958.",
+    "published": "Thu, 23 Jul 2026 07:20:52 +0530",
+    "link": "https://www.ndtv.com/india-news/over-37-000-killed-on-indias-6-358-highway-black-corridors-in-3-years-11808792#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "CLAT 2027: Undergraduate Postgraduate Syllabus And Exam Pattern Unchanged",
+    "summary": "CLAT Expert Committee recommendations may shape future exams, with major changes likely from 2028.",
+    "published": "Thu, 23 Jul 2026 07:12:56 +0530",
+    "link": "https://www.ndtv.com/education/clat-2027-ug-pg-syllabus-and-exam-pattern-to-remain-unchanged-11808780#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Jammu And Kashmir School Holidays Extended Till July 26 Due To Heavy Rain Alert",
+    "summary": "Jammu and Kashmir extends school holidays till July 26; schools to reopen on July 27 amid rain alert.",
+    "published": "Thu, 23 Jul 2026 06:57:59 +0530",
+    "link": "https://www.ndtv.com/education/jammu-and-kashmir-school-holidays-extended-till-july-26-due-to-heavy-rain-alert-11808744#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "At UN, India Slams Pakistan Over Terrorism, Kashmir, Indus Water Treaty",
+    "summary": "Parvathaneni Harish slammed Pakistan for \"misusing\" a high-level debate to \"peddle its false narrative\".",
+    "published": "Thu, 23 Jul 2026 06:09:55 +0530",
+    "link": "https://www.ndtv.com/india-news/at-un-india-slams-pakistan-over-terrorism-kashmir-indus-water-treaty-11808691#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Restructuring GitHub's bug bounty program",
+    "summary": "<p>Article URL: <a href=\"https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\">https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49016099\">https://news.ycombinator.com/item?id=49016099</a></p>\n<p>Points: 28</p>\n<p># Comments: 10</p>",
+    "published": "Thu, 23 Jul 2026 02:28:23 +0000",
+    "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.20386\">https://arxiv.org/abs/2607.20386</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49015878\">https://news.ycombinator.com/item?id=49015878</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+    "published": "Thu, 23 Jul 2026 01:58:18 +0000",
+    "link": "https://arxiv.org/abs/2607.20386",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Petals: Run LLMs at home, BitTorrent-style",
+    "summary": "<p>Article URL: <a href=\"https://petals.dev/\">https://petals.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49015735\">https://news.ycombinator.com/item?id=49015735</a></p>\n<p>Points: 85</p>\n<p># Comments: 28</p>",
+    "published": "Thu, 23 Jul 2026 01:33:12 +0000",
+    "link": "https://petals.dev/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Codeberg Bans Cryptocurrency Projects",
+    "summary": "<p>Article URL: <a href=\"https://codeberg.org/Codeberg/org/pulls/1254\">https://codeberg.org/Codeberg/org/pulls/1254</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49015588\">https://news.ycombinator.com/item?id=49015588</a></p>\n<p>Points: 194</p>\n<p># Comments: 251</p>",
+    "published": "Thu, 23 Jul 2026 01:06:56 +0000",
+    "link": "https://codeberg.org/Codeberg/org/pulls/1254",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Medici family mystery may be solved after more than 400 years",
+    "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria\">https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49014007\">https://news.ycombinator.com/item?id=49014007</a></p>\n<p>Points: 99</p>\n<p># Comments: 23</p>",
+    "published": "Wed, 22 Jul 2026 21:55:34 +0000",
+    "link": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
+    "summary": "<p>Article URL: <a href=\"https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/\">https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49013995\">https://news.ycombinator.com/item?id=49013995</a></p>\n<p>Points: 43</p>\n<p># Comments: 14</p>",
+    "published": "Wed, 22 Jul 2026 21:54:30 +0000",
+    "link": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
+    "summary": "<p>Article URL: <a href=\"https://claytondorge.com/patterns-list\">https://claytondorge.com/patterns-list</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49013924\">https://news.ycombinator.com/item?id=49013924</a></p>\n<p>Points: 47</p>\n<p># Comments: 7</p>",
+    "published": "Wed, 22 Jul 2026 21:48:44 +0000",
+    "link": "https://claytondorge.com/patterns-list",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Malleable Computing, Emacs, and You",
+    "summary": "<p>Article URL: <a href=\"http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html\">http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49013538\">https://news.ycombinator.com/item?id=49013538</a></p>\n<p>Points: 85</p>\n<p># Comments: 25</p>",
+    "published": "Wed, 22 Jul 2026 21:15:26 +0000",
+    "link": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Fairphone 6 wide camera experimental Linux support",
+    "summary": "<p>Article URL: <a href=\"https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/\">https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49012777\">https://news.ycombinator.com/item?id=49012777</a></p>\n<p>Points: 93</p>\n<p># Comments: 12</p>",
+    "published": "Wed, 22 Jul 2026 20:16:01 +0000",
+    "link": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "John C. Dvorak has died",
+    "summary": "<p><a href=\"https://xcancel.com/na_announce/status/2079952538040672302\" rel=\"nofollow\">https://xcancel.com/na_announce/status/2079952538040672302</a><p><a href=\"https://www.twit.community/t/john-c-dvorak-has-passed-away/20291\" rel=\"nofollow\">https://www.twit.community/t/john-c-dvorak-has-passed-away/2...</a><p><a href=\"https://www.facebook.com/aric.mackey/posts/john-c-dvorak-19462026john-c-dvorak-a-pioneering-technology-journalist-podcaster/10242625420121221/\" rel=\"nofollow\">https://www.facebook.com/aric.mackey/posts/john-c-dvorak-194...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49012070\">https://news.ycombinator.com/item?id=49012070</a></p>\n<p>Points: 669</p>\n<p># Comments: 215</p>",
+    "published": "Wed, 22 Jul 2026 19:22:19 +0000",
+    "link": "https://twitter.com/na_announce/status/2079952538040672302",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Clarity didn't work, trying mysterianism (2012)",
+    "summary": "<p>Article URL: <a href=\"https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html\">https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49011687\">https://news.ycombinator.com/item?id=49011687</a></p>\n<p>Points: 60</p>\n<p># Comments: 28</p>",
+    "published": "Wed, 22 Jul 2026 18:55:42 +0000",
+    "link": "https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+    "summary": "<p>Hey HN, Henry & Roman here from Cactus.<p>A small, on-device model is fast and private, but sometimes wrong, but frontier models are getting expensive pretty fast. So, we post-trained Gemma 4 E2B post-trained to know when it's wrong. Every response comes with a confidence score between 0 and 1. Developers can accept the on-device when it's high, hand off to a bigger cloud model when it's low. By routing only 15-35% of queries to Gemini 3.1 Flash-Lite, Gemma-4-E2B matches Gemini 3.1 Flash-Lite on most benchmarks.<p>- ChartQA: 15-20%<p>- LibriSpeech: 25-30%<p>- MMBench, GigaSpeech, MMAU: 30-35%<p>- MMLU-Pro: 45-55%<p>We were always frustrated by the routing signals hybrid apps rely on: asking the model to rate itself in text (unreliable, and you're parsing prose), or token entropy heuristics (barely better than a coin flip in our tests). So we did mechanistic studies on small models, Gemma 4 particularly, and found the hidden state for different layers carry meaningful self-awareness signal for various situations.<p>SO we extended the model with a 68k params probe layer (LayerNorm, low-rank projection, attention pooling, small MLP head) reads one intermediate layer during decoding and predicts p(wrong); confidence = 1 - p(wrong), returned as structured data, never parsed out of the answer text.<p>Across 12 hold-out benchmarks spanning text, vision and audio, the probe averages 0.814 AUROC vs 0.549 for token entropy. The result that convinced us this is real: the probe was trained on zero audio data, yet scores 0.79-0.88 AUROC on four audio benchmarks where entropy is near-random or worse (0.32-0.52). It's reading a modality-independent correctness signal from the hidden state, not memorizing patterns from its training data.<p>We published all weights on HuggingFace and provide copy-pase codes to run it on Transformers, MLX, Llama.cpp or Cactus. With Ollama, vLLM, SGLang etc in the works. For llama.cpp we ship a patch series you compile in once (upstreaming is planned). The code is MIT licensed; Gemma model use remains subject to the Gemma terms.<p>GitHub: <a href=\"https://github.com/cactus-compute/cactus-hybrid\" rel=\"nofollow\">https://github.com/cactus-compute/cactus-hybrid</a><p>Weights: <a href=\"https://huggingface.co/collections/Cactus-Compute/cactus-hybrid-6a60da4551074db058e8bb64\" rel=\"nofollow\">https://huggingface.co/collections/Cactus-Compute/cactus-hyb...</a><p>Some caveats:<p>- The probe scores single-sequence decoding only, up to the first 1024 generated tokens.<p>- Handoff works best when routing per task in a multi-step process, not per step.<p>- Hierarchical routing is still in the works: try on-device, then DeepSeek v4 Flash, before Fable/GPT5.5/Gemini/Muse/Grok.<p>- The technique is boutique for each model, we will share each weights as they roll out.<p>These issues are currently being tackled at Cactus and updated weights will be shipped directly into the HuggingFace collection and GitHub repository straight up. Please let us know your thoughts, it helps us find ways to improve the design progressively.<p>Thanks a million!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010782\">https://news.ycombinator.com/item?id=49010782</a></p>\n<p>Points: 97</p>\n<p># Comments: 14</p>",
+    "published": "Wed, 22 Jul 2026 17:56:29 +0000",
+    "link": "https://github.com/cactus-compute/cactus-hybrid",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Everyone should know SIMD",
+    "summary": "<p>Article URL: <a href=\"https://mitchellh.com/writing/everyone-should-know-simd\">https://mitchellh.com/writing/everyone-should-know-simd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010648\">https://news.ycombinator.com/item?id=49010648</a></p>\n<p>Points: 327</p>\n<p># Comments: 102</p>",
+    "published": "Wed, 22 Jul 2026 17:48:18 +0000",
+    "link": "https://mitchellh.com/writing/everyone-should-know-simd",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+    "summary": "<p><i>A digestion of the Jacobian conjecture counterexample</i> - <a href=\"https://news.ycombinator.com/item?id=48998362\">https://news.ycombinator.com/item?id=48998362</a> - July 2026 (133 comments)<p><i>Claude Fable produced a counterexample to the Jacobian Conjecture</i> - <a href=\"https://news.ycombinator.com/item?id=48973869\">https://news.ycombinator.com/item?id=48973869</a> - July 2026 (508 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010345\">https://news.ycombinator.com/item?id=49010345</a></p>\n<p>Points: 729</p>\n<p># Comments: 437</p>",
+    "published": "Wed, 22 Jul 2026 17:30:40 +0000",
+    "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "GigaToken: ~1000x faster Language model tokenization",
+    "summary": "<p>Article URL: <a href=\"https://github.com/marcelroed/gigatoken/\">https://github.com/marcelroed/gigatoken/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010167\">https://news.ycombinator.com/item?id=49010167</a></p>\n<p>Points: 424</p>\n<p># Comments: 85</p>",
+    "published": "Wed, 22 Jul 2026 17:20:38 +0000",
+    "link": "https://github.com/marcelroed/gigatoken/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Are AI labs pelicanmaxxing?",
+    "summary": "<p>Article URL: <a href=\"https://dylancastillo.co/posts/pelicanmaxxing.html\">https://dylancastillo.co/posts/pelicanmaxxing.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010129\">https://news.ycombinator.com/item?id=49010129</a></p>\n<p>Points: 445</p>\n<p># Comments: 173</p>",
+    "published": "Wed, 22 Jul 2026 17:17:54 +0000",
+    "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Launch HN: Unlayer (YC W22) \u2013 Add email and document builders to your app",
+    "summary": "<p>Hi HN, We\u2019re Adeel and Umair, co-founders of Unlayer (<a href=\"https://unlayer.com/\">https://unlayer.com/</a>). We let you add content creation to your applications without having to build an entire editor, renderer, template, and export stack yourself. Unlayer lets you create emails, web pages, and documents inside your app, in three different ways: in code, visually, or with AI.<p>Here\u2019s a demo: <a href=\"https://www.youtube.com/watch?v=0HsDtNkdMpM\" rel=\"nofollow\">https://www.youtube.com/watch?v=0HsDtNkdMpM</a>.<p>We started with an embeddable email editor because a lot of products eventually need one: CRMs, marketing tools, customer engagement platforms, marketplaces, internal tools, and vertical SaaS apps all run into this at some point. At first, it sounds like a small feature: \"just\" add a drag and drop editor. In practice, it turns into a big pain. You end up dealing with email rendering, Outlook quirks, responsive layouts, templates, merge tags, image uploads, exports, permissions, localization, versioning, and a long tail of edge cases that have nothing to do with your core product<p>Over time, we saw the same problem beyond email. Apps also need landing pages, invoices, proposals, reports, contracts, and PDFs. Some of this content is best created visually by end users. Some of it is better generated in code by developers. Increasingly, some of it is also generated by AI agents. Many teams eventually need all three workflows. That is the direction we have been working toward with Unlayer.<p>There are three parts we are showing today:<p>(1) <i>Unlayer Elements</i>. This is our open-source React component library for creating emails, pages, and documents in code (repo: <a href=\"https://github.com/unlayer/elements\" rel=\"nofollow\">https://github.com/unlayer/elements</a>, more at <a href=\"https://unlayer.com/elements\">https://unlayer.com/elements</a>). Instead of hand-writing raw HTML templates, developers can compose content using React components, reuse sections like headers, footers, CTAs, invoice rows, and branded blocks, keep templates in Git, and render them into production output.<p>One newer use case we are seeing is AI-assisted content creation. If an AI agent is asked to create an email, invoice, report, or landing page, the output is usually raw HTML or markdown that becomes hard to maintain. With Elements, the agent can generate structured React components instead. A developer can review the result, refactor it, keep it in Git, and still pass the design into a visual builder later if someone needs to edit it.<p>(2) <i>Visual Builder</i>. This is the drag and drop editor (repo: <a href=\"https://github.com/unlayer/react-email-editor\" rel=\"nofollow\">https://github.com/unlayer/react-email-editor</a>, more at <a href=\"https://unlayer.com/email-builder\">https://unlayer.com/email-builder</a>) that can be embedded inside an app so non-technical users can create or edit content. In the demo, we show the email builder and the AI assistant inside the builder. The goal is not to replace the developer workflow, but to connect it with a visual workflow when marketers, admins, customers, or internal teams need to make changes themselves.<p>(3) <i>Document Builder</i>. This is for structured documents such as proposals, reports, invoices, contracts, and PDFs. We have seen a lot of teams build separate systems for email templates, web pages, and document generation, even though the underlying primitives are similar: layout, content blocks, variables, assets, preview, export, and permissions. More: <a href=\"https://unlayer.com/document-builder\">https://unlayer.com/document-builder</a><p>The technical challenge is making these workflows share a common foundation. Developers should be able to build templates in code when that makes sense. End users should be able to edit visually when that makes sense. AI agents should be able to generate structured content instead of unmaintainable blobs. The final output should still be usable by the host application.<p>We make money by selling hosted builder, template, export, and platform features to companies embedding this into their products. Elements is open source. The commercial product is the broader hosted platform around builders, collaboration, storage, exports, and production use cases.<p>We were part of W22, so this is a late Launch HN. At the time, Unlayer was an embeddable email editor, and we did not think we had the right broader story for HN yet. Since then, the product has expanded into a more general content creation layer for products, including emails, pages, documents, APIs, open-source developer projects, and AI-assisted workflows. That felt like a better moment to bring it to HN and ask for feedback.<p>We'd really appreciate thoughts from HN. This is one of those areas where a lot of people have strong opinions because they\u2019ve been burned by editors, email HTML, document editing, or \u201csimple\u201d content workflows before. We'd love to hear what resonates, what sounds wrong, and what you think we should be thinking harder about!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49008901\">https://news.ycombinator.com/item?id=49008901</a></p>\n<p>Points: 48</p>\n<p># Comments: 33</p>",
+    "published": "Wed, 22 Jul 2026 16:02:03 +0000",
+    "link": "https://unlayer.com",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Making",
+    "summary": "<p>Article URL: <a href=\"https://beej.us/blog/data/ai-making/\">https://beej.us/blog/data/ai-making/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49008440\">https://news.ycombinator.com/item?id=49008440</a></p>\n<p>Points: 311</p>\n<p># Comments: 117</p>",
+    "published": "Wed, 22 Jul 2026 15:33:48 +0000",
+    "link": "https://beej.us/blog/data/ai-making/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+    "summary": "<p>Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.<p>To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. There's no install or cloud login, everything works offline. The default deck is around 560 KB and it doesn't need to fetch anything once you got it.<p>Open it in a browser and then you can edit, present, print and save. Share it via email or via Airdrop and all they need is a browser to edit, present and also do live collab on the slides. Drop it in to Claude or ChatGPT to transform existing pptx files into Bento slides. There is no cloud involved, only an encrypted blind relay to allow for shared editing. The relay doesn't see any of the data.<p>Check it out at <a href=\"https://bento.page/slides/\" rel=\"nofollow\">https://bento.page/slides/</a> which takes you straight to the editor.<p>Go to <a href=\"https://bento.page/guestbook/\" rel=\"nofollow\">https://bento.page/guestbook/</a> to try out the live guestbook to experience share editing / collab.<p>There is also a gallery with some sample decks on the website - <a href=\"https://bento.page/\" rel=\"nofollow\">https://bento.page/</a><p>All the code is MIT licensed and you can find it here - <a href=\"https://github.com/nyblnet/bento\" rel=\"nofollow\">https://github.com/nyblnet/bento</a> . I used reveal.js with several other libraries (including some homegrown ones), and Claude Code.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49008211\">https://news.ycombinator.com/item?id=49008211</a></p>\n<p>Points: 730</p>\n<p># Comments: 163</p>",
+    "published": "Wed, 22 Jul 2026 15:19:23 +0000",
+    "link": "https://bento.page/slides/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Ghost Cut \u2013 or why Cut and Paste is broken everywhere",
+    "summary": "<p>Article URL: <a href=\"https://ishmael.textualize.io/blog/ghost-cut/\">https://ishmael.textualize.io/blog/ghost-cut/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49007626\">https://news.ycombinator.com/item?id=49007626</a></p>\n<p>Points: 145</p>\n<p># Comments: 97</p>",
+    "published": "Wed, 22 Jul 2026 14:43:28 +0000",
+    "link": "https://ishmael.textualize.io/blog/ghost-cut/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Lego\u2019s Donkey Kong arcade machine lets Mario jump endless barrels \u2014 Miyamoto is reportedly happy",
+    "summary": "Carl Merriam has designed some of my favorite nostalgia-inducing Lego sets, including the Lego Nintendo Game Boy and Piranha Plant. He's assisted on the incredible Lion Knights' Castle, Galaxy Explorer, and Pirates of Barracuda Bay. Now, he's helped the company create a $200 Donkey Kong arcade machine set that managed to win even Mario creator [&#8230;]",
+    "published": "2026-07-22T20:30:00-04:00",
+    "link": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Meta won\u2019t have to face the next planned social media addiction trial",
+    "summary": "Less than a week before Meta's lawyers were set to return to a Los Angeles courtroom, the plaintiff accusing the platform of inflicting harm dropped the case. Brought by 15-year-old Florida plaintiff going by initials R.K.C., the case was set to be the second in a set of bellwether trials meant to test legal arguments [&#8230;]",
+    "published": "2026-07-22T18:03:53-04:00",
+    "link": "https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Tesla\u2019s revenues are bouncing back, but profits are still weak",
+    "summary": "After a dismal two years of weakening demand, falling sales, and damage to its brand by Elon Musk's political activities, Tesla's road to recovery continues apace. On the heels of an impressive delivery report, the company released its earnings for the second quarter of 2026 - giving us the latest glimpse at the EV company [&#8230;]",
+    "published": "2026-07-22T16:17:46-04:00",
+    "link": "https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Price-hiked iPads are a little cheaper right now",
+    "summary": "A number of Apple products got more expensive last month, so we\u2019re happy to find deals wherever and whenever we can. If you\u2019re searching for a high-end iPad, one of the more notable deals currently happening is on the 13-inch iPad Pro M5 with 512GB of storage. Normally $1,699, it\u2019s $150 off at Amazon, costing [&#8230;]",
+    "published": "2026-07-22T15:14:31-04:00",
+    "link": "https://www.theverge.com/gadgets/969003/apple-ipad-air-pro-airtag-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments",
+    "summary": "Code found in an iOS 27 beta would allow Apple to put a financed iPhone in \"Restricted Mode\" if it detects any missed payments, 9to5Mac reports. The finding follows a story from Bloomberg earlier this week claiming Apple is preparing to launch a new \"Apple Upgrade\" financing program for leasing new devices. iPhones in \"Restricted [&#8230;]",
+    "published": "2026-07-22T15:13:21-04:00",
+    "link": "https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Apple is reportedly testing a MacBook Neo with more RAM",
+    "summary": "Following the MacBook Neo's huge popularity so far, Apple is reportedly developing an updated version of its budget laptop with a new processor and more memory, and even has plans to refresh the model with new colors. Following a similar report from analyst Tim Culpan earlier this year, Bloomberg's Mark Gurman says the new Neo [&#8230;]",
+    "published": "2026-07-22T12:35:58-04:00",
+    "link": "https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
+    "summary": "Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle Monster and Warby Parker, are due to launch this fall. [&#8230;]",
+    "published": "2026-07-22T12:35:34-04:00",
+    "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "How the Galaxy Z Fold 8 and Z Flip 8 phones compare",
+    "summary": "Samsung's latest round of folding Galaxy Z phones and updated smartwatches were announced at its July 2026 Unpacked event and are set to launch on August 7th. The Galaxy Z Flip 8, Fold 8, and Fold 8 Ultra don't seem geared toward people who bought last year's model; aside from a few design updates and [&#8230;]",
+    "published": "2026-07-22T11:47:10-04:00",
+    "link": "https://www.theverge.com/gadgets/968682/samsung-galaxy-z-fold-flip-8-specs-features-hardware-comparison",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Preorders for Samsung\u2019s new Z Fold and Flip 8 come with up to $350 in gift cards",
+    "summary": "Samsung's newest foldables are here. At Galaxy Unpacked, the company announced the Galaxy Z Flip 8, Galaxy Z Fold 8, and Galaxy Z Fold 8 Ultra. All three devices will be available on August 7th, but you can preorder them now starting at $1,199.99, $1,899.99, and $2,099.99, respectively. You probably noticed that Samsung's foldable lineup [&#8230;]",
+    "published": "2026-07-22T11:42:22-04:00",
+    "link": "https://www.theverge.com/gadgets/968716/samsung-galaxy-z-flip-fold-8-ultra-how-to-buy-preorder-price-release-date",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Philips\u2019 new smart toothbrush shows you where you didn\u2019t properly brush",
+    "summary": "The latest addition to Philips' Sonicare line of smart electric toothbrushes could take the guesswork out of your brushing routine. The Next-Generation DiamondClean 9900 Prestige uses a third-generation AI model to provide real-time feedback on how you're brushing through a glowing ring on its base, while a touchscreen highlights areas of your mouth that may [&#8230;]",
+    "published": "2026-07-22T11:09:44-04:00",
+    "link": "https://www.theverge.com/tech/969271/philip-sonicare-next-generation-diamondclean-9900-prestige-ai-electric-toothbrush",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
+    "summary": "Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.",
+    "published": "Thu, 23 Jul 2026 01:48:22 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats",
+    "summary": "Oil prices rose after U.S. President Donald Trump threatened to bomb Iranian infrastructure in response to any attacks on ships transiting the Strait of Hormuz.",
+    "published": "Thu, 23 Jul 2026 01:34:22 GMT",
+    "link": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Hedge funds circle UK stocks as new PM Andy Burnham pledges 'new economic model'",
+    "summary": "Prime Minister Andy Burnham's overhaul of Britain's domestic policy could fuel a range of trading opportunities in U.K. stocks.",
+    "published": "Thu, 23 Jul 2026 05:06:41 GMT",
+    "link": "https://www.cnbc.com/2026/07/23/andy-burnham-labour-hedge-funds-short-selling-uk.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Tesla misses on earnings, as free cash flow turns negative and margins slide",
+    "summary": "Tesla's earnings report lands in the midst of a slide in the company's stock price even as its core auto business is rebounding.",
+    "published": "Wed, 22 Jul 2026 22:30:40 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Why we're sticking with Alphabet despite an imperfect quarter and more AI spending",
+    "summary": "The market isn't in a forgiving mood, but we're not in a hurry to leave this stock behind.",
+    "published": "Thu, 23 Jul 2026 00:57:01 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/why-were-sticking-with-alphabet-despite-an-imperfect-quarter-and-more-ai-spending.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Silver and gold prices stage a cautious rebound \u2014 but analysts see slim hopes for a sustained rally",
+    "summary": "Precious metals have rallied in recent days, but analysts say prices could face a difficult path back to all-time highs achieved earlier this year.",
+    "published": "Thu, 23 Jul 2026 05:00:01 GMT",
+    "link": "https://www.cnbc.com/2026/07/23/silver-gold-prices-rebound-rally-correction.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Gen Z protests led by India\u2019s 'Cockroach party' are testing Modi\u2019s leadership",
+    "summary": "Student protests organized by a pseudo-political outfit, Cockroach Janta Party, are gaining momentum as they challenge the political establishment.",
+    "published": "Thu, 23 Jul 2026 04:02:27 GMT",
+    "link": "https://www.cnbc.com/2026/07/23/gen-z-protest-india-cockroach-modi-leadership.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Inside India newsletter: Skyroot rocket puts India alongside U.S., China in private orbital launch",
+    "summary": "Indian startup Skyroot joins Chinese and American private companies in the race to launch satellites in low orbit.",
+    "published": "Thu, 23 Jul 2026 02:37:12 GMT",
+    "link": "https://www.cnbc.com/2026/07/23/india-skyroot-rocket-us-china-spacex.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb",
+    "summary": "A new asymmetry in the market means fuel prices won't fall quickly even if the shooting in the Iran war and Strait of Hormuz stops.",
+    "published": "Wed, 22 Jul 2026 21:34:26 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/iran-war-energy-markets-gas-diesel-prices-us-economy-analysis.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "U.S. Secret Service official: 'Threat environment is the highest we've ever seen'",
+    "summary": "The Secret Service has seen a 40% increase this year in cases involving threats to protectees, including President Donald Trump.",
+    "published": "Wed, 22 Jul 2026 20:09:49 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/secret-service-threat-trump-white-house-drones.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "U.S. signs nuclear power agreement with Saudi Arabia",
+    "summary": "The agreement will provide U.S. companies with access to Saudi Arabia's nuclear energy program, the Department of Energy said.",
+    "published": "Wed, 22 Jul 2026 21:56:58 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/trump-saudi-arabia-nuclear-power.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Chip firm priced as China's most valuable company before its IPO brings scrutiny to crypto platform",
+    "summary": "The outsized premium was due in part to offshore investors who, locked out of the highly anticipated listings, turned to crypto for a parallel market.",
+    "published": "Thu, 23 Jul 2026 03:28:22 GMT",
+    "link": "https://www.cnbc.com/2026/07/23/chip-firm-priced-as-most-valuable-china-firm-pre-ipo-on-crypto-site.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "IBM lowers full-year forecast after earnings warning",
+    "summary": "IBM is now looking to improve productivity with artificial intelligence, including with a new coding tool called Bob.",
+    "published": "Thu, 23 Jul 2026 00:17:38 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "OpenAI cyber models broke out of training environment to hack Hugging Face",
+    "summary": "The incident is unique because it was \"driven, end to end, by an autonomous AI agent system,\" according to Hugging Face.",
+    "published": "Wed, 22 Jul 2026 18:37:37 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Southwest Airlines' third-quarter forecast falls short as fuel bill climbs",
+    "summary": "Southwest Airlines reported a more than 9% increase in second-quarter profit as higher fares are increasingly helping the airline cover its fuel tab.",
+    "published": "Wed, 22 Jul 2026 23:25:25 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/southwest-airlines-luv-2q-2026-earnings.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "J&J gets a big win on its new robotic surgical system \u2014 plus, a flood of earnings",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "published": "Wed, 22 Jul 2026 18:57:50 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/jj-gets-a-big-win-on-its-new-robotic-surgical-system-plus-a-flood-of-earnings.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says",
+    "summary": "Attacks on ships transiting the Bab el-Mandeb threaten to cut off millions of barrels per day of Saudi crude oil exports.",
+    "published": "Wed, 22 Jul 2026 18:45:55 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "ServiceNow CEO defends the company's relevancy, touting a kill switch for rogue AI agents",
+    "summary": "ServiceNow CEO Bill McDermott said the company is becoming increasingly important as businesses deploy more autonomous AI agents.",
+    "published": "Wed, 22 Jul 2026 22:56:13 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/servicenow-ceo-kill-switch-rogue-ai.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
+    "summary": "He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
+    "published": "Wed, 22 Jul 2026 22:06:49 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Senate crypto bill would ban federal officials \u2014 including presidents \u2014 from issuing digital assets",
+    "summary": "A new version of the Clarity Act would impose the first limits on federal officials sponsoring or issuing cryptocurrency.",
+    "published": "Wed, 22 Jul 2026 20:43:35 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/senate-crypto-bill-would-ban-federal-officials-from-issuing-digital-assets.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "EU antitrust regulators clear Paramount-WBD merger as it faces challenge by U.S. states",
+    "summary": "European regulators signed off on Paramount's proposed acquisition of Warner Bros. Discovery.",
+    "published": "Wed, 22 Jul 2026 19:19:42 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/european-commission-paramount-wbd-approval.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Senate panel advances China auto bill that could bar Mercedes-Benz from U.S.",
+    "summary": "Mercedes-Benz\u2019s largest individual shareholder is Chinese state-owned BAIC. Cruz warned the bill could hurt Mercedes and accused GM of backing it.",
+    "published": "Wed, 22 Jul 2026 21:16:56 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/ted-cruz-china-auto-bill-mercedes-benz-gm.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Amazon cuts some jobs in its artificial general intelligence unit",
+    "summary": "Amazon's AGI unit has released a set of AI models, called Nova, and also includes groups working on silicon and quantum computing.",
+    "published": "Wed, 22 Jul 2026 19:50:16 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "House advances bill barring sitting Congress members from buying stocks",
+    "summary": "The House on Wednesday advanced a bill that would bar members of Congress from purchasing additional stocks while in office.",
+    "published": "Wed, 22 Jul 2026 20:59:04 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/house-congressional-stock-trading.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Ex-Google recruiter: Ask this 'insightful' question in an interview and I'll want to hire you 'on the spot'",
+    "summary": "Former Google recruiter Farah Sharghi reveals the question that makes job candidates stand out to her the most.",
+    "published": "Wed, 22 Jul 2026 20:25:44 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/ex-google-recruiter-the-no-1-question-that-makes-me-want-to-hire-someone-on-the-spot.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
+    "summary": "In five public appearances, Warsh has used the phrase \"family fight\" 13 times, returning to \"first principles\" 11 times and \"inflation is a choice\" for the Fed six times.",
+    "published": "Wed, 22 Jul 2026 16:57:55 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Under-the-radar beverage name captures trader's attention",
+    "summary": "Michael Khouw breaks down how he's trading this stock ahead of earnings.",
+    "published": "Wed, 22 Jul 2026 15:55:40 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/under-the-radar-beverage-name-captures-traders-attention.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Reddit stock sinks on report it may not renew Google AI content deal",
+    "summary": "Google's AI summaries have reduced traffic to websites from the search results page and Reddit is reconsidering the benefits of the deal, the Journal said.",
+    "published": "Wed, 22 Jul 2026 20:54:44 GMT",
+    "link": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know",
+    "summary": "The incident is stirring debates over the need for stronger AI guardrails and the extent to which AI agents are capable of acting on their own.",
+    "published": "Thu, 23 Jul 2026 01:23:42 -0400",
+    "link": "https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war",
+    "summary": "Republicans passed more than $1 trillion for the Pentagon alongside a budget blueprint to fund the war with Iran and implement provisions of President Trump's election overhaul bill.",
+    "published": "Wed, 22 Jul 2026 17:51:19 -0400",
+    "link": "https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "In South Dakota, public media endures a year after federal funding was wiped out",
+    "summary": "We check in on one state public broadcasting network a year after President Trump signed a law ending federal funding of public media.",
+    "published": "Wed, 22 Jul 2026 17:21:35 -0400",
+    "link": "https://www.npr.org/2026/07/22/nx-s1-5903146/in-south-dakota-public-media-endures-a-year-after-federal-funding-was-wiped-out",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Trump administration signs commercial nuclear deal with Saudi Arabia",
+    "summary": "The agreement gives American companies priority access to nuclear reactors and fuel to Saudi Arabia. It's expected to last decades and be worth billions of dollars.",
+    "published": "Wed, 22 Jul 2026 17:17:24 -0400",
+    "link": "https://www.npr.org/2026/07/22/nx-s1-5903293/trump-saudi-arabia-nuclear-deal",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "African countries are facing rising rates of cancer. What's being done about it?",
+    "summary": "Cancer diagnoses are on the rise in sub-Saharan Africa and the Eastern Mediterranean regions, but care lags behind.",
+    "published": "Wed, 22 Jul 2026 15:58:49 -0400",
+    "link": "https://www.npr.org/2026/07/22/nx-s1-5894983/african-countries-are-facing-rising-rates-of-cancer-whats-being-done-about-it",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "What to know about Ukraine's military shakeup",
+    "summary": "After a week of nationwide protests over the direction of Ukraine's military strategy in the ongoing war with Russia, the Ukrainian military has a new commander, Mykhailo Drapatyi. Here's what to know.",
+    "published": "Wed, 22 Jul 2026 14:01:18 -0400",
+    "link": "https://www.npr.org/2026/07/22/g-s1-134813/ukraine-military-shakeup-zelenskyy",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "A strange transmissible cancer is spreading through the catfish in this lake",
+    "summary": "For more than a decade, there's been something fishy going on in a lake that straddles Vermont and the province of Quebec. It involves cancer, a kind of catfish, and \u2014 possibly \u2014 clues about how tumors metastasize.",
+    "published": "Wed, 22 Jul 2026 13:33:15 -0400",
+    "link": "https://www.npr.org/2026/07/22/nx-s1-5901135/transmissible-cancer-catfish-melanoma-tumors",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "In pursuit of 'Instagram face,' are we losing the imperfections that make us human?",
+    "summary": "Plastic surgery is becoming so normalized and undetectable, it's changing our relationship to reality. <em>The New Yorker</em> staff writer Jia Tolentino considers how beauty standards have dovetailed with AI.",
+    "published": "Wed, 22 Jul 2026 13:11:19 -0400",
+    "link": "https://www.npr.org/2026/07/22/nx-s1-5902070/jia-tolentino-instagram-face-plastic-surgery",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "People are watching the Reflecting Pool like reality TV. What does that say about us?",
+    "summary": "It's not just watching paint dry. The twists and turns of the Reflecting Pool repairs, originally a two-week project, have kept bloggers and viewers busy all summer.",
+    "published": "Wed, 22 Jul 2026 11:41:39 -0400",
+    "link": "https://www.npr.org/2026/07/22/nx-s1-5897383/dc-reflecting-pool-saga-influencers",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Independent autopsy 'inconclusive' on cause of death for 18-year-old Nolan Wells in Mississippi",
+    "summary": "An independent autopsy of the body of Nolan Wells shows that the cause of death is undetermined pending an investigation, according to attorney Ben Crump.",
+    "published": "Wed, 22 Jul 2026 10:48:26 -0400",
+    "link": "https://www.npr.org/2026/07/22/nx-s1-5902909/independent-autopsy-inconclusive-on-cause-of-death-for-18-year-old-nolan-wells-in-mississippi",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Konstas, Kellaway, Patterson named in CA XI to face Bangladesh",
+    "summary": "Rocchiccioli, Philippe, Doran also included for the three-day tour game",
+    "published": "Thu, 23 Jul 2026 00:34:23 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547129.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Gritty Salt digs deep as Welsh Fire edge low-scoring tussle",
+    "summary": "Miller, Rew help Brave post target of 136 as bowlers dominate throughout",
+    "published": "Wed, 22 Jul 2026 21:53:54 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547128.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Glamorgan's Welsh youngsters hit statement tons to down Sussex",
+    "summary": "Jack Hope-Bell and Alex Horton add 240 for sixth wicket in comeback win",
+    "published": "Wed, 22 Jul 2026 18:37:40 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547062.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Welsh Fire's late collapse hands points to Southern Brave",
+    "summary": "New captain Sophie Molineux closes game out as Fire lose five wickets for six runs in 13 balls",
+    "published": "Wed, 22 Jul 2026 18:11:08 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547120.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Cox, de Swardt dig deep as Leicestershire edge to two-wicket win",
+    "summary": "Thriller at Kibworth as Gloucestershire's low total nearly proves enough",
+    "published": "Wed, 22 Jul 2026 17:40:44 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547065.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "New county report warns of looming 'realities' as financial gulfs widen",
+    "summary": "Leonard Curtis report shows that Hundred equity sale has strengthened the hold of strongest clubs",
+    "published": "Wed, 22 Jul 2026 16:54:49 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547079.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Iyer: Need to 'adapt as soon as possible' after getting a 'reality check'",
+    "summary": "The India T20I captain said a lot of positives came out of the series losses against Ireland and England",
+    "published": "Wed, 22 Jul 2026 16:11:53 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547049.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
   }
 ]
