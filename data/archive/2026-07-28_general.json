@@ -2063,5 +2063,922 @@
     "published": "Wed, 22 Jul 2026 06:50:46 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1547016.html?ex_cid=OTC-RSS",
     "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Watch: The moment quake hit Japan",
+    "summary": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+    "published": "Tue, 28 Jul 2026 15:32:37 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Iran and US trade strikes, shattering brief lull in fighting",
+    "summary": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
+    "published": "Wed, 29 Jul 2026 04:30:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+    "summary": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
+    "published": "Tue, 28 Jul 2026 23:25:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Trump administration bans new Chinese humanoid robots",
+    "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+    "published": "Wed, 29 Jul 2026 02:30:50 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Uefa and PM criticise Infantino World Cup plan",
+    "summary": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+    "published": "Tue, 28 Jul 2026 15:36:29 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
+    "summary": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades.",
+    "published": "Tue, 28 Jul 2026 16:37:02 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
+    "summary": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
+    "published": "Tue, 28 Jul 2026 18:19:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Japan earthquake: What we know so far",
+    "summary": "Japan is reeling from a major earthquake that hit Kyushu island. Here is what we know so far.",
+    "published": "Wed, 29 Jul 2026 02:47:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cgewgxlpj3po?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Bystander video shows teen lifeguard's dramatic ocean rescue",
+    "summary": "The 16-year-old lifeguard rescued a 10-year-old who had been swept offshore at a California beach.",
+    "published": "Tue, 28 Jul 2026 21:09:21 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c4g3600xw5ko?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Mark Zuckerberg Blasts Centralization of A.I. Power",
+    "summary": "In an interview with The Times, Meta\u2019s chief executive took aim at Anthropic and OpenAI, which have pushed to tightly control A.I. development, and said he supported \u201cmore openness.\u201d",
+    "published": "Wed, 29 Jul 2026 00:59:08 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "What Is Open-Weights A.I.?",
+    "summary": "As Silicon Valley debates how artificial intelligence software should be created, \u201copen weights\u201d have been a major part of the discussions. Here\u2019s what to know.",
+    "published": "Tue, 28 Jul 2026 22:38:23 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms",
+    "summary": "Claude Mythos Preview discovered new attacks in testing against weakened cryptographic algorithms, which protect online financial transactions, private communications and more.",
+    "published": "Tue, 28 Jul 2026 17:00:06 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Couple Stalked by eBay Settle for $56 Million",
+    "summary": "Two Massachusetts journalists were harassed by a Silicon Valley security team in a case that raised questions about when executives should be held responsible.",
+    "published": "Tue, 28 Jul 2026 21:02:51 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Writers Guild Withdraws Support From Film Festival Over A.I.",
+    "summary": "Urbanworld, a New York event, has added a section for movies made with A.I. tools. The union was a sponsor but has been outspoken on the dangers of A.I.",
+    "published": "Tue, 28 Jul 2026 20:24:33 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Iran Considered Retaliatory Strike on Ukrainian Seaport",
+    "summary": "A flurry of diplomacy has eased tensions, officials said, after an incident risked triggering a wider war.",
+    "published": "Wed, 29 Jul 2026 02:05:12 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/us/politics/iran-ukraine-tensions.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Some Jordanians Demand that American Troops Leave the Kingdom",
+    "summary": "Hundreds of political, legal and other figures signed a public letter warning that Jordan\u2019s close alliance with the United States poses a risk.",
+    "published": "Wed, 29 Jul 2026 04:01:19 +0000",
+    "link": "https://www.nytimes.com/2026/07/29/world/middleeast/jordan-us-military-iran-war.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky",
+    "summary": "The visits by the leaders of Israel and Ukraine underscored just how deeply President Trump was enmeshed in conflicts he had promised \u2014 and failed \u2014 to end quickly.",
+    "published": "Tue, 28 Jul 2026 21:19:03 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/us/politics/trump-zelensky-netanyahu-wars.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "ICE Arrests Surge at Airports, Opening New Front in Deportation Drive",
+    "summary": "Federal agents are arresting spouses of Americans, tech workers and others whose visas have expired, including many who have active applications to stay in the country.",
+    "published": "Wed, 29 Jul 2026 01:46:18 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "A U.S. Citizen Deleted His Phone\u2019s Data. Now He Faces a Felony Charge.",
+    "summary": "Federal prosecutors charged a man returning to the United States with obstruction because he gave them a passcode that erased his smartphone during a customs search.",
+    "published": "Tue, 28 Jul 2026 21:54:48 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/us/duress-password-phone-wipe-charge.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Senate Confirms Jay Clayton to Lead U.S. Intelligence Community",
+    "summary": "Mr. Clayton, who shed Democratic support after he refused to clearly say Joseph R. Biden Jr. won the 2020 election, will take over the Office of the Director of National Intelligence from Bill Pulte.",
+    "published": "Wed, 29 Jul 2026 00:47:18 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump\u2019s Spy Chief Spends Final Hours in Job Boasting of Mass Firings",
+    "summary": "Bill Pulte, the acting director of national intelligence, said he has terminated nearly a third of the officials in his office, but others doubt the figures are accurate.",
+    "published": "Tue, 28 Jul 2026 23:25:50 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/us/politics/spy-chief-bill-pulte-final-hours.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump Asks Supreme Court to Overturn $83.3 Million Award in Carroll Defamation Case",
+    "summary": "President Trump paid E. Jean Carroll more than $5 million from a 2023 lawsuit, but he is now asking the court to overturn a much larger award that a jury ordered him to pay in 2024 for defaming her.",
+    "published": "Wed, 29 Jul 2026 00:26:11 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/us/politics/trump-supreme-court-carroll.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump Will End Subsidies for Medicare Drug Premiums",
+    "summary": "Millions of older Americans could pay more for their prescription drug coverage next year.",
+    "published": "Tue, 28 Jul 2026 23:12:12 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/business/medicare-drug-subsidies-part-d.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "At Graham\u2019s Farewell, a Glimpse Into Power in Trump\u2019s Washington",
+    "summary": "The political evolution of Lindsey Graham, the South Carolina senator, both captivated and confused many of his old friends but reflected the changing order in the nation\u2019s capital.",
+    "published": "Tue, 28 Jul 2026 23:17:06 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-trump-dc.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "What\u2019s Going on With Mitch McConnell? Kentucky\u2019s Governor Has Questions.",
+    "summary": "Gov. Andy Beshear called on Senator McConnell, who has been hospitalized since June, to prove his capacity to serve, or resign.",
+    "published": "Tue, 28 Jul 2026 22:04:42 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/us/politics/mitch-mcconnell-andy-beshear.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Domestic Abuse Allegations Rock Max Miller\u2019s Ohio House Race",
+    "summary": "Representative Max Miller, a Republican, is facing accusations of abuse from his ex-wife in a bitter family feud that might put his otherwise safe seat in play.",
+    "published": "Tue, 28 Jul 2026 23:23:20 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/us/politics/domestic-abuse-allegations-ohio-house-race.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "South Dakota Governor Seeking Full Term Clinches G.O.P. Nomination",
+    "summary": "Gov. Larry Rhoden, who ascended to the office last year when Kristi Noem left for the Trump cabinet, overcame a large Republican primary field and won a runoff election.",
+    "published": "Wed, 29 Jul 2026 01:17:40 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/us/rhoden-wins-south-dakota-governor-republican-primary.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Gov. Sherrill in the Hot Seat After U.S. Demand for Noncitizens\u2019 Names",
+    "summary": "After disclosing that thousands of ineligible people were added to the voter rolls, New Jersey Gov. Mikie Sherrill is trying to bring accountability while resisting President Trump\u2019s narrative.",
+    "published": "Tue, 28 Jul 2026 22:11:43 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/nyregion/noncitizen-voting-new-jersey-sherrill.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Rates of High Blood Pressure Are Rising in Pregnant Women, Study Finds",
+    "summary": "Hypertension during pregnancy is associated with stillbirth, heart disease among mothers and other serious complications.",
+    "published": "Wed, 29 Jul 2026 04:01:25 +0000",
+    "link": "https://www.nytimes.com/2026/07/29/well/high-blood-pressure-pregnancy.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Japan Races to Reach People Trapped After Earthquake Kills at Least 13",
+    "summary": "Rescue personnel are working to free those trapped in collapsed buildings after a 6.8-magnitude earthquake struck Kumamoto on Tuesday.",
+    "published": "Wed, 29 Jul 2026 02:37:45 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-rescue-survivors.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Investigation of School Epstein Helped Finds Abuses Went Beyond Him",
+    "summary": "A law firm hired by Interlochen, the arts school and camp, to look into alumni complaints of sexual abuse fielded dozens of disturbing accounts, primarily from decades ago.",
+    "published": "Wed, 29 Jul 2026 00:55:18 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/arts/music/jeffrey-epstein-interlochen-arts-abuse.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "The Big Questions About Jeffrey Epstein: What The Times Has Learned",
+    "summary": "Here is what we know about the sexual predator whose secrets spurred an international reckoning over money, power and complicity. Check back for updates.",
+    "published": "Sun, 26 Jul 2026 09:05:12 +0000",
+    "link": "https://www.nytimes.com/article/jeffrey-epstein-sex-abuse-times-investigations.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "The Doctor and His Diary: What Fauci\u2019s Innermost Musings Reveal",
+    "summary": "Dr. Anthony S. Fauci seemed to be the life of the party, even in the midst of a deadly pandemic.",
+    "published": "Wed, 29 Jul 2026 02:07:13 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/us/politics/fauci-diary-fame.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Aide Who Had Affair With Newsom 20 Years Ago Details Her Experience",
+    "summary": "Ruby Rippey had stayed mostly quiet since her relationship with the San Francisco mayor rocked the city.",
+    "published": "Tue, 28 Jul 2026 19:54:10 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/us/gavin-newsom-ruby-rippey-affair.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Drilling for Oil the Old-Fashioned Way in \u2018Little Texas,\u2019 Indonesia",
+    "summary": "Small pumps and truck engines are used to extract crude from the ground in parts of the country, which has tens of thousands of community-run oil wells.",
+    "published": "Tue, 28 Jul 2026 09:34:15 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/world/asia/indonesia-crude-oil-wells-drilling.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "112 Degrees in Paris, Flames Near Bordeaux. France Can\u2019t Go On Like This.",
+    "summary": "The frightening heat and wildfires this summer should be an impetus to those in charge to reckon with how quickly the risks are changing.",
+    "published": "Wed, 29 Jul 2026 05:00:03 +0000",
+    "link": "https://www.nytimes.com/2026/07/29/opinion/france-wildfires-heat-air-conditioning.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "The Hidden Cost of China\u2019s Free A.I.",
+    "summary": "Whoever supplies the world\u2019s A.I. will shape how the world thinks.",
+    "published": "Wed, 29 Jul 2026 05:00:06 +0000",
+    "link": "https://www.nytimes.com/2026/07/29/opinion/ai-china-us-free-models.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Lilly Yokoi, Acrobat Who Dazzled on a Golden Bicycle, Dies at 96",
+    "summary": "With her family troupe \u2014 and later as a solo star \u2014 she performed balletic, gymnastic tricks in circuses and theaters, at fairs and on television.",
+    "published": "Tue, 28 Jul 2026 21:17:49 +0000",
+    "link": "https://www.nytimes.com/2026/07/28/theater/lilly-yokoi-dead.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Himachal Pradesh Schools Closed In Nahan Today As IMD Issues Orange Rain Alert",
+    "summary": "Heavy rains cause flash floods and landslides in Chamba district, damaging homes, vehicles.",
+    "published": "Wed, 29 Jul 2026 10:52:44 +0530",
+    "link": "https://www.ndtv.com/education/himachal-pradesh-schools-closed-in-nahan-today-as-imd-issues-orange-rain-alert-11836336#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Driven By iPhones, India's Smartphone Exports Hit Record $9.84 Billion",
+    "summary": "Apple iPhones made up over 75% of India's record smartphone exports",
+    "published": "Wed, 29 Jul 2026 10:49:28 +0530",
+    "link": "https://www.ndtv.com/india-news/driven-by-apple-iphones-indias-smartphone-exports-hit-record-9-84-billion-11836199#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "PM-Vidyalaxmi Scheme: 1.12 Lakh Education Loans Approved Since Launch",
+    "summary": "The PM-Vidyalaxmi portal enables students to apply online for loans and interest subsidies",
+    "published": "Wed, 29 Jul 2026 10:16:52 +0530",
+    "link": "https://www.ndtv.com/education/pm-vidyalaxmi-scheme-1-12-lakh-education-loans-approved-since-launch-11836186#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Delhi Police Notice To X Accounts Over Abusive Posts On PM Modi During CJP Protests",
+    "summary": "Delhi Police directed social media platforms to remove abusive posts",
+    "published": "Wed, 29 Jul 2026 10:08:28 +0530",
+    "link": "https://www.ndtv.com/india-news/cjp-protest-delhi-police-notice-to-x-accounts-over-abusive-posts-on-pm-modi-during-protests-11835978#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Video: Assam Man Risks Life In Neck-Deep Floodwater To Save Drowning Calf",
+    "summary": "Man saves calf during flood in Sivasagar district of Assam",
+    "published": "Wed, 29 Jul 2026 09:49:47 +0530",
+    "link": "https://www.ndtv.com/india-news/assam-flood-lates-news-video-assam-man-risks-life-in-neck-deep-floodwaters-to-save-drowning-calf-11836057#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "One Officer, One Car: Centre Ends Extra Official Vehicles For Bureaucrats To Cut Spending",
+    "summary": "Eligible officers cannot be allotted more than one government vehicle.",
+    "published": "Wed, 29 Jul 2026 09:17:43 +0530",
+    "link": "https://www.ndtv.com/india-news/one-officer-one-car-centre-ends-extra-official-vehicles-for-bureaucrats-to-cut-spending-11835885#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "\"Incorrect, Unverified\": DRDO Denies Reports Of Data Breach",
+    "summary": "DRDO said there is currently no evidence of any active cyber attack (Representational image)",
+    "published": "Wed, 29 Jul 2026 09:13:23 +0530",
+    "link": "https://www.ndtv.com/india-news/drdo-denies-reports-of-data-breach-cyber-attack-dark-web-incorrect-unverified-11835947#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Gen Z Protest \"Took Us By Surprise\": Delhi BJP Steps Up Youth Outreach",
+    "summary": "The BJP began stepping up its engagement soon after the Jantar Mantar protest ended",
+    "published": "Wed, 29 Jul 2026 09:06:12 +0530",
+    "link": "https://www.ndtv.com/india-news/gen-z-protest-took-us-by-surprise-delhi-bjp-steps-up-youth-outreach-after-cjp-protests-11835934#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Punjab vs Haryana Over Paper Leaks, Nayab Saini-Manish Sisodia Trade Barbs",
+    "summary": "Saini targeted Punjab government over Sisodia's paper leak remarks",
+    "published": "Wed, 29 Jul 2026 08:24:31 +0530",
+    "link": "https://www.ndtv.com/india-news/cjp-protest-aap-vs-haryana-over-paper-leaks-nayab-saini-manish-sisodia-trade-barbs-11835818#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Top Maoist Misir Besra, Carrying Rs 1 Crore Reward, Arrested In Jharkhand",
+    "summary": "Misir Besra was arrested from Jharkhand's Dhanbad",
+    "published": "Wed, 29 Jul 2026 08:01:52 +0530",
+    "link": "https://www.ndtv.com/india-news/top-maoist-misir-besra-carrying-rs-1-crore-reward-arrested-in-jharkhand-11835783#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Uttar Pradesh PCS 2026 Registration Extended Till August 3 For 500 Vacancies",
+    "summary": "Applicants should submit forms early and monitor the UPPSC website for updates.",
+    "published": "Wed, 29 Jul 2026 07:59:51 +0530",
+    "link": "https://www.ndtv.com/education/uttar-pradesh-pcs-2026-registration-extended-till-august-3-for-500-vacancies-11835778#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "What Cops Said On CJP's \"Truck Loaded With Stones At Jantar Mantar\" Claim",
+    "summary": "The police said the truck was seized on July 16",
+    "published": "Wed, 29 Jul 2026 07:12:01 +0530",
+    "link": "https://www.ndtv.com/india-news/delhi-cops-reject-cjps-mystery-truck-at-jantar-mantar-conspiracy-claim-no-truth-11835652#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "ISRO Recruitment 2026 Notification Out For 244 Posts; Apply Here",
+    "summary": "The selection process includes a written exam followed by a skill test",
+    "published": "Wed, 29 Jul 2026 06:52:29 +0530",
+    "link": "https://www.ndtv.com/education/isro-recruitment-2026-notification-out-for-244-posts-apply-here-11835636#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Parliament Monsoon Session 2026 LIVE Updates: \"Opposition Politicised The Issue,\" Says Kiren Rijiju On Anti-Paper Leak Bill Debate",
+    "summary": "Parliament Monsoon Session 2026 LIVE Updates: Parliament on Tuesday had a debate on anti-paper leak bill",
+    "published": "Wed, 29 Jul 2026 06:47:43 +0530",
+    "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-neet-paper-leak-row-anti-paper-leak-bill-lok-sabha-rajya-sabha-proceedings-rahul-gandhi-pm-modi-cjp-prote-11835603#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Two Army Personnel Injured In Landmine Explosion In Jammu And Kashmir",
+    "summary": "Both soldiers belong to 8 Rashtriya Rifles and were on duty near the LoC when the incident took place.",
+    "published": "Wed, 29 Jul 2026 02:38:04 +0530",
+    "link": "https://www.ndtv.com/india-news/two-army-personnel-injured-in-landmine-explosion-in-jammu-and-kashmirs-uri-11835359#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Assam Floods: Seven More Deaths In 24 Hours, Over 3 Lakh People Affected",
+    "summary": "On Monday, six districts had been affected by the deluge, with 4.45 lakh people impacted.",
+    "published": "Wed, 29 Jul 2026 01:32:16 +0530",
+    "link": "https://www.ndtv.com/india-news/assam-flood-seven-more-deaths-in-24-hours-over-3-lakh-people-affected-11835207#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Focus Needs To Be On Prevention, Not Punishment: Shashi Tharoor On Paper Leaks",
+    "summary": "He argued that lakhs have already suffered by the time a person accused of leaking a paper is punished.",
+    "published": "Wed, 29 Jul 2026 00:39:09 +0530",
+    "link": "https://www.ndtv.com/india-news/cjp-protest-neet-paper-leak-neet-leak-lok-sabha-focus-needs-to-be-on-prevention-not-punishment-shashi-tharoor-on-paper-leaks-11835107#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Pen-Paper To Optical Sensors: IIT Professor On Why JEE Hasn't Seen Leaks",
+    "summary": "In 1985, there were 5000 people took the JEE, today, the number is 1.5 million, V Kamakoti said.",
+    "published": "Wed, 29 Jul 2026 00:38:30 +0530",
+    "link": "https://www.ndtv.com/india-news/pen-paper-to-optical-sensors-iit-chief-on-why-no-leaks-in-engineering-exam-11835001#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "NEET Protest Accused Seeks Bail, Cites Assam Government's Move To Drop Cases",
+    "summary": "Assam government said a review found that five cases had been registered across the state.",
+    "published": "Wed, 29 Jul 2026 00:35:08 +0530",
+    "link": "https://www.ndtv.com/india-news/neet-protest-accused-seeks-bail-cites-assam-governments-move-to-drop-cases-11835128#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "CBI Files Chargesheet Against 13 In 2026 NEET UG Paper Leak Case",
+    "summary": "The examination was cancelled and later a re-examination was held on June 21.",
+    "published": "Wed, 29 Jul 2026 00:34:07 +0530",
+    "link": "https://www.ndtv.com/india-news/cbi-files-chargesheet-against-13-in-2026-neet-ug-paper-leak-case-11835125#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "More Tailscale tricks for your jailbroken Kindle",
+    "summary": "<p>Article URL: <a href=\"https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes\">https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093569\">https://news.ycombinator.com/item?id=49093569</a></p>\n<p>Points: 22</p>\n<p># Comments: 0</p>",
+    "published": "Wed, 29 Jul 2026 04:58:46 +0000",
+    "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Cracking Windows Open: Porting RADV to Win32",
+    "summary": "<p>Article URL: <a href=\"https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html\">https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093435\">https://news.ycombinator.com/item?id=49093435</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+    "published": "Wed, 29 Jul 2026 04:30:47 +0000",
+    "link": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "User Interfaces of the Demo Scene",
+    "summary": "<p>Article URL: <a href=\"https://www.datagubbe.se/scenegui/\">https://www.datagubbe.se/scenegui/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093434\">https://news.ycombinator.com/item?id=49093434</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+    "published": "Wed, 29 Jul 2026 04:30:36 +0000",
+    "link": "https://www.datagubbe.se/scenegui/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+    "summary": "<p>Article URL: <a href=\"https://transformer-transformer.github.io/\">https://transformer-transformer.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093232\">https://news.ycombinator.com/item?id=49093232</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
+    "published": "Wed, 29 Jul 2026 03:52:29 +0000",
+    "link": "https://transformer-transformer.github.io/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Hooray for the Sockets Interface",
+    "summary": "<p>Article URL: <a href=\"https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/\">https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49092754\">https://news.ycombinator.com/item?id=49092754</a></p>\n<p>Points: 17</p>\n<p># Comments: 10</p>",
+    "published": "Wed, 29 Jul 2026 02:25:29 +0000",
+    "link": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+    "summary": "<p>Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying on external infrastructure.<p>Google's Zanzibar paper:\n<a href=\"https://storage.googleapis.com/gweb-research2023-media/pubtools/5068.pdf\" rel=\"nofollow\">https://storage.googleapis.com/gweb-research2023-media/pubto...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49092730\">https://news.ycombinator.com/item?id=49092730</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+    "published": "Wed, 29 Jul 2026 02:22:04 +0000",
+    "link": "https://github.com/jagg-ix/zil-lean",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
+    "summary": "<p>Article URL: <a href=\"https://learnvector.ai/\">https://learnvector.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49092499\">https://news.ycombinator.com/item?id=49092499</a></p>\n<p>Points: 108</p>\n<p># Comments: 60</p>",
+    "published": "Wed, 29 Jul 2026 01:49:19 +0000",
+    "link": "https://learnvector.ai/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Multiple Mouse Cursors in Wayland",
+    "summary": "<p>Article URL: <a href=\"https://blinry.org/multi-seat-wayland/\">https://blinry.org/multi-seat-wayland/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49092112\">https://news.ycombinator.com/item?id=49092112</a></p>\n<p>Points: 67</p>\n<p># Comments: 40</p>",
+    "published": "Wed, 29 Jul 2026 00:59:37 +0000",
+    "link": "https://blinry.org/multi-seat-wayland/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+    "summary": "<p>Article URL: <a href=\"https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html\">https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49091895\">https://news.ycombinator.com/item?id=49091895</a></p>\n<p>Points: 19</p>\n<p># Comments: 2</p>",
+    "published": "Wed, 29 Jul 2026 00:32:08 +0000",
+    "link": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The Difference Between a Button and a Link",
+    "summary": "<p>Article URL: <a href=\"https://unplannedobsolescence.com/blog/buttons-vs-links/\">https://unplannedobsolescence.com/blog/buttons-vs-links/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49091738\">https://news.ycombinator.com/item?id=49091738</a></p>\n<p>Points: 54</p>\n<p># Comments: 39</p>",
+    "published": "Wed, 29 Jul 2026 00:12:14 +0000",
+    "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Hubble: Open-source notetaking app for you and your agents",
+    "summary": "<p>Article URL: <a href=\"https://www.hubble.md/\">https://www.hubble.md/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49091730\">https://news.ycombinator.com/item?id=49091730</a></p>\n<p>Points: 76</p>\n<p># Comments: 20</p>",
+    "published": "Wed, 29 Jul 2026 00:11:23 +0000",
+    "link": "https://www.hubble.md/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "ReFrame \u2013 The EPaper Camera",
+    "summary": "<p>Article URL: <a href=\"https://reframe.camera/\">https://reframe.camera/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49091379\">https://news.ycombinator.com/item?id=49091379</a></p>\n<p>Points: 69</p>\n<p># Comments: 17</p>",
+    "published": "Tue, 28 Jul 2026 23:27:09 +0000",
+    "link": "https://reframe.camera/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+    "summary": "<p>HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth.<p>I figured there was probably a simpler way, so I threw together this userscript to merge the two.<p>1. Clicking a link from Hacker News opens the article with a side panel containing the discussion. It doesn't require your credentials, is resizable, and is easy to tweak if you want to customize it.<p>2. If you land on an article that has previously been shared on HN, the script finds the existing discussion and adds a button in the top-right to open the panel.<p>Feedback welcome.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49090607\">https://news.ycombinator.com/item?id=49090607</a></p>\n<p>Points: 205</p>\n<p># Comments: 62</p>",
+    "published": "Tue, 28 Jul 2026 22:09:06 +0000",
+    "link": "https://github.com/twalichiewicz/HNewhere",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Half-Life ported to Mac OS 9",
+    "summary": "<p>Article URL: <a href=\"https://mac-classic.com/news/half-life-ported-to-mac-os-9/\">https://mac-classic.com/news/half-life-ported-to-mac-os-9/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49089814\">https://news.ycombinator.com/item?id=49089814</a></p>\n<p>Points: 196</p>\n<p># Comments: 95</p>",
+    "published": "Tue, 28 Jul 2026 20:58:39 +0000",
+    "link": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Codex Security",
+    "summary": "<p>Article URL: <a href=\"https://github.com/openai/codex-security\">https://github.com/openai/codex-security</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49089755\">https://news.ycombinator.com/item?id=49089755</a></p>\n<p>Points: 429</p>\n<p># Comments: 134</p>",
+    "published": "Tue, 28 Jul 2026 20:52:55 +0000",
+    "link": "https://github.com/openai/codex-security",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+    "summary": "<p><a href=\"https://www.apple.com/shop/apple-upgrade\" rel=\"nofollow\">https://www.apple.com/shop/apple-upgrade</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49087306\">https://news.ycombinator.com/item?id=49087306</a></p>\n<p>Points: 153</p>\n<p># Comments: 303</p>",
+    "published": "Tue, 28 Jul 2026 17:37:12 +0000",
+    "link": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Discovering Cryptographic Weaknesses with Claude",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/discovering-cryptographic-weaknesses\">https://www.anthropic.com/research/discovering-cryptographic-weaknesses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49087091\">https://news.ycombinator.com/item?id=49087091</a></p>\n<p>Points: 196</p>\n<p># Comments: 133</p>",
+    "published": "Tue, 28 Jul 2026 17:22:16 +0000",
+    "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Steel Bank Common Lisp version 2.6.7",
+    "summary": "<p>Article URL: <a href=\"https://sbcl.org/all-news.html?2.6.7\">https://sbcl.org/all-news.html?2.6.7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49086971\">https://news.ycombinator.com/item?id=49086971</a></p>\n<p>Points: 213</p>\n<p># Comments: 90</p>",
+    "published": "Tue, 28 Jul 2026 17:11:54 +0000",
+    "link": "https://sbcl.org/all-news.html?2.6.7",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Substack writers, you need a website",
+    "summary": "<p>Article URL: <a href=\"https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/\">https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49086788\">https://news.ycombinator.com/item?id=49086788</a></p>\n<p>Points: 476</p>\n<p># Comments: 225</p>",
+    "published": "Tue, 28 Jul 2026 16:58:31 +0000",
+    "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Delayed Gratification \u2013 Proud to Be 'Last to Breaking News'",
+    "summary": "<p>Article URL: <a href=\"https://www.slow-journalism.com/\">https://www.slow-journalism.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49085731\">https://news.ycombinator.com/item?id=49085731</a></p>\n<p>Points: 264</p>\n<p># Comments: 151</p>",
+    "published": "Tue, 28 Jul 2026 15:50:38 +0000",
+    "link": "https://www.slow-journalism.com/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The US is banning foreign robots",
+    "summary": "The US government is targeting China with a new import ban on \"advanced robotic devices\" and power inverters made in foreign countries, as reported earlier by Reuters. In an announcement on Tuesday, the Federal Communications Commission says the ban will include \"mobile\" robots, such as humanoid and quadruped models - but it is not limited [&#8230;]",
+    "published": "2026-07-28T18:37:53-04:00",
+    "link": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Ariana Grande is suing the hackers who&#8217;ve been leaking her songs and videos for years",
+    "summary": "Ariana Grande filed a lawsuit on Monday in the Los Angeles County Superior Court against the currently unidentified hackers who allegedly stole and leaked private content. It aims to \"uncover the identities of these currently unknown and unscrupulous individuals,\" referred to as \"John Doe 1 and John Does 2 through 100.\" The lawsuit also says [&#8230;]",
+    "published": "2026-07-28T17:48:50-04:00",
+    "link": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The union drive at the Wikimedia Foundation is expanding",
+    "summary": "In June, UK staff at the nonprofit that runs Wikipedia became the first to announce their intention to form a union. Now, US-based employees at the Wikimedia Foundation are joining the union drive, but management at the nonprofit has declined to voluntarily recognize their union. \"While the Wikimedia Foundation touts to the public that they [&#8230;]",
+    "published": "2026-07-28T17:11:11-04:00",
+    "link": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement",
+    "summary": "eBay and three former executives will pay $55.7 million as part of a settlement with a Massachusetts couple targeted with a bizarre harassment and cyberstalking campaign in 2019, as reported earlier by CNBC. The settlement will resolve a lengthy legal saga that revealed how eBay's former executives sent live insects, a bloody pig mask, a [&#8230;]",
+    "published": "2026-07-28T17:11:11-04:00",
+    "link": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "AI leaders sign a statement asking the government to do something about automated AI",
+    "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts. \"Al could help create a dramatically better [&#8230;]",
+    "published": "2026-07-28T15:46:43-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Is it illegal to trick the US government into wiping your phone during a questionably legal search?",
+    "summary": "A Georgia man was charged with a felony for allegedly wiping his phone while being questioned by Customs and Border Protection. Samuel Tunick had something in common with others who have had their devices searched at airports: He was an activist. Unlike others who have had their phones seized with no explanation, Tunick was told [&#8230;]",
+    "published": "2026-07-28T15:35:00-04:00",
+    "link": "https://www.theverge.com/report/972146/cbp-phone-search-airport-duress-password",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "AI\u2019s finally expensive enough to make Wall Street nervous",
+    "summary": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company had previously [&#8230;]",
+    "published": "2026-07-28T15:33:03-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "This comfy gaming headset that can play audio from two sources is $25",
+    "summary": "While most gaming headsets have moved towards low-latency wireless connections, there\u2019s something to be said for a budget-friendly, capable wired headset. The EPOS H3 Hybrid is on sale for just $24.99 at Woot, a whopping 75 percent off its original price of $99.99. It has an unorthodox batch of features: USB-A and 3.5mm options for [&#8230;]",
+    "published": "2026-07-28T15:18:15-04:00",
+    "link": "https://www.theverge.com/gadgets/972021/epos-h3-hybrid-wired-gaming-headset-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Logitech will pull a Nintendo \u2014 only European mice will come with replaceable batteries",
+    "summary": "In June, Nintendo announced a new version of the Switch 2 that should let you easily replace its battery pack - but only for Europe. Logitech will do much the same. User-replaceable batteries will be the law in Europe in February 2027, but instead of bringing them to the rest of the world, Logitech plans [&#8230;]",
+    "published": "2026-07-28T15:12:48-04:00",
+    "link": "https://www.theverge.com/tech/971963/logitech-user-replacable-batteries-europe",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Apple won\u2019t turn on any \u2018restricted mode\u2019 for missed lease payments",
+    "summary": "Apple says it won't limit the capabilities of devices leased through its new Upgrade program if you miss a payment. In an emailed statement to The Verge, Apple spokesperson Brian Bumbery says, \"There will be no restricted mode and/or there will be no limitations put on device functionality due to missed payments or default with [&#8230;]",
+    "published": "2026-07-28T14:43:57-04:00",
+    "link": "https://www.theverge.com/tech/972063/apple-upgrade-program-no-restricted-mode",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Iran launches surprise ballistic missile attack on U.S. forces in the Middle East",
+    "summary": "Centcom in a post on X said that the attack originated from Iran, but all missiles were intercepted.",
+    "published": "Wed, 29 Jul 2026 02:06:49 GMT",
+    "link": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Why America's super rich have embraced the appeal of British soccer teams",
+    "summary": "American investors now control more than half the Premier League. CNBC examines why U.K. soccer clubs have become attractive long-term assets.",
+    "published": "Wed, 29 Jul 2026 05:00:02 GMT",
+    "link": "https://www.cnbc.com/2026/07/29/why-america-super-rich-love-football-clubs-british.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Oil jumps as U.S.-Iran resume strikes after a brief pause",
+    "summary": "Oil rose sharply amid renewed tensions in the Middle East after Iran launched an attack on U.S. forces using ballistic missiles.",
+    "published": "Wed, 29 Jul 2026 00:52:49 GMT",
+    "link": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Asian technology stocks extend sell-off with SoftBank down 10% as AI plays take a hit",
+    "summary": "Chinese internet stocks listed in Hong Kong bucked the broader regional weakness with Tencent, Meituan, Baidu and Kuaishou all trading higher.",
+    "published": "Wed, 29 Jul 2026 04:12:30 GMT",
+    "link": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "BTS' concerts have been so successful, it's now bad for its own agency Hybe's shares",
+    "summary": "Shares of Hybe tanked 16.09% on Tuesday, marking its worst day since June 2022. It then extended losses to tumble as much as 16.31% on Wednesday.",
+    "published": "Wed, 29 Jul 2026 05:33:34 GMT",
+    "link": "https://www.cnbc.com/2026/07/29/bts-concerts-hybe-record-results-shares-crash.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
+    "summary": "SK Hynix shares fell as exponential profit and revenue growth failed to meet analysts' lofty expectations for a darling of the artificial intelligence sector.",
+    "published": "Wed, 29 Jul 2026 04:10:27 GMT",
+    "link": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Senate confirms Jay Clayton as Trump's director of national intelligence, replacing Pulte",
+    "summary": "Bill Pulte had been serving for months as DNI after Tulsi Gabbard resigned the post.",
+    "published": "Wed, 29 Jul 2026 00:04:25 GMT",
+    "link": "https://www.cnbc.com/2026/07/28/jay-clayton-bill-pulte-senate-vote-trump-spy-chief.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Elon Musk's xAI sues Minnesota over law to ban 'nudify' apps",
+    "summary": "Elon Musk's xAI, now owned by SpaceX, is challenging a law that would ban so-called nudify apps in Minnesota",
+    "published": "Wed, 29 Jul 2026 02:27:03 GMT",
+    "link": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "U.S. and Korean tech stocks are now tightly linked \u2014 and that could be a worry for investors",
+    "summary": "The 60-day correlation between the Kospi and Nasdaq 100 recently climbed to about 0.50, its highest level since 2021, according to data provided by Rayliant.",
+    "published": "Tue, 28 Jul 2026 01:34:28 GMT",
+    "link": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump, DOJ ask Supreme Court to toss $83.3M defamation award to E. Jean Carroll",
+    "summary": "The Supreme Court recently rejected President Donald Trump's bid to hear his appeal of another $5 million verdict in favor of Carroll.",
+    "published": "Wed, 29 Jul 2026 01:17:13 GMT",
+    "link": "https://www.cnbc.com/2026/07/28/trump-asks-supreme-court-to-toss-83point3m-defamation-award-to-e-jean-carroll.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
+    "summary": "Ford cited operational improvements, resilient vehicle pricing and a high sales mix of profitable products for its performance and the improved guidance.",
+    "published": "Tue, 28 Jul 2026 22:49:50 GMT",
+    "link": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Apple touches $5 trillion market cap for first time",
+    "summary": "The jockeying between Apple and Nvidia reflects a debate about the future of AI that has preoccupied investors this summer.",
+    "published": "Tue, 28 Jul 2026 20:02:50 GMT",
+    "link": "https://www.cnbc.com/2026/07/28/apple-touches-5-trillion-market-cap-for-first-time-.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Elon Musk stocks take $1.5 trillion hit with fresh test in SpaceX lockup ahead",
+    "summary": "It's been a rough month for Elon Musk, if there is such a thing for the world's richest man.",
+    "published": "Tue, 28 Jul 2026 18:56:34 GMT",
+    "link": "https://www.cnbc.com/2026/07/28/elon-musk-stocks-take-1point5-trillion-hit-with-fresh-test-in-spacex-lockup-ahead.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Kentucky Gov. Beshear calls on Mitch McConnell to prove he can serve or resign",
+    "summary": "McConnell\u2019s prolonged absence could complicate the GOP\u2019s narrow Senate majority and trigger an untested Kentucky vacancy process.",
+    "published": "Tue, 28 Jul 2026 19:03:40 GMT",
+    "link": "https://www.cnbc.com/2026/07/28/beshear-mcconnell-health-resign-senate-vacancy.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "The Dow jumps as the AI trade wobbles. Plus, a portfolio name goes on the M&A hunt",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "published": "Tue, 28 Jul 2026 19:15:15 GMT",
+    "link": "https://www.cnbc.com/2026/07/28/the-dow-jumps-as-the-ai-trade-wobbles-plus-a-portfolio-name-goes-on-the-ma-hunt.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "SpaceX, Blue Origin could get quicker launch approval under FAA move to waive environmental rules",
+    "summary": "\"America won the first Space Race, and we can do it again \u2014 but only if we get government red tape out of the way,\" Transportation Secretary Sean Duffy said.",
+    "published": "Tue, 28 Jul 2026 23:49:14 GMT",
+    "link": "https://www.cnbc.com/2026/07/28/space-launches-faa-environmental-spacex-blue-origin-sean-duffy.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "U.S. Strategic Petroleum Reserve faces stress as emergency releases strain old infrastructure",
+    "summary": "The reserve has an authorized storage capacity of 714 million barrels, according to the Department of Energy.",
+    "published": "Tue, 28 Jul 2026 18:49:34 GMT",
+    "link": "https://www.cnbc.com/2026/07/28/us-strategic-petroleum-reserve-spr-iran-oil-strait-hormuz.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Senate sets up votes to sanction Russia for Ukraine war",
+    "summary": "The sanctions target Russian officials, oligarchs, their family members, foreign persons, Russian banks and financial institutions and the Russian shadow fleet.",
+    "published": "Wed, 29 Jul 2026 00:03:14 GMT",
+    "link": "https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
+    "summary": "The letter is part of the commission\u2019s public comment period for the first draft of its proposed rule on regulating prediction markets.",
+    "published": "Tue, 28 Jul 2026 18:27:43 GMT",
+    "link": "https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Shein says it's under investigation by the Federal Trade Commission as it prepares for Hong Kong IPO",
+    "summary": "Shein disclosed the FTC is investigating its U.S. business, but the nature of the probe is unclear.",
+    "published": "Tue, 28 Jul 2026 17:12:52 GMT",
+    "link": "https://www.cnbc.com/2026/07/28/shein-discloses-its-under-investigation-by-the-ftc.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "EBay, former execs to pay $56 million in blogger harassment and stalking case",
+    "summary": "Ina and David Steiner run a popular ecommerce blog that had angered eBay executives due to its critical coverage.",
+    "published": "Tue, 28 Jul 2026 16:42:45 GMT",
+    "link": "https://www.cnbc.com/2026/07/28/ebay-blogger-harassment-stalking-steiner.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
+    "summary": "Brokerages, startups and even retail investors are building AI agents that can help oversee portfolios and automate investing tasks once handled by humans.",
+    "published": "Tue, 28 Jul 2026 16:16:25 GMT",
+    "link": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup",
+    "summary": "FIFA has a complex plan to sell chunks of its commercial rights to the World Cup to minority investors, including a firm run by Joshua Kushner, the brother of Jared Kushner.",
+    "published": "Tue, 28 Jul 2026 19:04:59 -0400",
+    "link": "https://www.npr.org/2026/07/28/nx-s1-5910773/fifa-world-cup-gianni-infantino",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "As Spain battles wildfires, its politicians battle over climate change's role",
+    "summary": "Crews are still battling wildfires that broke out last week and have burned nearly 200,000 acres across Spain. The country is bracing for another round of extreme heat, with temperatures expected to top 100 degrees Fahrenheit starting Wednesday.",
+    "published": "Tue, 28 Jul 2026 16:31:54 -0400",
+    "link": "https://www.npr.org/2026/07/28/nx-s1-5909198/spain-wildfires-politicians-climate-change",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Artist Betye Saar, who used repurposed objects to reclaim identity, has died at 99",
+    "summary": "Saar told NPR in 2006, \"I'm the kind of person who recycles materials, but I also recycle emotions and feelings.\" She died days away from her 100th birthday.",
+    "published": "Tue, 28 Jul 2026 16:31:06 -0400",
+    "link": "https://www.npr.org/2026/07/28/nx-s1-5910539/betye-saar-dead",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
+    "summary": "The 51-year-old daughter of the late former President Alberto Fujimori, Peru's new conservative leader has pledged to fight crime with an \"iron fist.\"",
+    "published": "Tue, 28 Jul 2026 16:30:50 -0400",
+    "link": "https://www.npr.org/2026/07/28/nx-s1-5910830/peru-president-keiko-fujimori-inaugurated",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "As many are priced out of buying, the renter-owner wealth gap is wider than ever",
+    "summary": "Record high housing costs have pushed the wealth gap between renters and owners wider than ever. It's been a boon for owners even as many others are priced out.",
+    "published": "Tue, 28 Jul 2026 16:14:20 -0400",
+    "link": "https://www.npr.org/2026/07/28/nx-s1-5853585/as-many-are-priced-out-of-buying-the-renter-owner-wealth-gap-is-wider-than-ever",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Ukraine negotiator: 'We have the upper hand'",
+    "summary": "In an interview with NPR, one of Ukraine's top negotiators Sergiy Kyslytsya explains why Kyiv believes it now has the leverage to force Russia into serious negotiations.",
+    "published": "Tue, 28 Jul 2026 16:10:18 -0400",
+    "link": "https://www.npr.org/2026/07/28/g-s1-135640/ukraine-war-peace-negotiator-russia",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "In a day of tributes, Lindsey Graham is remembered as a tireless Washington mainstay",
+    "summary": "Lawmakers, foreign leaders and President Trump gathered Tuesday for the first of two days of funeral services for the late South Carolina Sen. Lindsey Graham.",
+    "published": "Tue, 28 Jul 2026 13:08:29 -0400",
+    "link": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Photos: Spain and France battle record wildfires",
+    "summary": "Hundreds of thousands of people have been forced from their homes as powerful wildfires sweep across Spain and France, revealing the growing scale of a climate crisis already reshaping the continent.",
+    "published": "Tue, 28 Jul 2026 11:24:07 -0400",
+    "link": "https://www.npr.org/2026/07/28/g-s1-135880/photos-spain-france-wildfires-climate-change",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "'Ricochet' explores how the right to bear arms expands -- while gun laws contract",
+    "summary": "<em>The New York Times</em> reporter Mike McIntire says gun companies and the NRA are broadening the scope of the Second Amendment, socializing kids to appreciate guns and marketing a new brand of masculinity.",
+    "published": "Tue, 28 Jul 2026 11:08:04 -0400",
+    "link": "https://www.npr.org/2026/07/28/nx-s1-5910517/ricochet-explores-how-the-right-to-bear-arms-expands-while-gun-laws-contract",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Ten Doeschate appointed Knight Riders' head of cricket strategy",
+    "summary": "Ryan ten Doeschate will lead the strategic direction for scouting, player recruitment, squad planning and performance evaluation across all four Knight Riders teams",
+    "published": "Wed, 29 Jul 2026 05:27:08 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547954.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "'We've been putting in some extra hard work' - Chase on West Indies' recent success",
+    "summary": "Roston Chase credited the camp before the Sri Lanka series that \"helped us become closer as a unit\" and \"improve our strengths\"",
+    "published": "Wed, 29 Jul 2026 05:01:28 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547942.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Australia call for larger squad sizes for expanded 2027 ODI World Cup",
+    "summary": "2023 World Cup winning coach Andrew McDonald calls for 17-player squads for the expanded tournament with the finalists set to play 13 games compared to 11 four years ago",
+    "published": "Wed, 29 Jul 2026 00:53:24 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547822.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Five-star Seales extends Pakistan's overseas woes in pace-dominated Test",
+    "summary": "Fast bowlers picked up 40 wickets in the Test as West Indies skittle Pakistan out for 120 in their fourth-innings chase of 211",
+    "published": "Wed, 29 Jul 2026 03:19:50 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547906.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Hurst, Stanley pull strings on Lancashire's Farington bow",
+    "summary": "Daniel Bell-Drummond digs in for half-century but Kent can only muster below-par 223",
+    "published": "Tue, 28 Jul 2026 21:34:42 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547854.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Marsh, Crawley, Brook rise to occasion as Sunrisers blitz Super Giants",
+    "summary": "Buttler-Klaasen stand eclipsed by big hitting from home heroes at Headingley",
+    "published": "Tue, 28 Jul 2026 21:08:57 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547908.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Smriti Mandhana stars with 88* as Super Giants down Sunrisers",
+    "summary": "Superbly paced knock from India opener sees visitors take spoils in northern derby",
+    "published": "Tue, 28 Jul 2026 18:05:19 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547905.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Shan Masood bats in Pakistan's chase despite finger fracture",
+    "summary": "The former Pakistan captain suffered the injury during his knock on day three, did not take field on the fourth morning and didn't bat at his usual No. 3 spot",
+    "published": "Tue, 28 Jul 2026 17:55:34 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547916.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Draft of SLC constitution handed over to sports minister",
+    "summary": "Proposals were made for a 14-member board and improvements in coaching, umpiring and pitch curation at all levels",
+    "published": "Tue, 28 Jul 2026 17:52:37 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547912.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Martindale fifty steers Notts after Pocklington four-for",
+    "summary": "Home side complete routine win as Leicestershire struggle despite Eskinazi's unbeaten 94",
+    "published": "Tue, 28 Jul 2026 17:05:50 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547855.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Pratika Rawal signs with Warwickshire Bears",
+    "summary": "The India top-order batter is set to return to action after missing the Lord's Test with injury",
+    "published": "Tue, 28 Jul 2026 15:51:07 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547862.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Rachel Lewis appointed as first female chair of Essex",
+    "summary": "Former Olympian succeeds Jason Gallian, who had been in the role on an interim basis",
+    "published": "Tue, 28 Jul 2026 15:22:18 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1547861.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
   }
 ]
