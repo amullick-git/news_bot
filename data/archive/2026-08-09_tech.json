@@ -1,0 +1,562 @@
+[
+  {
+    "title": "The AI safety test is becoming a safety risk",
+    "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+    "published": "Sun, 09 Aug 2026 14:30:00 +0000",
+    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "This \u2018adversarial\u2019 pattern can prevent surveillance cameras from detecting you",
+    "summary": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
+    "published": "Sun, 09 Aug 2026 14:00:00 +0000",
+    "link": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "This\u00a0former\u00a0notorious red-light district\u00a0is now\u00a0one of the world\u2019s top AI hubs",
+    "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+    "published": "Sun, 09 Aug 2026 13:00:00 +0000",
+    "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+    "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+    "published": "Sat, 08 Aug 2026 21:24:02 +0000",
+    "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "summary": "NextSlide says its team members are now working on ChatGPT.",
+    "published": "Sat, 08 Aug 2026 19:41:13 +0000",
+    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "X replaces \u2018misaligned\u2019 revenue sharing program with Original Content Rewards",
+    "summary": "X is winding down its existing Revenue Sharing program.",
+    "published": "Sat, 08 Aug 2026 16:34:22 +0000",
+    "link": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "The Kindle Scribe Colorsoft is a lot of fun, but it\u2019s not a must-have",
+    "summary": "While the device is pretty and lightweight, it\u2019s not something the everyday person needs due to its hefty price tag and size.",
+    "published": "Sat, 08 Aug 2026 16:00:00 +0000",
+    "link": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Google\u2019s top hacker hunter explains why hacking groups get codenames",
+    "summary": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world\u2019s foremost experts on tracking hackers to understand why companies give hackers codenames.",
+    "published": "Sat, 08 Aug 2026 15:00:00 +0000",
+    "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+    "published": "Fri, 07 Aug 2026 22:48:24 +0000",
+    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+    "published": "Fri, 07 Aug 2026 21:30:11 +0000",
+    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Wacom\u2019s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+    "summary": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+    "published": "Fri, 07 Aug 2026 21:20:00 +0000",
+    "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+    "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+    "published": "Fri, 07 Aug 2026 21:00:08 +0000",
+    "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+    "published": "Fri, 07 Aug 2026 16:16:09 +0000",
+    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Computer maker Framework notifies \u2018all customers\u2019 of a data breach",
+    "summary": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.",
+    "published": "Fri, 07 Aug 2026 16:09:04 +0000",
+    "link": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Today\u2019s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
+    "summary": "Starting today, you can take an\u00a0additional\u00a0$100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+    "published": "Fri, 07 Aug 2026 15:52:33 +0000",
+    "link": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
+    "summary": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.",
+    "published": "Fri, 07 Aug 2026 15:11:03 +0000",
+    "link": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
+    "summary": "You put together the concept \u2014 from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal \u2014 and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.",
+    "published": "Fri, 07 Aug 2026 14:30:00 +0000",
+    "link": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+    "summary": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
+    "published": "Fri, 07 Aug 2026 14:28:31 +0000",
+    "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
+    "published": "Fri, 07 Aug 2026 14:22:49 +0000",
+    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "SpaceX\u2019s Terafab will rely on natural gas power plants, not Tesla solar panels",
+    "summary": "The fab is intended to build chips for data centers that will be run by SpaceX and its xAI subsidiary.",
+    "published": "Fri, 07 Aug 2026 14:07:31 +0000",
+    "link": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Dropbox is a PC builder\u2019s best friend",
+    "summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work that was stored locally on my home-built PC - a scenario that would have left a lot [&#8230;]",
+    "published": "2026-08-09T09:00:00-04:00",
+    "link": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "AI detectors are creating a new era of distrust",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, [&#8230;]",
+    "published": "2026-08-09T08:00:00-04:00",
+    "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "X replaces its revenue-sharing program with \u2018Original Content Rewards\u2019",
+    "summary": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified followers and at least 500,000 Home Timeline impressions from verified users in [&#8230;]",
+    "published": "2026-08-08T17:15:12-04:00",
+    "link": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "An Amazon data center could have the worst polluting power plant in the country",
+    "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, [&#8230;]",
+    "published": "2026-08-08T13:53:34-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Buc-ee\u2019s dodges John Oliver to sue another small business",
+    "summary": "Buc-ee's became something of a viral sensation during the World Cup, but it has a troubling history of suing small gas stations and convenience stores. On a recent episode of Last Week Tonight, John Oliver literally begged the company to sue him for selling merch featuring his squirrel mascot, Mr. Nutterbutter, with branding that reads [&#8230;]",
+    "published": "2026-08-08T11:47:30-04:00",
+    "link": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Musician and entrepreneur Tom Vek is building a digital music player, but don\u2019t call it retro",
+    "summary": "Tom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica landed him an appearance on The OC and placement on the Grand Theft Auto IV soundtrack. His follow-up, Leisure Seizure, [&#8230;]",
+    "published": "2026-08-08T11:00:00-04:00",
+    "link": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Is this $450 laptop from an unknown brand too good to be true?",
+    "summary": "Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and good-enough performance starting at $599. Windows laptops couldn't touch it. Even though it's gone up to $699, it's still [&#8230;]",
+    "published": "2026-08-08T08:00:00-04:00",
+    "link": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "My favorite feel-good show is back",
+    "summary": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Johnny Knoxville and Google Zero and the history of the bicycle, [&#8230;]",
+    "published": "2026-08-08T08:00:00-04:00",
+    "link": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Nitecore\u2019s latest power bank is the lightest and most compact yet",
+    "summary": "There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepacking, and trail running. So imagine my delight when Nitecore released a new generation of its ultralight NB10000 battery. After a few [&#8230;]",
+    "published": "2026-08-08T03:00:00-04:00",
+    "link": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The gaming site sponsored by Walmart lays off its editorial staff",
+    "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off. Restart is operated by Moonrock, a content marketing agency, though its editorial mission [&#8230;]",
+    "published": "2026-08-07T18:05:08-04:00",
+    "link": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+    "summary": "The massive Toba eruption seems to have had little climate impact.",
+    "published": "Sun, 09 Aug 2026 11:00:14 +0000",
+    "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+    "summary": "About 90 percent of the distance driven by Perseverance has been autonomous.",
+    "published": "Sat, 08 Aug 2026 11:30:48 +0000",
+    "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "DeepMind\u2019s hurricane breakthrough has surprised weather scientists",
+    "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+    "published": "Sat, 08 Aug 2026 11:05:50 +0000",
+    "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Europe's free satellite service just made it easier to track wildfires",
+    "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
+    "published": "Fri, 07 Aug 2026 21:48:21 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+    "summary": "Six deaths reported among screwworm cases, one directly attributed to the flies.",
+    "published": "Fri, 07 Aug 2026 21:09:00 +0000",
+    "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+    "summary": "New Mexico judge orders $567M fund to help address youth mental health crisis.",
+    "published": "Fri, 07 Aug 2026 19:49:27 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+    "summary": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
+    "published": "Fri, 07 Aug 2026 19:00:17 +0000",
+    "link": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+    "summary": "19 new maps continue the story from MachineGames' other campaign additions.",
+    "published": "Fri, 07 Aug 2026 18:00:02 +0000",
+    "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "DOGE's wild, unverifiable savings claims discredited in US government report",
+    "summary": "DOGE's inflated \"Wall of Receipts\": 96% of grant savings unverifiable, GAO says.",
+    "published": "Fri, 07 Aug 2026 17:51:05 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "OpenAI\u2019s expensive smart speaker will use moving parts to seem \u201cmore alive\u201d",
+    "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
+    "published": "Fri, 07 Aug 2026 17:36:22 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "How snails engineer their slime",
+    "summary": "Collagen and calcium work in tandem to achieve varying mechanical properties of different kinds of mucus.",
+    "published": "Fri, 07 Aug 2026 17:25:20 +0000",
+    "link": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Volkswagen plans to win America back with a pickup, report says",
+    "summary": "There's no evidence the truck will be a cheap EV truck, but what if it were?",
+    "published": "Fri, 07 Aug 2026 17:13:31 +0000",
+    "link": "https://arstechnica.com/cars/2026/08/volkswagen-plans-to-win-america-back-with-a-pickup-report-says/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Report: White House drafting executive order linking vaccines and autism",
+    "summary": "Trump determined to link life-saving shots to autism, despite science and political risk.",
+    "published": "Fri, 07 Aug 2026 14:41:34 +0000",
+    "link": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+    "summary": "Clinicians and researchers say AI companies need to open up their safety data.",
+    "published": "Fri, 07 Aug 2026 13:49:37 +0000",
+    "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+    "summary": "TikTok owner training a model with 10 trillion parameters.",
+    "published": "Fri, 07 Aug 2026 13:29:22 +0000",
+    "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The world's biggest solar telescope caught vortexes on the Sun's surface",
+    "summary": "We expected them to be there, but they had previously been too small to see.",
+    "published": "Fri, 07 Aug 2026 13:20:46 +0000",
+    "link": "https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Trump is losing his war on wind power",
+    "summary": "A court rules that a hold on all wind projects clearly violates the law.",
+    "published": "Fri, 07 Aug 2026 12:58:04 +0000",
+    "link": "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Remembering the pre-Google web, when search was an experiment",
+    "summary": "\"Most people have completely forgotten how chaotic it really was.\"",
+    "published": "Fri, 07 Aug 2026 11:00:06 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
+    "summary": "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision.",
+    "published": "Thu, 06 Aug 2026 22:20:50 +0000",
+    "link": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+    "summary": "Russian attack? Explosive drone targeted parked aircraft at Leipzig airport.",
+    "published": "Thu, 06 Aug 2026 22:01:55 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a \u201ccensorship-industrial complex\u201d spread in right-wing circles. The theory claimed that, under&#8230;",
+    "published": "Fri, 07 Aug 2026 14:20:00 +0000",
+    "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+    "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk\u2019s Department of Government Efficiency had been cutting a wide swath through&#8230;",
+    "published": "Fri, 07 Aug 2026 14:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: Google\u2019s AI shake-up and Meta\u2019s rogue model",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google\u2019s AI empire is being reshaped. Here\u2019s what\u2019s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale,&#8230;",
+    "published": "Thu, 06 Aug 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Puzzle Corner",
+    "summary": "Ready for a fresh set of puzzles?\u00a0Click here for the September/October 2026 Puzzle Corner,\u00a0brought to you by Michael S. Branicky, ScD \u201995, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner \u201903, MEng \u201904, and Abe Kunin \u201903. This column includes solutions to the May/June issue. Send problems, solutions (by October&#8230;",
+    "published": "Wed, 05 Aug 2026 14:56:29 +0000",
+    "link": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: NASA\u2019s new telescope and Chinese tech import curbs",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA\u2019s new dark energy space telescope can also detect killer asteroids \u00a0 At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space&#8230;",
+    "published": "Wed, 05 Aug 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "NASA\u2019s new dark-energy space telescope can also detect killer asteroids",
+    "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos.&#8230;",
+    "published": "Wed, 05 Aug 2026 08:06:40 +0000",
+    "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: US robot restrictions and ICE\u2019s DNA grab",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump\u2019s AI protectionism has come for robotics\u00a0\u00a0 \u2014James O\u2019Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kick children, and despite advances are still worse at&#160;using their hands&#160;than my toddler. It\u2019s&#8230;",
+    "published": "Tue, 04 Aug 2026 12:14:00 +0000",
+    "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Trump\u2019s AI protectionism has come for robotics",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It\u2019s a nascent industry, and such robots&#8230;",
+    "published": "Mon, 03 Aug 2026 18:43:30 +0000",
+    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here\u2019s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren\u2019t trying to make money or commit sabotage\u2014they were&#8230;",
+    "published": "Mon, 03 Aug 2026 12:08:00 +0000",
+    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren\u2019t trying to make money or commit sabotage\u2014they were just looking for answers&#8230;",
+    "published": "Mon, 03 Aug 2026 08:30:05 +0000",
+    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Mea Culpa \u2013 Dark Hours",
+    "summary": "<p>Article URL: <a href=\"https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html\">https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49231154\">https://news.ycombinator.com/item?id=49231154</a></p>\n<p>Points: 94</p>\n<p># Comments: 36</p>",
+    "published": "Sun, 09 Aug 2026 13:20:43 +0000",
+    "link": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+    "summary": "<p>Article URL: <a href=\"https://github.com/rochus-keller/OberonSystem/tree/op2-rv32\">https://github.com/rochus-keller/OberonSystem/tree/op2-rv32</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230891\">https://news.ycombinator.com/item?id=49230891</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
+    "published": "Sun, 09 Aug 2026 12:43:16 +0000",
+    "link": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Why Wall Street Is Ignoring Big Tech's Debt",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=NufJ7g63KSY\">https://www.youtube.com/watch?v=NufJ7g63KSY</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230630\">https://news.ycombinator.com/item?id=49230630</a></p>\n<p>Points: 34</p>\n<p># Comments: 12</p>",
+    "published": "Sun, 09 Aug 2026 12:01:39 +0000",
+    "link": "https://www.youtube.com/watch?v=NufJ7g63KSY",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "70% of AI revenue comes from OpenAI and Anthropic",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=68X8yEatepQ\">https://www.youtube.com/watch?v=68X8yEatepQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230605\">https://news.ycombinator.com/item?id=49230605</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+    "published": "Sun, 09 Aug 2026 11:56:16 +0000",
+    "link": "https://www.youtube.com/watch?v=68X8yEatepQ",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Reviving a four year old reMarkable 2",
+    "summary": "<p>Article URL: <a href=\"https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html\">https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230514\">https://news.ycombinator.com/item?id=49230514</a></p>\n<p>Points: 59</p>\n<p># Comments: 48</p>",
+    "published": "Sun, 09 Aug 2026 11:39:25 +0000",
+    "link": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Everything You Do Is Being Recorded",
+    "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/\">https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230477\">https://news.ycombinator.com/item?id=49230477</a></p>\n<p>Points: 88</p>\n<p># Comments: 75</p>",
+    "published": "Sun, 09 Aug 2026 11:30:48 +0000",
+    "link": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "CSS: The bomb inside your inbox",
+    "summary": "<p>Article URL: <a href=\"https://portswigger.net/research/css-the-bomb-inside-your-inbox\">https://portswigger.net/research/css-the-bomb-inside-your-inbox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230066\">https://news.ycombinator.com/item?id=49230066</a></p>\n<p>Points: 51</p>\n<p># Comments: 18</p>",
+    "published": "Sun, 09 Aug 2026 10:17:52 +0000",
+    "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+    "summary": "<p>Article URL: <a href=\"https://halfhill.com/byte/1998-12_alpha.html\">https://halfhill.com/byte/1998-12_alpha.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230022\">https://news.ycombinator.com/item?id=49230022</a></p>\n<p>Points: 40</p>\n<p># Comments: 20</p>",
+    "published": "Sun, 09 Aug 2026 10:06:37 +0000",
+    "link": "https://halfhill.com/byte/1998-12_alpha.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Airy \u2013 Free, fast, and simple voice content creation",
+    "summary": "<p>Article URL: <a href=\"https://airy.so\">https://airy.so</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49229848\">https://news.ycombinator.com/item?id=49229848</a></p>\n<p>Points: 13</p>\n<p># Comments: 7</p>",
+    "published": "Sun, 09 Aug 2026 09:29:32 +0000",
+    "link": "https://airy.so",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "There Are Magic Hexagons of Every Order",
+    "summary": "<p>Article URL: <a href=\"https://gukov.dev/math/2026/08/02/new-magic-hexagons.html\">https://gukov.dev/math/2026/08/02/new-magic-hexagons.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49229174\">https://news.ycombinator.com/item?id=49229174</a></p>\n<p>Points: 109</p>\n<p># Comments: 19</p>",
+    "published": "Sun, 09 Aug 2026 07:19:58 +0000",
+    "link": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+    "summary": "<p>Article URL: <a href=\"https://github.com/jmarshall23/msword\">https://github.com/jmarshall23/msword</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228663\">https://news.ycombinator.com/item?id=49228663</a></p>\n<p>Points: 111</p>\n<p># Comments: 50</p>",
+    "published": "Sun, 09 Aug 2026 05:23:41 +0000",
+    "link": "https://github.com/jmarshall23/msword",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+    "summary": "<p>Article URL: <a href=\"http://longbets.org/601/\">http://longbets.org/601/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228458\">https://news.ycombinator.com/item?id=49228458</a></p>\n<p>Points: 176</p>\n<p># Comments: 81</p>",
+    "published": "Sun, 09 Aug 2026 04:30:26 +0000",
+    "link": "http://longbets.org/601/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+    "summary": "<p>Article URL: <a href=\"https://marketnow.site/\">https://marketnow.site/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228086\">https://news.ycombinator.com/item?id=49228086</a></p>\n<p>Points: 12</p>\n<p># Comments: 2</p>",
+    "published": "Sun, 09 Aug 2026 03:13:01 +0000",
+    "link": "https://marketnow.site/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "TheoremDB \u2013 A public workspace for machine mathematics",
+    "summary": "<p>Article URL: <a href=\"https://theoremdb.org/\">https://theoremdb.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49227505\">https://news.ycombinator.com/item?id=49227505</a></p>\n<p>Points: 65</p>\n<p># Comments: 8</p>",
+    "published": "Sun, 09 Aug 2026 01:23:36 +0000",
+    "link": "https://theoremdb.org/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+    "summary": "<p>Article URL: <a href=\"https://os8088.com/\">https://os8088.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226923\">https://news.ycombinator.com/item?id=49226923</a></p>\n<p>Points: 211</p>\n<p># Comments: 128</p>",
+    "published": "Sat, 08 Aug 2026 23:37:27 +0000",
+    "link": "https://os8088.com/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Dithered QR Codes",
+    "summary": "<p>Article URL: <a href=\"https://www.andrewt.net/dithered-qr-codes/wtf/\">https://www.andrewt.net/dithered-qr-codes/wtf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226742\">https://news.ycombinator.com/item?id=49226742</a></p>\n<p>Points: 281</p>\n<p># Comments: 27</p>",
+    "published": "Sat, 08 Aug 2026 23:05:24 +0000",
+    "link": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "My server is a phone now",
+    "summary": "<p>Article URL: <a href=\"https://seg6.space/posts/phone-server/\">https://seg6.space/posts/phone-server/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226636\">https://news.ycombinator.com/item?id=49226636</a></p>\n<p>Points: 407</p>\n<p># Comments: 181</p>",
+    "published": "Sat, 08 Aug 2026 22:49:23 +0000",
+    "link": "https://seg6.space/posts/phone-server/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Should you stop cracking your knuckles?",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles\">https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226563\">https://news.ycombinator.com/item?id=49226563</a></p>\n<p>Points: 83</p>\n<p># Comments: 89</p>",
+    "published": "Sat, 08 Aug 2026 22:36:25 +0000",
+    "link": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Shopify replaced Redis with MySQL for inventory reservations\u2013and it scaled",
+    "summary": "<p>Article URL: <a href=\"https://shopify.engineering/scaling-inventory-reservations\">https://shopify.engineering/scaling-inventory-reservations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226536\">https://news.ycombinator.com/item?id=49226536</a></p>\n<p>Points: 267</p>\n<p># Comments: 176</p>",
+    "published": "Sat, 08 Aug 2026 22:32:50 +0000",
+    "link": "https://shopify.engineering/scaling-inventory-reservations",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+    "summary": "<p>Article URL: <a href=\"https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8099&amp;opacity=besselian%3A0.2%2Cumbra-live%3A0.2&amp;zoom=6&amp;palier=minute\">https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8099&amp;opacity=besselian%3A0.2%2Cumbra-live%3A0.2&amp;zoom=6&amp;palier=minute</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49225139\">https://news.ycombinator.com/item?id=49225139</a></p>\n<p>Points: 174</p>\n<p># Comments: 54</p>",
+    "published": "Sat, 08 Aug 2026 19:38:08 +0000",
+    "link": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+    "source_name": "Hacker News"
+  }
+]
