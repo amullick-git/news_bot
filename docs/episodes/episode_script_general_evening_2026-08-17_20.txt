@@ -1,0 +1,67 @@
+HOST: Good Evening and welcome to Quick News Briefing! I'm Arjav, and joining me today is our esteemed reporter, Arohi, ready to bring us up to speed on the day's most pressing stories.
+
+REPORTER: Always a pleasure to be here, Arjav.
+
+HOST: Fantastic. On This Day in History, August 17th, back in 1977, the first Apple II computers began shipping to eager consumers, marking a significant milestone in personal computing and setting the stage for the technological revolution we continue to witness. Today, we're covering news from The New York Times, NPR Topics, Hacker News, US Top News and Analysis, and several other key sources, ensuring you get a comprehensive overview of what's happening globally. Let's dive right into some of the top headlines. Arohi, starting with US politics and international relations, we've heard reports concerning former President Trump and a Middle East mediator. What can you tell us?
+
+REPORTER: Arjav, former President Trump has reportedly threatened a Middle East mediator, a development that adds another layer to the already complex diplomatic efforts in the region. This news comes as officials continue to navigate sensitive negotiations. And on a separate domestic note, Baltimore has seen a notable plunge in killings, a significant update from crime statistics at the end of Monday.
+
+HOST: That's certainly a development to watch closely. Staying with the Middle East and US involvement, we're also tracking movement within the naval fleet and key diplomatic meetings that could influence regional stability.
+
+REPORTER: Indeed. The USS Washington is currently en route to the Middle East, preparing to relieve the USS Lincoln amidst ongoing concerns about the conditions aboard the latter vessel. In diplomatic news, Jared Kushner is anticipated to meet with Prime Minister Netanyahu, with the goal of advancing the ongoing Gaza talks.
+
+HOST: Back home now, there's an intriguing and somewhat controversial development out of California concerning local election officials.
+
+REPORTER: You're right, Arjav. Shasta County, California, has stirred discussion by considering a new hire for a top elections official position. The individual offered the job is Tina Peters, a staunch Trump supporter who was previously convicted in Colorado for tampering with voting machines. This proposed appointment is certainly drawing significant scrutiny and debate.
+
+HOST: And a serious matter concerning law enforcement, a fatal incident involving ICE in Maine. What details have emerged?
+
+REPORTER: The family of an individual killed last month in a shooting involving Immigration and Customs Enforcement in Biddeford, Maine, is actively pressing for more information. The Department of Homeland Security has confirmed an investigation is underway, but thus far, little has been disclosed about the circumstances surrounding the fatal incident.
+
+HOST: Shifting our focus to international diplomacy, Arohi, how are ties evolving between India and Afghanistan amidst the current global landscape?
+
+REPORTER: India and Afghanistan are reportedly deepening their ties. A notable event saw the Taliban envoy marking Victory Day in Delhi. During his speech, the India-specific portion was described as remarkably warm in tone, suggesting a significant strengthening of relations between the two nations.
+
+HOST: Moving to the technology sector now, specifically artificial intelligence, there's a significant story about China's ambitions regarding AI data on a global scale.
+
+REPORTER: China's ambitions in AI extend beyond merely exporting AI models. The nation aims for its data to heavily influence the world's chatbots, raising fears that Beijing's specific narratives and perspectives could spread globally through this pervasive technology, impacting how information is processed and disseminated worldwide.
+
+HOST: And speaking of AI, the demand for data centers is astronomical, with major players investing heavily to meet this need.
+
+REPORTER: Absolutely. Nvidia is reportedly backing a staggering 105 billion dollars in financing for a new OpenAI data center located in Ohio. This colossal investment underscores the intense race among technology giants to rapidly scale their infrastructure and meet the soaring demand driven by the growth of artificial intelligence.
+
+HOST: Good news for developers and users, perhaps, as we're seeing movement on the pricing for AI models.
+
+REPORTER: Indeed. There's been a significant development: the pricing for GPT-5.6 Sol has been cut by 50 percent. This reduction could substantially lower the cost barrier for many developers and businesses looking to utilize advanced AI models, potentially accelerating innovation and broader adoption across various industries.
+
+HOST: And in terms of company performance within the AI sector, what are we hearing from Anthropic?
+
+REPORTER: Anthropic has reportedly informed investors that its annualized revenue run rate climbed to an impressive 65 billion dollars in July. This figure represents an approximate sevenfold increase from just a year earlier, highlighting the rapid growth and strong market performance Anthropic is currently experiencing in the highly competitive AI landscape.
+
+HOST: From the cutting edge of AI, let's pivot to the world of sports, specifically international cricket. Arohi, what's making headlines on the pitch?
+
+REPORTER: We have several updates from around the globe. The Tridents secured their second straight win, largely thanks to stellar performances from Quinton de Kock, Rutherford, and their spinners, Mujeeb and Motie. Mujeeb and Motie combined for five crucial wickets, effectively derailing the Kings' chase of 178 in a match reduced to 18 overs per side.
+
+HOST: And a new look for Afghanistan's national team?
+
+REPORTER: Yes, Afghanistan has named a new-look squad for the Asian Games 2026, with Rasooli set to lead. The team features a significant influx of fresh talent, including six uncapped players and five others with fewer than ten international caps, signaling a strategic focus on developing younger talent for future competitions.
+
+HOST: A significant achievement for USA Cricket, as well.
+
+REPORTER: Absolutely. The USA has qualified for its third consecutive Under-19 women's T20 World Cup. They join Samoa from the East Asia-Pacific region and UAE from Asia through regional qualification tournaments, with the African and European qualifiers still to be held later in the year. It's a testament to the growing strength of women's cricket in the States.
+
+HOST: In England, there are changes to the national squad.
+
+REPORTER: That's right. Regular captain Sciver-Brunt will sit out the upcoming Ireland ODIs as part of England's 'forward-looking' squad selection strategy. Dean will take charge once again for the three-match series, allowing other players to gain experience and leadership roles.
+
+HOST: And a major player for Pakistan is in doubt for their upcoming Test match?
+
+REPORTER: Yes, Pakistan's star batsman, Babar Azam, remains in doubt for the first Test against England. The team is awaiting final medical clearance on his finger injury from their medical panel before making a late selection call, a decision that could significantly impact their batting line-up.
+
+HOST: Finally, a report from another close contest in cricket.
+
+REPORTER: In a tightly contested match, Suthar and Jadeja combined for seven crucial wickets, ultimately handing India a 178-run lead. This strong bowling performance came despite a brilliant century from Dinusha and a substantial 146-run partnership with Dickwella, which had revived Sri Lanka after they were struggling at 90 for 5 in response to India's first-innings total of 462.
+
+HOST: Arohi, thank you for that comprehensive update on the day's news. Before we sign off, here's a surprising fact: Did you know that the first computer 'bug' wasn't a software error, but an actual moth found trapped in a relay of the Mark II computer at Harvard in 1947 by computing pioneer Grace Hopper? That's where the term 'debugging' actually originated!
+
+HOST: And that's all the time we have for today's Quick News Briefing. Thank you for tuning in. We'll be back tomorrow with more headlines and in-depth reports. Good night.
