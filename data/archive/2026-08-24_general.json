@@ -2098,5 +2098,817 @@
     "published": "Wed, 19 Aug 2026 11:26:46 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1550591.html?ex_cid=OTC-RSS",
     "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+    "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+    "published": "Tue, 25 Aug 2026 01:48:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "US removes Syria from list of state sponsors of terrorism",
+    "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+    "published": "Tue, 25 Aug 2026 00:17:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "French tourist dies in Death Valley after car gets stuck in mud",
+    "summary": "The 68-year-old man was found dead in California's salt flats amid 116\u00b0F (46.6C) heat.",
+    "published": "Tue, 25 Aug 2026 02:08:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Moment tornado tears through southern France",
+    "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
+    "published": "Tue, 25 Aug 2026 00:16:35 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+    "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+    "published": "Mon, 24 Aug 2026 13:56:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Outrage in Nepal over rape and murder of three-year-old girl",
+    "summary": "There have been protests since the girl was found dead last week, three days after she went missing.",
+    "published": "Mon, 24 Aug 2026 17:24:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Caste divides make scorching summers harder in a parched corner of India",
+    "summary": "Rising heat and water scarcity are deepening old caste inequalities in Bundelkhand region, activists say.",
+    "published": "Mon, 24 Aug 2026 23:36:58 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+    "summary": "There are more than two million robots working in China's factories - and they are scaling up fast.",
+    "published": "Mon, 24 Aug 2026 22:13:20 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "How Canada could hit back to hurt the US economy - and Trump",
+    "summary": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
+    "published": "Tue, 25 Aug 2026 02:49:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+    "summary": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
+    "published": "Mon, 24 Aug 2026 15:14:14 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Tornado tears through French village leaving dozens injured",
+    "summary": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
+    "published": "Tue, 25 Aug 2026 01:27:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "More downpours and thunderstorms are heading the UK's way",
+    "summary": "More downpours and thunderstorms are heading the UK's way",
+    "published": "Mon, 24 Aug 2026 16:38:21 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c4gdq21de29o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "World's oceans hit highest temperature on record as El Ni\u00f1o grows",
+    "summary": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service.",
+    "published": "Mon, 24 Aug 2026 16:27:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
+    "summary": "Hugging Face, a start-up that was breached by rogue bots from OpenAI, is using the hack to push for openness in A.I. development.",
+    "published": "Mon, 24 Aug 2026 18:07:41 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Laptop Fire on American Airlines Flight Injures at Least One Passenger",
+    "summary": "Flight attendants used a fireproof bag to contain the computer after its lithium battery began smoking. One passenger was treated on the ground for injuries.",
+    "published": "Mon, 24 Aug 2026 19:34:57 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/travel/american-airlines-laptop-fire.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Supreme Court Allows Trump to Pursue Mail Voting Limits, for Now",
+    "summary": "The administration asked the court to clear the way for President Trump\u2019s order that creates \u201cstate citizenship lists\u201d and directs the Postal Service to decide who gets a mail-in ballot.",
+    "published": "Tue, 25 Aug 2026 00:09:09 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump Has Quietly Sought Control Over Postal Service to Transform U.S. Elections",
+    "summary": "That effort got new attention on Monday, when the Supreme Court allowed preparations for mail voting curbs to proceed. The justices said it is not a final determination on the order\u2019s legality.",
+    "published": "Mon, 24 Aug 2026 23:09:01 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/us/politics/mail-voting-supreme-court-postal-service-trump.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Justices Allow Plans to Restrict Mail Voting, for Now",
+    "summary": "Also, the college admissions process is shifting once again. Here\u2019s the latest at the end of Monday.",
+    "published": "Mon, 24 Aug 2026 21:53:34 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/briefing/supreme-court-mail-voting-restrictions.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump\u2019s Attempt to Strangle Iran\u2019s Economy Depends on China\u2019s Cooperation",
+    "summary": "The U.S. has spent 20 years promising \u2018crippling sanctions\u2019 on Iran. But the latest effort comes with a reverse twist, after military action failed to accomplish President Trump\u2019s goals.",
+    "published": "Tue, 25 Aug 2026 01:10:23 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Iran Pledges to Defy Trump\u2019s Economic Sanctions",
+    "summary": "Analysts say Tehran could intensify the dispute militarily after the United States announced new efforts to squeeze Iran\u2019s economy.  One Iranian official vowed that \u201cnot a single drop of oil\u201d would leave the gulf.",
+    "published": "Mon, 24 Aug 2026 21:12:01 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump Lays It on the Line for Darline Graham Ahead of South Carolina Runoff",
+    "summary": "The president rallied for the sister of Lindsey Graham in her South Carolina Senate run and pressured allies to endorse her. A super PAC run by his advisers has spent nearly $800,000 on her campaign. Will it be enough?",
+    "published": "Tue, 25 Aug 2026 00:43:23 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/us/politics/trump-graham-south-carolina-endorsement.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Jeffries Defends Kushner Meeting, Vowing Tough Oversight of Trump",
+    "summary": "The Brooklyn Democrat, who is in line to be speaker should his party win the House, has drawn ire from some progressives for huddling with the president\u2019s son-in-law.",
+    "published": "Tue, 25 Aug 2026 03:08:16 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/us/politics/jeffries-kushner-meeting-trump-oversight.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Abdul El-Sayed Joins Jesse Watters of Fox News for Some Light Verbal Combat",
+    "summary": "In a smiling yet tense interview, Dr. Abdul El-Sayed, the Democratic nominee for Senate in Michigan, argued that his Republican critics were using culture-war issues to distract from Americans\u2019 economic concerns.",
+    "published": "Tue, 25 Aug 2026 03:04:08 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/us/abdul-el-sayed-jesse-watters-fox-news.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "California Judge Says Recalled Officials Are Unlawfully in Office",
+    "summary": "The mayor and three other council members of Avenal, Calif., had refused to leave despite a certified vote by residents to recall them. They will now step down, a city official said.",
+    "published": "Tue, 25 Aug 2026 02:15:46 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/us/avenal-california-recall-city-council.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "U.S. Tariffs Could Price Canadian Firms Out of U.S. and Threaten Thousands of Jobs",
+    "summary": "The 50 percent tariffs President Trump imposed on Canadian exports to the United States will make it impossible for many Canadian companies to continue to sell to the U.S. market, economists say.",
+    "published": "Tue, 25 Aug 2026 00:33:34 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/world/canada/us-tariffs-trade-economy.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump Officials Propose Charging More Than $100,000 for Skilled Worker Visas",
+    "summary": "The proposal comes after the Trump administration ran into legal challenges in its attempt to attach a similar fee to the H-1B visa last year.",
+    "published": "Tue, 25 Aug 2026 00:03:11 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/us/politics/h1b-visas-fees-proposal-trump.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Judge Orders U.S. to Return Deported Man at Risk of Torture",
+    "summary": "The Mexican man was sent to his home country after assisting federal law enforcement by testifying against Mexican drug cartels.",
+    "published": "Mon, 24 Aug 2026 21:01:30 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/us/politics/mexico-man-deported-torture.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "U.S.S. Abraham Lincoln Sailor Says Father Was Arrested by Border Patrol",
+    "summary": "The sailor, Joshua Aviles, was on his way home from the Middle East aboard the beleaguered aircraft carrier when he learned his father had been detained.",
+    "published": "Mon, 24 Aug 2026 18:02:56 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/us/uss-lincoln-sailor-father-arrested-immigration.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "The Tour Guide Who Lived Through 9/11",
+    "summary": "Christina Stanton offers a very specific and deeply personal tour of the World Trade Center site to remind visitors what happened 25 years ago.",
+    "published": "Mon, 24 Aug 2026 20:38:39 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/nyregion/the-woman-guiding-tourists-through-new-york-citys-worst-day.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Gov. Kathy Hochul, Five Years In, Makes Her Case for Four More",
+    "summary": "Ms. Hochul, who ascended to the governorship in the depths of the pandemic, believes that New York is back. She hopes she has persuaded New Yorkers.",
+    "published": "Tue, 25 Aug 2026 01:59:27 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/nyregion/kathy-hochul-new-york-governor-anniversary.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "The Mayor Went on Vacation. He Didn\u2019t Travel Very Far.",
+    "summary": "Zohran Mamdani is known for working around the clock as mayor of New York City, but last week he and his wife headed \u201cupstate\u201d for vacation and some locals were thrilled to spot them.",
+    "published": "Mon, 24 Aug 2026 22:39:07 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/nyregion/mamdani-mayor-upstate-ny-vacation.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "NYC\u2019s 911 System Had an Outage. Officials Kept Quiet About It.",
+    "summary": "When a partial breakdown of the system occurred last week, New York City officials did not inform the public.",
+    "published": "Mon, 24 Aug 2026 23:31:37 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/nyregion/mamdani-911-outage-nyc.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "S.E.C. Investigating Near-Implosion of A.I. Hedge Fund",
+    "summary": "Regulators sent subpoenas to major Wall Street banks seeking information about the trading of Situational Awareness, three people briefed on the outreach said.",
+    "published": "Mon, 24 Aug 2026 21:13:09 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/business/sec-situational-awareness-investigation.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "What You Should Know About College Admissions Changes",
+    "summary": "After loosening requirements during the Covid era, some schools are shaking up admissions again, facing pressure from the Trump administration, A.I. and even their own professors.",
+    "published": "Mon, 24 Aug 2026 22:47:20 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/us/college-admissions-changes.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Religious References in Lindsay Clancy Trial Anger Judge and Defense",
+    "summary": "The religious reference by a prosecution witness on Monday incensed the presiding judge, who sternly instructed jurors to disregard it. Lindsay Clancy\u2019s lawyer asked for a mistrial.",
+    "published": "Mon, 24 Aug 2026 23:28:53 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/us/lindsay-clancy-trial-religion-catholic.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Why the Lindsay Clancy Case Is Dividing Americans",
+    "summary": "She is being tried on murder charges for killing her three young children. The tragedy has resurrected debates over whether such women are criminals or victims.",
+    "published": "Sat, 22 Aug 2026 18:31:06 +0000",
+    "link": "https://www.nytimes.com/2026/08/22/us/lindsay-clancy-mothers-kill-children-punishment.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Dale Dickey Is Way Past Crying in Barney Suits",
+    "summary": "Years ago, she donned a dinosaur costume to help make ends meet. Now she is a first-time Emmy nominee for her role in \u201cWidow\u2019s Bay.\u201d",
+    "published": "Mon, 24 Aug 2026 09:03:27 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/arts/television/dale-dickey-widows-bay-emmy.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Today\u2019s Weed Is Way Too Dangerous for Teens",
+    "summary": "Are we willing to regulate and enforce cannabis safety, especially to protect the most vulnerable among us?",
+    "published": "Mon, 24 Aug 2026 18:03:26 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/opinion/weed-marijuna-children-regulation.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Fast-Moving Reno Wildfire Forces Thousands to Evacuate in Nevada",
+    "summary": "The Hawk fire has burned more than 15,000 acres since it began on Saturday in the foothills of the Sierra Nevada near Reno.",
+    "published": "Mon, 24 Aug 2026 22:52:15 +0000",
+    "link": "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Delhi University Elections 2026: ABVP Launches 'My DU, My Manifesto' Campaign",
+    "summary": "Students can raise concerns via a QR code or through ABVP volunteers across Delhi University.",
+    "published": "Tue, 25 Aug 2026 07:52:38 +0530",
+    "link": "https://www.ndtv.com/education/delhi-university-elections-2026-abvp-launches-my-du-my-manifesto-campaign-11954401#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Rape Convict Ram Rahim Gets 21-Day Parole, 17th Since 2017 Conviction",
+    "summary": "Gurmeet Ram Rahim Singh is granted 21 days parole to visit Dera headquarters.",
+    "published": "Tue, 25 Aug 2026 07:52:32 +0530",
+    "link": "https://www.ndtv.com/india-news/dera-sacha-sauda-chief-gurmeet-ram-rahim-singh-gets-21-day-parole-17th-since-2017-rape-conviction-11954396#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Ladakh Opens 2,000 Government Internships; Rs 5,000 Stipend, Applications Open",
+    "summary": "Applications for Ladakh youth internships are open until September 5.",
+    "published": "Tue, 25 Aug 2026 07:21:27 +0530",
+    "link": "https://www.ndtv.com/education/ladakh-opens-2-000-government-internship-opportunities-rs-5-000-per-month-applications-open-11954332#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Gurugram Resident Spends 4 Hours For 8 km Trip Amid Heavy Rains: 'Still Have 2 km Left'",
+    "summary": "Severe waterlogging causes major traffic jams in Gurugram, leaving residents stranded for hours.",
+    "published": "Tue, 25 Aug 2026 07:20:56 +0530",
+    "link": "https://www.ndtv.com/india-news/gurugram-resident-spends-4-hours-for-8-km-trip-amid-heavy-rains-still-have-2-km-left-11954285#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "In UP, 2 Children Leave Home After Watching YouTube Secret House Challenge",
+    "summary": "According to police, two children had suddenly gone missing from home on Sunday afternoon.",
+    "published": "Tue, 25 Aug 2026 07:20:33 +0530",
+    "link": "https://www.ndtv.com/india-news/in-up-2-children-leave-home-after-watching-youtube-secret-house-challenge-11954329#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Education Minister Prahlad Joshi Reviews CBSE Work, Stresses Transparency",
+    "summary": "Officials discussed improving support for students and teachers amid changes.",
+    "published": "Tue, 25 Aug 2026 06:52:16 +0530",
+    "link": "https://www.ndtv.com/education/education-minister-prahlad-joshi-reviews-cbse-work-stresses-transparency-11954278#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "24-Year-Old Drowns In Gujarat Pond Where Brother Died 3 Months Ago",
+    "summary": "The incident took place in Nugar village near Mehsana. (Representational)",
+    "published": "Tue, 25 Aug 2026 06:37:55 +0530",
+    "link": "https://www.ndtv.com/india-news/24-year-old-drowns-3-months-after-brothers-death-in-gujarat-11954260#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "27 Students Fall Ill After Consuming Mid-Day Meal At Rajasthan School",
+    "summary": "According to the official, at least 10 to 12 children were hospitalised after consuming mid day meal.",
+    "published": "Tue, 25 Aug 2026 05:07:51 +0530",
+    "link": "https://www.ndtv.com/india-news/27-students-fall-ill-after-consuming-mid-day-meal-at-rajasthan-school-11954189#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Oil Tanker Hit By Unknown Projectile Off Oman In Hormuz: UK Maritime Agency",
+    "summary": "The missile \"causing damage to the engine room and disabling the vessel\", UK Maritime Agency said.",
+    "published": "Tue, 25 Aug 2026 04:54:18 +0530",
+    "link": "https://www.ndtv.com/india-news/oil-tanker-hit-by-unknown-projectile-off-oman-in-hormuz-uk-maritime-agency-11954179#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "15% Decline In Indian Students Seeking Undergraduate Courses In US: Report",
+    "summary": "India is the largest source of international students in the US.",
+    "published": "Tue, 25 Aug 2026 03:42:04 +0530",
+    "link": "https://www.ndtv.com/india-news/15-decline-in-indian-students-seeking-undergraduate-courses-in-us-report-11954120#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Physical Abuse, Forced Smoking, Blackmail: Ragging Case At Gujarat Hostel",
+    "summary": "The administrator of Madhav Boys Hostel dismissed the claims as fabricated. (Representational)",
+    "published": "Tue, 25 Aug 2026 02:01:01 +0530",
+    "link": "https://www.ndtv.com/india-news/physical-abuse-forced-smoking-blackmail-ragging-case-at-gujarat-hostel-11953983#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "36 Years On, Thane Man Wanted For Attacking Cricket Umpire With Bat Arrested",
+    "summary": "The incident occurred in 1990, when Pasi, then 18, had gone to play a cricket match in Borivali.",
+    "published": "Tue, 25 Aug 2026 00:58:23 +0530",
+    "link": "https://www.ndtv.com/india-news/36-years-on-thane-man-wanted-for-attacking-cricket-umpire-with-bat-arrested-11953906#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "BJP, AAP's Sports Outreach In Big Gen Z Push In Punjab",
+    "summary": "Prime Minister Narendra Modi is set to interact with students on August 27 as part of the \"Khelo India Samvad\" programme",
+    "published": "Tue, 25 Aug 2026 00:45:33 +0530",
+    "link": "https://www.ndtv.com/india-news/eye-on-punjab-assembly-polls-aap-bjp-in-race-over-youth-brigade-outreach-11953881#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Video: Live Worm Found In Sandwich At Posh Gurugram Restaurant",
+    "summary": "In the video, a white worm can be seen crawling on top of the meat.",
+    "published": "Tue, 25 Aug 2026 00:32:45 +0530",
+    "link": "https://www.ndtv.com/india-news/video-live-worm-found-in-sandwich-at-posh-gurugram-restaurant-11948895#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "BJP Says Will Contest All Seats In Punjab Assembly Polls, AAP Scoffs",
+    "summary": "Earlier this morning, BL Santosh was welcomed at Mohali airport by state BJP chief Sardar Kewal Singh Dhillon and Punjab co-incharge Sardar Narendra Singh Raina.",
+    "published": "Tue, 25 Aug 2026 00:28:59 +0530",
+    "link": "https://www.ndtv.com/india-news/bjp-says-will-contest-all-seats-in-punjab-assembly-polls-aap-scoffs-11953844#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "US Drops Syria From State Sponsor Of Terrorism List After Nearly 5 Decades",
+    "summary": "The Treasury Department followed through with sanctions relief.",
+    "published": "Tue, 25 Aug 2026 00:21:37 +0530",
+    "link": "https://www.ndtv.com/india-news/us-drops-syria-from-state-sponsor-of-terrorism-list-after-nearly-5-decades-11953834#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Karnataka Suspends Amazon, Instamart, BigBasket's Licences Over 'Datura' Sales",
+    "summary": "The authority had earlier ordered an inquiry into the sale of datura products.",
+    "published": "Tue, 25 Aug 2026 00:13:48 +0530",
+    "link": "https://www.ndtv.com/india-news/amazon-swiggy-bigbasket-lose-food-licences-over-datura-sales-in-karnataka-11953495#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Class 9 Student Found Hanging In Karnataka School, Family Alleges Murder",
+    "summary": "The body was shifted to a local government hospital.",
+    "published": "Tue, 25 Aug 2026 00:11:50 +0530",
+    "link": "https://www.ndtv.com/india-news/class-9-student-found-hanging-in-karnataka-school-family-alleges-murder-11953820#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "EVMs Don't Have Internet, Bluetooth Or Wi-Fi, Says Poll Body Chief",
+    "summary": "He advised students to verify the sources and authenticity of information before accepting or sharing it.",
+    "published": "Tue, 25 Aug 2026 00:08:02 +0530",
+    "link": "https://www.ndtv.com/india-news/evms-dont-have-internet-bluetooth-or-wi-fi-says-chief-election-commissioner-gyanesh-kumar-11953814#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Akali Dal Spell-Checks Classroom Posters, AAP's 'Hatred For Punjab' Reply",
+    "summary": "The posters misspelled 'vegetables' and 'deer'.",
+    "published": "Tue, 25 Aug 2026 00:02:45 +0530",
+    "link": "https://www.ndtv.com/india-news/akali-dal-spell-checks-classroom-posters-aaps-hatred-for-punjab-reply-11953622#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Thomson Reuters Launches Its Own Frontier Model",
+    "summary": "<p>Article URL: <a href=\"https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model\">https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428318\">https://news.ycombinator.com/item?id=49428318</a></p>\n<p>Points: 20</p>\n<p># Comments: 3</p>",
+    "published": "Tue, 25 Aug 2026 02:11:39 +0000",
+    "link": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "How Universities Should Prepare Founders",
+    "summary": "<p>Article URL: <a href=\"https://paulgraham.com/prepare.html\">https://paulgraham.com/prepare.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428121\">https://news.ycombinator.com/item?id=49428121</a></p>\n<p>Points: 33</p>\n<p># Comments: 31</p>",
+    "published": "Tue, 25 Aug 2026 01:40:39 +0000",
+    "link": "https://paulgraham.com/prepare.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Was Modern Art a CIA Psy-Op?",
+    "summary": "<p>Article URL: <a href=\"https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/\">https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428080\">https://news.ycombinator.com/item?id=49428080</a></p>\n<p>Points: 19</p>\n<p># Comments: 16</p>",
+    "published": "Tue, 25 Aug 2026 01:35:00 +0000",
+    "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Bookshelf \u2013 Self-hosted eBook library that runs on object storage",
+    "summary": "<p>Article URL: <a href=\"https://github.com/murerkinn/bookshelf\">https://github.com/murerkinn/bookshelf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49427001\">https://news.ycombinator.com/item?id=49427001</a></p>\n<p>Points: 46</p>\n<p># Comments: 15</p>",
+    "published": "Mon, 24 Aug 2026 23:00:37 +0000",
+    "link": "https://github.com/murerkinn/bookshelf",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+    "summary": "<p>Article URL: <a href=\"https://developer.apple.com/news/?id=1ptvdtcm\">https://developer.apple.com/news/?id=1ptvdtcm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49426564\">https://news.ycombinator.com/item?id=49426564</a></p>\n<p>Points: 269</p>\n<p># Comments: 66</p>",
+    "published": "Mon, 24 Aug 2026 22:13:40 +0000",
+    "link": "https://developer.apple.com/news/?id=1ptvdtcm",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Moon (2024)",
+    "summary": "<p>Article URL: <a href=\"https://ciechanow.ski/moon/\">https://ciechanow.ski/moon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49426466\">https://news.ycombinator.com/item?id=49426466</a></p>\n<p>Points: 117</p>\n<p># Comments: 20</p>",
+    "published": "Mon, 24 Aug 2026 22:06:02 +0000",
+    "link": "https://ciechanow.ski/moon/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "One corner of China\u2019s internet is insisting that the Tang Dynasty never existed",
+    "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk\">https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49425819\">https://news.ycombinator.com/item?id=49425819</a></p>\n<p>Points: 138</p>\n<p># Comments: 114</p>",
+    "published": "Mon, 24 Aug 2026 21:03:06 +0000",
+    "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+    "summary": "<p>Article URL: <a href=\"https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/\">https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49425800\">https://news.ycombinator.com/item?id=49425800</a></p>\n<p>Points: 59</p>\n<p># Comments: 13</p>",
+    "published": "Mon, 24 Aug 2026 21:01:38 +0000",
+    "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Oceans hit highest temperature on record",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c62m4gpnp78o\">https://www.bbc.com/news/articles/c62m4gpnp78o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49424606\">https://news.ycombinator.com/item?id=49424606</a></p>\n<p>Points: 433</p>\n<p># Comments: 355</p>",
+    "published": "Mon, 24 Aug 2026 19:19:08 +0000",
+    "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "LLMs could control their host machines by exploiting inference engines",
+    "summary": "<p>Article URL: <a href=\"https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines\">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49424387\">https://news.ycombinator.com/item?id=49424387</a></p>\n<p>Points: 105</p>\n<p># Comments: 53</p>",
+    "published": "Mon, 24 Aug 2026 19:03:06 +0000",
+    "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
+    "summary": "<p>Article URL: <a href=\"https://textlog.cc/post/2059\">https://textlog.cc/post/2059</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49424167\">https://news.ycombinator.com/item?id=49424167</a></p>\n<p>Points: 61</p>\n<p># Comments: 26</p>",
+    "published": "Mon, 24 Aug 2026 18:45:43 +0000",
+    "link": "https://textlog.cc/post/2059",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Anger, Anxiety and Agency",
+    "summary": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/\">https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49424082\">https://news.ycombinator.com/item?id=49424082</a></p>\n<p>Points: 106</p>\n<p># Comments: 115</p>",
+    "published": "Mon, 24 Aug 2026 18:37:24 +0000",
+    "link": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Octopus intelligence may be related to never-before-seen mutation",
+    "summary": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/\">https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49423539\">https://news.ycombinator.com/item?id=49423539</a></p>\n<p>Points: 91</p>\n<p># Comments: 71</p>",
+    "published": "Mon, 24 Aug 2026 17:57:13 +0000",
+    "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+    "summary": "<p>Article URL: <a href=\"https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4\">https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49423495\">https://news.ycombinator.com/item?id=49423495</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Mon, 24 Aug 2026 17:53:14 +0000",
+    "link": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Where did all the public bathrooms go?",
+    "summary": "<p>Article URL: <a href=\"https://daily.jstor.org/where-did-all-the-public-bathrooms-go/\">https://daily.jstor.org/where-did-all-the-public-bathrooms-go/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49422800\">https://news.ycombinator.com/item?id=49422800</a></p>\n<p>Points: 174</p>\n<p># Comments: 353</p>",
+    "published": "Mon, 24 Aug 2026 17:07:01 +0000",
+    "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The entire city of San Francisco as a video game",
+    "summary": "<p><a href=\"https://twitter.com/cdngdev/status/2091909073038082139\" rel=\"nofollow\">https://twitter.com/cdngdev/status/2091909073038082139</a>, <a href=\"https://xcancel.com/cdngdev/status/2091909073038082139\" rel=\"nofollow\">https://xcancel.com/cdngdev/status/2091909073038082139</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49422784\">https://news.ycombinator.com/item?id=49422784</a></p>\n<p>Points: 368</p>\n<p># Comments: 123</p>",
+    "published": "Mon, 24 Aug 2026 17:05:38 +0000",
+    "link": "https://sf.thijs.gg/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Hot Chips 2026: CUDA Targets RISC-V \u2013 By Chester Lam",
+    "summary": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc\">https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49422548\">https://news.ycombinator.com/item?id=49422548</a></p>\n<p>Points: 80</p>\n<p># Comments: 10</p>",
+    "published": "Mon, 24 Aug 2026 16:52:01 +0000",
+    "link": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: PicoMQ \u2013 Durable Streams over HTTP, on object storage",
+    "summary": "<p>PicoMQ is a Rust server for Durable Streams, built on Object Store. Cheap, URL-addressable, granular streams (create/append/read/long-poll/SSE), with Pico Protocol or Durable Streams Protocol as the facade.<p>S3Stream is the stream storage primitive, used in AutoMQ, shipped as a Rust library. Coordination is a command log in Postgres.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49421806\">https://news.ycombinator.com/item?id=49421806</a></p>\n<p>Points: 101</p>\n<p># Comments: 18</p>",
+    "published": "Mon, 24 Aug 2026 16:08:17 +0000",
+    "link": "https://picomq.com/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Coding expertise is going to collapse from AI reliance",
+    "summary": "<p>Article URL: <a href=\"https://larsfaye.com/articles/ai-coding-will-prevent-expertise\">https://larsfaye.com/articles/ai-coding-will-prevent-expertise</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49421554\">https://news.ycombinator.com/item?id=49421554</a></p>\n<p>Points: 487</p>\n<p># Comments: 478</p>",
+    "published": "Mon, 24 Aug 2026 15:52:33 +0000",
+    "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Jabber/XMPP: 25 Years of Digital Independence",
+    "summary": "<p>Article URL: <a href=\"https://gultsch.de/posts/25-years-of-digital-independence/\">https://gultsch.de/posts/25-years-of-digital-independence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49421536\">https://news.ycombinator.com/item?id=49421536</a></p>\n<p>Points: 179</p>\n<p># Comments: 75</p>",
+    "published": "Mon, 24 Aug 2026 15:51:31 +0000",
+    "link": "https://gultsch.de/posts/25-years-of-digital-independence/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+    "summary": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far. Three weeks after a Redditor presented a nearly $300 repair bill for their handheld gaming PC - among other [&#8230;]",
+    "published": "2026-08-24T19:38:10-04:00",
+    "link": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The cat-and-mouse game over 3D-printed guns has begun",
+    "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and individuals trying to create workarounds. Cody [&#8230;]",
+    "published": "2026-08-24T15:50:00-04:00",
+    "link": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
+    "summary": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its listings, while Redfin would end its own advertising contracts and promise not to compete with Zillow for multifamily listings. [&#8230;]",
+    "published": "2026-08-24T13:01:05-04:00",
+    "link": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Robotaxis are real now \u2014 so is the pushback",
+    "summary": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City after taxi drivers, unions, and state lawmakers opposed it. Six months later, commercial driverless service remains illegal in [&#8230;]",
+    "published": "2026-08-24T12:42:37-04:00",
+    "link": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The Witcher 4 developers target a 2028 release",
+    "summary": "CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Micha&#322; Nowakowski says in a new video. CD Projekt Red has been working on its next mainline Witcher title for years and has shown videos of it, but now the studio is providing a target release window for when the [&#8230;]",
+    "published": "2026-08-24T11:48:53-04:00",
+    "link": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "ESPN streaming plans are getting more expensive",
+    "summary": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its ad-supported Select membership will cost $13.99 instead of $12.99 / month, while its Unlimited plan will rise to $31.99 from [&#8230;]",
+    "published": "2026-08-24T11:06:24-04:00",
+    "link": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Raspberry Pi shares its official tutorial for making a cyberdeck",
+    "summary": "Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying \"we haven't been able to get away from cyberdecks this year.\" Tiny portable computers made out of things like purses, jewelry boxes, and other thrifted or recycled parts have gone viral on TikTok and other social media platforms over the past year, [&#8230;]",
+    "published": "2026-08-24T10:49:44-04:00",
+    "link": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Apple\u2019s four-pack of second-gen AirTags is $20 off",
+    "summary": "Apple\u2019s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target, which is the bundle\u2019s lowest price yet. You can get an AirTag for $24 right now piecemeal, but getting four together as a set is a way to save even more. Why pay $96 for four when you can [&#8230;]",
+    "published": "2026-08-24T10:04:04-04:00",
+    "link": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "How GoFundMe became America\u2019s backup plan",
+    "summary": "Today on Decoder, I\u2019m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe \u2014 it\u2019s a major fundraising platform where you can donate to help people with everything from medical expenses to Little League uniforms to starting a new business. Tim took over as CEO in March 2020 \u2014 a fascinating and chaotic [&#8230;]",
+    "published": "2026-08-24T10:00:00-04:00",
+    "link": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Netflix reportedly considers opening its app to other streamers",
+    "summary": "Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times. The recent discussions reportedly centered around bringing Peacock and Fox One to Netflix, though it's unclear whether the streaming giant would sell subscriptions to the other services or add their content to its app. [&#8230;]",
+    "published": "2026-08-24T09:47:14-04:00",
+    "link": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Gold hits over three-month high on dollar weakness, Treasury bond buyback plans",
+    "summary": "Gold prices rose to its highest in over three months, supported by a weaker U.S. dollar and the U.S. treasury's recent buyback announcement",
+    "published": "Tue, 25 Aug 2026 02:28:00 GMT",
+    "link": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Bitcoin jumps 3%, closing in on $80,000 as rally gathers pace",
+    "summary": "Bitcoin closed in on the $80,000 mark, as renewed inflows into spot bitcoin ETFs and improving risk appetite extended the cryptocurrency's recent rally.",
+    "published": "Tue, 25 Aug 2026 03:05:12 GMT",
+    "link": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt",
+    "summary": "The Trump administration unveiled a plan to isolate Iran's economy by threatening to impose secondary sanctions on the Islamic Republic's \"enablers.\"",
+    "published": "Mon, 24 Aug 2026 18:32:36 GMT",
+    "link": "https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
+    "summary": "President Donald Trump said the U.S. will raise tariffs on imports of cars, trucks and auto parts from Canada to 50% on Jan. 1, 2027.",
+    "published": "Mon, 24 Aug 2026 23:27:01 GMT",
+    "link": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Porsche inks $1.5 billion deal for AI deployment with India\u2019s largest IT services firm Tata Consultancy",
+    "summary": "Indian IT services giant TCS has secured a $1.5 billion contract to deploy AI for German sports carmaker Porsche.",
+    "published": "Tue, 25 Aug 2026 03:01:16 GMT",
+    "link": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
+    "summary": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
+    "published": "Tue, 25 Aug 2026 00:05:29 GMT",
+    "link": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
+    "summary": "Main Street has been in the process of winding down its portfolio of regional sports networks since the the NHL and NBA seasons ended earlier this year.",
+    "published": "Mon, 24 Aug 2026 23:48:50 GMT",
+    "link": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Mark Walter's TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers",
+    "summary": "Federal authorities are investigating how two insurers that are part of Mark Walter's business empire classified more than $20 billion in loans to his companies.",
+    "published": "Mon, 24 Aug 2026 23:16:19 GMT",
+    "link": "https://www.cnbc.com/2026/08/24/mark-walter-twg-david-markowitz-goldman-federal-probe.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
+    "summary": "The unsigned order lifted an injunction covering 23 states and Washington, D.C.; the court\u2019s three liberal justices dissented.",
+    "published": "Mon, 24 Aug 2026 21:38:59 GMT",
+    "link": "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Los Angeles Lakers worth 'every bit' of $12.5 billion price tag: 76ers and Commanders owner Josh Harris",
+    "summary": "The Los Angeles Lakers set a new record for a professional team sale price at $12.5 billion, and sports investor Josh Harris said the team is worth \"every bit.\"",
+    "published": "Mon, 24 Aug 2026 22:51:16 GMT",
+    "link": "https://www.cnbc.com/2026/08/24/los-angeles-lakers-worth-every-bit-of-12point5-billion-price-tag-76ers-and-commanders-owner-josh-harris.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "CNBC's The China Connection newsletter: Robots need help learning human skills. These AI companies are rushing to meet the demand",
+    "summary": "Humanoid robots still take a long time to complete human tasks. Several startups in China are trying different ways to collect and use training data better.",
+    "published": "Mon, 24 Aug 2026 23:00:01 GMT",
+    "link": "https://www.cnbc.com/2026/08/24/cnbcs-the-china-connection-newsletter-piling-into-human-skills-ai.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump\u2019s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say",
+    "summary": "Trump\u2019s stock trading could face heightened congressional scrutiny if Democrats retake either chamber in the midterms.",
+    "published": "Mon, 24 Aug 2026 21:25:32 GMT",
+    "link": "https://www.cnbc.com/2026/08/24/trump-oil-gas-stocks-iran-war-investments-democrats.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Jim Cramer says don't sell Meta on litigation risk \u2014 the stock is worth the wait",
+    "summary": "Meta's court battles are an overhang on the stock, but its business fundamentals make it one worth holding.",
+    "published": "Mon, 24 Aug 2026 20:15:13 GMT",
+    "link": "https://www.cnbc.com/2026/08/24/jim-cramer-says-dont-sell-meta-on-litigation-risk-the-stock-is-worth-the-wait.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
+    "summary": "California AG Rob Bonta was scheduled to meet with Paramount representatives on Monday, he said, but canceled the meeting.",
+    "published": "Mon, 24 Aug 2026 22:16:18 GMT",
+    "link": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "A massive trade just happened in gold. The options market is buzzing",
+    "summary": "Twenty minutes after the market opened Monday, someone sold almost 116,000 420-strike calls in the SPDR Gold Shares ETF (GLD) expiring Sept. 18.",
+    "published": "Mon, 24 Aug 2026 18:41:44 GMT",
+    "link": "https://www.cnbc.com/2026/08/24/a-massive-trade-just-happened-in-gold-the-options-market-is-buzzing.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Crypto extends gains after biggest 3-day rally since 2023",
+    "summary": "Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.",
+    "published": "Mon, 24 Aug 2026 20:02:22 GMT",
+    "link": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+    "summary": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.",
+    "published": "Mon, 24 Aug 2026 15:50:50 GMT",
+    "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Prediction market traders doubtful Bessent\u2019s bond interventions will push yields lower",
+    "summary": "Speculators still see yields hitting new highs in 2026 and ending the year at levels elevated from where they're currently trading.",
+    "published": "Mon, 24 Aug 2026 18:40:41 GMT",
+    "link": "https://www.cnbc.com/2026/08/24/prediction-market-traders-skeptical-bessent-will-send-yields-lower.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Yields decline on CNBC report Treasury could use General Account to fund buybacks",
+    "summary": "Treasury yields fell Monday as investors await Federal Reserve Chair Kevin Warsh's keynote speech at Jackson Hole later this week.",
+    "published": "Mon, 24 Aug 2026 20:22:16 GMT",
+    "link": "https://www.cnbc.com/2026/08/24/treasury-yields-warsh-jackson-hole.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
+    "summary": "When the U.S.-Iran war began, more than 1,000 dependents of U.S. Navy personnel in Bahrain were ordered to evacuate. After six months in temporary conditions, they want to know what the plan is.",
+    "published": "Mon, 24 Aug 2026 18:22:13 -0400",
+    "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
+    "summary": "A drug bust involving an alleged cocaine ring at Penn State has drawn attention to drug use on college campuses, but research shows the big risk to students is alcohol.",
+    "published": "Mon, 24 Aug 2026 17:17:31 -0400",
+    "link": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom",
+    "summary": "The Supreme Court paused a lower court's ruling that blocked key parts of Trump's order to limit voting by mail for the midterms. But U.S. Postal Service work on the order remains blocked nationwide.",
+    "published": "Mon, 24 Aug 2026 16:53:45 -0400",
+    "link": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "U.S. businesses are getting tariff refunds. Will customers get any money back?",
+    "summary": "Companies have received tariff refunds. What about consumers? Some companies are providing refunds while others decline.",
+    "published": "Mon, 24 Aug 2026 04:45:49 -0400",
+    "link": "https://www.npr.org/2026/08/24/nx-s1-5939518/u-s-businesses-are-getting-tariff-refunds-will-customers-get-any-money-back",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "New normal dawning for England after Carse night out",
+    "summary": "Players are under more scrutiny from general public than ever before - and they only have themselves to blame",
+    "published": "Mon, 24 Aug 2026 21:40:55 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1551361.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Fatima Sana's Pakistan prepare for Asia Cup with T20 matches against men",
+    "summary": "\"These learnings will help us adapt to the challenges of the competition,\" Pakistan captain Fatima Sana said",
+    "published": "Mon, 24 Aug 2026 18:35:33 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1551364.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Carse removed from England squad as Cricket Regulator investigates",
+    "summary": "Carse was briefly arrested on Saturday night on suspicion of being drunk and disorderly",
+    "published": "Mon, 24 Aug 2026 15:59:54 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1551345.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Cremer returns for Zimbabwe's T20I tri-series; Ngarava out with injury",
+    "summary": "Richard Ngarava and Tanaka Chivanga both miss out as they recover from injuries ahead of their tri-series against South Africa and Namibia",
+    "published": "Mon, 24 Aug 2026 15:02:14 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1551346.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
   }
 ]
