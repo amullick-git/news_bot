@@ -1,0 +1,562 @@
+[
+  {
+    "title": "Bill Gates wants to see a robot tax and \u2018Human Reserved\u2019 jobs to mitigate harms from AI",
+    "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+    "published": "Wed, 26 Aug 2026 14:37:01 +0000",
+    "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "CISA confirms hackers targeted over 100 US water systems during July",
+    "summary": "The federal cyber agency's warning comes amid a wave of suspected Iran-backed cyberattacks targeting critical water systems across the United States.",
+    "published": "Wed, 26 Aug 2026 14:31:05 +0000",
+    "link": "https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+    "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+    "published": "Wed, 26 Aug 2026 14:19:29 +0000",
+    "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
+    "summary": "The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users.",
+    "published": "Wed, 26 Aug 2026 13:43:01 +0000",
+    "link": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Robot brain builders are pushing out of their GPT-2 era",
+    "summary": "Robot bodies are waiting for their AI brains to catch up.",
+    "published": "Wed, 26 Aug 2026 13:30:00 +0000",
+    "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Bluesky now lets you upload 10-minute long videos",
+    "summary": "Bluesky's new 10-minute video support includes faster upload speeds, too.",
+    "published": "Wed, 26 Aug 2026 13:12:36 +0000",
+    "link": "https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "QueryStory wants you to believe what AI is telling you",
+    "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+    "published": "Wed, 26 Aug 2026 13:00:00 +0000",
+    "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Arga Labs is building a better way to train enterprise AI agents",
+    "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+    "published": "Wed, 26 Aug 2026 12:55:28 +0000",
+    "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+    "summary": "The glasses, called Legato Frames, integrate the company\u2019s patented hearing-assistance technology into the arms of eyewear frames.",
+    "published": "Wed, 26 Aug 2026 12:00:00 +0000",
+    "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+    "summary": "Runable says 60%\u201370% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+    "published": "Wed, 26 Aug 2026 11:00:00 +0000",
+    "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Ventures Platform goes bigger \u2014 and broader \u2014 with its second Africa fund",
+    "summary": "The Pan-African venture firm has raised $84 million and plans to invest in startups beyond its home market of Nigeria.",
+    "published": "Wed, 26 Aug 2026 07:00:00 +0000",
+    "link": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "India\u2019s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+    "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+    "published": "Wed, 26 Aug 2026 03:30:00 +0000",
+    "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+    "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+    "published": "Wed, 26 Aug 2026 00:40:59 +0000",
+    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+    "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
+    "published": "Wed, 26 Aug 2026 00:06:20 +0000",
+    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+    "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
+    "published": "Tue, 25 Aug 2026 20:44:12 +0000",
+    "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Instagram\u2019s \u2018First Draft\u2019 feature aims to make editing Reels less tedious",
+    "summary": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
+    "published": "Tue, 25 Aug 2026 19:22:52 +0000",
+    "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+    "summary": "The company's new fundraising total now stands at $232 million.",
+    "published": "Tue, 25 Aug 2026 19:03:47 +0000",
+    "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "SpaceX will build a second, $100B \u2018Starbase\u2019 spaceport in Louisiana",
+    "summary": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.",
+    "published": "Tue, 25 Aug 2026 18:26:55 +0000",
+    "link": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch\u00a0Founder Summit",
+    "summary": "Each year, we get a huge influx of applicants to speak at TechCrunch\u2019s events, and this year\u2019s Founder Summit in Boston on November 4 will be no different!",
+    "published": "Tue, 25 Aug 2026 18:22:50 +0000",
+    "link": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
+    "summary": "If you\u2019ve been circling around Disrupt, then now\u2019s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+    "published": "Tue, 25 Aug 2026 18:01:30 +0000",
+    "link": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Xbox announces disc-to-digital feature that digitizes your physical games",
+    "summary": "Microsoft is officially announcing a new Xbox feature that will allow Xbox owners to digitize their existing physical game collections. The disc-to-digital feature, which The Verge exclusively revealed last month, is part of work that Microsoft is doing for game preservation and in preparation for the next generation of Xbox consoles. \"Most Xbox One and [&#8230;]",
+    "published": "2026-08-26T10:30:00-04:00",
+    "link": "https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Microsoft\u2019s 25th anniversary Xbox will cost $899",
+    "summary": "The special-edition translucent green Xbox finally has an official price. Preorders for the console start August 27th at 10AM ET / 7AM PT, although Microsoft says \"some of XBOX's most dedicated fans\" will receive early access preorder emails starting today. The console will launch on November 13th, alongside a matching controller with the same \"OG [&#8230;]",
+    "published": "2026-08-26T10:05:38-04:00",
+    "link": "https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Elden Ring on the Switch 2 isn&#8217;t tarnished",
+    "summary": "FromSoftware is hoping to make a splash on the Switch 2 later this year when it launches The Duskbloods, a gothic competitive multiplayer game that's unlike anything the studio has made before. But before that, Switch 2 owners have a chance to experience the studio's biggest hit for the first time thanks to a port [&#8230;]",
+    "published": "2026-08-26T10:00:00-04:00",
+    "link": "https://www.theverge.com/entertainment/983307/elden-ring-nintendo-switch-2-review",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "You can now buy music on SoundCloud",
+    "summary": "SoundCloud has launched a new beta feature that allows artists on the audio streaming platform to sell music directly from their profiles, instead of diverting fans to purchase from third-party services like Bandcamp and Beatport. The feature aims to give listeners a better way to support the musicians behind their favorite songs, because SoundCloud isn't [&#8230;]",
+    "published": "2026-08-26T10:00:00-04:00",
+    "link": "https://www.theverge.com/entertainment/984926/soundcloud-direct-music-sales-beta-launch",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Your Oura Ring can&#8217;t measure what&#8217;s going on in your skull",
+    "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Oura's getting sued. A recently filed class-action complaint against the smart ring maker alleges that the company has duped customers [&#8230;]",
+    "published": "2026-08-26T10:00:00-04:00",
+    "link": "https://www.theverge.com/column/984991/optimizer-oura-ring-lawsuit-sleep-tracking-wearables",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Meta agrees to heavy restrictions on teen users in major lawsuit settlement",
+    "summary": "Meta settled its latest kids online safety trial with a group of 29 state attorneys general, sparing it from the remainder of a trial that could have cost it hundreds of billions of dollars. Under the terms of the settlement, which resolves claims by a larger group of 47 states and several districts and territories, [&#8230;]",
+    "published": "2026-08-26T09:31:32-04:00",
+    "link": "https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Ring says its new encryption limits what it can give police",
+    "summary": "Ring has a new way to protect your videos. It's developed an encryption method called TAKE, short for Throw Away the Key Encryption, that the Amazon-owned company says will protect your videos without traditional end-to-end encryption. TAKE limits when and why Amazon's cloud can access those videos, while still providing features like smart alerts for [&#8230;]",
+    "published": "2026-08-26T08:55:45-04:00",
+    "link": "https://www.theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enforcement",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Rockstar finally responds to &#8216;heartbreaking&#8217; GTA 6 leaks",
+    "summary": "Rockstar Games has released its first official statement following days of sustained leaks of footage from Grand Theft Auto VI, calling the period \"heartbreaking for our team.\" Not long after Rockstar posted, another leaked video appeared, this time showing the Jason character pulling off the series' trademark move of carjacking a box Chevy-like vehicle with [&#8230;]",
+    "published": "2026-08-26T08:04:15-04:00",
+    "link": "https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The second-generation Bose QuietComfort Headphones are good, but don\u2019t stand out",
+    "summary": "Bose QuietComfort headphones used to be innovative. Bose's noise-canceling research is the reason the technology is where it is today, and its headphones set the standard. They were the ubiquitous traveler's accessory. But over the past few years, it's felt like Bose has rested on that reputation, as other companies have caught up. Sony and [&#8230;]",
+    "published": "2026-08-26T08:00:00-04:00",
+    "link": "https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Bill Gates is deeply worried about AI, and he\u2019s no longer staying quiet",
+    "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future. Having been conspicuously quiet on AI issues recently, Gates is back with a nearly 6,000-word essay seeking [&#8230;]",
+    "published": "2026-08-26T07:07:40-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
+    "summary": "\"We're living in this world of scarcity with the Moon.\"",
+    "published": "Wed, 26 Aug 2026 14:14:52 +0000",
+    "link": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Psychiatry\u2019s diagnostic bible is finally getting a biological upgrade",
+    "summary": "Biology is coming to psychiatry\u2019s diagnostic manual, even as reliable biomarkers remain rare.",
+    "published": "Wed, 26 Aug 2026 13:53:32 +0000",
+    "link": "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+    "summary": "The focus is on agentic capability and predictable enterprise deployment.",
+    "published": "Wed, 26 Aug 2026 11:10:49 +0000",
+    "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Xtracycle's Swoop ASM e-bike brings an automatic transmission to cargo bikes",
+    "summary": "A steel frame cargo bike with a unique twist: You can let it choose your gear.",
+    "published": "Wed, 26 Aug 2026 11:00:12 +0000",
+    "link": "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
+    "summary": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
+    "published": "Tue, 25 Aug 2026 22:21:06 +0000",
+    "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "World humanoid robot games show runners breaking records, bursting into flames",
+    "summary": "Record-breaking robot races are less substantial than household chore challenges.",
+    "published": "Tue, 25 Aug 2026 20:59:03 +0000",
+    "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Preserving glow-in-the-dark art and fashion for future generations",
+    "summary": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition.",
+    "published": "Tue, 25 Aug 2026 18:59:12 +0000",
+    "link": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
+    "summary": "It's currently only appearing on Pixels running Android 17.",
+    "published": "Tue, 25 Aug 2026 18:32:30 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
+    "summary": "\"[P]eople are not familiar with this disease and don\u2019t fully understand the potential severity.\"",
+    "published": "Tue, 25 Aug 2026 17:39:38 +0000",
+    "link": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
+    "summary": "\"This will be a project like no other.\"",
+    "published": "Tue, 25 Aug 2026 17:26:15 +0000",
+    "link": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Lab supply companies have been selling antibodies using manipulated images",
+    "summary": "Image changes that would get a paper retracted are widespread among suppliers.",
+    "published": "Tue, 25 Aug 2026 16:16:57 +0000",
+    "link": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
+    "summary": "Privilege escalation attack grants \"full control\" and freedom from Meta's servers/apps.",
+    "published": "Tue, 25 Aug 2026 16:04:37 +0000",
+    "link": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "AI won\u2019t replace radiologists, but it will dramatically change their jobs",
+    "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
+    "published": "Tue, 25 Aug 2026 15:10:03 +0000",
+    "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Apple's new desktop computers are designed specifically for local AI development",
+    "summary": "Folks have been daisy-chaining Macs for AI\u2014this refresh keeps that in mind.",
+    "published": "Tue, 25 Aug 2026 13:00:11 +0000",
+    "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+    "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+    "published": "Mon, 24 Aug 2026 21:45:53 +0000",
+    "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Data centers become \"killer application\" for new power transformer tech",
+    "summary": "Solid-state transformers could also benefit EV charging and, someday, households.",
+    "published": "Mon, 24 Aug 2026 21:32:16 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "RFK Jr. may upend how vaccine recommendations are categorized",
+    "summary": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
+    "published": "Mon, 24 Aug 2026 21:04:48 +0000",
+    "link": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
+    "summary": "Monitor vendors are playing with fire.",
+    "published": "Mon, 24 Aug 2026 20:17:41 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "GM vehicles under federal scrutiny after hundreds of reports",
+    "summary": "The eBoost brake-by-wire system is responsible for at least 22 crashes now.",
+    "published": "Mon, 24 Aug 2026 19:42:50 +0000",
+    "link": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
+    "summary": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
+    "published": "Mon, 24 Aug 2026 19:19:21 +0000",
+    "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from&#8230;",
+    "published": "Wed, 26 Aug 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Raised on AI",
+    "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;",
+    "published": "Wed, 26 Aug 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "AI models flub these intelligence tests. Can you fare any better?",
+    "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term \u201cmachine learning\u201d was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;",
+    "published": "Wed, 26 Aug 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Bill Gates says we\u2019ve passed AI\u2019s danger thresholds. Now what?",
+    "summary": "It\u2019s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;",
+    "published": "Wed, 26 Aug 2026 07:01:00 +0000",
+    "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Addressing a sticking point in sustainable adhesives",
+    "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.\u00a0 \u201cThe labels on a container are held up with petroleum-based glue. And because of that, even though you\u2019re putting the container in the recycle bin, it will not&#8230;",
+    "published": "Tue, 25 Aug 2026 21:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "YouTuber finds niche as college admissions mentor",
+    "summary": "As a first-generation student from a small town, Gohar Khan \u201921 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar\u2019s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college application advice, study tips, and&#8230;",
+    "published": "Tue, 25 Aug 2026 21:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Launching youth entrepreneurship",
+    "summary": "Even as a teenager, Laurie Stach \u201906 says, she had a \u201ccrazy ambition to take on the world and solve problems.\u201d At MIT, she realized she wasn\u2019t the only one. \u201cAdults always see these youth who are good at math and science and say, \u2018You\u2019re going to do great things\u2014someday,\u2019\u201d says Stach. \u201cMeanwhile, traditional education&#8230;",
+    "published": "Tue, 25 Aug 2026 21:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "A new stamp on cyberfraud prevention",
+    "summary": "For Rupert Young \u201995, SM \u201995, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the \u201cprecise eye\u201d for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer&#8230;",
+    "published": "Tue, 25 Aug 2026 21:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "AgeLab research inspires an A\u200aI startup",
+    "summary": "When Don Yansen \u201963 arrived at the\u00a0MIT AgeLab for a study on technology in care\u00adgiving for older adults, he didn\u2019t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur who retired to care for&#8230;",
+    "published": "Tue, 25 Aug 2026 21:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Amping up T cells to target cancer",
+    "summary": "Vaccines that turn the body\u2019s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, however, these vaccines don\u2019t stimulate enough of a response, and the approach some researchers have taken to strengthening it\u2014delivering the vaccine along with immune-stimulating molecules called cytokines\u2014can&#8230;",
+    "published": "Tue, 25 Aug 2026 21:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Twitter Viewer \u2013 View Twitter Without Account",
+    "summary": "<p>Article URL: <a href=\"https://twitterwebviewer.com/\">https://twitterwebviewer.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49449576\">https://news.ycombinator.com/item?id=49449576</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
+    "published": "Wed, 26 Aug 2026 14:11:39 +0000",
+    "link": "https://twitterwebviewer.com/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "GLM-5.3-Flash",
+    "summary": "<p>Article URL: <a href=\"https://z.ai/blog/glm-5.3-flash\">https://z.ai/blog/glm-5.3-flash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49449507\">https://news.ycombinator.com/item?id=49449507</a></p>\n<p>Points: 103</p>\n<p># Comments: 27</p>",
+    "published": "Wed, 26 Aug 2026 14:08:50 +0000",
+    "link": "https://z.ai/blog/glm-5.3-flash",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Meta reaches $16.68B settlement over social media harms to children",
+    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/\">https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448819\">https://news.ycombinator.com/item?id=49448819</a></p>\n<p>Points: 142</p>\n<p># Comments: 89</p>",
+    "published": "Wed, 26 Aug 2026 13:28:32 +0000",
+    "link": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada\">https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448560\">https://news.ycombinator.com/item?id=49448560</a></p>\n<p>Points: 23</p>\n<p># Comments: 6</p>",
+    "published": "Wed, 26 Aug 2026 13:13:55 +0000",
+    "link": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "AWS Acquires DuckDB",
+    "summary": "<p>Article URL: <a href=\"https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws\">https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448321\">https://news.ycombinator.com/item?id=49448321</a></p>\n<p>Points: 379</p>\n<p># Comments: 88</p>",
+    "published": "Wed, 26 Aug 2026 12:59:26 +0000",
+    "link": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+    "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.8-flash-next\">https://qwen.ai/blog?id=qwen3.8-flash-next</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448210\">https://news.ycombinator.com/item?id=49448210</a></p>\n<p>Points: 212</p>\n<p># Comments: 67</p>",
+    "published": "Wed, 26 Aug 2026 12:52:12 +0000",
+    "link": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "A curmudgeon tries a language server",
+    "summary": "<p>Article URL: <a href=\"https://entropicthoughts.com/curmudgeon-tries-language-server\">https://entropicthoughts.com/curmudgeon-tries-language-server</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448150\">https://news.ycombinator.com/item?id=49448150</a></p>\n<p>Points: 37</p>\n<p># Comments: 11</p>",
+    "published": "Wed, 26 Aug 2026 12:48:37 +0000",
+    "link": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Proliferate (YC S25) Is Hiring",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer\">https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49447480\">https://news.ycombinator.com/item?id=49447480</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Wed, 26 Aug 2026 12:00:07 +0000",
+    "link": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Beyond Recall and the Illusion of Competence",
+    "summary": "<p>Article URL: <a href=\"https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html\">https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49446442\">https://news.ycombinator.com/item?id=49446442</a></p>\n<p>Points: 53</p>\n<p># Comments: 17</p>",
+    "published": "Wed, 26 Aug 2026 10:07:02 +0000",
+    "link": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+    "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek\">https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49446422\">https://news.ycombinator.com/item?id=49446422</a></p>\n<p>Points: 293</p>\n<p># Comments: 116</p>",
+    "published": "Wed, 26 Aug 2026 10:04:55 +0000",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Value Classes Still Need Compiler Sympathy",
+    "summary": "<p>Article URL: <a href=\"https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/\">https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49445884\">https://news.ycombinator.com/item?id=49445884</a></p>\n<p>Points: 58</p>\n<p># Comments: 24</p>",
+    "published": "Wed, 26 Aug 2026 08:59:15 +0000",
+    "link": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Oldinsurancemaps.net is now a Charter Project",
+    "summary": "<p>Article URL: <a href=\"https://openstreetmap.us/news/2026/08/oim-charter-project/\">https://openstreetmap.us/news/2026/08/oim-charter-project/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49445873\">https://news.ycombinator.com/item?id=49445873</a></p>\n<p>Points: 122</p>\n<p># Comments: 20</p>",
+    "published": "Wed, 26 Aug 2026 08:57:46 +0000",
+    "link": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "RAG Is Simpler Than You Think",
+    "summary": "<p>Article URL: <a href=\"https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think\">https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49445727\">https://news.ycombinator.com/item?id=49445727</a></p>\n<p>Points: 248</p>\n<p># Comments: 110</p>",
+    "published": "Wed, 26 Aug 2026 08:39:17 +0000",
+    "link": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Buslens \u2013 where can I get to by bus? (UK)",
+    "summary": "<p>Article URL: <a href=\"https://rupertlinacre.com/buslens/\">https://rupertlinacre.com/buslens/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49445286\">https://news.ycombinator.com/item?id=49445286</a></p>\n<p>Points: 69</p>\n<p># Comments: 47</p>",
+    "published": "Wed, 26 Aug 2026 07:36:52 +0000",
+    "link": "https://rupertlinacre.com/buslens/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
+    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm\">https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444232\">https://news.ycombinator.com/item?id=49444232</a></p>\n<p>Points: 67</p>\n<p># Comments: 17</p>",
+    "published": "Wed, 26 Aug 2026 05:09:07 +0000",
+    "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Queryable Executables",
+    "summary": "<p>Article URL: <a href=\"https://fzakaria.com/2026/08/24/actually-queryable-executables\">https://fzakaria.com/2026/08/24/actually-queryable-executables</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49442589\">https://news.ycombinator.com/item?id=49442589</a></p>\n<p>Points: 265</p>\n<p># Comments: 74</p>",
+    "published": "Wed, 26 Aug 2026 00:20:49 +0000",
+    "link": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+    "summary": "<p>Article URL: <a href=\"https://github.com/runetes/maiao\">https://github.com/runetes/maiao</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49441666\">https://news.ycombinator.com/item?id=49441666</a></p>\n<p>Points: 102</p>\n<p># Comments: 63</p>",
+    "published": "Tue, 25 Aug 2026 22:40:07 +0000",
+    "link": "https://github.com/runetes/maiao",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "When str.lower() is a security vulnerability in Python",
+    "summary": "<p>Article URL: <a href=\"https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability\">https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49440410\">https://news.ycombinator.com/item?id=49440410</a></p>\n<p>Points: 162</p>\n<p># Comments: 68</p>",
+    "published": "Tue, 25 Aug 2026 20:49:03 +0000",
+    "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+    "summary": "<p>Article URL: <a href=\"https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar\">https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49439017\">https://news.ycombinator.com/item?id=49439017</a></p>\n<p>Points: 463</p>\n<p># Comments: 211</p>",
+    "published": "Tue, 25 Aug 2026 19:07:01 +0000",
+    "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Run OpenBSD on DigitalOcean for $4/month",
+    "summary": "<p>Article URL: <a href=\"https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/\">https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437483\">https://news.ycombinator.com/item?id=49437483</a></p>\n<p>Points: 195</p>\n<p># Comments: 88</p>",
+    "published": "Tue, 25 Aug 2026 17:23:07 +0000",
+    "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+    "source_name": "Hacker News"
+  }
+]
