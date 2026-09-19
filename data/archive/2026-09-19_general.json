@@ -1748,5 +1748,831 @@
     "published": "Thu, 17 Sep 2026 09:54:33 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1554643.html?ex_cid=OTC-RSS",
     "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+    "summary": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+    "published": "Sat, 19 Sep 2026 11:50:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Millions without power as Cuba hit by latest major blackout",
+    "summary": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
+    "published": "Sat, 19 Sep 2026 10:27:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
+    "summary": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or running alone \"particularly in isolated areas\".",
+    "published": "Sat, 19 Sep 2026 11:50:50 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Nature reserve to double in size, thanks to gift",
+    "summary": "Staffordshire Wildlife Trust acquires an area of wet woodland, marsh and pastureland due to the will.",
+    "published": "Sat, 19 Sep 2026 14:37:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6kgw0kx0540o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "How Trump Is Wielding Power to Stifle Speech",
+    "summary": "President Trump has harnessed agencies across the government to curtail press freedoms, a sweeping campaign that free speech advocates say will have lasting effects.",
+    "published": "Sat, 12 Sep 2026 21:02:02 +0000",
+    "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "How Trump\u2019s Trade War Could Hurt Republican Efforts to Hold the Senate",
+    "summary": "In a handful of border states and industrial states that could decide Senate control, the president\u2019s standoff with Canada has drawn criticism from voters, including some who supported him in 2024.",
+    "published": "Sat, 19 Sep 2026 14:35:49 +0000",
+    "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-voters-trade-war-canada-midterms.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Sherrod Brown Tries a New Retort to Criticism on Transgender Issues",
+    "summary": "A spot from the Senate candidate in Ohio seeks to dismiss the Republican Party\u2019s focus on transgender rights as a distraction from economic issues.",
+    "published": "Sat, 19 Sep 2026 13:05:23 +0000",
+    "link": "https://www.nytimes.com/2026/09/19/us/politics/sherrod-brown-transgender-ad.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "At DraftKings, AI Targets the Gamblers Likeliest to Lose",
+    "summary": "Data science helps determine who receives betting incentives, but the company has resisted using similar technology to protect gamblers at risk of addiction.",
+    "published": "Sat, 19 Sep 2026 15:41:02 +0000",
+    "link": "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Creating a Kill Switch to Shut Down a Rogue A.I. Is Harder Than It Sounds",
+    "summary": "A bipartisan group in Congress and Gov. Gavin Newsom of California have floated ideas for building a mechanism that would instantly power down an A.I. system. Only no one really knows how.",
+    "published": "Sat, 19 Sep 2026 09:03:05 +0000",
+    "link": "https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump\u2019s Security Deal With Greenland: What to Know",
+    "summary": "President Trump insisted for months that the Danish territory should be part of the United States. Now, a security deal \u2014 not a takeover \u2014 seems to be on the table.",
+    "published": "Sat, 19 Sep 2026 11:56:48 +0000",
+    "link": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-security-deal-what-to-know.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "\u2018Nervous and Skeptical,\u2019 Greenlanders Question the New Deal With Trump",
+    "summary": "The U.S. president\u2019s threats to seize Greenland left its people on edge, and with details scarce, the news of an agreement didn\u2019t seem to be putting minds at ease.",
+    "published": "Sat, 19 Sep 2026 12:56:45 +0000",
+    "link": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-deal.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "A Small Country\u2019s Huge Windfall from the War in Iran",
+    "summary": "Oil-rich Guyana is enjoying red-hot growth. But the boom is magnifying tensions over corruption, inequality and strained ties with Venezuela.",
+    "published": "Sat, 19 Sep 2026 13:47:42 +0000",
+    "link": "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-boom.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "How Guyana Is Feeding the Profits of Exxon Mobil, the Largest U.S. Oil Company",
+    "summary": "Exxon Mobil found a coveted growth engine in Guyana. Now it must navigate Guyana\u2019s fractious politics and a territorial dispute with Venezuela.",
+    "published": "Sat, 19 Sep 2026 09:01:41 +0000",
+    "link": "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-exxon-mobil.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Share the Times Pages You Couldn\u2019t Throw Away",
+    "summary": "The New York Times has been publishing for 175 years. Some of that history may be sitting in a shoe box under your bed.",
+    "published": "Thu, 17 Sep 2026 19:27:05 +0000",
+    "link": "https://www.nytimes.com/2026/04/30/special-series/archives-anniversary-newspaper.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Aaron Sorkin Goes Off Script",
+    "summary": "The Oscar-winning writer returns to Facebook with \u201cThe Social Reckoning\u201d\u2014 and surprises us with the revelation of why he is so drawn to uplift and romance.",
+    "published": "Sat, 19 Sep 2026 12:15:30 +0000",
+    "link": "https://www.nytimes.com/2026/09/19/magazine/aaron-sorkin-interview.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Trump Has Finally Lost the Plot",
+    "summary": "It is now apparent that many Americans \u2014 probably enough Americans \u2014 are determined to live within the truth rather than the lie.",
+    "published": "Sat, 19 Sep 2026 12:39:27 +0000",
+    "link": "https://www.nytimes.com/2026/09/19/opinion/trump-vance-turning-point-minneapolis.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Please Stand Clear of the Accidental Art Museum",
+    "summary": "Under New York\u2019s streets, the subway system corrodes, is fixed \u2014\u00a0and breaks again. What\u2019s left is art, the M.T.A. Modern.",
+    "published": "Sat, 19 Sep 2026 11:13:32 +0000",
+    "link": "https://www.nytimes.com/2026/09/19/opinion/mta-art-nyc-subway.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Fading Light",
+    "summary": "Fall officially begins on Tuesday, but evidence of the season seeps in more gradually.",
+    "published": "Sat, 19 Sep 2026 09:51:47 +0000",
+    "link": "https://www.nytimes.com/2026/09/19/briefing/fading-light.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Tell Us What Questions You Have About Winter Getaways and Holiday Travel",
+    "summary": "It isn\u2019t too early to start thinking about end-of-year travel plans. We\u2019re fielding reader questions about where to go and what to do.",
+    "published": "Fri, 18 Sep 2026 01:34:05 +0000",
+    "link": "https://www.nytimes.com/2026/09/17/t-magazine/holiday-travel-questions.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Millionaire Activist James Chambers Seeks Asylum in Spain",
+    "summary": "Jailed in Madrid on an extradition request from the United States that his lawyer says is tied to pro-Palestinian activism, James Chambers fears persecution if returned.",
+    "published": "Sat, 19 Sep 2026 09:03:11 +0000",
+    "link": "https://www.nytimes.com/2026/09/19/world/europe/spain-chambers-asylum-us-extradition.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Arvind Kejriwal Missing From Delhi Voter List, Claims AAP. Poll Body Official Responds",
+    "summary": "Arvind Kejriwal and family were voters in the New Delhi constituency.",
+    "published": "Sat, 19 Sep 2026 21:26:58 +0530",
+    "link": "https://www.ndtv.com/india-news/arvind-kejriwal-missing-from-delhi-voter-list-claims-aap-poll-body-official-responds-12069534#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Analysis: Friends, Frenemies, Friends Again? Congress-Trinamool Relationship Comes Full Circle",
+    "summary": "There have been proposals that Mamata Banerjee could return to her old party.",
+    "published": "Sat, 19 Sep 2026 21:16:37 +0530",
+    "link": "https://www.ndtv.com/india-news/analysis-after-kabhi-khushi-kabhi-gham-for-years-a-congress-mamata-banerjee-full-circle-is-forming-12069124#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Video: After Fight, Man Repeatedly Rams Thar Into Friends' Cab In Gurugram",
+    "summary": "Both front airbags of the cab deployed.",
+    "published": "Sat, 19 Sep 2026 20:55:38 +0530",
+    "link": "https://www.ndtv.com/india-news/video-after-fight-man-repeatedly-rams-thar-into-friends-cab-in-gurugram-12069631#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "'They Are In Chinese Custody': Ajit Doval Recalls Sikkim Intelligence Crisis",
+    "summary": "Ajit Doval was in his twenties when he was posted to Sikkim.",
+    "published": "Sat, 19 Sep 2026 20:50:02 +0530",
+    "link": "https://www.ndtv.com/india-news/ajit-doval-nsa-they-are-in-chinese-custody-ajit-doval-recalls-sikkim-intelligence-crisis-12069560#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "\"He Was Harassed, Killed\": Mother Of IIT Bombay Student Who Died By Suicide",
+    "summary": "Sahil Wakode's mother speaking to reporters after meeting the police in Mumbai.",
+    "published": "Sat, 19 Sep 2026 19:43:37 +0530",
+    "link": "https://www.ndtv.com/india-news/my-son-was-killed-mother-of-iit-bombay-student-sahil-wakode-who-died-by-suicide-12069375#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "YSR Congress To Approach Centre Over 'FBI' Reference In Andhra Police Order",
+    "summary": "A senior Guntur police official in Amaravati accepted the \"clerical error\".",
+    "published": "Sat, 19 Sep 2026 19:34:06 +0530",
+    "link": "https://www.ndtv.com/india-news/ysr-congress-to-approach-centre-over-fbi-reference-in-andhra-police-order-12069341#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Opinion: Narendra Modi@25: Disrupt, Deliver, Dominate",
+    "summary": "",
+    "published": "Sat, 19 Sep 2026 19:30:42 +0530",
+    "link": "https://www.ndtv.com/opinion/narendra-modi-25-disrupt-deliver-dominate-12069319#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "IIT-Bombay Student Suicide: Protesters Seek Probe, Director's Resignation, Mental Health Measures",
+    "summary": "IIT-Bombay students protest Sahil Wakode's death, demanding a probe and greater accountability.",
+    "published": "Sat, 19 Sep 2026 19:29:19 +0530",
+    "link": "https://www.ndtv.com/education/iit-bombay-student-suicide-protesters-seek-probe-directors-resignation-mental-health-measures-12069312#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "No 'Goonj', Only 'Dhamaka': BJP's Dig At Rahul Gandhi After ABVP Sweeps Delhi University Polls",
+    "summary": "The ABVP won three of the four key positions.",
+    "published": "Sat, 19 Sep 2026 19:08:22 +0530",
+    "link": "https://www.ndtv.com/india-news/delhi-university-election-results-no-goonj-only-dhamaka-bjps-dig-at-rahul-gandhi-after-abvp-sweeps-delhi-university-polls-12069161#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "BJP's Ravneet Bittu Detained After 'Egg-Tomato' Protest Against Bhagwant Mann",
+    "summary": "Raveent Bittu protesting against Bhagwant Mann",
+    "published": "Sat, 19 Sep 2026 18:52:43 +0530",
+    "link": "https://www.ndtv.com/india-news/punjab-ravneet-bittu-detained-after-egg-tomato-protest-against-bhagwant-mann-12068357#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Mother Beaten To Death With Stone, Killers Place Crying Toddler On Her Body",
+    "summary": "Sneha's daughter was seen helplessly clutching onto her mother",
+    "published": "Sat, 19 Sep 2026 18:42:52 +0530",
+    "link": "https://www.ndtv.com/india-news/mother-beaten-to-death-with-stone-killers-place-crying-toddler-on-her-body-12068956#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Karnataka Congress Leader Flags School Issues, Seeks Public Help To Fix Them",
+    "summary": "The platform has received 607 citizen reports from all 26 districts of Karnataka since its launch.",
+    "published": "Sat, 19 Sep 2026 18:13:12 +0530",
+    "link": "https://www.ndtv.com/india-news/karnataka-congress-leader-flags-school-issues-seeks-public-help-to-fix-them-12069044#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Deepanshu Shokeen: Conductor's Son, NSUI Rebel, Delhi University Trailblazer",
+    "summary": "Deepanshu Shokeen said he had expected the result, citing the support he received across colleges.",
+    "published": "Sat, 19 Sep 2026 17:53:30 +0530",
+    "link": "https://www.ndtv.com/education/delhi-university-election-results-2026-deepanshu-shokeen-first-independent-candidate-as-vice-president-12068642#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Congress' Nandigram Bypoll Pick Milan Pradhan Sent To Judicial Custody Till October 3",
+    "summary": "Milan Pradhan was produced before the Haldia Subdivisional Court following his arrest on Friday.",
+    "published": "Sat, 19 Sep 2026 17:51:29 +0530",
+    "link": "https://www.ndtv.com/india-news/congress-nandigram-bypoll-pick-milan-pradhan-sent-to-judicial-custody-till-october-3-12068960#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Delhi University Election Results 2026: ABVP Wins 3 Of 4 Delhi University Posts, Independent Makes History",
+    "summary": "ABVP wins three DUSU posts as independent Deepanshu Shokeen wins Vice President seat.",
+    "published": "Sat, 19 Sep 2026 17:28:28 +0530",
+    "link": "https://www.ndtv.com/education/abvp-wins-3-of-4-delhi-university-posts-independent-makes-history-with-vice-president-seat-12068589#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "NDTV Impact: Urgent Repairs Ordered On Key Bengaluru Stretch Facing Congestion",
+    "summary": "The corridor serves a large number of residential communities and educational institutions.",
+    "published": "Sat, 19 Sep 2026 17:02:23 +0530",
+    "link": "https://www.ndtv.com/india-news/ndtv-impact-urgent-repairs-ordered-on-key-bengaluru-stretch-facing-congestion-12068756#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Uttarakhand Glaciers Melting Rapidly: Study Flags Threats Days After Nepal Disaster",
+    "summary": "The pace of melting is driven by global warming.",
+    "published": "Sat, 19 Sep 2026 17:02:07 +0530",
+    "link": "https://www.ndtv.com/india-news/uttarakhands-glaciers-are-melting-rapidly-study-flags-threats-12068726#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "2 Ganesh Idols Decked Up In Rs 2.9 Crore In Cash In Telangana",
+    "summary": "The two installations attracted large numbers of devotees",
+    "published": "Sat, 19 Sep 2026 16:33:27 +0530",
+    "link": "https://www.ndtv.com/india-news/2-ganesh-idols-decked-up-in-rs-2-9-crore-in-cash-in-telangana-12068643#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Nihang Group Assaults Woman Cop In Amritsar As She Saves Man From Them",
+    "summary": "SHO Manjit Kaur held the collar by some protesting men at a Nihang Sikh group's dharna in Amritsar.",
+    "published": "Sat, 19 Sep 2026 16:17:43 +0530",
+    "link": "https://www.ndtv.com/india-news/nihang-group-scuffles-with-woman-cop-in-amritsar-as-she-saves-man-from-assault-12068535#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
+    "summary": "<p>Article URL: <a href=\"https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951\">https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766821\">https://news.ycombinator.com/item?id=49766821</a></p>\n<p>Points: 30</p>\n<p># Comments: 21</p>",
+    "published": "Sat, 19 Sep 2026 14:23:42 +0000",
+    "link": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "A graphical desktop for the ZX Spectrum",
+    "summary": "<p>Article URL: <a href=\"https://github.com/mindbox77/zxdesk\">https://github.com/mindbox77/zxdesk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766676\">https://news.ycombinator.com/item?id=49766676</a></p>\n<p>Points: 40</p>\n<p># Comments: 18</p>",
+    "published": "Sat, 19 Sep 2026 14:01:58 +0000",
+    "link": "https://github.com/mindbox77/zxdesk",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "What Zig felt like, coming from Rust",
+    "summary": "<p>Article URL: <a href=\"https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/\">https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766637\">https://news.ycombinator.com/item?id=49766637</a></p>\n<p>Points: 76</p>\n<p># Comments: 62</p>",
+    "published": "Sat, 19 Sep 2026 13:55:18 +0000",
+    "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Tin: full-text search for Postgres",
+    "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/introducing-tin\">https://planetscale.com/blog/introducing-tin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766611\">https://news.ycombinator.com/item?id=49766611</a></p>\n<p>Points: 51</p>\n<p># Comments: 12</p>",
+    "published": "Sat, 19 Sep 2026 13:52:06 +0000",
+    "link": "https://planetscale.com/blog/introducing-tin",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Laya the open source version of Jev",
+    "summary": "<p>Article URL: <a href=\"https://laya.convaiinnovations.com/\">https://laya.convaiinnovations.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765348\">https://news.ycombinator.com/item?id=49765348</a></p>\n<p>Points: 414</p>\n<p># Comments: 96</p>",
+    "published": "Sat, 19 Sep 2026 10:46:58 +0000",
+    "link": "https://laya.convaiinnovations.com/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "AI-generated posters don\u2019t have to be horrible",
+    "summary": "<p>Article URL: <a href=\"https://john.hartnup.uk/2026/06/07/ai-event-posters.html\">https://john.hartnup.uk/2026/06/07/ai-event-posters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49764791\">https://news.ycombinator.com/item?id=49764791</a></p>\n<p>Points: 658</p>\n<p># Comments: 389</p>",
+    "published": "Sat, 19 Sep 2026 09:20:58 +0000",
+    "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
+    "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/\">https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756121\">https://news.ycombinator.com/item?id=49756121</a></p>\n<p>Points: 32</p>\n<p># Comments: 7</p>",
+    "published": "Fri, 18 Sep 2026 15:47:14 +0000",
+    "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "I built the fastest PHP webserver in the world",
+    "summary": "<p>Article URL: <a href=\"https://qbixserver.com\">https://qbixserver.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749789\">https://news.ycombinator.com/item?id=49749789</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+    "published": "Fri, 18 Sep 2026 03:08:04 +0000",
+    "link": "https://qbixserver.com",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "How to Write with an LLM",
+    "summary": "<p>Article URL: <a href=\"https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\">https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49747070\">https://news.ycombinator.com/item?id=49747070</a></p>\n<p>Points: 550</p>\n<p># Comments: 360</p>",
+    "published": "Thu, 17 Sep 2026 21:48:38 +0000",
+    "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Gemini went rogue, hacked three companies, and Google hid it",
+    "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't [&#8230;]",
+    "published": "2026-09-19T11:25:03-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Anamanaguchi has \u2018too goddamn many\u2019 browser tabs open right now",
+    "summary": "Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their collaboration with Hatsune Miku (which even made its way into [&#8230;]",
+    "published": "2026-09-19T11:00:00-04:00",
+    "link": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The colorful, unique Hyte X50 PC case is $50 off",
+    "summary": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it\u2019s $50 off at the company\u2019s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way up to the E-ATX form factors, and GPUs that are [&#8230;]",
+    "published": "2026-09-19T11:00:00-04:00",
+    "link": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+    "summary": "Today on Decoder, we\u2019ve got the first of a two-part series on the future of business, and I&#8217;m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he\u2019s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The [&#8230;]",
+    "published": "2026-09-19T10:00:00-04:00",
+    "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "It\u2019s not just LG. Every TV company is spying on you",
+    "summary": "The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio even when they seem to be off, track everything you watch, and could even be hacked remotely and turned into covert surveillance [&#8230;]",
+    "published": "2026-09-19T09:00:00-04:00",
+    "link": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The AI regulation smackdown isn\u2019t over",
+    "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially [&#8230;]",
+    "published": "2026-09-19T09:00:00-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The AI kill switch, explained: 'It's not too little, but it's probably too late'",
+    "summary": "As runaway AI fears reach a crescendo, policymakers and tech leaders are weighing the effectiveness of a magic AI stop button known as a kill switch.",
+    "published": "Sat, 19 Sep 2026 12:00:01 GMT",
+    "link": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
+    "summary": "Journalists from MS NOW, CNN and Politico were denied access to the White House, one day after Trump\u00a0banned three media outlets over their coverage of him.",
+    "published": "Sat, 19 Sep 2026 15:14:46 GMT",
+    "link": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+    "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
+    "published": "Sat, 19 Sep 2026 12:50:49 GMT",
+    "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
+    "summary": "Smoke and flames were seen near Riyadh\u2019s main airport after Saudi civil-defense alerts, while Pakistan urged Iran to protect energy supplies and shipping.",
+    "published": "Sat, 19 Sep 2026 13:48:04 GMT",
+    "link": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Buffett takes next step in plan to keep Berkshire from straying",
+    "summary": "Warren Buffett steps down as Berkshire Hathaway's chairman, passing the job to his son, Howard.",
+    "published": "Sat, 19 Sep 2026 12:43:56 GMT",
+    "link": "https://www.cnbc.com/2026/09/19/warren-buffett-takes-next-step-in-plan-to-keep-berkshire-from-straying.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Student loan borrowers exiting SAVE may face sharply higher payments if they don't take action soon",
+    "summary": "Millions of student loan borrowers could see their monthly bills skyrocket if they don't move into an affordable repayment plan soon. Here's what to know.",
+    "published": "Sat, 19 Sep 2026 13:30:01 GMT",
+    "link": "https://www.cnbc.com/2026/09/19/save-student-loan-deadline-avoid-higher-payments.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "She pays $96 a month to live in Yellowstone National Park: 'Being here has changed my life'",
+    "summary": "Zoe De La Paz quit her corporate job in Chicago and in June moved to Yellowstone to work as a seamstress.",
+    "published": "Sat, 19 Sep 2026 14:10:02 GMT",
+    "link": "https://www.cnbc.com/2026/09/19/living-in-yellowstone-for-96-dollars-a-month.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Trump's $403 million war chest is finally being spent on the midterms. Now comes the hard part",
+    "summary": "Democratic Senate candidates entered summer with a cash edge, while Trump-linked groups now pour money into increasingly crowded and costly ad markets.",
+    "published": "Fri, 18 Sep 2026 20:30:12 GMT",
+    "link": "https://www.cnbc.com/2026/09/18/trump-election-ad-spend-maga-inc.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
+    "summary": "Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting \"FICTION and LIES.\"",
+    "published": "Sat, 19 Sep 2026 11:26:31 -0400",
+    "link": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Opinion: Remembering Annie Dillard, nature writer",
+    "summary": "With her 1974 book, \"Pilgrim at Tinker Creek,\" Annie Dillard became the youngest woman to win the Pulitzer Prize. We take a moment to remember her and her work.",
+    "published": "Sat, 19 Sep 2026 08:00:00 -0400",
+    "link": "https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Life in Kabul 5 years after the Taliban's return",
+    "summary": "Five years after the return of Taliban rule, NPR visited Kabul to see how Afghans are dealing with their new government's strict social restrictions.",
+    "published": "Sat, 19 Sep 2026 07:40:40 -0400",
+    "link": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use",
+    "summary": "New research on ancient human remains suggests the habitual usage of betel nuts, a plant seed with mind-affecting properties that is popular in parts of Asia despite the health risks it presents.",
+    "published": "Sat, 19 Sep 2026 07:21:56 -0400",
+    "link": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Archaeologists are racing to save precious artifacts in Alaska after last year's storm",
+    "summary": "Last year, remnants of a typhoon damaged homes, infrastructure and an archaeological dig site. Now, archaeologists are trying to get as many objects out as possible before the next storm.",
+    "published": "Sat, 19 Sep 2026 05:01:00 -0400",
+    "link": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Ever wonder how the Fed's interest rate actually works? We've got answers",
+    "summary": "The Federal Reserve just raised interest rates this week for the first time this year. So how does it actually work? And what does it mean for the economy \u2014 and the rest of us? Here are some answers.",
+    "published": "Sat, 19 Sep 2026 05:00:00 -0400",
+    "link": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Hlubi, Nini seal 5-0 win for South Africa",
+    "summary": "Zimbabwe were 102 for 2 chasing 165 but couldn't see the game through with Hlubi and Nini finishing with three wickets each",
+    "published": "Sat, 19 Sep 2026 15:40:31 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1555029.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "CPL awaits new champions as Kingsmen and Falcons look to make history",
+    "summary": "For only the third time in CPL history, the final will be played without either Guyana Amazon Warriors or Trinbago Knight Riders",
+    "published": "Sat, 19 Sep 2026 15:01:51 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1555017.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "'Even I don't know what exactly happened' - Rashid on being removed as Afghanistan T20I captain",
+    "summary": "\"I came to know [about the captaincy change] when the board announced it,\" he says",
+    "published": "Sat, 19 Sep 2026 15:01:39 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1555028.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "England bowl first in bid for series clean sweep against Sri Lanka",
+    "summary": "Sri Lanka make one change, with Thushara coming into the XI for Chameera",
+    "published": "Sat, 19 Sep 2026 13:35:25 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1555015.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Liam Blackford's stunning debut 149* pulls of remarkable Victoria chase",
+    "summary": "The wicketkeeper's career was under threat when he suffered a blood clot three years ago",
+    "published": "Sat, 19 Sep 2026 13:26:46 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554990.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Bangladesh pick Hridoy for one-off Test against Afghanistan",
+    "summary": "Nahid Rana and Taskin Ahmed were not available due to fitness and workload management issues",
+    "published": "Sat, 19 Sep 2026 11:09:48 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554992.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Dot balls the big concern as Bangladesh look to test favourites India",
+    "summary": "India are the pre-eminent team in Asia and go into the Asian Games semi-finals just a week after winning the Asia Cup for a record eighth time",
+    "published": "Sat, 19 Sep 2026 10:15:17 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554986.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Pakistan face familiar Sri Lanka in Asian Games semi-final",
+    "summary": "Sri Lanka and Pakistan have an even T20I record, with both teams winning 12 of their 25 meetings",
+    "published": "Sat, 19 Sep 2026 09:58:11 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554968.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Australia look to get stronger, Zimbabwe sharper",
+    "summary": "Josh Hazlewood could return for the second ODI in Harare as Zimbabwe look for more discipline after mistakes with bat and ball in their opening loss",
+    "published": "Thu, 17 Sep 2026 07:58:47 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554605.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Bangladesh through to semi-final after washout against China",
+    "summary": "Bangladesh will now take on the winner of India vs Japan in the semi-final",
+    "published": "Thu, 17 Sep 2026 05:19:40 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554624.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Sadaqat's 49-ball 112 knocks Tridents out, Kingsmen enter Qualifier 2",
+    "summary": "Barbados Tridents recovered from 30 for 5 to post 144 for 6, but it proved nowhere near enough to challenge Jamaica Kingsmen once Maaz Sadaqat got going",
+    "published": "Thu, 17 Sep 2026 04:06:59 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554615.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "'Trying to put my name forward' - Rauf hopes to fulfil Pakistan's need for speed in Tests",
+    "summary": "Haris Rauf has returned to the first-class President's Trophy Grade 1 tournament and picked up a five-wicket haul in his first appearance",
+    "published": "Thu, 17 Sep 2026 03:51:14 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554612.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Matthew Wade calls time on his BBL career",
+    "summary": "Wade played 119 BBL games including 90 for Hurricanes but he will step away to focus on his coaching career",
+    "published": "Thu, 17 Sep 2026 00:12:24 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554604.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Adam Hose, Brett D'Oliveira repel relentless Ben Stokes",
+    "summary": "England's former Test captain dug deep for the newly-crowned Division Two champions",
+    "published": "Thu, 17 Sep 2026 15:07:10 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554489.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Sussex build imposing lead as Notts' title bid comes under pressure",
+    "summary": "Clark, Price and Tear make half-centuries to take the initiative at halfway mark at Hove",
+    "published": "Thu, 17 Sep 2026 15:06:41 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554487.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "India's bench strength and Naveen-ul-Haq's match-fitness in focus for final T20I",
+    "summary": "Despite having Farooqi in the XI, Afghanistan did not use him with the new ball. Could Naveen's return add heft to their seam attack?",
+    "published": "Thu, 17 Sep 2026 14:09:50 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554452.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Leicestershire facing relegation after 27-point pitch penalty",
+    "summary": "Club sanctioned for breaching the ECB's pitch regulations for home fixture against Glamorgan",
+    "published": "Thu, 17 Sep 2026 08:32:36 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554603.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Amazon Warriors in final after winning eight-over shootout",
+    "summary": "They will next face TKR in the final in Barbados on Thursday",
+    "published": "Thu, 17 Sep 2026 02:52:49 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554597.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Varun Chakravarthy ruled out of Japan T20I and Asian Games, Vipraj Nigam named replacement",
+    "summary": "Nitish Kumar Reddy, who was in the Asian Games squad, has been withdrawn and will now feature in the ODI series against West Indies",
+    "published": "Wed, 16 Sep 2026 19:18:55 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554438.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Bouchier ton, Wellington five-for seal final spot for Hampshire",
+    "summary": "Freya Kemp and Abi Norgrove chip in with fifties to thrash Surrey",
+    "published": "Wed, 16 Sep 2026 18:26:18 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554601.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Randell dents Northants promotion hopes as Derbyshire eke out slender lead",
+    "summary": "Hosts concede first-innings lead as rivals Kent close in on three-day win",
+    "published": "Wed, 16 Sep 2026 18:20:34 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554490.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Rizwan challenges NCCIA summons in Lahore High Court",
+    "summary": "Rizwan is understood to have raised questions about the nature of the investigation and about the jurisdiction of the NCCIA",
+    "published": "Wed, 16 Sep 2026 18:10:13 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554514.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Tribe bats through day for 142 not out as Glamorgan frustrate Surrey",
+    "summary": "England Lions batter makes first Division One century after 20-wicket opening day",
+    "published": "Wed, 16 Sep 2026 18:05:21 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554486.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Daaryoush, Kishore dig deep as Gloucestershire frustrate Middlesex",
+    "summary": "Eighth-wicket stand rescue hosts from depths of 128 for 7 to close in on parity",
+    "published": "Wed, 16 Sep 2026 18:01:58 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554491.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Kent keep promotion prospects on track as Lancashire face further defeat",
+    "summary": "Hosts need a further 56 runs on third day in low-scoring clash at Canterbury",
+    "published": "Wed, 16 Sep 2026 17:48:40 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554492.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Tahir: People remind me that I'm one of the oldest guys in world cricket",
+    "summary": "Under Tahir, Guyana Amazon Warriors are out to win their second CPL title",
+    "published": "Wed, 16 Sep 2026 17:35:59 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554463.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "List of India, India A and Rest of India squads in action in September and October",
+    "summary": "India play Japan, the Asian Games and West Indies; India A face Australia A; and Rest of India play Irani Cup against J&K",
+    "published": "Wed, 16 Sep 2026 17:29:42 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554567.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Craig Overton hits back amid Ben Cliff's eight-wicket haul",
+    "summary": "Somerset step closer to maiden four-day title as talismanic allrounder leads with bat and ball",
+    "published": "Wed, 16 Sep 2026 17:29:38 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554484.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Bangladesh to tour Nepal for three T20Is in March 2027",
+    "summary": "It will be the first international bilateral series between the two countries",
+    "published": "Wed, 16 Sep 2026 17:22:46 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554561.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Suthar spins through Essex to seize title initiative for Warwickshire",
+    "summary": "Eight-wicket win propels visitors to top of table as hosts look in other direction",
+    "published": "Wed, 16 Sep 2026 17:12:51 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554479.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Naman Dhir, Auqib Nabi get maiden ODI call-ups for West Indies series",
+    "summary": "Ravindra Jadeja is back in the ODI fold, having last played a 50-over international in January",
+    "published": "Wed, 16 Sep 2026 17:12:00 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554508.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Gubbins ends drought to keep Hampshire's survival hopes alive",
+    "summary": "Opener hits first century since April 2025 to leave Leicestershire up against it",
+    "published": "Wed, 16 Sep 2026 16:42:35 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554482.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Irani Cup: Pant to lead Rest of India; Sarfaraz named vice-captain",
+    "summary": "Akash Deep, who last played a competitive game in February, has been included, subject to fitness",
+    "published": "Wed, 16 Sep 2026 16:40:28 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554510.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Why Pietersen's influence can benefit Brook in Test cricket too",
+    "summary": "England's white-ball captain and new mentor are kindred spirits, whatever the format",
+    "published": "Wed, 16 Sep 2026 16:30:41 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554520.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Nilakshika Silva out of Asian Games with finger injury",
+    "summary": "Sri Lanka have picked Anushka Sanjeewani, Hansima Karunaratne and Rashmika Sewwandi in the 15-member squad",
+    "published": "Wed, 16 Sep 2026 14:14:02 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554478.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "WPL 2027 to be played from January 14 to February 7",
+    "summary": "The player auction will be held in Kochi on October 28",
+    "published": "Wed, 16 Sep 2026 12:55:00 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554458.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Abhishek second among T20I batters; Robinson climbs to No. 3 in Test bowling",
+    "summary": "Varun, Bumrah, Arshdeep and Axar also made gains in the T20I bowling rankings",
+    "published": "Wed, 16 Sep 2026 12:38:16 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554431.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Maddinson and Shaw named New South Wales captains",
+    "summary": "Jack Edwards has stepped back from the role as the state looks to the start of Brad Haddin's first season in charge",
+    "published": "Wed, 16 Sep 2026 07:21:40 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554425.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Pybus: 'Our dot-ball percentage is too high and our strike rate has got to improve'",
+    "summary": "The head coach also suggested the lack of power-hitting in Afghanistan cricket was a \"talent pool\" issue",
+    "published": "Wed, 16 Sep 2026 07:06:03 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554421.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Renshaw adjusting to his varied all-format lifestyle",
+    "summary": "A little more than a year ago the left hander wasn't in any of Australia's teams, now he's part of all three",
+    "published": "Wed, 16 Sep 2026 04:19:02 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554397.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Bangladesh committee names Asif Nazrul as sole decision-maker of pulling out of T20 World Cup",
+    "summary": "The three-member committee concluded that the BCB at the time lacked \"independent strategic leadership, crisis diplomacy capability and long-term planning\"",
+    "published": "Wed, 16 Sep 2026 03:48:15 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554398.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Sri Lanka bowl first, Donald debuts for England",
+    "summary": "Tourists include Dunith Wellalage in a three-spinner attack, with Dasun Shanaka back as the allrounder",
+    "published": "Thu, 17 Sep 2026 17:11:04 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554371.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Brook, Buttler, Baker star as Sri Lanka slump to 119-run rout",
+    "summary": "Captain and former captain combine to post 254 for 4, before fast bowler leads the line with three wickets",
+    "published": "Wed, 16 Sep 2026 08:19:33 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554393.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Samson, Abhishek and Reddy power India to series win",
+    "summary": "Samson scored 57, and Abhishek hit 39 to set up the win in just 14.5 overs after Reddy's three wickets",
+    "published": "Wed, 16 Sep 2026 03:18:49 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554367.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Yuvraj: India must avoid 'massive changes' ahead of 2027 ODI World Cup",
+    "summary": "The former allrounder asked India to take a leaf out of their T20 World Cup wins and build a consistent squad in the lead up to the 50-over World Cup",
+    "published": "Tue, 15 Sep 2026 19:55:13 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554300.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Zak Crawley resists as wickets tumble",
+    "summary": "Promotion hopefuls Kent skittle Lancashire for 161 then lurch to 151 for 7",
+    "published": "Tue, 15 Sep 2026 19:15:55 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554330.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Auqib Nabi, Zain-ul-Hassan claim four each on 20-wicket day",
+    "summary": "Surrey's Matt Fisher was also forced out with groin injury after taking 2 for 18 from 11 overs",
+    "published": "Tue, 15 Sep 2026 19:03:10 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554326.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Twin tons rescue Derbyshire",
+    "summary": "Seventh-wicket pair Wayne Madsen and Ben Aitchison put on 197 after Northamptonshire's bowlers engineer collapse",
+    "published": "Tue, 15 Sep 2026 18:50:34 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554329.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Ball dominates bat as Somerset keep chasing title",
+    "summary": "Home skipper Jonny Bairstow top-scores with 79 before quick Ben Cliff strikes three times",
+    "published": "Tue, 15 Sep 2026 18:15:49 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554322.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Hutton grit helps bail out champions at Hove",
+    "summary": "Jaydev Unadkat leads strong Sussex seam-bowling effort until battling ninth-wicket stand lifts Notts",
+    "published": "Tue, 15 Sep 2026 18:12:34 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1554320.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
   }
 ]
