@@ -1,0 +1,67 @@
+HOST: Good Morning! Welcome to Quick News Briefing! I'm Arjav. And Arohi, our senior reporter, is here to dive into the day's headlines.
+
+REPORTER: Always a pleasure, Arjav, ready to cover the stories shaping our world.
+
+HOST: Absolutely. Let's start with "On This Day in History." On September 28th, 1998, a company was officially incorporated that would fundamentally change how we access information: Google Inc. From a garage to a global tech giant, its journey mirrors the rapid evolution we see in technology, a theme for today. We're sourcing news from Hacker News, The New York Times, US Top News and Analysis, and many other trusted sources. Now, Arohi, let's begin with AI policy.
+
+REPORTER: Senator Ro Khanna is set to introduce an AI safety bill. It proposes banning 'recursive' AI technology until robust safeguards are in place. This move joins other Congressional efforts, highlighting a growing push to regulate advanced AI and mitigate potential risks.
+
+HOST: A key development in AI governance. And India is making a substantial investment in its tech future.
+
+REPORTER: India is readying a $25 billion investment for Deep Tech startups. This aims to reduce reliance on foreign technology and boost its competitive edge in fields like AI, positioning India alongside global leaders such as the U.S. and China.
+
+HOST: Significant investment. Now, on how AI is impacting consumers, Meta's new Muse agent sounds quite intrusive.
+
+REPORTER: Meta's Muse AI personal agent will analyze credit card spending, potentially disrupting the profitable subscription economy. This raises privacy questions and challenges existing business models as AI takes a more active role in personal finance management.
+
+HOST: An interesting challenge indeed. In the markets, AI's influence is clear with AMD's recent performance.
+
+REPORTER: AMD briefly joined the trillion-dollar club, and CNBC's Jim Cramer believes its run continues. He attributes this to surging demand for the company’s high-end CPUs, driven by the expanding applications and processing needs of agentic AI.
+
+HOST: From AI and markets, let's shift to Washington and White House media access. News organizations are taking legal action.
+
+REPORTER: That's right. Three news outlets previously barred from White House grounds by President Trump have asked a federal court to block the ban's enforcement. They seek this injunction until their lawsuit challenging the access restrictions is fully resolved.
+
+HOST: And they're seeking more than just a temporary lift.
+
+REPORTER: Correct. CNN, MS NOW, and Politico are requesting a longer reprieve from the White House ban. While a court temporarily lifted it last week, these outlets are now pursuing a permanent legal solution to restore consistent access.
+
+HOST: This ties into reports of CNN preparing for new owners with ties to the former president.
+
+REPORTER: Yes, the prospective ownership group for CNN reportedly has connections to former President Trump. This development is prompting discussions about its potential implications for the network's editorial direction and future political coverage.
+
+HOST: Moving to broader politics, President Trump's midterm strategy is focusing on economic accomplishments.
+
+REPORTER: As President Trump tours the country, he's emphasizing his economic achievements. This strategy aims to counter public frustration with current policies and bolster Republican candidates in the midterms. A planned steel mill in Iowa is one example he’s using to highlight job creation.
+
+HOST: And a recent New York swing district debate highlighted these themes.
+
+REPORTER: In a suburban New York district, Republican Representative Mike Lawler debated military veteran Cait Conley. Key debate topics included President Trump's influence, energy policy, and the economic impact of data centers in the district.
+
+HOST: Shifting back to India's economic landscape, Foreign Minister Jaishankar explained delays in the India-US trade deal. What were his points?
+
+REPORTER: During the 81st UN General Assembly session, Minister S. Jaishankar discussed the stalled India-U.S. trade deal. He cited protectionist elements and differing priorities from both nations as primary obstacles, indicating complex economic and political negotiations continue.
+
+HOST: Insightful. And domestically, the role of women is highlighted as crucial for India's economic aspirations.
+
+REPORTER: Absolutely. MeghaShrey founder Seema Singh, at NDTV Yuva, underscored that women are essential for India to achieve its $5 trillion economy goal. She stressed empowering women, including through self-defense training, to ensure their full participation and contribution.
+
+HOST: From national economies to global business, Luckin Coffee is eyeing new international markets.
+
+REPORTER: Luckin Coffee is exploring expansion into lucrative Middle East markets while deepening its foothold in Southeast Asia. This growth strategy is backed by sovereign wealth funds from both regions, marking a significant international push.
+
+HOST: An ambitious move. And turning to agriculture, California's wine industry is facing challenges.
+
+REPORTER: California farmers are struggling to sell grapes due to declining wine demand. This impacts vintners and growers, raising concerns about profitability and the future of a vital agricultural sector in the state.
+
+HOST: A difficult period for vineyards. Now, two unique stories from around the world. First, resilience in Bangkok amidst floods.
+
+REPORTER: Bangkok locals showcased remarkable resourcefulness during severe floods, creating a floating market. Sellers offered produce from buoyant platforms as buyers navigated by foot or boat, ensuring community access to essential goods.
+
+HOST: Inspiring adaptation. And finally, a surprising discovery in an Indonesian prison.
+
+REPORTER: A surprise inspection at an Indonesian prison uncovered apartment-like units for inmates. These luxury accommodations featured televisions, a gym, and fridges stocked with alcohol, prompting an investigation into corruption and preferential treatment.
+
+HOST: Astonishing findings. Arohi, thank you for those comprehensive updates. Before we go, here's a unique fun fact for our listeners. Did you know that the world's first industrial robot, Unimate, began its work in 1961? It was installed at a General Motors factory, performing dangerous tasks like lifting hot metal. This groundbreaking step in automation laid the foundation for the advanced AI we discuss today.
+
+HOST: That wraps up Quick News Briefing for today. We appreciate you tuning in. Join us tomorrow for another look at the stories shaping our world. Until then, stay informed and have a great day.
