@@ -1601,5 +1601,887 @@
     "published": "Wed, 14 Oct 2026 15:48:20 GMT",
     "link": "https://www.cricinfo.com/ci/content/story/1558470.html?ex_cid=OTC-RSS",
     "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+    "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+    "published": "Sun, 18 Oct 2026 12:07:31 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+    "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+    "published": "Sun, 18 Oct 2026 15:46:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+    "summary": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+    "published": "Sun, 18 Oct 2026 13:47:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+    "summary": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
+    "published": "Sun, 18 Oct 2026 11:09:32 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Parisians wake up to protest damage and looted shops",
+    "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
+    "published": "Sun, 18 Oct 2026 10:58:39 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Fuel leak spreads more than two miles along River Taff",
+    "summary": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell.",
+    "published": "Sun, 18 Oct 2026 15:11:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "How to see the Orionid meteor shower",
+    "summary": "One of the best-known meteor showers peaks this week and will remain active until 7 November.",
+    "published": "Sun, 18 Oct 2026 08:54:07 GMT",
+    "link": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
+    "summary": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
+    "published": "Sun, 18 Oct 2026 08:12:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Free clear-up has big engagement on social media",
+    "summary": "One man's battle against weeds and overgrown pathways makes a big difference to the town",
+    "published": "Sun, 18 Oct 2026 10:59:32 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cly8q2rryejo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "Pony herd gathering raises money for air ambulance",
+    "summary": "Kristina Auckland said the herd was made up of around 100 ponies.",
+    "published": "Sun, 18 Oct 2026 10:25:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqe9lx01ynj8o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC News"
+  },
+  {
+    "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
+    "summary": "After anti-government protests devolved into chaos, leaders from across the political spectrum blamed one another for the unrest, even as it largely subsided on Sunday.",
+    "published": "Sun, 18 Oct 2026 15:48:40 +0000",
+    "link": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Why Are There Protests in France?",
+    "summary": "Rioters attacked city halls and shops over the weekend amid protests over living costs and poor school conditions.",
+    "published": "Sun, 18 Oct 2026 15:15:49 +0000",
+    "link": "https://www.nytimes.com/article/france-student-protests-why.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "O.J. Simpson, a Secret Informant and a Decades-Old Mystery",
+    "summary": "An \u201cextremely reliable\u201d informant told authorities about the missing murder weapon, according to newly unsealed records. The informant\u2019s brother told The Times his sibling was at the crime scene.",
+    "published": "Sun, 18 Oct 2026 13:05:18 +0000",
+    "link": "https://www.nytimes.com/2026/10/18/us/oj-simpson-ippolito-informant-accomplice.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "5 Takeaways From The Times\u2019s Re-Examination of the O.J. Simpson Case",
+    "summary": "Newly unsealed court files and interviews challenge the popular narrative around the murders and the \u201ctrial of the century.\u201d",
+    "published": "Sun, 18 Oct 2026 12:06:33 +0000",
+    "link": "https://www.nytimes.com/2026/10/18/us/oj-simpson-case-takeaways.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "3 Charts That Explain the Economy as Voters Head to the Polls",
+    "summary": "Inflation is high, consumer spending is strong and seemingly everything depends on what happens with artificial intelligence.",
+    "published": "Sun, 18 Oct 2026 09:00:50 +0000",
+    "link": "https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Across Farm Country, Economic Discontent Strains Republican Coalition",
+    "summary": "Farmers and ranchers have supported President Trump for a decade. But the war in Iran, tariffs and other administration policies have soured some on the G.O.P.",
+    "published": "Sun, 18 Oct 2026 09:00:47 +0000",
+    "link": "https://www.nytimes.com/2026/10/18/us/politics/farmers-ranchers-trump-economic-stress.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Some MAHA Voters in Arizona Question Their G.O.P. Ties",
+    "summary": "MAHA\u2019s alliance with MAGA had energized voters to support President Trump\u2019s 2024 campaign. Now, some aren\u2019t so sure.",
+    "published": "Sun, 18 Oct 2026 09:00:17 +0000",
+    "link": "https://www.nytimes.com/2026/10/18/us/maha-voters-republican-split.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "How a Dominican Man Became an ICE Target Before the NYC Shooting",
+    "summary": "Oscar Belgal arrived in the city from the Dominican Republic in 2022. Chaos appeared to follow, ending in a fateful encounter with immigration agents.",
+    "published": "Sun, 18 Oct 2026 15:20:06 +0000",
+    "link": "https://www.nytimes.com/2026/10/18/nyregion/nyc-ice-shooting-oscar-belgal.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Oklahoma Families Faced the Hottest Summer Ever and an Electricity Crisis",
+    "summary": "Record heat and a rising demand for electricity are closing in on Oklahoma families trying to keep the lights on and the AC running.",
+    "published": "Sun, 18 Oct 2026 12:20:45 +0000",
+    "link": "https://www.nytimes.com/2026/10/18/us/oklahoma-extreme-heat-electricity-crisis.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "The Man Who Taught Us How to Pay Attention",
+    "summary": "The works of the British art critic John Berger offer the antidote to our age of infinite scrolling.",
+    "published": "Sun, 18 Oct 2026 04:01:05 +0000",
+    "link": "https://www.nytimes.com/2026/10/18/magazine/john-berger-attention.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "This Is the Good Scenario?",
+    "summary": "We may not want it to, but A.I. is asking us how to live.",
+    "published": "Sun, 18 Oct 2026 15:20:30 +0000",
+    "link": "https://www.nytimes.com/2026/10/18/opinion/ai-bubble-catastrophe-investors-control.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "O.J.\u2019s Accomplice?",
+    "summary": "After all these years, we found new developments in the O.J. Simpson case.",
+    "published": "Sun, 18 Oct 2026 11:36:35 +0000",
+    "link": "https://www.nytimes.com/2026/10/18/briefing/ojs-accomplice.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "Pope Leo Addresses the Faithful a Day After Leaving the Hospital",
+    "summary": "\u201cThis experience has made me feel a special closeness to all those who are battling illness and infirmity,\u201d he said, in his first public appearance since his lung surgery.",
+    "published": "Sun, 18 Oct 2026 11:58:06 +0000",
+    "link": "https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html",
+    "source_name": "NYT"
+  },
+  {
+    "title": "\"I Was Behind Tiger Shroff\": Actor Karan Veer Mehra To NDTV On Shooting",
+    "summary": "",
+    "published": "Sun, 18 Oct 2026 20:48:47 +0530",
+    "link": "https://www.ndtv.com/india-news/i-was-standing-right-behind-tiger-shroff-actor-karan-veer-mehra-to-ndtv-on-shooting-12203387#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Tiger Shroff Assassination Bid Updates: Lawrence Bishnoi Gang Claims Responsibility",
+    "summary": "Tiger Shroff Assassination Bid Updates",
+    "published": "Sun, 18 Oct 2026 20:46:04 +0530",
+    "link": "https://www.ndtv.com/india-news/tiger-shroff-assassination-bid-updates-lawrence-bishnoi-gang-salman-khan-juhu-mumbai-12203309#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "3 Shooters On Bike, Tiger Shroff Was Target: What We Know So Far",
+    "summary": "The Lawrence Bishnoi gang has claimed responsibility for the attack.",
+    "published": "Sun, 18 Oct 2026 20:39:33 +0530",
+    "link": "https://www.ndtv.com/india-news/shooters-came-on-bike-tiger-shroff-was-target-what-we-know-so-far-12203352#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Bishnoi Gang's \"Salman Khan\" Voice Note After Tiger Shroff Assassination Bid",
+    "summary": "An audio file that emerged after the incident featured a man claiming to represent the Lawrence Bishnoi gang taking responsibility for the attack and threatening others in the Mumbai film industry who work with Salman Khan.",
+    "published": "Sun, 18 Oct 2026 20:35:33 +0530",
+    "link": "https://www.ndtv.com/india-news/in-tiger-shroff-firing-incident-bishnoi-gangs-salman-khan-mention-12203288#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Tiger Shroff Escapes Assassination Attempt In Mumbai, Bishnoi Gang Claims Responsibility",
+    "summary": "A video emerged in which a man called Anil Pandit, claiming to be from the Lawrence Bishnoi gang, said Tiger Shroff was on their hit list as \"he was not heeding our directions\" and \"was working with Salman Khan\".",
+    "published": "Sun, 18 Oct 2026 20:29:23 +0530",
+    "link": "https://www.ndtv.com/india-news/three-men-open-fire-near-tiger-shroff-in-mumbais-juhu-area-actor-safe-12203238#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Road Horror In Punjab Village: 8 Labourers Run Over By Speeding Car, Witnesses Say Died Waiting For Ambulance",
+    "summary": "Witnesses said ambulance arrived after an hour.",
+    "published": "Sun, 18 Oct 2026 20:15:24 +0530",
+    "link": "https://www.ndtv.com/india-news/8-labourers-mowed-down-by-car-in-punjabs-sangrur-witnesses-say-many-died-waiting-for-ambulance-12203175#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Diesel Tanker Catches Fire On Bengaluru Highway",
+    "summary": "Fire and emergency services personnel extinguished the blaze.",
+    "published": "Sun, 18 Oct 2026 19:58:13 +0530",
+    "link": "https://www.ndtv.com/india-news/diesel-tanker-catches-fire-on-bengaluru-highway-12203239#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "After CJP, New Group Formed In Delhi Names Itself 'Lal Hit Janata Party'",
+    "summary": "Lal Hit Janata Party chief Ayan Bhatnagar (L) said the group will oppose CJP and protect democracy.",
+    "published": "Sun, 18 Oct 2026 19:15:14 +0530",
+    "link": "https://www.ndtv.com/india-news/after-cjp-new-group-formed-in-delhi-names-itself-lal-hit-janata-party-12203047#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "UCO Bank Announces 530 Apprentice Vacancies, Check State-Wise Seats",
+    "summary": "Applicants must register on the NATS portal.",
+    "published": "Sun, 18 Oct 2026 19:12:25 +0530",
+    "link": "https://www.ndtv.com/education/uco-bank-announces-530-apprentice-vacancies-check-state-wise-seats-12203105#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Seva Is Sadhana: Gautam Adani Visits Shrimad Rajchandra Ashram In Gujarat",
+    "summary": "Gautam Adani also interacted with students and young professionals associated with the Mission.",
+    "published": "Sun, 18 Oct 2026 19:12:09 +0530",
+    "link": "https://www.ndtv.com/india-news/seva-is-sadhana-gautam-adani-visits-shrimad-rajchandra-ashram-in-gujarat-12203096#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "10-Day Police Custody For 7 Accused In Kolkata Durga Puja Pandal Stampede",
+    "summary": "Police had registered a case of culpable homicide not amounting to murder over the stampede that broke out around 7:40 pm on Saturday amid heavy rain.",
+    "published": "Sun, 18 Oct 2026 18:31:59 +0530",
+    "link": "https://www.ndtv.com/india-news/chorbagan-stampede-10-day-police-custody-for-7-accused-in-deadly-kolkata-pandal-stampede-12202905#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "'Pandal Is Collapsing': On Camera, Kolkata Puja Crowd Scrambles, Then An Announcement",
+    "summary": "Videos show extreme pressure at entry gate of Chorbagan puja pandal in North Kolkata on Saturday night.",
+    "published": "Sun, 18 Oct 2026 17:33:57 +0530",
+    "link": "https://www.ndtv.com/india-news/dont-come-near-the-pandal-its-collapsing-videos-point-to-how-kolkata-stampede-broke-out-12202672#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "School Assembly News Headlines (October 18): Top National, International, Sports News",
+    "summary": "School Assembly News Headlines (October 18)",
+    "published": "Sun, 18 Oct 2026 17:30:13 +0530",
+    "link": "https://www.ndtv.com/education/school-assembly-news-headlines-october-18-top-national-international-sports-news-12202812#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "India Bars Sugar-Based Ethanol From 2026-27 Tender For Petrol Blend",
+    "summary": "Ethanol is produced from agricultural feedstocks, including sugarcane and grains.",
+    "published": "Sun, 18 Oct 2026 16:37:42 +0530",
+    "link": "https://www.ndtv.com/india-news/india-bars-sugar-based-ethanol-from-2026-27-tender-for-petrol-blend-12202614#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Food Regulator's Guidelines For Perishable Items Amid Festive Season",
+    "summary": "It has ordered food business operators engaged in the manufacture, packing, storage, transportation, distribution and sale of perishable food commodities to ensure strict compliance with the guidelines.",
+    "published": "Sun, 18 Oct 2026 16:26:05 +0530",
+    "link": "https://www.ndtv.com/india-news/food-regulators-guidelines-for-perishable-items-amid-festive-season-12202569#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Quick Facts: Lakshadweep Declared Fully Literate Under ULLAS",
+    "summary": "The department stated that all eligible learners had successfully cleared the FLNAT.",
+    "published": "Sun, 18 Oct 2026 16:16:46 +0530",
+    "link": "https://www.ndtv.com/education/quick-facts-lakshadweep-declared-fully-literate-under-ullas-12202551#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "CAT 2026 Preparation Tips: Common Mistakes And How To Avoid Them",
+    "summary": "Avoid common mistakes like ignoring weak subjects.",
+    "published": "Sun, 18 Oct 2026 16:13:27 +0530",
+    "link": "https://www.ndtv.com/education/cat-2026-preparation-tips-common-mistakes-and-how-to-avoid-them-12202542#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Car Hits Pothole, Loses Control, Then Bus Rams It Killing All 5 Passengers",
+    "summary": "Traffic on the highway was badly disrupted for some time.",
+    "published": "Sun, 18 Oct 2026 16:09:18 +0530",
+    "link": "https://www.ndtv.com/india-news/maharashtra-road-accident-car-hits-pothole-loses-control-then-bus-rams-it-killing-all-5-passengers-12202531#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "Army Officer's Wife Shared Info With Chinese Agents Posing As Academicians",
+    "summary": "Police have not publicly disclosed further details about the alleged communications.",
+    "published": "Sun, 18 Oct 2026 16:05:25 +0530",
+    "link": "https://www.ndtv.com/india-news/chinese-agents-pose-as-academicians-extract-info-from-army-officers-wife-12202444#publisher=newsstand",
+    "source_name": "NDTV News"
+  },
+  {
+    "title": "macOS 15.8.2 Breaks OpenGL",
+    "summary": "<p>Article URL: <a href=\"https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550\">https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141909\">https://news.ycombinator.com/item?id=50141909</a></p>\n<p>Points: 25</p>\n<p># Comments: 10</p>",
+    "published": "Sun, 18 Oct 2026 15:26:06 +0000",
+    "link": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Will it be a golden age or a dark age for mathematics (and science)?",
+    "summary": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/\">https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141681\">https://news.ycombinator.com/item?id=50141681</a></p>\n<p>Points: 41</p>\n<p># Comments: 30</p>",
+    "published": "Sun, 18 Oct 2026 15:00:40 +0000",
+    "link": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Java sealed classes and exhaustive pattern matching",
+    "summary": "<p>Article URL: <a href=\"https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/\">https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141579\">https://news.ycombinator.com/item?id=50141579</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+    "published": "Sun, 18 Oct 2026 14:47:37 +0000",
+    "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "High performance policy routed IPsec mesh SD-WAN",
+    "summary": "<p>Article URL: <a href=\"https://ranet3.com/\">https://ranet3.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141436\">https://news.ycombinator.com/item?id=50141436</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+    "published": "Sun, 18 Oct 2026 14:31:52 +0000",
+    "link": "https://ranet3.com/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model\">https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141429\">https://news.ycombinator.com/item?id=50141429</a></p>\n<p>Points: 74</p>\n<p># Comments: 71</p>",
+    "published": "Sun, 18 Oct 2026 14:30:27 +0000",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
+    "summary": "<p>Article URL: <a href=\"https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car\">https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141295\">https://news.ycombinator.com/item?id=50141295</a></p>\n<p>Points: 46</p>\n<p># Comments: 54</p>",
+    "published": "Sun, 18 Oct 2026 14:16:41 +0000",
+    "link": "https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Theranos-Style Fraud Has Become the Norm",
+    "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/\">https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141206\">https://news.ycombinator.com/item?id=50141206</a></p>\n<p>Points: 59</p>\n<p># Comments: 15</p>",
+    "published": "Sun, 18 Oct 2026 14:05:36 +0000",
+    "link": "https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "RepRapMicron",
+    "summary": "<p>Article URL: <a href=\"https://github.com/VikOlliver/RepRapMicron/wiki\">https://github.com/VikOlliver/RepRapMicron/wiki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141076\">https://news.ycombinator.com/item?id=50141076</a></p>\n<p>Points: 140</p>\n<p># Comments: 19</p>",
+    "published": "Sun, 18 Oct 2026 13:48:48 +0000",
+    "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience",
+    "summary": "<p>Article URL: <a href=\"https://www.thing.net/~rdom/ecd/EDTECD.html\">https://www.thing.net/~rdom/ecd/EDTECD.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141024\">https://news.ycombinator.com/item?id=50141024</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+    "published": "Sun, 18 Oct 2026 13:41:06 +0000",
+    "link": "https://www.thing.net/~rdom/ecd/EDTECD.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+    "summary": "<p>I made this ahead of the Ocarina of Time remake which comes out in 17 days. I remember the feeling of playing it as a kid but I hadn\u2019t kept up with the story so I built a timeline to catch up before the Door of Time reopens.<p>Nintendo\u2019s own timeline is the authority here (Hyrule Historia and their chronicle page). The fun part was rethinking how to visualize it. It branches at the end of Ocarina into three eras depending on whether Link wins or loses, so each era is its own thread on the cloth. The threads meet again much later with Breath of the Wild.<p>I had a lot of help from Claude. I\u2019d often thought about building things like this but never found the time between the day job and the rest of life.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50140769\">https://news.ycombinator.com/item?id=50140769</a></p>\n<p>Points: 54</p>\n<p># Comments: 16</p>",
+    "published": "Sun, 18 Oct 2026 13:06:54 +0000",
+    "link": "https://legendofhyrule.com/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+    "summary": "<p>Article URL: <a href=\"https://www.vals.ai/blogs/impossible-refund\">https://www.vals.ai/blogs/impossible-refund</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50140462\">https://news.ycombinator.com/item?id=50140462</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+    "published": "Sun, 18 Oct 2026 12:22:58 +0000",
+    "link": "https://www.vals.ai/blogs/impossible-refund",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Open MicroManipulator \u2013 A sub-micrometer 3D motion control plattform",
+    "summary": "<p>Article URL: <a href=\"https://github.com/0x23/MicroManipulatorStepper\">https://github.com/0x23/MicroManipulatorStepper</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50140001\">https://news.ycombinator.com/item?id=50140001</a></p>\n<p>Points: 106</p>\n<p># Comments: 8</p>",
+    "published": "Sun, 18 Oct 2026 11:16:22 +0000",
+    "link": "https://github.com/0x23/MicroManipulatorStepper",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The Brain Sandwich",
+    "summary": "<p>Article URL: <a href=\"https://terriblesoftware.org/2026/10/02/the-brain-sandwich/\">https://terriblesoftware.org/2026/10/02/the-brain-sandwich/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50139998\">https://news.ycombinator.com/item?id=50139998</a></p>\n<p>Points: 22</p>\n<p># Comments: 9</p>",
+    "published": "Sun, 18 Oct 2026 11:15:37 +0000",
+    "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+    "summary": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/\">https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50139692\">https://news.ycombinator.com/item?id=50139692</a></p>\n<p>Points: 134</p>\n<p># Comments: 34</p>",
+    "published": "Sun, 18 Oct 2026 10:21:51 +0000",
+    "link": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Parser Combinators",
+    "summary": "<p>Article URL: <a href=\"https://t3.at/blog/2026-10-17-parser-combinators/\">https://t3.at/blog/2026-10-17-parser-combinators/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50139067\">https://news.ycombinator.com/item?id=50139067</a></p>\n<p>Points: 136</p>\n<p># Comments: 56</p>",
+    "published": "Sun, 18 Oct 2026 08:19:53 +0000",
+    "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Lenovo\u2019s fast, comfy SteamOS handheld is hundreds off",
+    "summary": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it\u2019s got double the RAM and storage [&#8230;]",
+    "published": "2026-10-18T11:00:00-04:00",
+    "link": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "J Mascis has nothing better to do",
+    "summary": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar reputation as an interview subject, quietly sitting and offering deft nonanswers. That's not to say that Mascis [&#8230;]",
+    "published": "2026-10-18T10:00:00-04:00",
+    "link": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Trump says Google kisses his ass",
+    "summary": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake Ontario. \"This is a much more powerful term. I can do [&#8230;]",
+    "published": "2026-10-18T09:25:01-04:00",
+    "link": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The best gadget I bought this year is a milk frother",
+    "summary": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I unexpectedly found myself obsessed with was their [&#8230;]",
+    "published": "2026-10-18T09:00:00-04:00",
+    "link": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "How overhead projectors took over your classroom",
+    "summary": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead projector. It would change far more than just the disciplinary record of students everywhere. [&#8230;]",
+    "published": "2026-10-18T08:55:01-04:00",
+    "link": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Cities want to put the boot on robotaxis",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first state to pass a law [&#8230;]",
+    "published": "2026-10-18T08:00:00-04:00",
+    "link": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
+    "summary": "Starlink, high-speed satellite internet provided by Elon Musk's SpaceX, is critical to Ukraine's defense.",
+    "published": "Sun, 18 Oct 2026 16:01:44 GMT",
+    "link": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
+    "summary": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said the country's military has prepared a response to any new attacks.",
+    "published": "Sun, 18 Oct 2026 13:52:24 GMT",
+    "link": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+    "summary": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
+    "published": "Sun, 18 Oct 2026 12:00:01 GMT",
+    "link": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Roth conversions: When the \u2018juice isn't really worth the squeeze,\u2019 according to a top-ranked advisor",
+    "summary": "If you're considering a year-end Roth conversion for 2026, there are some key things to know, experts say.",
+    "published": "Sun, 18 Oct 2026 13:30:01 GMT",
+    "link": "https://www.cnbc.com/2026/10/18/roth-conversion-2026.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
+    "summary": "Covered call ETFs have been widely adopted by baby boomers to meet monthly income needs, but unlike most ETFs, the tax implications can be significant.",
+    "published": "Sun, 18 Oct 2026 13:10:33 GMT",
+    "link": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
+    "summary": "Amid fear of rate hikes and oil prices, investors can look past volatility and track Street analysts' stock picks with strong long-term growth potential.",
+    "published": "Sun, 18 Oct 2026 12:34:51 GMT",
+    "link": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "The bloated workweek is coming for Sundays\u2014as some embrace flexibility, others worry about job security",
+    "summary": "A new report finds nearly half of workers are often logging in on Sundays. It is a boon for worker flexibility, or a sign of job-hugging insecurity?",
+    "published": "Sun, 18 Oct 2026 14:00:01 GMT",
+    "link": "https://www.cnbc.com/make-it/2026/10/18/why-people-are-working-sundays.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "I've studied over 200 kids\u2014parents who raise resilient, successful children teach them these 6 lessons early on",
+    "summary": "Parenting coach Reem Raouda shares lessons to help kids feel worthy regardless of achievements and handle disappointment, disagreement and difficult feelings.",
+    "published": "Sun, 18 Oct 2026 13:37:01 GMT",
+    "link": "https://www.cnbc.com/make-it/2026/10/18/parenting-lessons-resilient-successful-well-adjusted.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Here are the 3 big things we're watching in the stock market this week",
+    "summary": "Meta and Capital One are set to report earnings. We'll also hear from plenty of important companies outside the Club portfolio.",
+    "published": "Sun, 18 Oct 2026 15:24:37 GMT",
+    "link": "https://www.cnbc.com/investingclub/2026/10/18/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
+    "source_name": "US Top News and Analysis"
+  },
+  {
+    "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+    "summary": "Pope Leo XIV thanked thousands of faithful in St. Peter's Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties.",
+    "published": "Sun, 18 Oct 2026 08:55:01 -0400",
+    "link": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "If you have the scratch, they have the scares",
+    "summary": "Scary stories are more than fun, they're big business.",
+    "published": "Sun, 18 Oct 2026 08:00:00 -0400",
+    "link": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
+    "summary": "Rep. Mar\u00eda Elvira Salazar filmed an ad warning the president that he's \"gone too far\" on immigration. It reflected concern among some Republicans that their gains with Latino voters could be at risk.",
+    "published": "Sun, 18 Oct 2026 05:00:00 -0400",
+    "link": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Major fire breaks out in Alberta after deadly incident at military base",
+    "summary": "Canada's defense minister said Saturday that people were killed and injured in an incident at a military base in Alberta that caused a major fire.",
+    "published": "Sun, 18 Oct 2026 03:56:08 -0400",
+    "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+    "source_name": "NPR Topics"
+  },
+  {
+    "title": "Salman Agha ton, Eshan Malinga four-for as Pakistan notch 305",
+    "summary": "Salman involved in stands of 97 and 64 to lift home side from trouble at 118 for 4",
+    "published": "Sun, 18 Oct 2026 15:38:32 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558979.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Nahida Akter named Bangladesh women's T20I captain",
+    "summary": "She has been given an initial one-year term, with the ICC Women's Emerging Nations Trophy next month set to be her first assignment",
+    "published": "Sun, 18 Oct 2026 15:15:56 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558998.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Rizwan to captain SNGPL in final round of President's Trophy",
+    "summary": "Imam-ul-Haq, who is also being investigated by the NCCIA, has been granted permission to play the last round for Oil & Gas Development Company Limited",
+    "published": "Sun, 18 Oct 2026 14:36:36 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558941.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Rain and Boland hound South Africa in Gqeberha",
+    "summary": "Hosts are 20 for 2 after only 12.2 overs of play was possible on the opening day",
+    "published": "Sun, 18 Oct 2026 14:22:31 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558962.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Zimbabwe opt to bat; both teams unchanged",
+    "summary": "Raipur is expected to serve a similarly slow and grippy pitch as the first T20I",
+    "published": "Sun, 18 Oct 2026 13:30:36 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558989.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Perry powers nervy Australia to 1-0 lead",
+    "summary": "There were several twists with Australia losing regular wickets to slump to 145 for 7 in the 163 chase",
+    "published": "Sun, 18 Oct 2026 12:04:15 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558972.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Taskin: 'We sometimes collapse quickly under pressure'",
+    "summary": "Taskin has bemoaned Bangladesh's \"noticeable lack of game awareness\" after their defeat to Zimbabwe",
+    "published": "Sun, 18 Oct 2026 09:52:23 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558949.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Sri Lanka bowl, Pakistan hand debut to Baig",
+    "summary": "Shaheen, Naseem and Rauf reunited in hosts' pace attack; SL pick Colombage",
+    "published": "Sun, 18 Oct 2026 09:32:31 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558929.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Australia bowl, McGrath replaces injured Litchfield",
+    "summary": "New Zealand begin a new era after the retirements of Devine, Bates and Tahuhu",
+    "published": "Sun, 18 Oct 2026 08:17:16 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558933.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Lyon left out as Australia go all-pace and bowl first on damp day",
+    "summary": "Kagiso Rabada returns for South Africa with Keshav Maharaj squeezed out as they look to level the series",
+    "published": "Sun, 18 Oct 2026 08:08:36 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558919.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Unchanged India bowl first in bid to win series, West Indies make two changes",
+    "summary": "Jewel Andrew replaces Kamil Pooran while Romario Shepherd is back for Quentin Sampson",
+    "published": "Wed, 14 Oct 2026 13:33:50 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558464.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Iyer moves to fourth in T20I batting rankings",
+    "summary": "Markram has moved into the top ten of the Test batting charts, while Hazlewood has moved to to seventh on the bowling front",
+    "published": "Wed, 14 Oct 2026 11:42:26 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558447.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Chad Laycock takes record-breaking five wickets in an over in South African T20 match",
+    "summary": "The KZN-Inland fast bowler finished with 6 for 26, the best figures in Pro20 Cup history",
+    "published": "Wed, 14 Oct 2026 10:30:58 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558419.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Home ODI World Cup before retiring 'certainly a blessing' for Sikandar Raza",
+    "summary": "\"Our performances will get better in all formats,\" Sikandar Raza says of Zimbabwe cricket if, as expected, the WTC becomes a 12-team tournament from the next cycle",
+    "published": "Wed, 14 Oct 2026 10:21:16 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558414.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Swingin' Schutt sets up ODI series sweep for Australia with 4 for 16",
+    "summary": "With Megan Schutt knocking out the top order, Bangladesh were never really in the contest despite half-centuries from Sharmin Akhter and Shorna Akter",
+    "published": "Wed, 14 Oct 2026 10:07:11 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558418.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Jack Leach not on England radar for Bangladesh tour",
+    "summary": "Test team \"focusing on slightly different direction\" despite Somerset spinner's pre-eminence at county level",
+    "published": "Wed, 14 Oct 2026 08:52:13 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558344.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Alzarri Joseph, Shai Hope to miss WI's two-Test series in Bangladesh",
+    "summary": "Alzarri Joseph has been \"withdrawn\" to manage his workload while Hope was rested keeping the ODI World Cup qualifiers in February 2027 in mind",
+    "published": "Wed, 14 Oct 2026 05:39:20 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558358.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Australia bowl again, Litchfield out with hip complaint; Bangladesh debut for Disha Biswas",
+    "summary": "Bangladesh made three changes in search of their first win of the series",
+    "published": "Wed, 14 Oct 2026 04:09:41 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558362.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Weibgen century helps Queensland to One-Day Cup win over WA",
+    "summary": "Former Australia Under-19 captain makes second One-Day century of the season to help Queensland beat WA",
+    "published": "Wed, 14 Oct 2026 00:34:02 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558351.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Australia keep door open for shuffling batting order",
+    "summary": "Cummins, though, says there needs to be a compelling case to move Renshaw from No.5",
+    "published": "Wed, 14 Oct 2026 06:53:18 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558335.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Atal century, lower-order resistance help Afghanistan hang on to a draw",
+    "summary": "Bangladesh's missed chances especially in the final hour cost them as they couldn't pick up the last two wickets",
+    "published": "Wed, 14 Oct 2026 05:27:32 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558264.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "'We should have taken all ten wickets' - Shanto rues missed chances",
+    "summary": "\"I think we ended up drawing the game due to the small mistakes,\" Bangladesh captain Shanto says after Abu Dhabi draw",
+    "published": "Wed, 14 Oct 2026 05:27:00 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558342.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Rabada closing in on return for Gqeberha Test",
+    "summary": "He had missed the first Test against Australia \"from a precautionary point of view\" but remained with the squad and was shown bowling with increasing intensity",
+    "published": "Wed, 14 Oct 2026 03:30:03 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558331.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Kusal Mendis 87* hands Sri Lanka consolation win",
+    "summary": "Sri Lanka hunted down Pakistan's total of 168 for 8 with 17 balls and eight wickets to spare",
+    "published": "Tue, 13 Oct 2026 17:21:42 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558343.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Bavuma focused on South Africa response after first taste of defeat",
+    "summary": "Test captain says there are \"obvious things we could improve on\" after unbeaten run ended in Durban",
+    "published": "Tue, 13 Oct 2026 17:17:01 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558308.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "SA20: Donald replaces Simons as JSK's bowling coach",
+    "summary": "Eric Simons and Tommy Simsek exit JSK",
+    "published": "Tue, 13 Oct 2026 16:12:16 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558340.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Hazlewood six-for seals dominant Australia win",
+    "summary": "Set a record 421-run target, South Africa were bowled out for 206 in their second innings",
+    "published": "Tue, 13 Oct 2026 15:43:38 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558276.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Sadikur 149 crushes Barishal; Chattogram move to No. 1 on NCL table",
+    "summary": "The latest round saw Mahedi Hasan take six wickets and score a century, Marshall Ayub hit his 30th first-class ton, and Sabbir Rahman end a 14-year wait for an NCL century",
+    "published": "Tue, 13 Oct 2026 15:32:53 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558325.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Tilak Varma 'enjoying' middle-order role despite preference for No. 3",
+    "summary": "\"Whatever the team needs, I want to step into that role,\" the batter says as he adapts to bat at No. 5, sometimes even No. 6",
+    "published": "Tue, 13 Oct 2026 15:31:16 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558337.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Grant Flower adds to Sussex exodus as he joins Surrey coaching staff",
+    "summary": "Former Zimbabwe batter admits club's financial situation is a major factor in his departure",
+    "published": "Tue, 13 Oct 2026 14:38:49 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558323.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Delhi Capitals unveil Yuvraj as assistant and batting coach",
+    "summary": "Yuvraj will work with head coach Ganguly at Delhi Capitals",
+    "published": "Tue, 13 Oct 2026 14:01:54 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558307.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Mhatre suffers Grade 4 right hamstring tear, expected to be out for a month",
+    "summary": "Mhatre damaged his right hamstring while opening the batting for Mumbai in the Ranji Trophy match against Chandigarh on Sunday",
+    "published": "Tue, 13 Oct 2026 13:35:26 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558285.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Sri Lanka opt to bowl in third T20I; Pakistan make four changes",
+    "summary": "Razaullah, Arafat Minhas, Sufiyan Moqim and Abdul Samad came in for Pakistan, who've already won the series",
+    "published": "Tue, 13 Oct 2026 13:09:28 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558298.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Sutherland and Schutt climb to fourth and fifth in ODI bowlers' rankings",
+    "summary": "Ellyse Perry is also back in the top ten among ODI batters",
+    "published": "Tue, 13 Oct 2026 11:22:04 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558282.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Another batting paradise greets India and West Indies in Hyderabad",
+    "summary": "West Indies won't mind run fest of a pitch to remain alive in five-match series against India",
+    "published": "Tue, 13 Oct 2026 10:54:45 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558270.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "England rest Archer, Atkinson, Tongue for Australia T20Is",
+    "summary": "Focus on ODI World Cup and looming South Africa tour leads to experimental T20 group",
+    "published": "Tue, 13 Oct 2026 10:19:54 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558275.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "'Don't be scared' - Pollock bats for pink-ball switch for light-affected Tests",
+    "summary": "\"It is not irrelevant because if you use the red one, all of a sudden you can't play Test cricket past bad-light time. But if you use the pink one, you can\"",
+    "published": "Tue, 13 Oct 2026 09:54:06 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558269.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "World Cup revenge, Olympics dream keeps Mooney motivated",
+    "summary": "Australia's wicketkeeper-batter will play her 100th ODI in the final match of the series against Bangladesh",
+    "published": "Tue, 13 Oct 2026 08:20:55 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558257.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Prestwidge stars in unexpected role as Tasmania topple NSW",
+    "summary": "Offspinner Raf MacMillan took three wickets as the home side fell well short in the rain-hit contest",
+    "published": "Tue, 13 Oct 2026 07:54:26 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558254.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Nissanka's return headlines SL's Test squad against Pakistan",
+    "summary": "Pasindu Sooriyabandara retains his place ahead of Lahiru Udara while keeper Anjala Bandara could make his debut",
+    "published": "Tue, 13 Oct 2026 07:04:26 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558253.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Ollie Pope withdraws from Afghanistan Premier League T20 draft",
+    "summary": "England batter pulls out after criticism, as do Will Smeed and David Willey",
+    "published": "Tue, 13 Oct 2026 12:04:54 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558195.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Former Zimbabwe player and umpire Sarah Dambanevana dies aged 36",
+    "summary": "Dambanevana represented Zimbabwe as a player between 2009 and 2014, including at the World Cup Qualifier in 2011",
+    "published": "Tue, 13 Oct 2026 04:00:21 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558183.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Saracens sack player whose punch sparked Stokes crisis",
+    "summary": "Totoa Auvaa leaves club following a swift internal investigation into a separate incident.",
+    "published": "Mon, 12 Oct 2026 19:42:31 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558211.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Jos Buttler faces lengthy lay-off after surgery on injured hamstring",
+    "summary": "Former captain \"more motivated than ever\" to return to fitness after injury sustained during Sri Lanka series",
+    "published": "Mon, 12 Oct 2026 17:31:27 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558191.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Steven Smith assessed for concussion after blow on helmet",
+    "summary": "As of Monday afternoon, he hasn't been diagnosed with concussion",
+    "published": "Mon, 12 Oct 2026 17:27:59 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558180.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Fleming turns to CSK as England name coaching set-ups",
+    "summary": "England move to split backroom staff across Test and white-ball squads",
+    "published": "Mon, 12 Oct 2026 17:14:51 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558175.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Australia six wickets away after dominant day",
+    "summary": "Renshaw backed up his remarkable 190 in the first innings with a brisk 82 off 99 balls and a wicket",
+    "published": "Mon, 12 Oct 2026 16:09:57 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558156.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Rishabh Pant ruled out of first two four-dayers against New Zealand A",
+    "summary": "Pant has a left side strain and has been replaced by Kumar Kushagra in the India A squad",
+    "published": "Mon, 12 Oct 2026 15:26:31 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558184.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Deflated Sri Lanka look to prevent whitewash against dominant Pakistan",
+    "summary": "Pakistan could make changes with the series in the bag, but they may also be tempted not to disrupt the in-form players' rhythm",
+    "published": "Mon, 12 Oct 2026 14:44:49 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558182.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
+  },
+  {
+    "title": "Uncapped Crocombe wins two-year deal as ECB confirms central contracts",
+    "summary": "Rookie seamer among biggest-ever pool of centrally contracted England Men's players",
+    "published": "Mon, 12 Oct 2026 14:28:41 GMT",
+    "link": "https://www.cricinfo.com/ci/content/story/1558163.html?ex_cid=OTC-RSS",
+    "source_name": "Cricket news from Cricinfo.com"
   }
 ]
