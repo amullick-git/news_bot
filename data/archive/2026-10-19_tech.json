@@ -1,0 +1,562 @@
+[
+  {
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users\u2019 AI accounts",
+    "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users\u2019 API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "published": "Mon, 19 Oct 2026 19:28:34 +0000",
+    "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+    "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+    "published": "Mon, 19 Oct 2026 19:00:12 +0000",
+    "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Replika\u2019s founder built the AI assistant she pitched at Disrupt 12 years ago",
+    "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+    "published": "Mon, 19 Oct 2026 18:49:04 +0000",
+    "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+    "published": "Mon, 19 Oct 2026 18:37:27 +0000",
+    "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+    "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+    "published": "Mon, 19 Oct 2026 18:00:39 +0000",
+    "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Rivian\u2019s CEO says autonomy will enable \u2018dramatically different\u2019 vehicle designs",
+    "summary": "His vision will culminate with the R4 vehicle.",
+    "published": "Mon, 19 Oct 2026 17:39:51 +0000",
+    "link": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+    "summary": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
+    "published": "Mon, 19 Oct 2026 16:55:56 +0000",
+    "link": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "People are using AI to make their smart TVs dumb again",
+    "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+    "published": "Mon, 19 Oct 2026 16:13:22 +0000",
+    "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+    "published": "Mon, 19 Oct 2026 15:37:09 +0000",
+    "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+    "summary": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
+    "published": "Mon, 19 Oct 2026 12:56:14 +0000",
+    "link": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Musk pledges to give \u2018every kid in America\u2019 one of his SpaceX shares",
+    "summary": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO.",
+    "published": "Mon, 19 Oct 2026 12:42:55 +0000",
+    "link": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "published": "Mon, 19 Oct 2026 12:30:00 +0000",
+    "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Khosla Ventures doubles down on Even Healthcare to challenge India\u2019s hospital economics",
+    "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+    "published": "Mon, 19 Oct 2026 07:30:00 +0000",
+    "link": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "No agenda, no rush, no leaving San Francisco: Benchmark\u2019s partners on investing in a frenzied market",
+    "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley\u2019s most storied firms",
+    "published": "Sun, 18 Oct 2026 21:00:00 +0000",
+    "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
+    "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as \u201clarge donations to traditional nonprofits or direct distributions to specific populations.\u201d",
+    "published": "Sun, 18 Oct 2026 20:37:40 +0000",
+    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Everyone\u2019s watching the Elizabeth Holmes documentary \u2018You Can See Everything\u2019",
+    "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+    "published": "Sun, 18 Oct 2026 19:03:38 +0000",
+    "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Disney agrees to hire the majority of Character AI\u2019s workforce",
+    "summary": "The filing also says that the \u201cvast majority\u201d of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+    "published": "Sun, 18 Oct 2026 16:30:00 +0000",
+    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "TechCrunch Mobility: Rivian\u2019s next act",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "published": "Sun, 18 Oct 2026 16:05:00 +0000",
+    "link": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "published": "Sat, 17 Oct 2026 21:31:32 +0000",
+    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "TikTok says it\u2019s restored \u2018Musk\u2019 documentary advertising account",
+    "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+    "published": "Sat, 17 Oct 2026 20:55:52 +0000",
+    "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Sony\u2019s best noise-canceling earbuds are nearly $100\u00a0off today only",
+    "summary": "For a very limited time, Sony\u2019s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5. B&#38;H Photo is selling Sony\u2019s latest WF-1000XM6 in black for an all-time low of $238 ($92 off) at checkout. Other retailers aren\u2019t currently offering a discount on the XM6. The XM6 are a solid upgrade over [&#8230;]",
+    "published": "2026-10-19T14:52:41-04:00",
+    "link": "https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Apple teases MacBook Pro event next week",
+    "summary": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big announcement is expected to be a new MacBook Pro with an OLED [&#8230;]",
+    "published": "2026-10-19T12:04:29-04:00",
+    "link": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Amazon is funding a new nuclear plant in Indiana",
+    "summary": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional [&#8230;]",
+    "published": "2026-10-19T11:44:20-04:00",
+    "link": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Apple\u2019s last-gen Mac Mini with the M4 is $150 off",
+    "summary": "Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn\u2019t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been available [&#8230;]",
+    "published": "2026-10-19T10:41:48-04:00",
+    "link": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "JB Pritzker thinks AI could help us live to 100 \u2014 or threaten us like nukes",
+    "summary": "Today, I\u2019m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you\u2019ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment \u2014 and with the midterms coming [&#8230;]",
+    "published": "2026-10-19T10:30:00-04:00",
+    "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Major European mobile carriers are teaming up for a &#8216;direct&#8217; satellite program without Starlink",
+    "summary": "Deutsche Telekom, Orange, Telef&#243;nica, and Vodafone signed a letter of intent saying they're considering a joint bid for spectrum that would support European direct-to-device satellite competition for SpaceX's Starlink. The four telecom companies say they would handle the ground infrastructure while a separate, unannounced satellite partner provides the satellite constellation: The joint initiative by Deutsche [&#8230;]",
+    "published": "2026-10-19T10:24:42-04:00",
+    "link": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Elon Musk promises to give one SpaceX share to every child in the US",
+    "summary": "Elon Musk says he plans to give one of his SpaceX shares to every child in the US starting next year. With around 72 million children in the US as of July 2025, Musk would be giving away about $10.5 billion worth of shares, according to a report from CNBC. Musk, who runs SpaceX and [&#8230;]",
+    "published": "2026-10-19T10:20:11-04:00",
+    "link": "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "It\u2019s hard to imagine wireless headphones ever getting lighter than these",
+    "summary": "If you're on the hunt for lightweight wireless headphones but wearing earbuds or clip-ons never feels comfortable or secure, a relatively obscure Japanese headphone maker could have the solution. Final's new Porta headphones feature an on-ear design supported by a headband but with a structure made from a single piece of wire so they weigh [&#8230;]",
+    "published": "2026-10-19T10:03:28-04:00",
+    "link": "https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown [&#8230;]",
+    "published": "2026-10-19T09:58:41-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Wyze moved the screen on its new smart scale to the handle so it\u2019s easier to read at eye level",
+    "summary": "Wyze announced a new version of its Ultra BodyScan smart scale that debuted nearly a year ago with additional electrodes on a retractable handle, allowing it to provide a breakdown of various health metrics across your arms, legs, and torso. With the new Ultra BodyScan Plus, Wyze is introducing a redesign that moves the scale's [&#8230;]",
+    "published": "2026-10-19T09:00:00-04:00",
+    "link": "https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+    "summary": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
+    "published": "Mon, 19 Oct 2026 19:27:24 +0000",
+    "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "ReactOS reaches major milestone with NTFS install support",
+    "summary": "ReactOS gains NTFS install support with new driver.",
+    "published": "Mon, 19 Oct 2026 18:30:56 +0000",
+    "link": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "AI game clones are making indie developers afraid to show their work",
+    "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
+    "published": "Mon, 19 Oct 2026 16:59:22 +0000",
+    "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Florida DMV hacked after police dept insecurely stored login info",
+    "summary": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
+    "published": "Mon, 19 Oct 2026 16:38:13 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+    "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+    "published": "Mon, 19 Oct 2026 14:45:43 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
+    "summary": "All the evidence points to the debris being part of a Chinese Zhuque-2E rocket.",
+    "published": "Mon, 19 Oct 2026 14:35:01 +0000",
+    "link": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Review: Lanterns is a truly unique twist on the superhero genre",
+    "summary": "Gritty HBO series is a beacon for what's possible when one is allowed to get creative with the tropes.",
+    "published": "Mon, 19 Oct 2026 13:31:08 +0000",
+    "link": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "DIY VR: How to build your own headset, and why you probably won't want to",
+    "summary": "A primer on the joys and pains of building your own head-mounted display.",
+    "published": "Mon, 19 Oct 2026 12:33:34 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
+    "summary": "Tests showed Sceye\u2019s high-flying platform can deliver connectivity in disasters.",
+    "published": "Mon, 19 Oct 2026 11:05:49 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Anthropic gives outside AI watchdog \u201cemployee-like\u201d access",
+    "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+    "published": "Sun, 18 Oct 2026 16:25:19 +0000",
+    "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Science says your boss should talk less in meetings",
+    "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+    "published": "Sat, 17 Oct 2026 11:15:11 +0000",
+    "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
+    "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
+    "published": "Sat, 17 Oct 2026 11:00:21 +0000",
+    "link": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+    "published": "Fri, 16 Oct 2026 20:59:01 +0000",
+    "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "\u201cthegentlemanpervert\u201d producing AI CSAM is a NJ prosecutor, say cops",
+    "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+    "published": "Fri, 16 Oct 2026 20:20:07 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
+    "summary": "There are still significant hurdles ahead, both technical and legislative.",
+    "published": "Fri, 16 Oct 2026 19:41:18 +0000",
+    "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+    "summary": "The bug is fixed, but privacy concerns remain.",
+    "published": "Fri, 16 Oct 2026 19:11:50 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+    "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+    "published": "Fri, 16 Oct 2026 17:05:59 +0000",
+    "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+    "summary": "Meta \u201cstreamlined\u201d its commercial TOS. Legal experts warn it\u2019s an AI power grab.",
+    "published": "Fri, 16 Oct 2026 15:41:00 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Polymarket saw $600 million in election trades after the elections were over",
+    "summary": "Millions kept changing hands long after the election outcomes were effectively settled.",
+    "published": "Fri, 16 Oct 2026 14:19:22 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+    "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
+    "published": "Fri, 16 Oct 2026 14:03:25 +0000",
+    "link": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;",
+    "published": "Mon, 19 Oct 2026 18:22:47 +0000",
+    "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world",
+    "summary": "\u201cI think I have good news about the nature of neural networks.\u201d With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata\u2019s claim is&#8230;",
+    "published": "Mon, 19 Oct 2026 17:45:55 +0000",
+    "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet\u2019s frozen carbon \u2014James Temple In July 2021, a wildfire burned through a forest on the University of Alaska, Fairbanks campus,&#8230;",
+    "published": "Mon, 19 Oct 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Inside the quest to combat Arctic fires and save the planet\u2019s frozen carbon",
+    "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.&#160; The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and lichen before climbing into the&#8230;",
+    "published": "Mon, 19 Oct 2026 09:22:17 +0000",
+    "link": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to \u201cplay.\u201d",
+    "summary": "What do AI agents do if you don\u2019t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents\u2014copies of Claude Opus 4.7 nicknamed Eko\u2014were able to&#8230;",
+    "published": "Mon, 19 Oct 2026 09:08:05 +0000",
+    "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "How far can we push computing?",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called \u201cThere\u2019s&#8230;",
+    "published": "Mon, 19 Oct 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn\u2019t yet an example of AI-generated life, but that could be next. Watch&#8230;",
+    "published": "Fri, 16 Oct 2026 18:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: failed social media bans, and extending pets\u2019 lives",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That\u2019s not a problem we need to solve.\u00a0\u00a0 \u2014Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined&#8230;",
+    "published": "Fri, 16 Oct 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "This implant can restore sight for patients with macular degeneration",
+    "summary": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US,&#8230;",
+    "published": "Fri, 16 Oct 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Love is infrastructure",
+    "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren\u2019t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who were richer and had more to&#8230;",
+    "published": "Fri, 16 Oct 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Towards Company World Models",
+    "summary": "<p>Article URL: <a href=\"https://www.beaconholdings.com/research/towards-company-world-models\">https://www.beaconholdings.com/research/towards-company-world-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50156332\">https://news.ycombinator.com/item?id=50156332</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+    "published": "Mon, 19 Oct 2026 18:51:09 +0000",
+    "link": "https://www.beaconholdings.com/research/towards-company-world-models",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The reverts will continue until morale improves",
+    "summary": "<p>Article URL: <a href=\"http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves\">http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50156206\">https://news.ycombinator.com/item?id=50156206</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+    "published": "Mon, 19 Oct 2026 18:42:32 +0000",
+    "link": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Open-source early-reading reader with phonics help",
+    "summary": "<p>My kid is 6 y/o and she is learning to read. She's moved through the basic phonics with Teach Your Monster to Read but was struggling with how repetitive it was. I wanted to give her some stories to read, but she still needed help sounding words out - and I wanted her to have the experience of sitting and reading by herself.<p>So I built this book reader app to allow her to click on the words, sound out the phonemes, and read by herself.<p>My 12 year old son wrote the first story, there's a cliffhanger at the end and he's working on the next section.<p>We're going to release more chapters and more stories in the near future.<p>And there's one other thing -<p>The reader has an MCP connection, so you can connect your Claude or ChatGPT or Grok, give them a PDF of a book you like (or even a set of scans done quickly with a phone camera) and have them import your favorite books into the app (private to your account, for your own kid, if you own the book of course).<p>The reader is free to use on its website and open source if you want to tinker and create your own version.<p>The included stories are under Creative Commons.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50155647\">https://news.ycombinator.com/item?id=50155647</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+    "published": "Mon, 19 Oct 2026 17:58:54 +0000",
+    "link": "https://github.com/finereli/yarareads",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Mercury 3: Diffusion at scale",
+    "summary": "<p>Article URL: <a href=\"https://www.inceptionlabs.ai/blog/introducing-mercury-3\">https://www.inceptionlabs.ai/blog/introducing-mercury-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50155245\">https://news.ycombinator.com/item?id=50155245</a></p>\n<p>Points: 136</p>\n<p># Comments: 58</p>",
+    "published": "Mon, 19 Oct 2026 17:27:11 +0000",
+    "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Ukraine carries out aerial drone evacuation of a wounded soldier",
+    "summary": "<p>Article URL: <a href=\"https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html\">https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50155237\">https://news.ycombinator.com/item?id=50155237</a></p>\n<p>Points: 100</p>\n<p># Comments: 31</p>",
+    "published": "Mon, 19 Oct 2026 17:26:38 +0000",
+    "link": "https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Evidence (YC S21) Is Hiring Software Engineers",
+    "summary": "<p>Article URL: <a href=\"https://evidence.dev/jobs\">https://evidence.dev/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50155172\">https://news.ycombinator.com/item?id=50155172</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Mon, 19 Oct 2026 17:21:33 +0000",
+    "link": "https://evidence.dev/jobs",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Android apps running native on macOS",
+    "summary": "<p>Article URL: <a href=\"https://github.com/kksimp/Mac.apk\">https://github.com/kksimp/Mac.apk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50154624\">https://news.ycombinator.com/item?id=50154624</a></p>\n<p>Points: 114</p>\n<p># Comments: 33</p>",
+    "published": "Mon, 19 Oct 2026 16:45:30 +0000",
+    "link": "https://github.com/kksimp/Mac.apk",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "MiniMax M3.1 Flash",
+    "summary": "<p>Article URL: <a href=\"https://www.minimax.io/blog/minimax-m31f\">https://www.minimax.io/blog/minimax-m31f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50154540\">https://news.ycombinator.com/item?id=50154540</a></p>\n<p>Points: 196</p>\n<p># Comments: 68</p>",
+    "published": "Mon, 19 Oct 2026 16:39:09 +0000",
+    "link": "https://www.minimax.io/blog/minimax-m31f",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+    "summary": "<p>Article URL: <a href=\"https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository\">https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50154518\">https://news.ycombinator.com/item?id=50154518</a></p>\n<p>Points: 250</p>\n<p># Comments: 215</p>",
+    "published": "Mon, 19 Oct 2026 16:37:10 +0000",
+    "link": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Launch HN: Laminar (YC S24) \u2013 We trained a model to catch silent agent failures",
+    "summary": "<p>Hi HN, we\u2019re Robert and Din from Laminar (<a href=\"https://laminar.sh\">https://laminar.sh</a>). We\u2019ve been building open-source observability for AI agents since 2024. Recently, we released flow-1, a model trained with RL to find errors in agent traces. On our benchmark (<a href=\"https://laminar.sh/blog/flow-1\">https://laminar.sh/blog/flow-1</a>), it matches GPT-6-sol in detection quality while being 23x cheaper. This makes it affordable to analyze every production agent trace, without sampling.<p>Here\u2019s a one-minute walkthrough: <a href=\"https://youtu.be/KJa3h6ZJNLQ\" rel=\"nofollow\">https://youtu.be/KJa3h6ZJNLQ</a><p>We also put together a post with example traces and analyses from flow-1 and other models: <a href=\"https://laminar.sh/blog/flow-1-in-action\">https://laminar.sh/blog/flow-1-in-action</a><p>Agent observability is crowded, so instead of a bullet list of how Laminar differs from X, we\u2019ll explain how we\u2019re solving agent observability from first principles.<p>Agents now run for many steps and fail implicitly. An agent can click the wrong button or cite the wrong document while every call completes successfully. These errors are the most useful ones to catch and understand. To find them, you need to understand what the agent was trying to do and inspect its LLM calls and tool results. Simply looking at the final agent output is not enough.<p>Collecting traces alone doesn\u2019t solve this. A lot of agent observability platforms are still data collectors at their core. You can end up paying to store traces that nobody has time to read or extract value from.<p>Using another LLM to inspect traces is THE solution, but capable models are expensive at scale and cheaper ones often miss errors or flag unrelated things.<p>So we built our model to solve exactly this problem. We finetuned a small OSS model and then post trained it with RL on thousands of synthetic investigations of realistic agent workflows in software, legal, customer support, etc. We got a model that is both good at agent trace analysis and very cheap to run.<p>flow-1 runs inside a harness we call Signals. It acts as a coding agent, treating an agent trace like a repo, with each span (an LLM call, tool call, etc.) as a file. It starts from a compressed string representation of a full agent trace and a user prompt, then greps across spans and reads the relevant ones in full.<p>The beauty of Signals is that it can respond to a general prompt. You can ask it to identify user frustration, check whether your browser agent completed a checkout, and so on. It\u2019s not limited to raw error detection. It returns findings as JSON in a schema users can freely define. We call these signal events.<p>Once you\u2019re analyzing every trace, you also have too many individual events to read. That\u2019s why we automatically group similar signal events into clusters. You can see recurring problems and how often they happen, then drill into individual events and the traces behind them.<p>You can use traces from a cluster to build an eval dataset for that type of failure. You can then use your favourite coding agent to hillclimb on those evals and check that the fix works across these cases before shipping it to prod.<p>Trace \u2192 analyze \u2192 catch errors and form clusters \u2192 fix \u2192 release. Making this loop easy is why we built Laminar.<p>We\u2019ve put the same thought into the rest of Laminar. Our blog (<a href=\"https://laminar.sh/blog\">https://laminar.sh/blog</a>) explains how looking closely at how agents actually work led us to build 20x trace compression, a custom SQL query engine and automatic task extraction.<p>Laminar is Apache 2.0 and self-hostable (<a href=\"https://github.com/lmnr-ai/lmnr\" rel=\"nofollow\">https://github.com/lmnr-ai/lmnr</a>). We make money from the managed cloud.<p>We\u2019d love to hear how you track your agents\u2019 performance today. How much do you learn from user feedback versus your own monitoring? And when you fix something, how do you check that it hasn\u2019t introduced a different failure?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50154029\">https://news.ycombinator.com/item?id=50154029</a></p>\n<p>Points: 29</p>\n<p># Comments: 13</p>",
+    "published": "Mon, 19 Oct 2026 16:00:18 +0000",
+    "link": "https://news.ycombinator.com/item?id=50154029",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+    "summary": "<p>Article URL: <a href=\"https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/\">https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50153630\">https://news.ycombinator.com/item?id=50153630</a></p>\n<p>Points: 234</p>\n<p># Comments: 44</p>",
+    "published": "Mon, 19 Oct 2026 15:28:24 +0000",
+    "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Maxwell: A new kind of model that sits between code and hardware",
+    "summary": "<p>Hi HN, I'm Gal from doubleAI. We've built Maxwell, a new kind of frontier model we call a Code Execution Model.<p>It sits between your code and the hardware. No humans in the loop! Maxwell makes the code run faster as it runs, without ever changing a single line.<p>Maxwell sees programs from the inside: traces, profiling information, and the data flowing through them. It adapts dynamically to the environment, including the hardware, what else is running, and what the inputs look like.<p>Code execution models change the way we approach coding. Today, Claude/Codex (and humans) keep re-optimising code for every different use-case hardware and data flow (think of LLM inference engines, like vLLM!). Our bet is that this is unnecessary, suboptimal, and that it does not scale. Instead, we think the right answer is to make code a living, thinking, thing.<p>Early access is open at heymaxwell.ai. Happy to answer questions here.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152466\">https://news.ycombinator.com/item?id=50152466</a></p>\n<p>Points: 26</p>\n<p># Comments: 10</p>",
+    "published": "Mon, 19 Oct 2026 13:47:56 +0000",
+    "link": "https://heymaxwell.ai/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+    "summary": "<p>Article URL: <a href=\"http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html\">http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152321\">https://news.ycombinator.com/item?id=50152321</a></p>\n<p>Points: 85</p>\n<p># Comments: 28</p>",
+    "published": "Mon, 19 Oct 2026 13:36:43 +0000",
+    "link": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Wine ported to OpenBSD",
+    "summary": "<p>Article URL: <a href=\"https://marc.info/?l=openbsd-ports&amp;m=179236125692175\">https://marc.info/?l=openbsd-ports&amp;m=179236125692175</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152307\">https://news.ycombinator.com/item?id=50152307</a></p>\n<p>Points: 390</p>\n<p># Comments: 113</p>",
+    "published": "Mon, 19 Oct 2026 13:35:34 +0000",
+    "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Cairn: Open windows into AI-driven cyber operations",
+    "summary": "<p><a href=\"https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/\" rel=\"nofollow\">https://www.reuters.com/legal/government/how-one-hacker-used...</a><p><a href=\"https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins\" rel=\"nofollow\">https://www.theverge.com/ai-artificial-intelligence/1013643/...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152302\">https://news.ycombinator.com/item?id=50152302</a></p>\n<p>Points: 14</p>\n<p># Comments: 4</p>",
+    "published": "Mon, 19 Oct 2026 13:35:12 +0000",
+    "link": "https://norforge.com/blog/inside_cairn",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+    "summary": "<p>I'm a software engineer from the east coast (who has lived in Boston, NY, the bay area, UK, France), and I built a task system called 3 & Done.  It's the place you trust to store everything you need to do.  It accepts voice input for rapid entry, as well as text (it stores the audio locally so you can listen to jog your memory) and emails you every morning with the three most important things for you to do that day, and why, based on what you've said about the task: deadlines, urgency, sitting too long.<p>I've been at software engineering for about 44 years now... Grew up with it, which was unusual when I started, and I was always good about getting into the zone and doing things.  The career started small, small company, then back office, the dot com startups, then smaller companies again after the bust, a non-profit, and eventually YouTube (Google at the time, but just barely) and Meta (just Facebook when I was there).<p>When I hit the startups, and later big tech, it was no longer enough to just be an engineer, to have drive, to be good, you had to be organized, you had to follow through, get stuff done, and that's where the task systems started. Twenty-five over the years (and yes, I've actually counted), from Moleskine notebooks with Getting Things Done, evernote (remember evernote?), bug trackers, todoist, asana, google keep, among others.<p>When I managed on the Facebook News Feed, I got into gantt charts (for me and my team), spreadsheets, OmniPlan... I remember apologizing to my director for being so disorganized (because I felt I was making a mess of it), and he told me that I was the most organized engineer he knew.<p>That was because I was doing all of the work in the background, the trimming, the sorting, the reviews, but it was just so much work.  Which was why I changed from system to system.  Each time it built up, and I had to spend more time looking at things I couldn't or didn't get done, when I was rushed and couldn't put time into today's review, it would pile up, and then using it was so much work that I would start taking mini-notes, just emailing myself a few things to do the next day.<p>That's actually the thesis of the app (but not where it started), that if I could just have a few things to do emailed to me each day, I could get it done.<p>This app actually started when I described my previous startup failures into a Claude web session, and it repeated back to me what I had just said.  My previous failures were because I spent too much time building the stuff I needed, and not building what I was supposed to be building.<p>I decided that the app would email me three things to do every day (which matches best practices for attention), but that the day was always yours to decide.  We won't overload you, but you can add more, if you're feeling up to it, or cut back, and we never shame and try our best not to nag (I often only finish two).  If we get it wrong, you can tell us, and we'll re-rank it once a day, or you can set it manually, and if you do, we never override that choice.  The web app is live, and native for both platforms is coming.  In the meantime, on Android, you can use gestures to quick launch into the voice input so saving a task is only a gesture away (e.g. double-tap the back of a Pixel, double-press the power button on Motorola).<p>Now let's talk about the dirty parts.  I used AI to help me build this. Anthropic models mostly, and the brains of the app come from Anthropic models (I like the quality, I like the privacy, absolutely no training on customer data, and the stance of the company).  This app is not some one-shot wonder where I asked frontier models to build a task system and then I put it on a server to show you.<p>I have prompts for the various features (e.g. ranking, generating suggestions, task extractions), I have eval sets of task lists (not anyone's real tasks, but constructed from patterns in my tasks, or the tasks of testers who allowed me to fix the problems they were having), with the three I expect to come out. I store the eval outputs, and re-test whenever I add a new rule to a prompt, or whenever testing a new model version.  The great thing about having this eval set is that it catches when I get it wrong.  When I introspect a failed run, sometimes it's because I need to tune a prompt, but sometimes it's because I missed something in my own ranking.<p>I did the same thing with my infrastructure as well, so this time, instead of setting up servers, and building login systems, and managing databases, I built on Vercel (git push to serving Next.js), Neon (hosted postgres).<p>I started getting emails mailed to me by mid-June, but started getting usable suggestions on June 26, and I've been using it every morning since.  I wanted it to be easy to get started, and easy to use, so the input handles mess (you can add multiple tasks in the same run-on sentence, and a friend who helped me test it just pasted his entire obsidian todo list in wholesale to get started).<p>I wanted to make sure that anyone could try it out, so I built a trial feature that uses the real in-app ranking with a list of items you provide.<p>If you want to try the service, there's a free 14-day trial (card required), and then it's $99/year or $9.99/month after that (plus sales tax).  We warn you seven days before your card is charged and if you cancel, you keep access through the term (either the trial, or our last paid period).  Online, through settings -> billing, no email, no call.<p>I really hope you'll try it out.  If you do, please tell me if we did a good job picking out your day.<p><a href=\"https://3anddoneapp.com/try\" rel=\"nofollow\">https://3anddoneapp.com/try</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50151980\">https://news.ycombinator.com/item?id=50151980</a></p>\n<p>Points: 31</p>\n<p># Comments: 31</p>",
+    "published": "Mon, 19 Oct 2026 13:07:07 +0000",
+    "link": "https://3anddoneapp.com/try",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The obscure trust looming over Anthropic's IPO",
+    "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink\">https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50151376\">https://news.ycombinator.com/item?id=50151376</a></p>\n<p>Points: 72</p>\n<p># Comments: 26</p>",
+    "published": "Mon, 19 Oct 2026 12:06:03 +0000",
+    "link": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+    "summary": "<p>I saw this LinkedIn post from a Meta engineer and it resonated with me:<p><a href=\"https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-meta-and-i-never-felt-share-7517317918666211328-7C8N\" rel=\"nofollow\">https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m...</a><p>> I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box. This new standard of shipping with AI is moving so fast that if we're going to spend our time checking each line of code, it's going to take forever. That means you can end up with systems you've built where you don't truly understand how all the code works. You understand the high level, but not every detail. And maybe this is becoming the new standard. It goes against every instinct of being a software engineer. I'm used to understanding what I'm building. Now I'm trying to figure out how much I need to understand before I'm comfortable moving forward. Are other engineers feeling this too?<p>How are you handling this?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50151036\">https://news.ycombinator.com/item?id=50151036</a></p>\n<p>Points: 51</p>\n<p># Comments: 67</p>",
+    "published": "Mon, 19 Oct 2026 11:24:34 +0000",
+    "link": "https://news.ycombinator.com/item?id=50151036",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Alternatives to animal testing are finally taking off",
+    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/alternatives-to-animal-testing\">https://spectrum.ieee.org/alternatives-to-animal-testing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150927\">https://news.ycombinator.com/item?id=50150927</a></p>\n<p>Points: 251</p>\n<p># Comments: 73</p>",
+    "published": "Mon, 19 Oct 2026 11:10:54 +0000",
+    "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+    "summary": "<p>Article URL: <a href=\"https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166\">https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150809\">https://news.ycombinator.com/item?id=50150809</a></p>\n<p>Points: 208</p>\n<p># Comments: 68</p>",
+    "published": "Mon, 19 Oct 2026 10:53:39 +0000",
+    "link": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+    "source_name": "Hacker News"
+  }
+]
