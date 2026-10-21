@@ -1,0 +1,555 @@
+[
+  {
+    "title": "GM is giving OnStar an AI makeover",
+    "summary": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
+    "published": "Wed, 21 Oct 2026 18:00:00 +0000",
+    "link": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "PHP armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet",
+    "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+    "published": "Wed, 21 Oct 2026 17:59:12 +0000",
+    "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+    "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+    "published": "Wed, 21 Oct 2026 17:18:27 +0000",
+    "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Waymo starts offering rides at the Las Vegas airport",
+    "summary": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
+    "published": "Wed, 21 Oct 2026 16:59:44 +0000",
+    "link": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Foursquare co-founder says equity holders saw no returns from the company\u2019s acquisition",
+    "summary": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+    "published": "Wed, 21 Oct 2026 14:03:11 +0000",
+    "link": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "AI promises productivity, but for managers, it\u2019s mostly a headache for now",
+    "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+    "published": "Wed, 21 Oct 2026 14:00:00 +0000",
+    "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Heat pump tech is 170 years old \u2014 Pascal thinks it\u2019s time for an update",
+    "summary": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
+    "published": "Wed, 21 Oct 2026 13:30:00 +0000",
+    "link": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Mach9 raises $34M after pivoting to AI CAD software",
+    "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
+    "published": "Wed, 21 Oct 2026 13:00:00 +0000",
+    "link": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "published": "Tue, 20 Oct 2026 23:01:23 +0000",
+    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "SpaceX and Tesla boards form special committees to review merger",
+    "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+    "published": "Tue, 20 Oct 2026 22:57:57 +0000",
+    "link": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate",
+    "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "published": "Tue, 20 Oct 2026 22:24:02 +0000",
+    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Anthropic\u2019s cloud partnerships are getting messy",
+    "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+    "published": "Tue, 20 Oct 2026 21:25:22 +0000",
+    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "SpaceX\u2019s AI business is beating expectations",
+    "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
+    "published": "Tue, 20 Oct 2026 20:40:41 +0000",
+    "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "OpenAI acquires startup Orchestra Bio\u2060 to beef up its biotech business",
+    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+    "published": "Tue, 20 Oct 2026 20:35:10 +0000",
+    "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+    "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
+    "published": "Tue, 20 Oct 2026 20:00:00 +0000",
+    "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "GM to close Detroit battery-assembly plant, but not for reasons you might think",
+    "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
+    "published": "Tue, 20 Oct 2026 19:32:43 +0000",
+    "link": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Google has joined Amazon in attacking Nvidia\u2019s stronghold with AI app developers",
+    "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+    "published": "Tue, 20 Oct 2026 18:38:24 +0000",
+    "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "ChatGPT now lets you lock your chats",
+    "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+    "published": "Tue, 20 Oct 2026 18:36:53 +0000",
+    "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "summary": "Eric Schmidt\u2019s fortune is about to get even bigger.",
+    "published": "Tue, 20 Oct 2026 17:55:12 +0000",
+    "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Meta\u2019s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
+    "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
+    "published": "Tue, 20 Oct 2026 17:12:48 +0000",
+    "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Will TP-Link really make routers in the US? Here\u2019s what it told us",
+    "summary": "TP-Link, one of the world's leading manufacturers of consumer Wi-Fi routers, is in a precarious position in the US. The company just launched its first Wi-Fi 8 routers, but can't bring them here because of President Donald Trump's foreign router ban. Even though competitors Netgear and Asus make their routers in Asia, they've mysteriously obtained [&#8230;]",
+    "published": "2026-10-21T14:00:00-04:00",
+    "link": "https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
+    "summary": "General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a tightened grip on AI. That was the pitch today, when GM hosted its tech-focused Onward event to unveil [&#8230;]",
+    "published": "2026-10-21T14:00:00-04:00",
+    "link": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Xbox Cloud Gaming\u2019s pay-as-you-go option starts at $3.99 for 10 hours",
+    "summary": "Microsoft announced last month that it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The new pay-as-you-go model will require players to purchase bundles of cloud hours, and now Microsoft is revealing today that bundles will start at $3.99 for 10 hours of cloud playtime. [&#8230;]",
+    "published": "2026-10-21T14:00:00-04:00",
+    "link": "https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Samsung\u2019s latest 55-inch Frame TV is down to its lowest price yet",
+    "summary": "If you want a TV but prefer something that won\u2019t clash with your room\u2019s decor, Samsung&#8217;s The Frame is a standout option that\u2019s designed to look like a piece of framed art instead of a black, monolithic rectangle mounted to your wall. You can buy the latest version of the 55-inch Samsung Frame TV on [&#8230;]",
+    "published": "2026-10-21T13:35:40-04:00",
+    "link": "https://www.theverge.com/gadgets/1015568/samsung-the-frame-tv-2026-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "EA is shutting down BioWare",
+    "summary": "BioWare, the legendary studio behind RPGs like Mass Effect, Dragon Age, and Star Wars: Knights of the Old Republic, is shutting down, the company confirmed in a statement. Alongside the closure, Electronic Arts has chosen not to continue development on the next Mass Effect game that was in the works, according to an announcement sent [&#8230;]",
+    "published": "2026-10-21T13:19:07-04:00",
+    "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "They want your blood",
+    "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. It's an overcast Saturday morning when I give my 12th vial of blood for testing in six weeks. It's my [&#8230;]",
+    "published": "2026-10-21T13:00:00-04:00",
+    "link": "https://www.theverge.com/column/1015563/blood-death-clock-longevity-apps-health-tech",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Supernatural\u2019s comeback starts today, with more music and VR workouts coming soon",
+    "summary": "Despite Meta saying it would stop creating new content for Supernatural, the beloved fitness VR game is back after spinning off to go its own way and is relaunching with an Early Access preview in the Meta Horizon Store. Thousands of \"remastered\" workouts and some new ones are available in the new app starting today, [&#8230;]",
+    "published": "2026-10-21T12:05:51-04:00",
+    "link": "https://www.theverge.com/tech/1015550/supernatural-vr-workout-app-relaunch",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Apple Music has a new logo",
+    "summary": "Apple is officially launching a rebrand of Apple Music. Following the appearance of a redesigned wordmark in a video and an updated app icon in an iOS 27.2 beta, Apple introduced the new \"identity\" for Apple Music today. There's a new logo, the updated wordmark, and a new sound composed by British producer Fred Again [&#8230;]",
+    "published": "2026-10-21T11:48:12-04:00",
+    "link": "https://www.theverge.com/tech/1015533/apple-music-new-logo",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Conversational Gemini navigation comes to Apple CarPlay",
+    "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). It's taken almost 12 months for Google to bring [&#8230;]",
+    "published": "2026-10-21T11:00:00-04:00",
+    "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Samsung\u2019s 5K monitor has good gaming chops and a great price",
+    "summary": "There are quite a few 5K monitors out there. Many of them are designed to appeal to Mac users who are looking for cheaper Studio Display alternatives without giving up the pixel-dense 218ppi screen. However, if you\u2019re interested in hearing about one with gaming chops, Samsung\u2019s 27-inch Odyssey G80HF seems like one of the best [&#8230;]",
+    "published": "2026-10-21T10:47:14-04:00",
+    "link": "https://www.theverge.com/gadgets/1015346/samsung-5k-monitor-gaming-gta-6-usbc-charger-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
+    "summary": "\"We have had significant constructive engagement with the FAA.\"",
+    "published": "Wed, 21 Oct 2026 16:46:19 +0000",
+    "link": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+    "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
+    "published": "Wed, 21 Oct 2026 15:14:07 +0000",
+    "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Review: Carrie is a triumphant remix with one major flaw",
+    "summary": "Mike Flanagan's re-imagining of Stephen King's classic is well worth watching.",
+    "published": "Wed, 21 Oct 2026 11:19:12 +0000",
+    "link": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+    "summary": "Flipping through the highlights in and around Pinball Expo 2026.",
+    "published": "Wed, 21 Oct 2026 11:00:04 +0000",
+    "link": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "published": "Wed, 21 Oct 2026 02:12:18 +0000",
+    "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+    "summary": "\"I do think there's a lot of merit to combining the companies.\"",
+    "published": "Tue, 20 Oct 2026 22:04:54 +0000",
+    "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Cops raid office of RFK Jr. allies planning \u201cunethical\u201d vaccine trial on babies",
+    "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
+    "published": "Tue, 20 Oct 2026 21:44:34 +0000",
+    "link": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+    "summary": "Xbox maker is also apparently planning its own gaming handheld for next year.",
+    "published": "Tue, 20 Oct 2026 21:14:33 +0000",
+    "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+    "summary": "A lifetime ad-free subscription is available.",
+    "published": "Tue, 20 Oct 2026 20:20:12 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+    "summary": "Meta changes AI scraping policy but won\u2019t add language respecting robots.txt.",
+    "published": "Tue, 20 Oct 2026 20:07:58 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Gemini's Personal Intelligence is coming to cars",
+    "summary": "It's probably time to audit your Gemini settings.",
+    "published": "Tue, 20 Oct 2026 20:00:33 +0000",
+    "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "OpenBSD 8.0 arrives with security record still intact",
+    "summary": "OpenBSD 8.0 lands with Intel Arc support, ARM64 hibernation, and 64-vCPU guests",
+    "published": "Tue, 20 Oct 2026 19:57:18 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+    "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
+    "published": "Tue, 20 Oct 2026 19:47:35 +0000",
+    "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "TP-Link tries to appease Trump admin with pledge to assemble routers in US",
+    "summary": "TP-Link can't sell latest routers in US despite rivals getting FCC approvals.",
+    "published": "Tue, 20 Oct 2026 19:25:14 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/10/tp-link-tries-to-appease-trump-admin-with-pledge-to-assemble-routers-in-us/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Does anyone actually want to win the medium-lift race in the United States?",
+    "summary": "Ars Technica is here to help with a guide to the medium-lift space race.",
+    "published": "Tue, 20 Oct 2026 19:13:31 +0000",
+    "link": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Ukraine\u2019s drone rescue of wounded soldier puts much touted idea into practice",
+    "summary": "Ukraine\u2019s latest drone innovation may boost bleak odds of evacuating casualties.",
+    "published": "Tue, 20 Oct 2026 18:22:54 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Quantum error correction goes well beyond breakeven",
+    "summary": "A demo of error-corrected qubits shows big reductions in errors as they grow.",
+    "published": "Tue, 20 Oct 2026 18:08:57 +0000",
+    "link": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+    "summary": "Meta argues nobody \u201cdecided\u201d to pirate books to train AI.",
+    "published": "Tue, 20 Oct 2026 17:40:20 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Polestar tries to quantify what it\u2019s like to drive a performance car",
+    "summary": "Drivers had electrodes strapped to their heads as they tested EVs on track.",
+    "published": "Tue, 20 Oct 2026 14:53:07 +0000",
+    "link": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+    "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
+    "published": "Tue, 20 Oct 2026 12:33:13 +0000",
+    "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The Download: introducing the Impossible issue",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it\u2019s fun to dream about&#8230;",
+    "published": "Wed, 21 Oct 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "We can do impossible things",
+    "summary": "I\u2019d wager everyone has a rehearsed response to what\u2019s absolutely one of the world\u2019s worst interview questions: \u201cWhat\u2019s your biggest weakness?\u201d Whenever I\u2019ve gotten it, I take a slow\u2014even pensive\u2014breath and rattle off my line: \u201cI say no to myself too much.\u201d&#160; I won\u2019t lie. It\u2019s a bit shameless\u2014a definite humblebrag. I\u2019m a systems thinker:&#8230;",
+    "published": "Wed, 21 Oct 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Nuclear-powered spaceships",
+    "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-\u00adpowered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of 2028, arriving in 2029. A successful mission would herald a new era&#8230;",
+    "published": "Wed, 21 Oct 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Exercise in a pill",
+    "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks\u2014without the workout. The idea isn\u2019t to replace exercise but to bring its upsides to people who&#8230;",
+    "published": "Wed, 21 Oct 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Interspecies communication",
+    "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that \u201canimals are sentient creatures who think,&#8230;",
+    "published": "Wed, 21 Oct 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Cleaning up PFAS",
+    "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances\u2014a.k.a. PFAS or forever chemicals\u2014could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS have been linked to increased risks of fertility challenges, developmental delays, cancer, and reduced immune response. They are known for a strong bond&#8230;",
+    "published": "Wed, 21 Oct 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Solid-state batteries",
+    "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who\u2019s boarded a plane in the last decade could tell you, storing and pumping out energy by moving charged lithium ions through a liquid electrolyte soup has&#8230;",
+    "published": "Wed, 21 Oct 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Eliminating traffic deaths",
+    "summary": "Every year, traffic crashes kill more than one million people, and they\u2019re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on highways but on rural and local streets. \u201cTraffic deaths are a leading cause of preventable death,&#8230;",
+    "published": "Wed, 21 Oct 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "It\u2019s a bird, it\u2019s a plane \u2026 it\u2019s a robo-puffin?",
+    "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics\u2014or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT and EPFL in Lausanne, Switzerland, have&#8230;",
+    "published": "Tue, 20 Oct 2026 21:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Here\u2019s the tea",
+    "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been recovered after colonial protesters threw tea into&#8230;",
+    "published": "Tue, 20 Oct 2026 21:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+    "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html\">https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50184820\">https://news.ycombinator.com/item?id=50184820</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+    "published": "Wed, 21 Oct 2026 17:45:13 +0000",
+    "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Rust off Rails: The opinionated web stack for the AI era",
+    "summary": "<p>Article URL: <a href=\"https://rustoffrails.org/\">https://rustoffrails.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183727\">https://news.ycombinator.com/item?id=50183727</a></p>\n<p>Points: 55</p>\n<p># Comments: 47</p>",
+    "published": "Wed, 21 Oct 2026 16:34:16 +0000",
+    "link": "https://rustoffrails.org/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+    "summary": "<p>Article URL: <a href=\"https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs\">https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183512\">https://news.ycombinator.com/item?id=50183512</a></p>\n<p>Points: 21</p>\n<p># Comments: 7</p>",
+    "published": "Wed, 21 Oct 2026 16:20:37 +0000",
+    "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The bridge to agent-scale Git infrastructure",
+    "summary": "<p>Article URL: <a href=\"https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/\">https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183344\">https://news.ycombinator.com/item?id=50183344</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
+    "published": "Wed, 21 Oct 2026 16:09:28 +0000",
+    "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "What I learned from six months of being stupid on purpose",
+    "summary": "<p>Article URL: <a href=\"https://wvez.org/blog/learning-to-be-stupid/\">https://wvez.org/blog/learning-to-be-stupid/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183311\">https://news.ycombinator.com/item?id=50183311</a></p>\n<p>Points: 62</p>\n<p># Comments: 38</p>",
+    "published": "Wed, 21 Oct 2026 16:06:56 +0000",
+    "link": "https://wvez.org/blog/learning-to-be-stupid/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
+    "summary": "<p>Article URL: <a href=\"https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/\">https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183280\">https://news.ycombinator.com/item?id=50183280</a></p>\n<p>Points: 24</p>\n<p># Comments: 12</p>",
+    "published": "Wed, 21 Oct 2026 16:05:05 +0000",
+    "link": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Today's PHP security release, and how we're strengthening security",
+    "summary": "<p>Article URL: <a href=\"https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/\">https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50182987\">https://news.ycombinator.com/item?id=50182987</a></p>\n<p>Points: 270</p>\n<p># Comments: 138</p>",
+    "published": "Wed, 21 Oct 2026 15:48:56 +0000",
+    "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+    "summary": "<p>Article URL: <a href=\"https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488\">https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50182526\">https://news.ycombinator.com/item?id=50182526</a></p>\n<p>Points: 95</p>\n<p># Comments: 61</p>",
+    "published": "Wed, 21 Oct 2026 15:20:04 +0000",
+    "link": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+    "summary": "<p><a href=\"https://patchtheplanet.org/\" rel=\"nofollow\">https://patchtheplanet.org/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50181175\">https://news.ycombinator.com/item?id=50181175</a></p>\n<p>Points: 167</p>\n<p># Comments: 97</p>",
+    "published": "Wed, 21 Oct 2026 14:03:43 +0000",
+    "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "DuckDB 2.0.0 LTS \u201cCinnamon Teal\u201d",
+    "summary": "<p>Article URL: <a href=\"https://duckdb.org/2026/10/21/announcing-duckdb-200\">https://duckdb.org/2026/10/21/announcing-duckdb-200</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50181136\">https://news.ycombinator.com/item?id=50181136</a></p>\n<p>Points: 251</p>\n<p># Comments: 29</p>",
+    "published": "Wed, 21 Oct 2026 14:01:22 +0000",
+    "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "summary": "<p>Article URL: <a href=\"https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/\">https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50181114\">https://news.ycombinator.com/item?id=50181114</a></p>\n<p>Points: 214</p>\n<p># Comments: 87</p>",
+    "published": "Wed, 21 Oct 2026 14:00:26 +0000",
+    "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "PHP 8.2.35",
+    "summary": "<p>Article URL: <a href=\"https://github.com/php/php-src/releases/tag/php-8.2.35\">https://github.com/php/php-src/releases/tag/php-8.2.35</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50180873\">https://news.ycombinator.com/item?id=50180873</a></p>\n<p>Points: 811</p>\n<p># Comments: 462</p>",
+    "published": "Wed, 21 Oct 2026 13:45:33 +0000",
+    "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+    "summary": "<p><a href=\"https://www.php2shell.com/\" rel=\"nofollow\">https://www.php2shell.com/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50180836\">https://news.ycombinator.com/item?id=50180836</a></p>\n<p>Points: 398</p>\n<p># Comments: 151</p>",
+    "published": "Wed, 21 Oct 2026 13:43:19 +0000",
+    "link": "https://www.wiz.io/blog/php2shell-php-rce",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/scaling-ai-research-for-complex-biological-data/\">https://openai.com/index/scaling-ai-research-for-complex-biological-data/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50180752\">https://news.ycombinator.com/item?id=50180752</a></p>\n<p>Points: 86</p>\n<p># Comments: 34</p>",
+    "published": "Wed, 21 Oct 2026 13:37:00 +0000",
+    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "OpenAI models are coming to Google Cloud",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/openai-models-google-cloud/\">https://openai.com/index/openai-models-google-cloud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50180079\">https://news.ycombinator.com/item?id=50180079</a></p>\n<p>Points: 98</p>\n<p># Comments: 27</p>",
+    "published": "Wed, 21 Oct 2026 12:53:11 +0000",
+    "link": "https://openai.com/index/openai-models-google-cloud/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Sumi.css \u2013 CSS Framework",
+    "summary": "<p>Article URL: <a href=\"https://github.com/vladocar/Sumi.css\">https://github.com/vladocar/Sumi.css</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50180039\">https://news.ycombinator.com/item?id=50180039</a></p>\n<p>Points: 48</p>\n<p># Comments: 12</p>",
+    "published": "Wed, 21 Oct 2026 12:50:33 +0000",
+    "link": "https://github.com/vladocar/Sumi.css",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+    "summary": "<p>Article URL: <a href=\"https://9mothers.com/careers\">https://9mothers.com/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50179455\">https://news.ycombinator.com/item?id=50179455</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Wed, 21 Oct 2026 12:00:24 +0000",
+    "link": "https://9mothers.com/careers",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Whatever Happened to Fire Escapes",
+    "summary": "<p>Article URL: <a href=\"https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes\">https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50178455\">https://news.ycombinator.com/item?id=50178455</a></p>\n<p>Points: 166</p>\n<p># Comments: 129</p>",
+    "published": "Wed, 21 Oct 2026 10:14:43 +0000",
+    "link": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+    "summary": "<p>Article URL: <a href=\"https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/\">https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50177916\">https://news.ycombinator.com/item?id=50177916</a></p>\n<p>Points: 675</p>\n<p># Comments: 316</p>",
+    "published": "Wed, 21 Oct 2026 09:08:08 +0000",
+    "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+    "source_name": "Hacker News"
+  }
+]
