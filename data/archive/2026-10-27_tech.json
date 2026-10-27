@@ -1,0 +1,562 @@
+[
+  {
+    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+    "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+    "published": "Tue, 27 Oct 2026 18:55:35 +0000",
+    "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+    "published": "Tue, 27 Oct 2026 17:08:08 +0000",
+    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+    "published": "Tue, 27 Oct 2026 16:30:57 +0000",
+    "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+    "published": "Tue, 27 Oct 2026 14:59:09 +0000",
+    "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+    "summary": "Ford is rolling out two new chargers capable of powering a home or the grid \u2014\u00a0so-called V2X capability.",
+    "published": "Tue, 27 Oct 2026 14:51:33 +0000",
+    "link": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "US government says hackers are now exploiting critical PHP web bugs",
+    "summary": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+    "published": "Tue, 27 Oct 2026 14:40:39 +0000",
+    "link": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+    "summary": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+    "published": "Tue, 27 Oct 2026 14:25:11 +0000",
+    "link": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+    "summary": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
+    "published": "Tue, 27 Oct 2026 13:54:51 +0000",
+    "link": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Japan internet giant GMO says hackers posted stolen customer data",
+    "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+    "published": "Tue, 27 Oct 2026 13:32:57 +0000",
+    "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Billionaire Palmer Luckey isn\u2019t leaving California over the wealth tax",
+    "summary": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm planning on staying in California. I'm going to keep fighting it.\"",
+    "published": "Tue, 27 Oct 2026 13:01:00 +0000",
+    "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
+    "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
+    "published": "Tue, 27 Oct 2026 13:00:00 +0000",
+    "link": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+    "published": "Tue, 27 Oct 2026 13:00:00 +0000",
+    "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+    "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+    "published": "Tue, 27 Oct 2026 13:00:00 +0000",
+    "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+    "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+    "published": "Tue, 27 Oct 2026 11:00:00 +0000",
+    "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+    "summary": "Whose hand is behind this travesty?",
+    "published": "Tue, 27 Oct 2026 06:34:44 +0000",
+    "link": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+    "published": "Tue, 27 Oct 2026 02:00:00 +0000",
+    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
+    "summary": "An AI model said it wouldn\u2019t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it\u2019s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+    "published": "Tue, 27 Oct 2026 01:12:21 +0000",
+    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+    "summary": "Turns out selling to big companies isn\u2019t about having the shiniest tech: It\u2019s about hitching a ride on a giant\u2019s sales team.",
+    "published": "Mon, 26 Oct 2026 22:00:00 +0000",
+    "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Watch out, YouTube \u2014 Instagram goes from short-form to 90-minute videos",
+    "summary": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
+    "published": "Mon, 26 Oct 2026 21:05:11 +0000",
+    "link": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren\u2019t happy about it",
+    "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
+    "published": "Mon, 26 Oct 2026 19:22:40 +0000",
+    "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Trump is making it easier for fossil fuel companies to leak methane",
+    "summary": "In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks. Methane is a smog-forming pollutant and a powerful greenhouse gas that's up to 80 times as potent as carbon dioxide on a 20-year horizon. It's the primary component of [&#8230;]",
+    "published": "2026-10-27T14:25:13-04:00",
+    "link": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "VisionQuest is what happens when AI really goes rogue",
+    "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial [&#8230;]",
+    "published": "2026-10-27T13:30:00-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The Super Mouse puts a touchscreen macro pad under your hand",
+    "summary": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The Super Mouse may not prioritize ergonomics with its boxy design, but it can replace other peripherals on your desk, like a trackpad, [&#8230;]",
+    "published": "2026-10-27T13:00:00-04:00",
+    "link": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Anthropic\u2019s elaborate plan to keep Wall Street at bay",
+    "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may [&#8230;]",
+    "published": "2026-10-27T12:51:22-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Meta\u2019s $25 billion legal loss just put blood in the water",
+    "summary": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ordered Meta to pay $25 billion to resolve claims that Meta misled users around the 2018 [&#8230;]",
+    "published": "2026-10-27T12:44:40-04:00",
+    "link": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Firefox\u2019s Smart Window adds AI form filling and webpage monitoring",
+    "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You [&#8230;]",
+    "published": "2026-10-27T12:14:18-04:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Major League Baseball is looking for a new kind of fan",
+    "summary": "On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series. It featured clips of players from the Milwaukee Brewers, Los Angeles Dodgers, Chicago White Sox, and more sliding into home [&#8230;]",
+    "published": "2026-10-27T12:02:43-04:00",
+    "link": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Google\u2019s next Genie AI model generates more realistic experiences",
+    "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help [&#8230;]",
+    "published": "2026-10-27T12:00:00-04:00",
+    "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "My favorite robot vacuum just got quieter, and more expensive",
+    "summary": "Matic, the company behind my favorite robot vacuum, is launching its first new model since its 2023 debut: the Matic Serene. The new robotic floor cleaner has one key upgrade: noise reduction. With a promised output of just 52 decibels at its highest suction level, the Serene claims to be about as quiet as a [&#8230;]",
+    "published": "2026-10-27T12:00:00-04:00",
+    "link": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Apple&#8217;s latest AirTag is the cheapest it\u2019s ever been",
+    "summary": "Thanksgiving is less than a month away, so now\u2019s a good time to start preparing before the rush. Fortunately, Apple&#8217;s latest AirTag can help you keep tabs on your luggage and other belongings amid the holiday chaos, and it\u2019s currently down to an all-time low of $23 ($6 off) at Amazon and Walmart. If you [&#8230;]",
+    "published": "2026-10-27T11:34:16-04:00",
+    "link": "https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
+    "summary": "The Fathom pickup won\u2019t need a wall-mounted inverter to output 10 kW to your house.",
+    "published": "Tue, 27 Oct 2026 16:17:58 +0000",
+    "link": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+    "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+    "published": "Tue, 27 Oct 2026 16:00:22 +0000",
+    "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
+    "summary": "Huge price hikes force loyal users to reconsider their favorite apps.",
+    "published": "Tue, 27 Oct 2026 15:50:19 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
+    "summary": "I <em>respect</em> Apple's first crack at a foldable phone, but I'm not sure I <em>like</em> it.",
+    "published": "Tue, 27 Oct 2026 14:20:26 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
+    "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+    "published": "Tue, 27 Oct 2026 14:00:49 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
+    "summary": "University of Sheffield researchers figured out how to re-create the 1,600-year-old glass recipe.",
+    "published": "Tue, 27 Oct 2026 13:32:35 +0000",
+    "link": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "US officials want Section 702 renewed before damaging court ruling goes public",
+    "summary": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
+    "published": "Tue, 27 Oct 2026 13:22:16 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Microsoft offers to buy out a quarter of its workforce",
+    "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+    "published": "Mon, 26 Oct 2026 22:36:06 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+    "summary": "Case study gives a whole new meaning to \"bedroom eyes.\"",
+    "published": "Mon, 26 Oct 2026 20:27:00 +0000",
+    "link": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+    "summary": "Lindsey Fitzharris chats with Ars about her new book, <em>Sleuth-Hound: The Case of the Real Sherlock Holmes</em>.",
+    "published": "Mon, 26 Oct 2026 20:15:07 +0000",
+    "link": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+    "summary": "Included is the ability to limit which applications Siri can directly access.",
+    "published": "Mon, 26 Oct 2026 20:04:16 +0000",
+    "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+    "summary": "Apple claims this is the most significant update ever for the iPad mini line.",
+    "published": "Mon, 26 Oct 2026 19:04:40 +0000",
+    "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+    "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+    "published": "Mon, 26 Oct 2026 18:50:41 +0000",
+    "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+    "summary": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
+    "published": "Mon, 26 Oct 2026 18:09:08 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+    "summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
+    "published": "Mon, 26 Oct 2026 17:26:36 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "F1 in Texas: The American race that fans love to attend",
+    "summary": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.",
+    "published": "Mon, 26 Oct 2026 14:48:24 +0000",
+    "link": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
+    "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
+    "published": "Mon, 26 Oct 2026 14:30:27 +0000",
+    "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
+    "summary": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground.",
+    "published": "Mon, 26 Oct 2026 11:00:15 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+    "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+    "published": "Sat, 24 Oct 2026 11:50:28 +0000",
+    "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+    "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+    "published": "Sat, 24 Oct 2026 11:00:09 +0000",
+    "link": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The Download: Anthropic\u2019s IPO, smarter power grids, and exercise pills",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out&#8230;",
+    "published": "Tue, 27 Oct 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;",
+    "published": "Tue, 27 Oct 2026 11:19:18 +0000",
+    "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "How solid-state transformers could help power the AI boom",
+    "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they\u2019re complicated and in short supply. And given that their basic design hasn\u2019t changed much for about a century, they could use an upgrade.&#160; As the world races to meet rising electricity demand from&#8230;",
+    "published": "Tue, 27 Oct 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Will the real Anthropic please stand up",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company\u2019s unique view of the technology it&#8230;",
+    "published": "Mon, 26 Oct 2026 17:45:43 +0000",
+    "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms \u2014Sam Hiner, cofounder of the Young People\u2019s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at&#8230;",
+    "published": "Mon, 26 Oct 2026 12:40:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&#8230;",
+    "published": "Mon, 26 Oct 2026 09:01:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: testing six tech promises and biotech\u2019s blind spots",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet\u2019s yowls and yips? Absolutely. Scrubbing&#8230;",
+    "published": "Fri, 23 Oct 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "In the biotech world, you can\u2019t see everything",
+    "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I\u2019d avoided spoilers (and won\u2019t be giving anything away here, either!). I was wondering what new information this film could reveal, given&#8230;",
+    "published": "Fri, 23 Oct 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Designing an AI serving harness built to last",
+    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That\u2019s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
+    "published": "Thu, 22 Oct 2026 21:17:29 +0000",
+    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Foundations of Scalable AI",
+    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;",
+    "published": "Thu, 22 Oct 2026 18:48:04 +0000",
+    "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Discord will soon let anyone find public server messages through Google",
+    "summary": "<p>Article URL: <a href=\"https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover\">https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50263854\">https://news.ycombinator.com/item?id=50263854</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
+    "published": "Tue, 27 Oct 2026 18:44:17 +0000",
+    "link": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Three TLS Bugs in GoAhead",
+    "summary": "<p>Article URL: <a href=\"https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead\">https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50263701\">https://news.ycombinator.com/item?id=50263701</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+    "published": "Tue, 27 Oct 2026 18:33:48 +0000",
+    "link": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+    "summary": "<p>Article URL: <a href=\"https://www.liquid.ai/blog/lfm3\">https://www.liquid.ai/blog/lfm3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50262229\">https://news.ycombinator.com/item?id=50262229</a></p>\n<p>Points: 40</p>\n<p># Comments: 13</p>",
+    "published": "Tue, 27 Oct 2026 17:04:50 +0000",
+    "link": "https://www.liquid.ai/blog/lfm3",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Ghostty 1.4.0",
+    "summary": "<p>Article URL: <a href=\"https://ghostty.org/docs/install/release-notes/1-4-0\">https://ghostty.org/docs/install/release-notes/1-4-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261998\">https://news.ycombinator.com/item?id=50261998</a></p>\n<p>Points: 276</p>\n<p># Comments: 95</p>",
+    "published": "Tue, 27 Oct 2026 16:51:22 +0000",
+    "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+    "summary": "<p>Article URL: <a href=\"https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220\">https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261819\">https://news.ycombinator.com/item?id=50261819</a></p>\n<p>Points: 223</p>\n<p># Comments: 143</p>",
+    "published": "Tue, 27 Oct 2026 16:40:15 +0000",
+    "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Classification of Finite Simple Groups Formalized in Lean",
+    "summary": "<p>Article URL: <a href=\"https://cfsg.axiommath.ai/\">https://cfsg.axiommath.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261647\">https://news.ycombinator.com/item?id=50261647</a></p>\n<p>Points: 78</p>\n<p># Comments: 20</p>",
+    "published": "Tue, 27 Oct 2026 16:29:02 +0000",
+    "link": "https://cfsg.axiommath.ai/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Vicious Cycles: Theses on a philosophy of news",
+    "summary": "<p>Article URL: <a href=\"https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/\">https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261623\">https://news.ycombinator.com/item?id=50261623</a></p>\n<p>Points: 12</p>\n<p># Comments: 2</p>",
+    "published": "Tue, 27 Oct 2026 16:27:29 +0000",
+    "link": "https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+    "summary": "<p>Article URL: <a href=\"https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova\">https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261589\">https://news.ycombinator.com/item?id=50261589</a></p>\n<p>Points: 37</p>\n<p># Comments: 14</p>",
+    "published": "Tue, 27 Oct 2026 16:25:30 +0000",
+    "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+    "summary": "<p>Article URL: <a href=\"https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/\">https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261583\">https://news.ycombinator.com/item?id=50261583</a></p>\n<p>Points: 26</p>\n<p># Comments: 0</p>",
+    "published": "Tue, 27 Oct 2026 16:25:12 +0000",
+    "link": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Apple introduces the new 14\u2011inch MacBook Pro with M6",
+    "summary": "<p>Article URL: <a href=\"https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/\">https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261352\">https://news.ycombinator.com/item?id=50261352</a></p>\n<p>Points: 109</p>\n<p># Comments: 116</p>",
+    "published": "Tue, 27 Oct 2026 16:08:32 +0000",
+    "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Genie 4",
+    "summary": "<p>Article URL: <a href=\"https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/\">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261319\">https://news.ycombinator.com/item?id=50261319</a></p>\n<p>Points: 392</p>\n<p># Comments: 226</p>",
+    "published": "Tue, 27 Oct 2026 16:06:01 +0000",
+    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+    "summary": "<p>Article URL: <a href=\"https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/\">https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50260814\">https://news.ycombinator.com/item?id=50260814</a></p>\n<p>Points: 205</p>\n<p># Comments: 109</p>",
+    "published": "Tue, 27 Oct 2026 15:28:26 +0000",
+    "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Specification First Agentic Development Plugin and Prove",
+    "summary": "<p>Implemented agent smith since start 2026 with over 1000 specifications which lead to about 500k lines of code. The procedure with that spec-first works well. How do you do it?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50260571\">https://news.ycombinator.com/item?id=50260571</a></p>\n<p>Points: 16</p>\n<p># Comments: 2</p>",
+    "published": "Tue, 27 Oct 2026 15:12:20 +0000",
+    "link": "https://spec-first.dev/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies",
+    "summary": "<p>Article URL: <a href=\"https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497\">https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50260526\">https://news.ycombinator.com/item?id=50260526</a></p>\n<p>Points: 104</p>\n<p># Comments: 31</p>",
+    "published": "Tue, 27 Oct 2026 15:09:27 +0000",
+    "link": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+    "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/\">https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50259604\">https://news.ycombinator.com/item?id=50259604</a></p>\n<p>Points: 518</p>\n<p># Comments: 165</p>",
+    "published": "Tue, 27 Oct 2026 14:06:42 +0000",
+    "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Is my data used for model training?",
+    "summary": "<p>Article URL: <a href=\"https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training\">https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50259406\">https://news.ycombinator.com/item?id=50259406</a></p>\n<p>Points: 188</p>\n<p># Comments: 81</p>",
+    "published": "Tue, 27 Oct 2026 13:56:15 +0000",
+    "link": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "PHP2Shell: Exploitation attempts and remediation trends",
+    "summary": "<p>Article URL: <a href=\"https://www.wiz.io/blog/php2shell-exploitation-so-far\">https://www.wiz.io/blog/php2shell-exploitation-so-far</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50259343\">https://news.ycombinator.com/item?id=50259343</a></p>\n<p>Points: 167</p>\n<p># Comments: 55</p>",
+    "published": "Tue, 27 Oct 2026 13:52:12 +0000",
+    "link": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Here be monsters: What do you still need to know when agents do the work?",
+    "summary": "<p>Article URL: <a href=\"https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work\">https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50258868\">https://news.ycombinator.com/item?id=50258868</a></p>\n<p>Points: 109</p>\n<p># Comments: 36</p>",
+    "published": "Tue, 27 Oct 2026 13:23:22 +0000",
+    "link": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "New iMac with M6",
+    "summary": "<p>Article URL: <a href=\"https://www.apple.com/imac/\">https://www.apple.com/imac/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50258538\">https://news.ycombinator.com/item?id=50258538</a></p>\n<p>Points: 217</p>\n<p># Comments: 263</p>",
+    "published": "Tue, 27 Oct 2026 13:02:02 +0000",
+    "link": "https://www.apple.com/imac/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Software may be getting worse, but it used to be horrible",
+    "summary": "<p>Article URL: <a href=\"https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/\">https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50257548\">https://news.ycombinator.com/item?id=50257548</a></p>\n<p>Points: 258</p>\n<p># Comments: 235</p>",
+    "published": "Tue, 27 Oct 2026 11:30:35 +0000",
+    "link": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+    "source_name": "Hacker News"
+  }
+]
