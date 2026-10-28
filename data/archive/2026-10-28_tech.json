@@ -1,0 +1,555 @@
+[
+  {
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+    "published": "Wed, 28 Oct 2026 19:19:58 +0000",
+    "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Wiz\u2019s CTO on PHP2Shell and the coming \u2018vulnpocalypse\u2019",
+    "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the [&#8230;]",
+    "published": "Wed, 28 Oct 2026 19:05:46 +0000",
+    "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Apple launches its new touchscreen MacBook Pro",
+    "summary": "Apple's new touchscreen MacBook Pro starts at $2,899.",
+    "published": "Wed, 28 Oct 2026 17:26:10 +0000",
+    "link": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Xreal Aura is a new wired headset powered by Android XR",
+    "summary": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
+    "published": "Wed, 28 Oct 2026 17:00:00 +0000",
+    "link": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+    "published": "Wed, 28 Oct 2026 17:00:00 +0000",
+    "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+    "published": "Wed, 28 Oct 2026 17:00:00 +0000",
+    "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Reddit is the latest platform to embrace the \u2018For You\u2019 feed",
+    "summary": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
+    "published": "Wed, 28 Oct 2026 16:00:00 +0000",
+    "link": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "AI execs may be too out of touch to build for the general public",
+    "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+    "published": "Wed, 28 Oct 2026 15:53:52 +0000",
+    "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+    "summary": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
+    "published": "Wed, 28 Oct 2026 15:53:21 +0000",
+    "link": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "South Korea\u2019s financial industry hit by fresh wave of cyberattacks",
+    "summary": "South Korea\u2019s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+    "published": "Wed, 28 Oct 2026 15:41:18 +0000",
+    "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it\u2019s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+    "published": "Wed, 28 Oct 2026 15:00:00 +0000",
+    "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+    "summary": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
+    "published": "Wed, 28 Oct 2026 14:34:25 +0000",
+    "link": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "TikTok expands into restaurant guides with \u2018Must Eat\u2019 feature",
+    "summary": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
+    "published": "Wed, 28 Oct 2026 14:26:36 +0000",
+    "link": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Meta has a new AI pet app called Waddle World",
+    "summary": "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
+    "published": "Wed, 28 Oct 2026 13:53:31 +0000",
+    "link": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Free Fire returns to India as Garena launches localized version four years after ban",
+    "summary": "Free Fire India was originally set to launch in September 2023, but Garena postponed its release.",
+    "published": "Wed, 28 Oct 2026 13:39:18 +0000",
+    "link": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
+    "summary": "The deal with DTL Transport puts it on a path to become an an asset-light tech supplier, rather than owner and operator.",
+    "published": "Wed, 28 Oct 2026 13:00:00 +0000",
+    "link": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+    "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston\u2019s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
+    "published": "Wed, 28 Oct 2026 13:00:00 +0000",
+    "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+    "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
+    "published": "Wed, 28 Oct 2026 05:20:32 +0000",
+    "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
+    "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+    "published": "Wed, 28 Oct 2026 01:15:28 +0000",
+    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+    "published": "Tue, 27 Oct 2026 23:34:27 +0000",
+    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Brendan Carr plans to let prisons jam cellphone signals",
+    "summary": "FCC Chairman Brendan Carr announced the agency will vote on November 19th on rules that would allow prisons to use signal jamming. Radiofrequency jammers are generally banned under Section 333 and the Communications Act of 1934, with few exceptions, and Carr has noted they've been permitted for use at some federal facilities already. Carr claims [&#8230;]",
+    "published": "2026-10-28T14:57:02-04:00",
+    "link": "https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Microsoft is ending Copilot support on smart TVs",
+    "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, [&#8230;]",
+    "published": "2026-10-28T14:36:26-04:00",
+    "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099",
+    "summary": "In this economy, how often does a product get less expensive before its debut? That just happened with the Google / Xreal Aura, the lightweight 95-gram glasses with a tethered Android XR compute puck and multiple virtual screens that just went on sale today. Xreal and Google have just announced the headset costs $1,099 through [&#8230;]",
+    "published": "2026-10-28T14:14:11-04:00",
+    "link": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Here\u2019s where to preorder the new MacBook Pros",
+    "summary": "As expected, Apple finally showed off its 14- and 16-inch MacBook Pros at its recent \"Pro and Tell\" event. The long-awaited laptops feature a Tandem OLED display with full touch capabilities, while also cutting some weight and bringing back the glowing Apple logo. While less exciting, there's also an updated 14-inch MacBook Pro that features [&#8230;]",
+    "published": "2026-10-28T14:10:23-04:00",
+    "link": "https://www.theverge.com/gadgets/1019109/apple-macbook-pro-m6-proled-xdr-how-to-buy-price-release-date",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "You can see every red flag in Theranos 2.0",
+    "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. From afar, it's easy to look back at the Theranos debacle and scream at Nathan Fielder that, obviously, Elizabeth Holmes [&#8230;]",
+    "published": "2026-10-28T14:00:00-04:00",
+    "link": "https://www.theverge.com/column/1020859/optimizer-theranos-haemanthus-you-can-see-everything",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Here\u2019s how macOS is changing for touchscreens",
+    "summary": "Touchscreen laptops are nothing new in the Windows world, but Apple has only just announced its first MacBook with a touchscreen. Apple isn't rushing to change a bunch of things in macOS to optimize for touch, though: Most of the touch action will be in the apps themselves, it seems. As far as major macOS [&#8230;]",
+    "published": "2026-10-28T13:48:28-04:00",
+    "link": "https://www.theverge.com/tech/1020084/macos-touchscreen-changes",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Apple \u2018Pro and tell\u2019 event: Everything announced this week",
+    "summary": "Apple closed out its week of product announcements with its \"Pro and tell\" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciting update for last, it revealed a few other device upgrades and updates in the days leading up to [&#8230;]",
+    "published": "2026-10-28T13:27:38-04:00",
+    "link": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Watch Apple\u2019s reveal video for the touchscreen MacBook Pro",
+    "summary": "Apple just announced its first touchscreen MacBook at its \"Pro and tell\" event on Wednesday. It showed off the long-awaited touchscreen in a video of the new MacBook Pro during the event that you can watch right here to see the new display in action. The new MacBook Pro's PROLED XDR touch display is a [&#8230;]",
+    "published": "2026-10-28T13:19:23-04:00",
+    "link": "https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Hands-on with Apple\u2019s touchscreen MacBook Pro",
+    "summary": "Steve Jobs famously called touchscreen laptops \"ergonomically terrible,\" and for over a decade, Apple stridently refused to make one. Today that all changes with the MacBook Pro - the company's first laptop to embrace a touch interface. While it's unlikely that Apple can fix all the \"terrible\" ergonomics of having to lift your arm up [&#8230;]",
+    "published": "2026-10-28T13:16:55-04:00",
+    "link": "https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Here\u2019s where you can preorder the new OLED-equipped iPad Mini",
+    "summary": "Apple's smallest tablet is getting a bigger screen. Earlier this week, the company announced the eighth-generation iPad Mini alongside several new MacBook Pro models, bringing OLED technology to Apple's miniature tablet for the first time. The diminutive slate won't hit shelves until November 6th; however, you can already preorder it from Amazon, Walmart, Apple, and [&#8230;]",
+    "published": "2026-10-28T13:12:47-04:00",
+    "link": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+    "summary": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
+    "published": "Wed, 28 Oct 2026 18:05:22 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
+    "summary": "With more than 200 kWh, this luxury three-row can go 460 miles on a charge.",
+    "published": "Wed, 28 Oct 2026 17:55:45 +0000",
+    "link": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Google AI gets cagey when asked who won the 2020 elections",
+    "summary": "But the AI responses get more forthright when asked outside the US.",
+    "published": "Wed, 28 Oct 2026 17:46:32 +0000",
+    "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Florida county won\u2019t investigate sketchy Flock cameras removed by mystery owners",
+    "summary": "Florida county claims it lacks resources to find owners of unpermitted Flock cameras.",
+    "published": "Wed, 28 Oct 2026 17:37:49 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Apple announces touchscreen MacBook Pro with OLED display",
+    "summary": "The OLED display is the main draw, but the price is a lot to reckon with.",
+    "published": "Wed, 28 Oct 2026 17:25:04 +0000",
+    "link": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
+    "summary": "\"We have to be ready for whatever's coming next. If we lose in here, there won't be a home to go back to.\"",
+    "published": "Wed, 28 Oct 2026 15:48:12 +0000",
+    "link": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "A hidden ocean change near Antarctica could have global consequences",
+    "summary": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation.",
+    "published": "Wed, 28 Oct 2026 13:38:53 +0000",
+    "link": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "China\u2019s snooping around Pacific undersea cables raises risks for Big Tech",
+    "summary": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
+    "published": "Wed, 28 Oct 2026 11:00:49 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+    "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+    "published": "Tue, 27 Oct 2026 22:37:30 +0000",
+    "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+    "summary": "International travel used to be the main risk of measles cases in the US\u2014not anymore.",
+    "published": "Tue, 27 Oct 2026 22:22:32 +0000",
+    "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+    "summary": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
+    "published": "Tue, 27 Oct 2026 22:04:50 +0000",
+    "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+    "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+    "published": "Tue, 27 Oct 2026 21:50:04 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+    "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+    "published": "Tue, 27 Oct 2026 21:31:14 +0000",
+    "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+    "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+    "published": "Tue, 27 Oct 2026 20:25:55 +0000",
+    "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Google begins certifying Registered App Stores for Android, but not in the US",
+    "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
+    "published": "Tue, 27 Oct 2026 19:32:07 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+    "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
+    "published": "Tue, 27 Oct 2026 18:49:08 +0000",
+    "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Warner Bros. drops final trailer for Dune: Part Three",
+    "summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
+    "published": "Tue, 27 Oct 2026 18:05:55 +0000",
+    "link": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
+    "summary": "The Fathom pickup won\u2019t need a wall-mounted inverter to output 10 kW to your house.",
+    "published": "Tue, 27 Oct 2026 16:17:58 +0000",
+    "link": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+    "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+    "published": "Tue, 27 Oct 2026 16:00:22 +0000",
+    "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
+    "summary": "Huge price hikes force loyal users to reconsider their favorite apps.",
+    "published": "Tue, 27 Oct 2026 15:50:19 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The Download: dead startups fueling AI and interspecies communication",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn\u2019t think its data was worth much. But he\u2019s&#8230;",
+    "published": "Wed, 28 Oct 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Pairing industrial AI autonomy and human\u00a0control",
+    "summary": "",
+    "published": "Wed, 28 Oct 2026 12:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: Anthropic\u2019s IPO, smarter power grids, and exercise pills",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out&#8230;",
+    "published": "Tue, 27 Oct 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;",
+    "published": "Tue, 27 Oct 2026 11:19:18 +0000",
+    "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "How solid-state transformers could help power the AI boom",
+    "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they\u2019re complicated and in short supply. And given that their basic design hasn\u2019t changed much for about a century, they could use an upgrade.&#160; As the world races to meet rising electricity demand from&#8230;",
+    "published": "Tue, 27 Oct 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Will the real Anthropic please stand up",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company\u2019s unique view of the technology it&#8230;",
+    "published": "Mon, 26 Oct 2026 17:45:43 +0000",
+    "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms \u2014Sam Hiner, cofounder of the Young People\u2019s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at&#8230;",
+    "published": "Mon, 26 Oct 2026 12:40:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&#8230;",
+    "published": "Mon, 26 Oct 2026 09:01:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: testing six tech promises and biotech\u2019s blind spots",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet\u2019s yowls and yips? Absolutely. Scrubbing&#8230;",
+    "published": "Fri, 23 Oct 2026 12:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "In the biotech world, you can\u2019t see everything",
+    "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I\u2019d avoided spoilers (and won\u2019t be giving anything away here, either!). I was wondering what new information this film could reveal, given&#8230;",
+    "published": "Fri, 23 Oct 2026 09:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "At least 68 killed in Spanish high-speed train crash",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/live/cv1j309d4g98t\">https://www.bbc.com/news/live/cv1j309d4g98t</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50278970\">https://news.ycombinator.com/item?id=50278970</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+    "published": "Wed, 28 Oct 2026 18:49:17 +0000",
+    "link": "https://www.bbc.com/news/live/cv1j309d4g98t",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+    "summary": "<p>Article URL: <a href=\"https://nullpt.rs/fingerprinting-bioweapons\">https://nullpt.rs/fingerprinting-bioweapons</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50276998\">https://news.ycombinator.com/item?id=50276998</a></p>\n<p>Points: 91</p>\n<p># Comments: 13</p>",
+    "published": "Wed, 28 Oct 2026 17:13:29 +0000",
+    "link": "https://nullpt.rs/fingerprinting-bioweapons",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "MacBook Pro with PROLED XDR Display and Touch",
+    "summary": "<p><a href=\"https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/\" rel=\"nofollow\">https://www.apple.com/newsroom/2026/10/apple-unveils-groundb...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50276940\">https://news.ycombinator.com/item?id=50276940</a></p>\n<p>Points: 282</p>\n<p># Comments: 434</p>",
+    "published": "Wed, 28 Oct 2026 17:10:37 +0000",
+    "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: SlideBySide \u2013 Present slides without sharing your screen",
+    "summary": "<p>Why is it useful?\n- Present slides without sharing the screen and have every one be on the same page.\n- Present together with other cohosts and all control the current page.\n- Other features such as presentation collab features.<p>Why should I not just vibe code my own solution?\n- Its a hassle to maintain a version online.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50276883\">https://news.ycombinator.com/item?id=50276883</a></p>\n<p>Points: 25</p>\n<p># Comments: 11</p>",
+    "published": "Wed, 28 Oct 2026 17:07:09 +0000",
+    "link": "https://slidebyside.com/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Gemini 4 Carbon",
+    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50276792\">https://news.ycombinator.com/item?id=50276792</a></p>\n<p>Points: 460</p>\n<p># Comments: 386</p>",
+    "published": "Wed, 28 Oct 2026 17:01:23 +0000",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Converge (YC S23) Is Hiring a Founding Platform Engineer",
+    "summary": "<p>Article URL: <a href=\"https://www.runconverge.com/careers/founding-platform-engineer\">https://www.runconverge.com/careers/founding-platform-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50276779\">https://news.ycombinator.com/item?id=50276779</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Wed, 28 Oct 2026 17:00:24 +0000",
+    "link": "https://www.runconverge.com/careers/founding-platform-engineer",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
+    "summary": "<p>Article URL: <a href=\"https://surgehq.ai/blog/dayjob-tax\">https://surgehq.ai/blog/dayjob-tax</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50275626\">https://news.ycombinator.com/item?id=50275626</a></p>\n<p>Points: 107</p>\n<p># Comments: 61</p>",
+    "published": "Wed, 28 Oct 2026 15:46:30 +0000",
+    "link": "https://surgehq.ai/blog/dayjob-tax",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Archive.today links going forward",
+    "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/\">https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50275373\">https://news.ycombinator.com/item?id=50275373</a></p>\n<p>Points: 119</p>\n<p># Comments: 74</p>",
+    "published": "Wed, 28 Oct 2026 15:31:58 +0000",
+    "link": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+    "summary": "<p>Article URL: <a href=\"https://huggingface.co/blog/nvidia/nemotron-transcribe-granary\">https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50275128\">https://news.ycombinator.com/item?id=50275128</a></p>\n<p>Points: 59</p>\n<p># Comments: 7</p>",
+    "published": "Wed, 28 Oct 2026 15:17:53 +0000",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "CNC Stone Carving",
+    "summary": "<p>Article URL: <a href=\"https://carmelitegothic.com/cnc-stone-carving/\">https://carmelitegothic.com/cnc-stone-carving/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50274409\">https://news.ycombinator.com/item?id=50274409</a></p>\n<p>Points: 271</p>\n<p># Comments: 96</p>",
+    "published": "Wed, 28 Oct 2026 14:38:22 +0000",
+    "link": "https://carmelitegothic.com/cnc-stone-carving/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "AlpineBSD",
+    "summary": "<p>Article URL: <a href=\"https://wiki.alpinebsd.org\">https://wiki.alpinebsd.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50274251\">https://news.ycombinator.com/item?id=50274251</a></p>\n<p>Points: 91</p>\n<p># Comments: 82</p>",
+    "published": "Wed, 28 Oct 2026 14:30:26 +0000",
+    "link": "https://wiki.alpinebsd.org",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The Agent SDK",
+    "summary": "<p>Article URL: <a href=\"https://cursor.com/blog/agent-sdk\">https://cursor.com/blog/agent-sdk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50273731\">https://news.ycombinator.com/item?id=50273731</a></p>\n<p>Points: 64</p>\n<p># Comments: 66</p>",
+    "published": "Wed, 28 Oct 2026 14:02:20 +0000",
+    "link": "https://cursor.com/blog/agent-sdk",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+    "summary": "<p>Article URL: <a href=\"https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/\">https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50273396\">https://news.ycombinator.com/item?id=50273396</a></p>\n<p>Points: 312</p>\n<p># Comments: 365</p>",
+    "published": "Wed, 28 Oct 2026 13:41:30 +0000",
+    "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Emacs Turns 50",
+    "summary": "<p>Article URL: <a href=\"https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/\">https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50273171\">https://news.ycombinator.com/item?id=50273171</a></p>\n<p>Points: 284</p>\n<p># Comments: 113</p>",
+    "published": "Wed, 28 Oct 2026 13:25:11 +0000",
+    "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "US agency approves Amazon Leo\u2019s $11.5B acquisition of Globalstar",
+    "summary": "<p>Previously: <i>Amazon to acquire Globalstar and expand Amazon Leo satellite network</i> - <a href=\"https://news.ycombinator.com/item?id=47775183\">https://news.ycombinator.com/item?id=47775183</a> - April 2026 (119 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50272145\">https://news.ycombinator.com/item?id=50272145</a></p>\n<p>Points: 195</p>\n<p># Comments: 94</p>",
+    "published": "Wed, 28 Oct 2026 11:54:23 +0000",
+    "link": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Apple's git still trusts the compromised eMudhra certificates",
+    "summary": "<p>Article URL: <a href=\"https://emudhra.we-have-a-problem.com/apple.html\">https://emudhra.we-have-a-problem.com/apple.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50271640\">https://news.ycombinator.com/item?id=50271640</a></p>\n<p>Points: 874</p>\n<p># Comments: 338</p>",
+    "published": "Wed, 28 Oct 2026 11:03:40 +0000",
+    "link": "https://emudhra.we-have-a-problem.com/apple.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.36341\">https://arxiv.org/abs/2610.36341</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50268478\">https://news.ycombinator.com/item?id=50268478</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+    "published": "Wed, 28 Oct 2026 02:01:51 +0000",
+    "link": "https://arxiv.org/abs/2610.36341",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Git for the US Code",
+    "summary": "<p>Article URL: <a href=\"https://lexifina.com/blog/git-for-the-us-code\">https://lexifina.com/blog/git-for-the-us-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50268380\">https://news.ycombinator.com/item?id=50268380</a></p>\n<p>Points: 401</p>\n<p># Comments: 207</p>",
+    "published": "Wed, 28 Oct 2026 01:47:50 +0000",
+    "link": "https://lexifina.com/blog/git-for-the-us-code",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Early progress on accelerating drug development with Claude",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/early-progress-drug-development\">https://www.anthropic.com/research/early-progress-drug-development</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265609\">https://news.ycombinator.com/item?id=50265609</a></p>\n<p>Points: 308</p>\n<p># Comments: 302</p>",
+    "published": "Tue, 27 Oct 2026 20:50:42 +0000",
+    "link": "https://www.anthropic.com/research/early-progress-drug-development",
+    "source_name": "Hacker News"
+  }
+]
