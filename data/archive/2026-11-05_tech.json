@@ -1,0 +1,562 @@
+[
+  {
+    "title": "Meta says US users can now video chat with their Muse AI avatar",
+    "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+    "published": "Thu, 05 Nov 2026 19:48:28 +0000",
+    "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+    "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+    "published": "Thu, 05 Nov 2026 19:12:39 +0000",
+    "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "OpenAI released a new cybersecurity model. Is that enough?",
+    "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+    "published": "Thu, 05 Nov 2026 19:06:12 +0000",
+    "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "US government warns of \u2018ongoing cyber threat\u2019 amid mass hacks of industrial retail and military freezers",
+    "summary": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
+    "published": "Thu, 05 Nov 2026 18:48:34 +0000",
+    "link": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+    "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+    "published": "Thu, 05 Nov 2026 18:02:27 +0000",
+    "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+    "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+    "published": "Thu, 05 Nov 2026 18:00:00 +0000",
+    "link": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Claude can now analyze your spending with its new Personal Finance tool",
+    "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+    "published": "Thu, 05 Nov 2026 18:00:00 +0000",
+    "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Harbinger raises $240M after expanding into defense",
+    "summary": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
+    "published": "Thu, 05 Nov 2026 17:52:44 +0000",
+    "link": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+    "summary": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
+    "published": "Thu, 05 Nov 2026 17:11:48 +0000",
+    "link": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Axiom Math wants to keep AI slop out of mathematics",
+    "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup\u2019s AI agents just formally verified the Stacks Project, one of the field\u2019s biggest libraries.",
+    "published": "Thu, 05 Nov 2026 16:16:45 +0000",
+    "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Bluesky hit peak usage for the year on election night",
+    "summary": "Bluesky CEO Toni Schneider said posts and likes doubled during to the U.S. midterm elections on Tuesday.",
+    "published": "Thu, 05 Nov 2026 15:44:58 +0000",
+    "link": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+    "summary": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
+    "published": "Thu, 05 Nov 2026 15:40:34 +0000",
+    "link": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+    "summary": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.",
+    "published": "Thu, 05 Nov 2026 15:33:58 +0000",
+    "link": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+    "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+    "published": "Thu, 05 Nov 2026 15:19:05 +0000",
+    "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Instagram brings Edits to desktop to take on CapCut",
+    "summary": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
+    "published": "Thu, 05 Nov 2026 15:00:00 +0000",
+    "link": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+    "summary": "ElevenLabs said more than 25 million tracks have been generated using its music models.",
+    "published": "Thu, 05 Nov 2026 15:00:00 +0000",
+    "link": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Aina\u2019s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+    "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+    "published": "Thu, 05 Nov 2026 14:42:00 +0000",
+    "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "RadianX promises solar-powered devices that never need charging",
+    "summary": "Today\u2019s portable devices are too hungry to run on traditional solar panels, but RadianX says its perovskite cells promise to make charging obsolete in some cases.",
+    "published": "Thu, 05 Nov 2026 14:00:00 +0000",
+    "link": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Box taps Nvidia\u2019s Nemotron for new agent-first content retrieval system",
+    "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+    "published": "Thu, 05 Nov 2026 14:00:00 +0000",
+    "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+    "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
+    "published": "Thu, 05 Nov 2026 13:00:00 +0000",
+    "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Blue Origin\u2019s next launch now won\u2019t happen until 2027",
+    "summary": "Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion that damaged Blue Origin's New Glenn launchpad ahead of a flight that would have brought [&#8230;]",
+    "published": "2026-11-05T15:47:14-05:00",
+    "link": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Samsung\u2019s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
+    "summary": "Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual price, and just $50 higher than the lowest we\u2019ve seen. Considering the device only launched a few months ago, you\u2019re saving [&#8230;]",
+    "published": "2026-11-05T14:12:58-05:00",
+    "link": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Muse has a voice mode now",
+    "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of [&#8230;]",
+    "published": "2026-11-05T14:03:04-05:00",
+    "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "EA is bringing 25 classic PC games to Steam",
+    "summary": "Electronic Arts is launching 25 classic games on Steam, including \"Anniversary Editions\" of the motorcycle racer Road Rash and six Wing Commander titles. These Anniversary Editions preserve \"the original look, feel and creative intent of the game\" but also have quality-of-life updates to support modern systems and controls and improve performance, according to EA. The [&#8230;]",
+    "published": "2026-11-05T13:30:00-05:00",
+    "link": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Claude AI can plug directly into your bank account",
+    "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview [&#8230;]",
+    "published": "2026-11-05T13:00:00-05:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "\u2018Total repudiation\u2019: The blue wave is about to hit AI",
+    "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to [&#8230;]",
+    "published": "2026-11-05T12:51:52-05:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Ember\u2019s smallest self-heating mug is on sale for just $33",
+    "summary": "We\u2019ve been fans of Ember\u2019s temperature-controlled mugs for years, though given the price tag, we admit that they\u2019re somewhat of a luxury purchase. Thankfully, if you&#8217;ve been looking for a more affordable option, Woot is selling the Ember Cup in black for $32.99 ($67 off) with a 90-day warranty through November 7th. You can potentially [&#8230;]",
+    "published": "2026-11-05T12:34:23-05:00",
+    "link": "https://www.theverge.com/gadgets/1027689/ember-cup-6-ounce-woot-kitchen-sale-deal",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "TikTok launched a dedicated TikTok Shop app",
+    "summary": "TikTok has released a standalone app for TikTok Shop in a few countries, as spotted by social media consultant Matt Navarra. According to its App Store listing, the TikTok Shop app offers: - Personalized picks inspired by your interests - LIVE streams &#38; short videos to see products in action - App-only deals, free shipping [&#8230;]",
+    "published": "2026-11-05T12:27:36-05:00",
+    "link": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Nintendo says it\u2019s not planning another Switch 2 price hike",
+    "summary": "Nintendo president Shuntaro Furukawa said during the company's latest earnings call that it's \"not considering additional changes\" to the Switch 2's price, Reuters reports. The Switch 2 got a $50 price hike earlier this year, bringing its starting price up to $499. Nintendo said in Thursday's earnings report that Switch 2 sales have dropped 37.4 [&#8230;]",
+    "published": "2026-11-05T12:24:39-05:00",
+    "link": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The FAA is finally ditching floppy disks",
+    "summary": "It's the year 2026 and the Federal Aviation Administration is still running critical pieces of American airspace on 3.5-inch magnetic floppy disks. But those technology artifacts could be headed for the dustbin after Transportation Secretary Sean Duffy announced an effort to ditch floppy disks in favor of a new digital system. Duffy announced Thursday that [&#8230;]",
+    "published": "2026-11-05T12:13:42-05:00",
+    "link": "https://www.theverge.com/transportation/1027511/faa-floppy-disks-sean-duffy-air-traffic-control-eids",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+    "summary": "Software optimizes a physical model of the telescope to reduce noise.",
+    "published": "Thu, 05 Nov 2026 19:59:22 +0000",
+    "link": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
+    "summary": "Kalshi can't avoid gambling law by claiming it doesn't offer gambling, state AG says.",
+    "published": "Thu, 05 Nov 2026 19:46:37 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "MAHA lost bigly in the midterms\u2014is it at death's door?",
+    "summary": "RFK Jr.'s Make America Healthy Again movement was in trouble before voting began.",
+    "published": "Thu, 05 Nov 2026 18:49:41 +0000",
+    "link": "https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
+    "summary": "Using a capture card and open source software to run PS5 video through a PC GPU.",
+    "published": "Thu, 05 Nov 2026 17:40:27 +0000",
+    "link": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Statehouse wins give Democrats new power to push clean energy",
+    "summary": "Democrats erased the GOP\u2019s trifecta edge and gained new power over energy policy.",
+    "published": "Thu, 05 Nov 2026 15:59:51 +0000",
+    "link": "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+    "summary": "It has all the bells and whistles (and cameras).",
+    "published": "Thu, 05 Nov 2026 13:00:56 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+    "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+    "published": "Thu, 05 Nov 2026 12:00:41 +0000",
+    "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "2026 iPad mini review: Maximizing the mini",
+    "summary": "It's more compelling than ever, but also more expensive.",
+    "published": "Thu, 05 Nov 2026 12:00:01 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+    "summary": "The spirit of AMG is alive via three axial flux electric motors.",
+    "published": "Thu, 05 Nov 2026 09:00:13 +0000",
+    "link": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+    "summary": "And what that could mean for physical Switch game costs.",
+    "published": "Wed, 04 Nov 2026 22:47:51 +0000",
+    "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Hackers exploited iOS and Android flaws to infect phones",
+    "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+    "published": "Wed, 04 Nov 2026 22:26:49 +0000",
+    "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Uranium cubes reveal why the German nuclear project failed",
+    "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
+    "published": "Wed, 04 Nov 2026 21:56:29 +0000",
+    "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
+    "summary": "\u201cWe started listening to a lot of our lower-end customers,\" VMware exec says.",
+    "published": "Wed, 04 Nov 2026 21:38:49 +0000",
+    "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "AMD's record quarter: Data center business doubles, while gaming craters",
+    "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
+    "published": "Wed, 04 Nov 2026 21:29:46 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Big Tech claims voters\u2019 AI backlash is \u201canti-Trump\u201d not \u201canti-tech\u201d",
+    "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+    "published": "Wed, 04 Nov 2026 20:55:50 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
+    "summary": "\"Data centers in space looking pretty appealing right now.\"",
+    "published": "Wed, 04 Nov 2026 20:36:05 +0000",
+    "link": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control",
+    "summary": "Cruz and Trump seem to have no plans to fill FCC's empty Democratic seat.",
+    "published": "Wed, 04 Nov 2026 19:08:23 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "People say they want small smartphones\u2014the Enough Phone will put that to the test",
+    "summary": "It won't win the specs race, but it will actually fit in your hand.",
+    "published": "Wed, 04 Nov 2026 18:00:40 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+    "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
+    "published": "Wed, 04 Nov 2026 16:06:03 +0000",
+    "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "What I learned driving the Slate electric truck prototype",
+    "summary": "After 45 minutes behind the wheel, I am more optimistic about the $25,000 EV.",
+    "published": "Wed, 04 Nov 2026 15:42:18 +0000",
+    "link": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The Download: Texas\u2019s fragile AI boom\u00a0and energy policy shifts",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s&#8230;",
+    "published": "Thu, 05 Nov 2026 13:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "A new bill could change how the US builds energy infrastructure",
+    "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week\u2019s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It\u2019s a plan that could finally&#8230;",
+    "published": "Thu, 05 Nov 2026 10:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;",
+    "published": "Wed, 04 Nov 2026 18:50:55 +0000",
+    "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+    "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going\u2014even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual&#8230;",
+    "published": "Wed, 04 Nov 2026 18:21:40 +0000",
+    "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "What\u2019s next for US energy policy after the midterm elections?",
+    "summary": "I\u2019ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn\u2019t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump\u2019s victory two years ago.&#160;&#160;&#8230;",
+    "published": "Wed, 04 Nov 2026 17:08:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: blended meat, restored sight, and the agentic web",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope \u201cblended\u201d food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs. The students loved them:&#8230;",
+    "published": "Wed, 04 Nov 2026 13:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Securing the agentic enterprise with data lineage",
+    "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it\u2019s&#8230;",
+    "published": "Wed, 04 Nov 2026 13:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: controlling AI agents and \u201cSuper Intelligence\u201d loyalty tests",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How \u201creverse game theory\u201d could keep AI agents in check A new approach known as \u201creverse game theory\u201d aims to control powerful AI models by designing systems that incentivize them to&#8230;",
+    "published": "Tue, 03 Nov 2026 13:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "How \u201creverse game theory\u201d could keep AI agents in check",
+    "summary": "A new approach known as \u201creverse game theory\u201d aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are \u201caligned\u201d with human desires\u2014to make sure, in other words, that rogue agents don\u2019t break the law,&#8230;",
+    "published": "Tue, 03 Nov 2026 10:43:41 +0000",
+    "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Here\u2019s who is falling in line for Trump\u2019s \u201cSuper Intelligence\u201d loyalty test",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as \u201cSuper Intelligence.\u201d That&#8230;",
+    "published": "Tue, 03 Nov 2026 04:18:47 +0000",
+    "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+    "summary": "<p>Article URL: <a href=\"https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/\">https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50383963\">https://news.ycombinator.com/item?id=50383963</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+    "published": "Thu, 05 Nov 2026 20:21:43 +0000",
+    "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The Cost of Blogging",
+    "summary": "<p>Article URL: <a href=\"https://onlinegoddess.net/2026/11/the-cost-of-blogging/\">https://onlinegoddess.net/2026/11/the-cost-of-blogging/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50383877\">https://news.ycombinator.com/item?id=50383877</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "published": "Thu, 05 Nov 2026 20:14:25 +0000",
+    "link": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Kagi Search for Everyone",
+    "summary": "<p>Article URL: <a href=\"https://kagi.com/changelog\">https://kagi.com/changelog</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50383740\">https://news.ycombinator.com/item?id=50383740</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+    "published": "Thu, 05 Nov 2026 20:03:34 +0000",
+    "link": "https://kagi.com/changelog",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Goodbye from Salon",
+    "summary": "<p>Article URL: <a href=\"https://www.salon.com/2026/11/05/goodbye-from-salon/\">https://www.salon.com/2026/11/05/goodbye-from-salon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50383739\">https://news.ycombinator.com/item?id=50383739</a></p>\n<p>Points: 123</p>\n<p># Comments: 23</p>",
+    "published": "Thu, 05 Nov 2026 20:03:29 +0000",
+    "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+    "summary": "<p>Article URL: <a href=\"https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed\">https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50383163\">https://news.ycombinator.com/item?id=50383163</a></p>\n<p>Points: 41</p>\n<p># Comments: 4</p>",
+    "published": "Thu, 05 Nov 2026 19:16:34 +0000",
+    "link": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The Hackintosh Reborn",
+    "summary": "<p>Article URL: <a href=\"https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/\">https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50383057\">https://news.ycombinator.com/item?id=50383057</a></p>\n<p>Points: 64</p>\n<p># Comments: 10</p>",
+    "published": "Thu, 05 Nov 2026 19:08:22 +0000",
+    "link": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
+    "summary": "<p>Hey HN, this is Nathan and Nicholas from Rivet (<a href=\"https://rivet.dev\">https://rivet.dev</a>) \u2013 a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3.<p>Actors provide a long-lived process for long agent turns, in-memory state for context, a WebSocket server for multiplayer, durable SQLite storage backed by S3, and hibernation when idle.<p>It's a similar model to Cloudflare Durable Objects, but it\u2019s open source and self-hostable.<p>Here\u2019s a video walkthrough: <a href=\"https://www.youtube.com/watch?v=3Ev6I7DOV9c\" rel=\"nofollow\">https://www.youtube.com/watch?v=3Ev6I7DOV9c</a><p>When we went through YC in 2023, we were building infrastructure for multiplayer games like Diep and Krunker. This involved heavily optimizing high-throughput matchmaking, real-time player messages, and blitz scaling. Through that process, we spent a lot of time on workloads where Postgres couldn't keep up with our throughput. We started out by hacking together Lua scripts on top of Redis, but this became too cumbersome to maintain and upgrade. This led us to extend our game server orchestrator to support what we call Rivet Actors today: many lightweight workers with in-memory state and durable storage. By using actors, we were able to serve tens of millions of monthly active users.<p>As agents grew in popularity, it became clear that running agents in sandboxes is inefficient. Sandboxes are expensive, mostly idle, and slow to start. Developers started using actors because they are far more memory efficient (72 KB baseline for actors vs 512 MB for a minimal sandbox) and fast to start (4.9 ms p99 for actors vs 1.7 s p99 for sandboxes).<p>For example, Amp is using Rivet to orchestrate multiplayer agents. They originally tried to build on Cloudflare Durable Objects, but couldn\u2019t launch because of the platform\u2019s limitations and unresponsive support. They migrated to Rivet Actors in a weekend and deploy on-prem. Rivet\u2019s flexible architecture lets them adapt it to their own use cases without being constrained by a framework or the memory, storage, and runtime limits of Cloudflare Durable Objects.<p>Under the hood, Rivet is backed by S3 while maintaining SSD speeds.<p>Why S3? Previously, Rivet ran on FoundationDB. However, we were surprised to find that companies are storing orders of magnitude more data on Rivet Actors than in Postgres, such as large session transcripts, agent artifacts, and full POSIX filesystems. As their data grew, they had to start paying for SSDs that sat mostly idle with old transcripts. This led us to double down on S3 as our primary storage medium without sacrificing performance. This choice means that data stored on Rivet is 10\u00d7 cheaper than on EBS gp3 while maintaining SSD speeds.<p>It\u2019s not as simple as writing data straight to S3. Lots of PUTs for tiny blobs of data are slow and expensive. Instead, we use an SSD tier to optimize speed and cost:<p>When you write data to an actor\u2019s SQLite database, the write is acknowledged once SSDs in 2 of 3 availability zones have it. Then, the data is batched to S3 in the background. This means that S3 is never on the write path, which lowers latency and cost. When reading data or waking an actor, Rivet reads from SSDs if already cached and falls back to S3 if not. SSD caches can be tuned to meet your needs, giving you configurable tiered storage for your actors.<p>This architecture lets Rivet provide 1.07 ms durable writes (3 AZ, p99), 1.36 ms reads (p99), and 138 ms reads from object storage (p99).<p>We\u2019ve spent a lot of time making sure that Rivet can run wherever you need it. Self-hosting requires deploying a single Rust binary with S3 as the only dependency, Rivet Cloud lets you deploy dedicated clusters on AWS or GCP in any region, and BYOC lets us deploy Rivet to your VPC without having to operate it yourself. Rivet also runs identically in local dev as in production, since Rivet is a lightweight binary that runs anywhere<p>Rivet Actors can be written in TypeScript or Rust. Out of the box, they support agents (Pi Durable), workflows, real-time, multiplayer, running AI-generated code, Durable Streams, and integrations with tools like Vercel\u2019s Eve and Turso. See all of our available guides, or point your agent at them: <a href=\"https://rivet.dev/docs/#guides\">https://rivet.dev/docs/#guides</a><p>Try it out now, by reading our quickstart guides (<a href=\"https://rivet.dev/docs/\">https://rivet.dev/docs/</a>) or ask your agent: \u201cRun npx skills add rivet-dev/skills, then build a multiplayer chat agent and run it locally.\u201d<p>We\u2019d love to get feedback on your experience with Rivet! We\u2019re deeply invested in making Rivet an easy-to-self-host, flexible, and efficient way to run agentic workloads.<p>GitHub: <a href=\"https://github.com/rivet-dev/rivet\" rel=\"nofollow\">https://github.com/rivet-dev/rivet</a><p>Architecture: <a href=\"https://rivet.dev/docs/architecture/\">https://rivet.dev/docs/architecture/</a><p>Benchmarks: <a href=\"https://rivet.dev/docs/benchmarking/\">https://rivet.dev/docs/benchmarking/</a><p>Self-hosting: <a href=\"https://rivet.dev/docs/deploy/self-host/\">https://rivet.dev/docs/deploy/self-host/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381687\">https://news.ycombinator.com/item?id=50381687</a></p>\n<p>Points: 49</p>\n<p># Comments: 27</p>",
+    "published": "Thu, 05 Nov 2026 17:17:42 +0000",
+    "link": "https://github.com/rivet-dev/rivet",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Nasdaq plummets 4% into correction territory",
+    "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html\">https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381623\">https://news.ycombinator.com/item?id=50381623</a></p>\n<p>Points: 138</p>\n<p># Comments: 106</p>",
+    "published": "Thu, 05 Nov 2026 17:11:15 +0000",
+    "link": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/bild-ai/jobs\">https://www.ycombinator.com/companies/bild-ai/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381512\">https://news.ycombinator.com/item?id=50381512</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Thu, 05 Nov 2026 17:01:23 +0000",
+    "link": "https://www.ycombinator.com/companies/bild-ai/jobs",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Window Sweaters",
+    "summary": "<p>Article URL: <a href=\"https://github.com/saragordic/window-sweaters\">https://github.com/saragordic/window-sweaters</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381383\">https://news.ycombinator.com/item?id=50381383</a></p>\n<p>Points: 135</p>\n<p># Comments: 51</p>",
+    "published": "Thu, 05 Nov 2026 16:50:14 +0000",
+    "link": "https://github.com/saragordic/window-sweaters",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "My psychophysics as a bilateral cochlear implant user",
+    "summary": "<p>Article URL: <a href=\"https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf\">https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381033\">https://news.ycombinator.com/item?id=50381033</a></p>\n<p>Points: 127</p>\n<p># Comments: 31</p>",
+    "published": "Thu, 05 Nov 2026 16:21:12 +0000",
+    "link": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "The Stacks Project, Formalized in Lean",
+    "summary": "<p>Article URL: <a href=\"https://axiommath.ai/research/the-stacks-project-formalized/\">https://axiommath.ai/research/the-stacks-project-formalized/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380979\">https://news.ycombinator.com/item?id=50380979</a></p>\n<p>Points: 48</p>\n<p># Comments: 10</p>",
+    "published": "Thu, 05 Nov 2026 16:16:59 +0000",
+    "link": "https://axiommath.ai/research/the-stacks-project-formalized/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Motorola Signature 27 with GrapheneOS support",
+    "summary": "<p>Article URL: <a href=\"https://motorolanews.com/motorola-signature-27-2/\">https://motorolanews.com/motorola-signature-27-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380810\">https://news.ycombinator.com/item?id=50380810</a></p>\n<p>Points: 289</p>\n<p># Comments: 199</p>",
+    "published": "Thu, 05 Nov 2026 16:01:34 +0000",
+    "link": "https://motorolanews.com/motorola-signature-27-2/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Stroq \u2013 a local audit of what your coding agent did and why",
+    "summary": "<p>Article URL: <a href=\"https://github.com/AGGIB/Stroq\">https://github.com/AGGIB/Stroq</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380704\">https://news.ycombinator.com/item?id=50380704</a></p>\n<p>Points: 45</p>\n<p># Comments: 9</p>",
+    "published": "Thu, 05 Nov 2026 15:54:41 +0000",
+    "link": "https://github.com/AGGIB/Stroq",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+    "summary": "<p>Article URL: <a href=\"https://kadhar.dev/blog/multi-agent-systems-from-scratch\">https://kadhar.dev/blog/multi-agent-systems-from-scratch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380658\">https://news.ycombinator.com/item?id=50380658</a></p>\n<p>Points: 54</p>\n<p># Comments: 20</p>",
+    "published": "Thu, 05 Nov 2026 15:51:57 +0000",
+    "link": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "We can do better than line-buffered output",
+    "summary": "<p>Article URL: <a href=\"https://nullprogram.com/blog/2026/11/05/\">https://nullprogram.com/blog/2026/11/05/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380268\">https://news.ycombinator.com/item?id=50380268</a></p>\n<p>Points: 65</p>\n<p># Comments: 5</p>",
+    "published": "Thu, 05 Nov 2026 15:25:22 +0000",
+    "link": "https://nullprogram.com/blog/2026/11/05/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",
+    "summary": "<p>Article URL: <a href=\"https://nordstjernen.org/\">https://nordstjernen.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380170\">https://news.ycombinator.com/item?id=50380170</a></p>\n<p>Points: 42</p>\n<p># Comments: 21</p>",
+    "published": "Thu, 05 Nov 2026 15:17:31 +0000",
+    "link": "https://nordstjernen.org/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+    "summary": "<p>Article URL: <a href=\"https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/\">https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50379704\">https://news.ycombinator.com/item?id=50379704</a></p>\n<p>Points: 462</p>\n<p># Comments: 87</p>",
+    "published": "Thu, 05 Nov 2026 14:44:20 +0000",
+    "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "September in Servo: <progress>, rounded rectangles, and more",
+    "summary": "<p>Article URL: <a href=\"https://servo.org/blog/2026/11/05/september-in-servo/\">https://servo.org/blog/2026/11/05/september-in-servo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50379576\">https://news.ycombinator.com/item?id=50379576</a></p>\n<p>Points: 146</p>\n<p># Comments: 30</p>",
+    "published": "Thu, 05 Nov 2026 14:34:18 +0000",
+    "link": "https://servo.org/blog/2026/11/05/september-in-servo/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "MCP Explained",
+    "summary": "<p>Article URL: <a href=\"https://mcp-explained.com/\">https://mcp-explained.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50379249\">https://news.ycombinator.com/item?id=50379249</a></p>\n<p>Points: 192</p>\n<p># Comments: 102</p>",
+    "published": "Thu, 05 Nov 2026 14:08:35 +0000",
+    "link": "https://mcp-explained.com/",
+    "source_name": "Hacker News"
+  }
+]
