@@ -1,0 +1,562 @@
+[
+  {
+    "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+    "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+    "published": "Mon, 09 Nov 2026 23:03:46 +0000",
+    "link": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
+    "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+    "published": "Mon, 09 Nov 2026 22:46:09 +0000",
+    "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "The race is on to sue Nvidia",
+    "summary": "Nvidia\u2019s stock slid more than 4% after its board opened an investigation into Jensen Huang\u2019s relationship with a suspected Chinese spy, and one securities law expert says the company\u2019s earlier insistence that it was all \u201cnormal\u201d could turn into a very expensive problem.",
+    "published": "Mon, 09 Nov 2026 22:23:42 +0000",
+    "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Fervo now has $12B in orders for its geothermal power tech",
+    "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+    "published": "Mon, 09 Nov 2026 20:55:34 +0000",
+    "link": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+    "published": "Mon, 09 Nov 2026 20:09:06 +0000",
+    "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+    "summary": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
+    "published": "Mon, 09 Nov 2026 19:39:41 +0000",
+    "link": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+    "published": "Mon, 09 Nov 2026 19:24:51 +0000",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+    "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+    "published": "Mon, 09 Nov 2026 19:21:46 +0000",
+    "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+    "summary": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
+    "published": "Mon, 09 Nov 2026 19:19:24 +0000",
+    "link": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Jensen Huang\u2019s affair with alleged Chinese spy puts Nvidia\u2019s China ambitions under scrutiny",
+    "summary": "Jensen Huang\u2019s alleged affair with a suspected Chinese spy threatens to complicate Nvidia\u2019s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China\u2019s lucrative AI market.",
+    "published": "Mon, 09 Nov 2026 18:09:52 +0000",
+    "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+    "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+    "published": "Mon, 09 Nov 2026 18:00:00 +0000",
+    "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+    "summary": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
+    "published": "Mon, 09 Nov 2026 17:00:00 +0000",
+    "link": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Anthropic joins AI\u2019s natural gas frenzy, buys $3.4B worth of turbines",
+    "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+    "published": "Mon, 09 Nov 2026 16:56:54 +0000",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Medium\u2019s new TK app brings AI assistance directly into the writing process",
+    "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+    "published": "Mon, 09 Nov 2026 16:12:28 +0000",
+    "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Meta expands Instagram\u2019s AI age-guessing tech globally",
+    "summary": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers \u2014 even if they use an adult birthday.",
+    "published": "Mon, 09 Nov 2026 15:32:27 +0000",
+    "link": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+    "summary": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
+    "published": "Mon, 09 Nov 2026 15:24:59 +0000",
+    "link": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
+    "summary": "The new music discovery app lets users scroll through 10- to 30-second snippets of songs, comment, and share with friends.",
+    "published": "Mon, 09 Nov 2026 14:00:00 +0000",
+    "link": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+    "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+    "published": "Mon, 09 Nov 2026 14:00:00 +0000",
+    "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+    "summary": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around eight months.",
+    "published": "Mon, 09 Nov 2026 13:43:28 +0000",
+    "link": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Tesla expands robotaxi service to San Antonio",
+    "summary": "This will be the next Texas city in which Tesla will launch robotaxis.",
+    "published": "Mon, 09 Nov 2026 11:30:24 +0000",
+    "link": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+    "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to [&#8230;]",
+    "published": "2026-11-09T18:07:59-05:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "MSI\u2019s refurbished QD-OLED gaming monitor is on sale for under $300",
+    "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI\u2019s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper than the full MSRP of $399.99. MSI\u2019s 27-inch screen is well-featured [&#8230;]",
+    "published": "2026-11-09T16:43:41-05:00",
+    "link": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The global pledge to use AI for climate good is a cruel joke",
+    "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a [&#8230;]",
+    "published": "2026-11-09T16:13:16-05:00",
+    "link": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Apple\u2019s $50 Intelligence Usage Packs extend access to some AI features",
+    "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set [&#8230;]",
+    "published": "2026-11-09T14:09:58-05:00",
+    "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+    "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable [&#8230;]",
+    "published": "2026-11-09T14:00:00-05:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
+    "summary": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at checkout knocks $11 off the usual cost of a three-month subscription. That brings [&#8230;]",
+    "published": "2026-11-09T13:35:25-05:00",
+    "link": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Instagram\u2019s Effect Builder makes new filters from AI prompts",
+    "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style [&#8230;]",
+    "published": "2026-11-09T13:07:23-05:00",
+    "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "James Gunn is out as DC movie leader",
+    "summary": "Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by former Marvel SVP of Production and Development Jeremy Latcham, Deadline reports. However, Gunn and Safran will \"continue to produce on various DC projects\" [&#8230;]",
+    "published": "2026-11-09T12:39:57-05:00",
+    "link": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The future of AI hinges on\u2026 Jensen Huang\u2019s sex life?",
+    "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - [&#8230;]",
+    "published": "2026-11-09T12:36:08-05:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Uber wants to park your car now, too",
+    "summary": "Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent acquisition of SpotHero, integrating a network of over 13,000 facilities across more than 400 cities into the company's [&#8230;]",
+    "published": "2026-11-09T12:00:00-05:00",
+    "link": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+    "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
+    "published": "Mon, 09 Nov 2026 21:55:35 +0000",
+    "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+    "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
+    "published": "Mon, 09 Nov 2026 21:13:39 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "A Sam Altman parody offers an amusing lesson in memory management",
+    "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+    "published": "Mon, 09 Nov 2026 20:49:09 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+    "summary": "\"*sshole\" poses a serious threat to Internet security.",
+    "published": "Mon, 09 Nov 2026 19:41:34 +0000",
+    "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Pentagon mulls placing fleet of military satellites around the Moon",
+    "summary": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
+    "published": "Mon, 09 Nov 2026 19:08:37 +0000",
+    "link": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+    "published": "Mon, 09 Nov 2026 17:24:26 +0000",
+    "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+    "summary": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
+    "published": "Mon, 09 Nov 2026 15:39:21 +0000",
+    "link": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Nvidia CEO's affair becomes a national security problem",
+    "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+    "published": "Mon, 09 Nov 2026 15:23:20 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "F1 in Brazil: You\u2019ve got to keep your tires alive",
+    "summary": "A topsy-turvy grid and intermittent rain resulted in a very entertaining race.",
+    "published": "Mon, 09 Nov 2026 15:16:31 +0000",
+    "link": "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+    "summary": "\"There\u2019s no doubt that whatever it\u2019s going to be called, it won\u2019t be called Golden Dome.\"",
+    "published": "Mon, 09 Nov 2026 12:00:05 +0000",
+    "link": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+    "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+    "published": "Sun, 08 Nov 2026 12:15:31 +0000",
+    "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+    "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+    "published": "Sat, 07 Nov 2026 12:15:55 +0000",
+    "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+    "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+    "published": "Sat, 07 Nov 2026 11:00:34 +0000",
+    "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Doctors pull knife from man's eye that went through his brain\u2014and he's fine now",
+    "summary": "It's the exact path, not the apparent severity, that matters most, doctors say.",
+    "published": "Fri, 06 Nov 2026 23:09:45 +0000",
+    "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+    "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+    "published": "Fri, 06 Nov 2026 22:41:37 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+    "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
+    "published": "Fri, 06 Nov 2026 22:08:47 +0000",
+    "link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+    "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+    "published": "Fri, 06 Nov 2026 20:56:41 +0000",
+    "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Earth's churning mantle may have created the Great Unconformity",
+    "summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
+    "published": "Fri, 06 Nov 2026 20:24:20 +0000",
+    "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
+    "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
+    "published": "Fri, 06 Nov 2026 20:05:30 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
+    "summary": "Developer: \u201cI can\u2019t be part of the Fox world.\u201d",
+    "published": "Fri, 06 Nov 2026 19:50:18 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The backlash about data centers might really just be about electricity",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what\u2019s known as Data Center Alley\u2014the world\u2019s largest data center hub. It\u2019s also where&#8230;",
+    "published": "Mon, 09 Nov 2026 19:35:33 +0000",
+    "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Nancy Pelosi\u2019s replacement is ready to regulate AI",
+    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi\u2019s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with Wiener on Friday, only a&#8230;",
+    "published": "Mon, 09 Nov 2026 17:05:43 +0000",
+    "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made\u00a0 \u2014By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air Resources Board,&#8230;",
+    "published": "Mon, 09 Nov 2026 13:15:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Innovating with AI in the special chemicals industry",
+    "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed&#8230;",
+    "published": "Mon, 09 Nov 2026 13:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The climate case for AI has not been made",
+    "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action. But so far, industries around the world&#8230;",
+    "published": "Mon, 09 Nov 2026 10:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. \u2014Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in&#8230;",
+    "published": "Fri, 06 Nov 2026 13:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "summary": "I\u2019m not the sort of person who typically pays for a house cleaner. I\u2019m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
+    "published": "Fri, 06 Nov 2026 10:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: Texas\u2019s fragile AI boom\u00a0and energy policy shifts",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s&#8230;",
+    "published": "Thu, 05 Nov 2026 13:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "A new bill could change how the US builds energy infrastructure",
+    "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week\u2019s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It\u2019s a plan that could finally&#8230;",
+    "published": "Thu, 05 Nov 2026 10:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;",
+    "published": "Wed, 04 Nov 2026 18:50:55 +0000",
+    "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "A year after the 100% AI mandate nobody understands our code",
+    "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/\">https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50433079\">https://news.ycombinator.com/item?id=50433079</a></p>\n<p>Points: 34</p>\n<p># Comments: 18</p>",
+    "published": "Mon, 09 Nov 2026 22:19:12 +0000",
+    "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "TPUs",
+    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/\">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50432831\">https://news.ycombinator.com/item?id=50432831</a></p>\n<p>Points: 45</p>\n<p># Comments: 1</p>",
+    "published": "Mon, 09 Nov 2026 21:56:57 +0000",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/claude-fable-5-2\">https://artificialanalysis.ai/models/claude-fable-5-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50431144\">https://news.ycombinator.com/item?id=50431144</a></p>\n<p>Points: 202</p>\n<p># Comments: 119</p>",
+    "published": "Mon, 09 Nov 2026 20:04:55 +0000",
+    "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "USPS now offers official ZIP Code boundary polygons",
+    "summary": "<p>Article URL: <a href=\"https://postalpro.usps.com/zcb\">https://postalpro.usps.com/zcb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50431058\">https://news.ycombinator.com/item?id=50431058</a></p>\n<p>Points: 328</p>\n<p># Comments: 165</p>",
+    "published": "Mon, 09 Nov 2026 19:58:59 +0000",
+    "link": "https://postalpro.usps.com/zcb",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+    "summary": "<p>Article URL: <a href=\"https://parkgraph.com/parking-app-fees\">https://parkgraph.com/parking-app-fees</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50430991\">https://news.ycombinator.com/item?id=50430991</a></p>\n<p>Points: 30</p>\n<p># Comments: 12</p>",
+    "published": "Mon, 09 Nov 2026 19:55:53 +0000",
+    "link": "https://parkgraph.com/parking-app-fees",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "CUI \u2013 Native UI components for C",
+    "summary": "<p>Article URL: <a href=\"https://yappologistic.github.io/CUI/\">https://yappologistic.github.io/CUI/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50430621\">https://news.ycombinator.com/item?id=50430621</a></p>\n<p>Points: 121</p>\n<p># Comments: 62</p>",
+    "published": "Mon, 09 Nov 2026 19:35:16 +0000",
+    "link": "https://yappologistic.github.io/CUI/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-2\">https://www.anthropic.com/claude-fable-and-mythos-5-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429906\">https://news.ycombinator.com/item?id=50429906</a></p>\n<p>Points: 817</p>\n<p># Comments: 481</p>",
+    "published": "Mon, 09 Nov 2026 18:56:29 +0000",
+    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Someone Was Here \u2013 Find out who used your Mac while you were away",
+    "summary": "<p>Many thanks to my ex for inspiring my new MacOS app, Someone Was Here.<p>It takes a photo of whoever uses your Mac while you're away, whether you left it unlocked or they know your password, and sends their photo to your iPhone if the face isn't yours.<p>I built Someone Was Here as a menu bar app making use of Apple Vision and a local face recognition run via Core ML. It all runs locally on your Mac with no tracking or ads.<p>Real-time remote alerts are available via one-time $4.99 lifetime purchase via the free companion iPhone/iPad app, Pushover, ntfy, Telegram or a webhook.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429812\">https://news.ycombinator.com/item?id=50429812</a></p>\n<p>Points: 33</p>\n<p># Comments: 18</p>",
+    "published": "Mon, 09 Nov 2026 18:50:56 +0000",
+    "link": "https://someonewashere.app/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "E-means: 10x faster k-means at equal loss",
+    "summary": "<p>Article URL: <a href=\"https://e-means.github.io/\">https://e-means.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429734\">https://news.ycombinator.com/item?id=50429734</a></p>\n<p>Points: 217</p>\n<p># Comments: 11</p>",
+    "published": "Mon, 09 Nov 2026 18:45:43 +0000",
+    "link": "https://e-means.github.io/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+    "summary": "<p>Hey HN and Cats, thank you for checking this out!<p>Github:\n<a href=\"https://github.com/raiseCatError/meowdisplay\" rel=\"nofollow\">https://github.com/raiseCatError/meowdisplay</a><p>EDIT 2: I should've mentioned that MeowDisplay started as a fork of OpenDisplay: <a href=\"https://github.com/peetzweg/opendisplay\" rel=\"nofollow\">https://github.com/peetzweg/opendisplay</a>\nwhich provided the foundational screen capture, virtual display, encoding and iPhone/iPad receivers. I've since taken it in a more phone-first direction, with work on the interaction, streaming and security layers. I've credited OpenDisplay and its developer Philip in the README under \"Built on OpenDisplay\".<p>MeowDisplay is my take on the control your Mac from your phone scene. Available on iPhones, iPads and Macs, with Android rn in closed testing.<p>The website has interactive illustrative demos if you'd like to see the app demonstrated.<p>I think MeowDisplay does a few things differently, some of which I prefer and you might too.<p>Such as Window view: allowing multiple tabs in split-screen type panes. Traditional Mirror/Extend views exist as alternatives. \nFloating windows: coming in the 2.1 release.<p>Touch input approaches: Direct Touch(Classic or Natural), experimental Smart Touch, and Trackpad mode alongside Apple Pencil support. Doesn't sacrifice display space for a trackpad, use all of the phone's screen with your preferred mode.<p>Stage Peek: shows a scrollable and searchable list of your Mac's windows on your phone along with an app drawer when you hold and pull on the left edge of your screen.<p>It's free and open source so you can try it and see if it's for you without having to commit to it or anything.<p>EDIT: I've used MeowDisplay during development whilst I was travelling between cities, left my acbook at home clamshell, powered, external display attached, and used it for small tasks remotely, it was pretty reliable even on a 5G network on a moving bus.<p>Meow,\nJai</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429636\">https://news.ycombinator.com/item?id=50429636</a></p>\n<p>Points: 66</p>\n<p># Comments: 25</p>",
+    "published": "Mon, 09 Nov 2026 18:39:22 +0000",
+    "link": "https://meowdisplay.app/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+    "summary": "<p>Article URL: <a href=\"https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/\">https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429545\">https://news.ycombinator.com/item?id=50429545</a></p>\n<p>Points: 122</p>\n<p># Comments: 21</p>",
+    "published": "Mon, 09 Nov 2026 18:33:58 +0000",
+    "link": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+    "summary": "<p>Article URL: <a href=\"https://www.infineon.com/press-release/2026/infpr202611-028\">https://www.infineon.com/press-release/2026/infpr202611-028</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429430\">https://news.ycombinator.com/item?id=50429430</a></p>\n<p>Points: 84</p>\n<p># Comments: 43</p>",
+    "published": "Mon, 09 Nov 2026 18:25:01 +0000",
+    "link": "https://www.infineon.com/press-release/2026/infpr202611-028",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Google Gemini routes personal Drive files and emails to human annotators",
+    "summary": "<p>Article URL: <a href=\"https://github.com/thisisme6598/gemini_files/\">https://github.com/thisisme6598/gemini_files/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429426\">https://news.ycombinator.com/item?id=50429426</a></p>\n<p>Points: 241</p>\n<p># Comments: 47</p>",
+    "published": "Mon, 09 Nov 2026 18:24:38 +0000",
+    "link": "https://github.com/thisisme6598/gemini_files/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: STE80 Humanizer \u2013 de-AI text by writing 80% of the way to ASD-STE100",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Dodaios/ste80-humanizer\">https://github.com/Dodaios/ste80-humanizer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429144\">https://news.ycombinator.com/item?id=50429144</a></p>\n<p>Points: 35</p>\n<p># Comments: 5</p>",
+    "published": "Mon, 09 Nov 2026 18:05:44 +0000",
+    "link": "https://github.com/Dodaios/ste80-humanizer",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Our Smallest, Most Efficient Model: Muse Ember",
+    "summary": "<p>Article URL: <a href=\"https://research.meta.ai/blog/muse-ember\">https://research.meta.ai/blog/muse-ember</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429024\">https://news.ycombinator.com/item?id=50429024</a></p>\n<p>Points: 213</p>\n<p># Comments: 87</p>",
+    "published": "Mon, 09 Nov 2026 17:58:46 +0000",
+    "link": "https://research.meta.ai/blog/muse-ember",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+    "summary": "<p>hey HN, i built this because i wanted to know what had actually photographed my street.<p>type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak catalog, runs in your browser in about half a second), then pulls the real Sentinel-2 / Landsat / NASA images from those passes.<p>some fun bits:\n- the pass search can't skip a pass. checked it against a brute force on poles, the antimeridian and tiny swaths: 0 missed\n- all ~17k objects in orbit are drawn on the GPU, solving Kepler's equation every frame\n- Sentinel-2 timestamps are often 5-10 min off from when the sat actually crosses your spot, which was a fun one to figure out<p>it only says \"watched\" if a real image exists, and it doesn't store your location.<p>code: <a href=\"https://github.com/dev-Armaan/satellites\" rel=\"nofollow\">https://github.com/dev-Armaan/satellites</a><p>would love feedback, especially on what data sources to add</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50428907\">https://news.ycombinator.com/item?id=50428907</a></p>\n<p>Points: 181</p>\n<p># Comments: 39</p>",
+    "published": "Mon, 09 Nov 2026 17:51:31 +0000",
+    "link": "https://www.watched.earth",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+    "summary": "<p>Article URL: <a href=\"https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/\">https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50428801\">https://news.ycombinator.com/item?id=50428801</a></p>\n<p>Points: 264</p>\n<p># Comments: 226</p>",
+    "published": "Mon, 09 Nov 2026 17:42:55 +0000",
+    "link": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer\">https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50428266\">https://news.ycombinator.com/item?id=50428266</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "Mon, 09 Nov 2026 17:00:06 +0000",
+    "link": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: DBDelve \u2013 Open-Source DB Client Made with Rust and GPUI",
+    "summary": "<p>Hi HN, I\u2019m Shayan and a few months ago I started building a DB Client DBDelve with a focus on performance and just making something that feels good to use (in the spirit of Zed, Ghostty, and other tools that just feel pleasant to use).<p>For my workflow I\u2019ve always looked for performance, especially since some time ago I had a really outdated machine and any kind of bloat was really noticeable, I remember using DBeaver and it just crashing on me multiple times, I also had to use postGIS which just made it worse. I migrated all my essential dev tools to use the ones with performance in mind (Zed, Ghostty etc) but the only thing that was missing was DB Client. The main choices everyone has are DBeaver which is a memory hog and an overkill for most of the tasks imo. The other options like Datagrid, Beekeeper, TablePlus are either electron based so bloated and memory hogs or paid and closed-source.<p>DBDelve 0.3.6 against DBeaver 25.3.1 on the same Postgres table, median of 5 runs each (2026-10-11, M1 Pro, 32 GB). Times are from the action to the rows rendered.<p><pre><code>                            DBDelve   DBeaver\n  Launch                    1.1 s     5.2 s\n  Idle memory               133 MB    606 MB\n  1,000-row query           0.21 s    1.96 s\n  1M rows, time             56 s      208 s\n  1M rows, memory [1]       4.9 GB    17 GB\n</code></pre>\n[1] The whole 1M-row, 100-column table pulled into memory on purpose, with the row limit off. Not a normal use case; DBeaver's heap limit had to be raised manually for the benchmark.<p>Scrolling perf with 1 million rows loaded with 100 columns each: <a href=\"https://youtu.be/V2MOhJYFqIE\" rel=\"nofollow\">https://youtu.be/V2MOhJYFqIE</a><p>It has most of the features most devs would need for 90% of their workflow plus some more I thought would be a nice touch:\nReadonly, read-write and Full Access modes\nGlass themes (If you\u2019re into them, I am)\nKeyboard focused with every keybinding customizable\nOrganization of connections into projects<p>Me and some other folks have been daily driving it for more than a month now and most good feedback comes on it having a really simple UI to navigate, very stable for its age and the performance of course. I\u2019m also sharing here because those people tell me this has potential to grow so I\u2019m trying my hand at distributing it.<p>Just want to give a huge shoutout here to the Zed team for GPUI, it's a breeze to work with if you just get through them not updating the crate officially on crates.io but the community has found the solutions for it, you just have to dig deep for it. It performs extremely well and just the HTML-like structure of it, makes it easy to understand for someone from a web dev background and agents are very good at writing it too. GPUI component also solves a lot of problems with having a good component library we can use. I think for anyone starting a GPUI project now, GPUI-kit makes a lot of sense, it just bundles GPUI, GPUI-component together and has some optimizations adding retained mode which is experimental but could provide a lot of benefit, so think all things considered it should be the default way.<p>The major optimization I did was just lowering the memory overhead by using packed rows which reduced the memory usage by 40% on large datasets (8.1GB to 4.9GB on a 4GB table loaded in app), everything else came bundled in with Rust and GPUI mostly or they just made it very easy.<p>Limitations:\nIt's not signed and notarized, identity verification from apple's side has been a nightmare but it should be signed soon.\nDon\u2019t expect feature parity with more mature clients for now, the general direction of this right now is the zed way of adding features in but after making sure the core workflows are done with a high quality.<p>Do give it a try, you can import your connections from dbeaver and tableplus.<p><a href=\"https://github.com/ShayanAbbas1/dbdelve\" rel=\"nofollow\">https://github.com/ShayanAbbas1/dbdelve</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50427934\">https://news.ycombinator.com/item?id=50427934</a></p>\n<p>Points: 85</p>\n<p># Comments: 31</p>",
+    "published": "Mon, 09 Nov 2026 16:36:38 +0000",
+    "link": "https://news.ycombinator.com/item?id=50427934",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+    "summary": "<p>Article URL: <a href=\"https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy\">https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50427362\">https://news.ycombinator.com/item?id=50427362</a></p>\n<p>Points: 435</p>\n<p># Comments: 242</p>",
+    "published": "Mon, 09 Nov 2026 16:00:45 +0000",
+    "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+    "source_name": "Hacker News"
+  }
+]
