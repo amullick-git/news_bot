@@ -1,0 +1,562 @@
+[
+  {
+    "title": "This young startup wants to power floating data centers with the ocean\u2019s heat, and investors are already on board",
+    "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
+    "published": "Fri, 13 Nov 2026 20:07:24 +0000",
+    "link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+    "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh oh, Jensen!",
+    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+    "published": "Fri, 13 Nov 2026 18:40:30 +0000",
+    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
+    "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+    "published": "Fri, 13 Nov 2026 16:00:12 +0000",
+    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "published": "Fri, 13 Nov 2026 15:58:00 +0000",
+    "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Uber confirms hackers stole thousands of drivers\u2019 license information in data breach",
+    "summary": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+    "published": "Fri, 13 Nov 2026 14:57:55 +0000",
+    "link": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "ElevenLabs\u2019 new app combines meeting note-taking and dictation for teams",
+    "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+    "published": "Fri, 13 Nov 2026 14:44:48 +0000",
+    "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Microsoft\u2019s latest email outage turned into a full-blown global cloud crisis",
+    "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+    "published": "Fri, 13 Nov 2026 13:15:20 +0000",
+    "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Israel\u2019s VCs see opportunity for challengers in Nvidia\u2019s turmoil",
+    "summary": "Given Nvidia\u2019s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+    "published": "Fri, 13 Nov 2026 12:52:19 +0000",
+    "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Jensen Huang didn\u2019t show confidence in his successor, report says",
+    "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+    "published": "Fri, 13 Nov 2026 12:28:23 +0000",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
+    "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+    "published": "Thu, 12 Nov 2026 22:42:51 +0000",
+    "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Muse can now place calls to US businesses \u2014 if you pay",
+    "summary": "Muse's AI can now place outbound calls to U.S. businesses \u2014 but it's not free.",
+    "published": "Thu, 12 Nov 2026 22:22:28 +0000",
+    "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+    "published": "Thu, 12 Nov 2026 21:27:10 +0000",
+    "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+    "published": "Thu, 12 Nov 2026 20:26:47 +0000",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Google\u2019s latest Search upgrade promises better answers to your most complicated questions",
+    "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+    "published": "Thu, 12 Nov 2026 19:27:45 +0000",
+    "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+    "published": "Thu, 12 Nov 2026 19:11:00 +0000",
+    "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Jensen Huang\u2019s exit puts Nvidia\u2019s support for open source in question",
+    "summary": "Jensen Huang\u2019s resignation raises questions about Nvidia\u2019s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+    "published": "Thu, 12 Nov 2026 18:39:23 +0000",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang\u2019s exit",
+    "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+    "published": "Thu, 12 Nov 2026 17:36:40 +0000",
+    "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+    "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+    "published": "Thu, 12 Nov 2026 17:17:58 +0000",
+    "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "SoftBank\u2019s billion-dollar loss may have put a cap on AI\u2019s natural gas ambitions",
+    "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+    "published": "Thu, 12 Nov 2026 17:00:52 +0000",
+    "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+    "source_name": "TechCrunch"
+  },
+  {
+    "title": "ChatGPT Wallet lets OpenAI\u2019s Dots agents make purchases for you",
+    "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card [&#8230;]",
+    "published": "2026-11-13T15:45:10-05:00",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "CMF\u2019s milk carton-shaped Bluetooth speaker is down to a new low price",
+    "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing\u2019s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That\u2019s a solid $20 discount and the lowest price we\u2019ve seen on Nothing\u2019s newfangled wireless speaker, [&#8230;]",
+    "published": "2026-11-13T15:30:00-05:00",
+    "link": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Here\u2019s how you can save on your GTA VI preorder ahead of launch",
+    "summary": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there\u2019s a clever workaround to save you a few bucks on your digital copy. We found discounts on gift cards for both Sony PlayStation and Microsoft Xbox Series [&#8230;]",
+    "published": "2026-11-13T14:14:38-05:00",
+    "link": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "You can adjust the position of the trackball on Keychron\u2019s new wireless mouse",
+    "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already available from companies like Logitech and Kensington with a 34mm ball positioned [&#8230;]",
+    "published": "2026-11-13T13:10:41-05:00",
+    "link": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Jensen Huang was reckless with the environment, too",
+    "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set the stage for a looming e-waste problem. Under Huang's [&#8230;]",
+    "published": "2026-11-13T12:44:22-05:00",
+    "link": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The smallest version of Camp Snap\u2019s retro digital camcorder fits on your keychain",
+    "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp Snap's new CS-8 Micro is even smaller than the [&#8230;]",
+    "published": "2026-11-13T12:12:56-05:00",
+    "link": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The new Apple TV has a YouTube problem",
+    "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying \"YouTube is not yet available on this device.\" In [&#8230;]",
+    "published": "2026-11-13T11:55:57-05:00",
+    "link": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "Microsoft&#8217;s massive Outlook outage might be over",
+    "summary": "Service is recovering for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state on Friday morning, some people (including Verge staffers) reported that access to their emails had been restored, though the flow of Outlook mail [&#8230;]",
+    "published": "2026-11-13T11:17:11-05:00",
+    "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "The Verge\u2019s 2026 gift guide for dads",
+    "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you. We've curated this [&#8230;]",
+    "published": "2026-11-13T11:00:00-05:00",
+    "link": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "My favorite recipe app just got a big upgrade \u2014 and a subscription fee",
+    "summary": "Nearly 10 years after the launch of Paprika 3, the recipe-managing, pantry-organizing, grocery list-making app has gotten a big upgrade that adds more functionality to nearly every corner of the experience. I tested Paprika 4 for several weeks while it was in open beta, and the update recently launched across Android (the version I've been [&#8230;]",
+    "published": "2026-11-13T11:00:00-05:00",
+    "link": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on",
+    "source_name": "The Verge"
+  },
+  {
+    "title": "In elephants, the resilience of communities has its limits",
+    "summary": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
+    "published": "Fri, 13 Nov 2026 20:03:13 +0000",
+    "link": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+    "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+    "published": "Fri, 13 Nov 2026 19:49:16 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+    "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+    "published": "Fri, 13 Nov 2026 17:25:45 +0000",
+    "link": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+    "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+    "published": "Fri, 13 Nov 2026 16:26:32 +0000",
+    "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Microsoft\u2019s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+    "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
+    "published": "Fri, 13 Nov 2026 15:26:53 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
+    "summary": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death.",
+    "published": "Fri, 13 Nov 2026 15:09:39 +0000",
+    "link": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
+    "summary": "What\u2019s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
+    "published": "Fri, 13 Nov 2026 14:45:04 +0000",
+    "link": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Scientists warn 1.5\u00b0C climate change threshold could arrive by 2029",
+    "summary": "Climate action has stalled for five years as fossil fuel development keeps growing.",
+    "published": "Fri, 13 Nov 2026 14:29:15 +0000",
+    "link": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
+    "summary": "\"You can simplify it as a big tank feeding engines.\"",
+    "published": "Fri, 13 Nov 2026 12:00:40 +0000",
+    "link": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Specialized\u2019s Tarmac SL9 S-Level is built to wreck your Zone 2 ride",
+    "summary": "Specialized\u2019s second-fastest bike may be the smart buy.",
+    "published": "Fri, 13 Nov 2026 11:50:38 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
+    "summary": "Men aged 50\u201369 and at average risk should get PSA screening every two years.",
+    "published": "Thu, 12 Nov 2026 22:59:51 +0000",
+    "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "summary": "Airlines praised the AI tool, but the air traffic controllers\u2019 union wasn\u2019t involved.",
+    "published": "Thu, 12 Nov 2026 22:28:47 +0000",
+    "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+    "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
+    "published": "Thu, 12 Nov 2026 19:59:59 +0000",
+    "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
+    "summary": "N-Gage exclusive <em>Shadowkey</em> gets an AI-coded glow-up with plenty of new features.",
+    "published": "Thu, 12 Nov 2026 19:49:11 +0000",
+    "link": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+    "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+    "published": "Thu, 12 Nov 2026 19:23:03 +0000",
+    "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Ukraine says it can\u2019t stop Russian strikes because Starshield is limited again",
+    "summary": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
+    "published": "Thu, 12 Nov 2026 19:09:57 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+    "summary": "Families confront Google after teen\u2019s lawsuit labels Gemini a \u201csuicide coach.\u201d",
+    "published": "Thu, 12 Nov 2026 18:57:45 +0000",
+    "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Netflix releases new trailer for Ray Gunn",
+    "summary": "\"It's hard being the only honest players in a crooked game.\"",
+    "published": "Thu, 12 Nov 2026 18:38:38 +0000",
+    "link": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\"",
+    "summary": "\"We're not doing this thing because we like rockets.\"",
+    "published": "Thu, 12 Nov 2026 18:28:22 +0000",
+    "link": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
+    "summary": "Doctors warn that such life-threatening cases are becoming more common.",
+    "published": "Thu, 12 Nov 2026 18:17:19 +0000",
+    "link": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
+    "source_name": "Ars Technica"
+  },
+  {
+    "title": "The Download: Silicon Valley\u2019s blind spot and Nvidia\u2019s chip-tracking plan",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? \u2014Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries&#8230;",
+    "published": "Fri, 13 Nov 2026 13:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+    "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to \u201cspeak.\u201d The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their&#8230;",
+    "published": "Fri, 13 Nov 2026 10:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+    "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta\u2019s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned&#8230;",
+    "published": "Fri, 13 Nov 2026 10:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were \u201cpotentially infeasible.\u201d\u00a0 Foster, a Democrat who serves on the Committee on&#8230;",
+    "published": "Thu, 12 Nov 2026 20:16:24 +0000",
+    "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: COP31\u2019s climate challenge and the quest for immortality",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year\u2019s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year\u2019s negotiations&#8230;",
+    "published": "Thu, 12 Nov 2026 13:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "What to know about this year\u2019s UN climate talks",
+    "summary": "It\u2019s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this&#8230;",
+    "published": "Wed, 11 Nov 2026 17:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: preserving minds and weighing open AI risks",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we\u2019ve experienced, yet there\u2019s still undeniable continuity: At 30, or 50, or 70, you will still&#8230;",
+    "published": "Wed, 11 Nov 2026 13:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: Pelosi\u2019s successor targets AI and data centers face power woes",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi\u2019s replacement is ready to regulate AI \u2014Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a&#8230;",
+    "published": "Tue, 10 Nov 2026 13:10:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Evolving metal extraction processes",
+    "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems&#8230;",
+    "published": "Tue, 10 Nov 2026 13:00:00 +0000",
+    "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "The backlash about data centers might really just be about electricity",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what\u2019s known as Data Center Alley\u2014the world\u2019s largest data center hub. It\u2019s also where&#8230;",
+    "published": "Mon, 09 Nov 2026 19:35:33 +0000",
+    "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "source_name": "MIT Technology Review"
+  },
+  {
+    "title": "Big tech is here to let us down",
+    "summary": "<p>Article URL: <a href=\"https://blog.jsweeting.me/big-tech-is-here-to-let-us-down\">https://blog.jsweeting.me/big-tech-is-here-to-let-us-down</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50489083\">https://news.ycombinator.com/item?id=50489083</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+    "published": "Fri, 13 Nov 2026 20:20:30 +0000",
+    "link": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "No AI Slop: A Manifesto",
+    "summary": "<p>Article URL: <a href=\"https://www.slopmanifesto.com/\">https://www.slopmanifesto.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50488769\">https://news.ycombinator.com/item?id=50488769</a></p>\n<p>Points: 35</p>\n<p># Comments: 9</p>",
+    "published": "Fri, 13 Nov 2026 19:51:56 +0000",
+    "link": "https://www.slopmanifesto.com/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Someone's Impersonating This Blog",
+    "summary": "<p>Article URL: <a href=\"https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/\">https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50488664\">https://news.ycombinator.com/item?id=50488664</a></p>\n<p>Points: 34</p>\n<p># Comments: 0</p>",
+    "published": "Fri, 13 Nov 2026 19:41:09 +0000",
+    "link": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Technology as a Search Problem",
+    "summary": "<p>Article URL: <a href=\"https://www.construction-physics.com/p/technology-as-a-search-problem\">https://www.construction-physics.com/p/technology-as-a-search-problem</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50488490\">https://news.ycombinator.com/item?id=50488490</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+    "published": "Fri, 13 Nov 2026 19:27:15 +0000",
+    "link": "https://www.construction-physics.com/p/technology-as-a-search-problem",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Found: A protein that drives ageing without unleashing inflammation",
+    "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-03638-3\">https://www.nature.com/articles/d41586-026-03638-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50488470\">https://news.ycombinator.com/item?id=50488470</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
+    "published": "Fri, 13 Nov 2026 19:25:21 +0000",
+    "link": "https://www.nature.com/articles/d41586-026-03638-3",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+    "summary": "<p>Article URL: <a href=\"https://www.perplexity.ai/hub/blog/perplexity-decider\">https://www.perplexity.ai/hub/blog/perplexity-decider</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50488464\">https://news.ycombinator.com/item?id=50488464</a></p>\n<p>Points: 30</p>\n<p># Comments: 7</p>",
+    "published": "Fri, 13 Nov 2026 19:24:47 +0000",
+    "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "FM-1 Workbench",
+    "summary": "<p>Article URL: <a href=\"https://open.m-vave.com/fm1-workbench\">https://open.m-vave.com/fm1-workbench</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50488325\">https://news.ycombinator.com/item?id=50488325</a></p>\n<p>Points: 72</p>\n<p># Comments: 38</p>",
+    "published": "Fri, 13 Nov 2026 19:14:02 +0000",
+    "link": "https://open.m-vave.com/fm1-workbench",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+    "summary": "<p>Article URL: <a href=\"https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas\">https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487864\">https://news.ycombinator.com/item?id=50487864</a></p>\n<p>Points: 53</p>\n<p># Comments: 21</p>",
+    "published": "Fri, 13 Nov 2026 18:40:44 +0000",
+    "link": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Models can now transmit viruses in weight-space",
+    "summary": "<p>Article URL: <a href=\"https://www.alphaxiv.org/abs/2611.weight-space-misfolding\">https://www.alphaxiv.org/abs/2611.weight-space-misfolding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487762\">https://news.ycombinator.com/item?id=50487762</a></p>\n<p>Points: 97</p>\n<p># Comments: 35</p>",
+    "published": "Fri, 13 Nov 2026 18:33:35 +0000",
+    "link": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Microsoft outage gives customers a crash course in dependence on Redmond",
+    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805\">https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487688\">https://news.ycombinator.com/item?id=50487688</a></p>\n<p>Points: 36</p>\n<p># Comments: 6</p>",
+    "published": "Fri, 13 Nov 2026 18:29:16 +0000",
+    "link": "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+    "summary": "<p>Article URL: <a href=\"https://toninoble.com/post/ctrlc-ctrlv-ctrlcve\">https://toninoble.com/post/ctrlc-ctrlv-ctrlcve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487605\">https://news.ycombinator.com/item?id=50487605</a></p>\n<p>Points: 33</p>\n<p># Comments: 15</p>",
+    "published": "Fri, 13 Nov 2026 18:23:49 +0000",
+    "link": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+    "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/\">https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487522\">https://news.ycombinator.com/item?id=50487522</a></p>\n<p>Points: 142</p>\n<p># Comments: 63</p>",
+    "published": "Fri, 13 Nov 2026 18:18:37 +0000",
+    "link": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
+    "summary": "<p>Technical Write-up: <a href=\"https://www.justinchavez.com/blog/isometric-sf-how/\" rel=\"nofollow\">https://www.justinchavez.com/blog/isometric-sf-how/</a><p>Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon various famous landmarks like Apple Park, Palace of Fine Arts, or UC Berkeley.<p>The technicals involve using Nano Banana 2 to train a Qwen-Image-Edit 2511 LoRA which is used to prototype the style and generation methods. For final map I used Qwen to train a Klein 4B LoRA which reproduced the style at 1/4 of the cost. More details in the blog post.<p>Let me know what you think! I really enjoyed this process of fine-tuning smaller open source models.<p>If I did the map with Nano Banana 2 it would have cost around 7k USD!<p>Credit for the idea goes to Isometric NYC.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487228\">https://news.ycombinator.com/item?id=50487228</a></p>\n<p>Points: 80</p>\n<p># Comments: 29</p>",
+    "published": "Fri, 13 Nov 2026 17:58:37 +0000",
+    "link": "https://isometricsf.com/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "After 600 experiments, here's what I discovered about JEPA world models",
+    "summary": "<p>Article URL: <a href=\"https://haddyalchaer.com/jepa\">https://haddyalchaer.com/jepa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487185\">https://news.ycombinator.com/item?id=50487185</a></p>\n<p>Points: 146</p>\n<p># Comments: 28</p>",
+    "published": "Fri, 13 Nov 2026 17:55:28 +0000",
+    "link": "https://haddyalchaer.com/jepa",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "OpenAI disbands its robotics team as its general models start running robots",
+    "summary": "<p>Article URL: <a href=\"https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/\">https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487184\">https://news.ycombinator.com/item?id=50487184</a></p>\n<p>Points: 96</p>\n<p># Comments: 30</p>",
+    "published": "Fri, 13 Nov 2026 17:55:23 +0000",
+    "link": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths\">https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486748\">https://news.ycombinator.com/item?id=50486748</a></p>\n<p>Points: 224</p>\n<p># Comments: 57</p>",
+    "published": "Fri, 13 Nov 2026 17:30:10 +0000",
+    "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Concurrent Shell Command Queues",
+    "summary": "<p>Article URL: <a href=\"https://emmer.dev/blog/concurrent-shell-command-queues/\">https://emmer.dev/blog/concurrent-shell-command-queues/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486521\">https://news.ycombinator.com/item?id=50486521</a></p>\n<p>Points: 15</p>\n<p># Comments: 5</p>",
+    "published": "Fri, 13 Nov 2026 17:13:01 +0000",
+    "link": "https://emmer.dev/blog/concurrent-shell-command-queues/",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "LibreOffice actually works 365 days a year",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/LibreOffice/status/2121205272479998268\">https://twitter.com/LibreOffice/status/2121205272479998268</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486482\">https://news.ycombinator.com/item?id=50486482</a></p>\n<p>Points: 669</p>\n<p># Comments: 218</p>",
+    "published": "Fri, 13 Nov 2026 17:09:58 +0000",
+    "link": "https://twitter.com/LibreOffice/status/2121205272479998268",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "Apify Security Incident",
+    "summary": "<p>Article URL: <a href=\"https://status.apify.com/incidents/sxd1dj5j6749\">https://status.apify.com/incidents/sxd1dj5j6749</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486258\">https://news.ycombinator.com/item?id=50486258</a></p>\n<p>Points: 68</p>\n<p># Comments: 10</p>",
+    "published": "Fri, 13 Nov 2026 16:55:59 +0000",
+    "link": "https://status.apify.com/incidents/sxd1dj5j6749",
+    "source_name": "Hacker News"
+  },
+  {
+    "title": "North Korean hackers used fake video calls in $400M crypto hack, says FBI",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cqdj1ellpd70o\">https://www.bbc.com/news/articles/cqdj1ellpd70o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486178\">https://news.ycombinator.com/item?id=50486178</a></p>\n<p>Points: 74</p>\n<p># Comments: 26</p>",
+    "published": "Fri, 13 Nov 2026 16:50:22 +0000",
+    "link": "https://www.bbc.com/news/articles/cqdj1ellpd70o",
+    "source_name": "Hacker News"
+  }
+]
