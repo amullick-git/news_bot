@@ -1,5 +1,7 @@
 # News Podcast Generator
 
+> **Status: paused (2026-11-19).** All podcast generation workflows (Daily, Evening, Weekly, Common, Kids, Motivational, Tech Daily, Tech Weekly) are disabled in GitHub Actions, so no new episodes are produced. CI and the Pages deploy stay on, so the site and existing feed are still up. To resume, re-enable the workflows: `gh workflow enable "<name>" -R amullick-git/news_bot`. The last Motivational run (2026-11-19) had failed; check it before resuming.
+
 This project is an automated tool that fetches news from various RSS feeds, filters them based on keywords and semantic relevance using Google Gemini, generates a script, and converts it into a podcast-style audio file using Google Cloud Text-to-Speech.
 
 ## Features
